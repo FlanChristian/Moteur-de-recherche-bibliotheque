@@ -1,0 +1,1818 @@
+the project gutenberg ebook of apology, by plato
+
+this ebook is for the use of anyone anywhere in the united states and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  you may copy it, give it away or re-use it under the terms of
+the project gutenberg license included with this ebook or online at
+www.gutenberg.org.  if you are not located in the united states, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+title: apology
+       also known as the death of socrates
+       
+author: plato
+
+translator: benjamin jowett
+
+release date: february, 1999 [ebook #1656]
+[most recently updated: october 4, 2020]
+
+language: english
+
+character set encoding: utf-8
+
+*** start of this project gutenberg ebook apology ***
+
+
+
+
+produced by sue asscher, and david widger
+
+
+
+
+apology
+
+by plato
+
+translated by benjamin jowett
+
+
+contents
+
+ introduction
+ apology
+
+
+
+
+introduction.
+
+
+in what relation the apology of plato stands to the real defence of
+socrates, there are no means of determining. it certainly agrees in
+tone and character with the description of xenophon, who says in the
+memorabilia that socrates might have been acquitted if in any
+moderate degree he would have conciliated the favour of the dicasts;
+and who informs us in another passage, on the testimony of hermogenes,
+the friend of socrates, that he had no wish to live; and that the
+divine sign refused to allow him to prepare a defence, and also that
+socrates himself declared this to be unnecessary, on the ground that
+all his life long he had been preparing against that hour. for the
+speech breathes throughout a spirit of defiance, _ut non supplex aut
+reus sed magister aut dominus videretur esse judicum_ (cic. de orat.
+i. 54); and the loose and desultory style is an imitation of the
+accustomed manner in which socrates spoke in the _agora_ and among
+the tables of the money-changers. the allusion in the crito (45 b)
+may, perhaps, be adduced as a further evidence of the literal accuracy
+of some parts (37 c, d). but in the main it must be regarded as the
+ideal of socrates, according to platos conception of him, appearing in
+the greatest and most public scene of his life, and in the height of
+his triumph, when he is weakest, and yet his mastery over mankind is
+greatest, and his habitual irony acquires a new meaning and a sort of
+tragic pathos in the face of death. the facts of his life are summed
+up, and the features of his character are brought out as if by accident
+in the course of the defence. the conversational manner, the seeming
+want of arrangement, the ironical simplicity, are found to result in a
+perfect work of art, which is the portrait of socrates.
+
+yet some of the topics may have been actually used by socrates; and the
+recollection of his very words may have rung in the ears of his
+disciple. the apology of plato may be compared generally with those
+speeches of thucydides in which he has embodied his conception of the
+lofty character and policy of the great pericles, and which at the same
+time furnish a commentary on the situation of affairs from the point of
+view of the historian. so in the apology there is an ideal rather
+than a literal truth; much is said which was not said, and is only
+platos view of the situation. plato was not, like xenophon, a
+chronicler of facts; he does not appear in any of his writings to have
+aimed at literal accuracy. he is not therefore to be supplemented from
+the memorabilia and symposium of xenophon, who belongs to an entirely
+different class of writers. the apology of plato is not the report of
+what socrates said, but an elaborate composition, quite as much so in
+fact as one of the dialogues. and we may perhaps even indulge in the
+fancy that the actual defence of socrates was as much greater than the
+platonic defence as the master was greater than the disciple. but in
+any case, some of the words used by him must have been remembered, and
+some of the facts recorded must have actually occurred. it is
+significant that plato is said to have been present at the defence
+(apol.), as he is also said to have been absent at the last scene in
+the phdo. is it fanciful to suppose that he meant to give the stamp
+of authenticity to the one and not to the other?especially when we
+consider that these two passages are the only ones in which plato makes
+mention of himself. the circumstance that plato was to be one of his
+sureties for the payment of the fine which he proposed has the
+appearance of truth. more suspicious is the statement that socrates
+received the first impulse to his favourite calling of cross-examining
+the world from the oracle of delphi; for he must already have been
+famous before chaerephon went to consult the oracle (riddell), and the
+story is of a kind which is very likely to have been invented. on the
+whole we arrive at the conclusion that the apology is true to the
+character of socrates, but we cannot show that any single sentence in
+it was actually spoken by him. it breathes the spirit of socrates, but
+has been cast anew in the mould of plato.
+
+there is not much in the other dialogues which can be compared with the
+apology. the same recollection of his master may have been present to
+the mind of plato when depicting the sufferings of the just in the
+republic. the crito may also be regarded as a sort of appendage to
+the apology, in which socrates, who has defied the judges, is
+nevertheless represented as scrupulously obedient to the laws. the
+idealization of the sufferer is carried still further in the
+georgias, in which the thesis is maintained, that to suffer is
+better than to do evil; and the art of rhetoric is described as only
+useful for the purpose of self-accusation. the parallelisms which occur
+in the so-called apology of xenophon are not worth noticing, because
+the writing in which they are contained is manifestly spurious. the
+statements of the memorabilia respecting the trial and death of
+socrates agree generally with plato; but they have lost the flavour of
+socratic irony in the narrative of xenophon.
+
+the apology or platonic defence of socrates is divided into three
+parts: 1st. the defence properly so called; 2nd. the shorter address in
+mitigation of the penalty; 3rd. the last words of prophetic rebuke and
+exhortation.
+
+the first part commences with an apology for his colloquial style; he
+is, as he has always been, the enemy of rhetoric, and knows of no
+rhetoric but truth; he will not falsify his character by making a
+speech. then he proceeds to divide his accusers into two classes;
+first, there is the nameless accuserpublic opinion. all the world from
+their earliest years had heard that he was a corrupter of youth, and
+had seen him caricatured in the clouds of aristophanes. secondly,
+there are the professed accusers, who are but the mouth-piece of the
+others. the accusations of both might be summed up in a formula. the
+first say, socrates is an evil-doer and a curious person, searching
+into things under the earth and above the heaven; and making the worse
+appear the better cause, and teaching all this to others. the second,
+socrates is an evil-doer and corrupter of the youth, who does not
+receive the gods whom the state receives, but introduces other new
+divinities. these last words appear to have been the actual indictment
+(compare xen. mem.); and the previous formula, which is a summary of
+public opinion, assumes the same legal style.
+
+the answer begins by clearing up a confusion. in the representations of
+the comic poets, and in the opinion of the multitude, he had been
+identified with the teachers of physical science and with the sophists.
+but this was an error. for both of them he professes a respect in the
+open court, which contrasts with his manner of speaking about them in
+other places. (compare for anaxagoras, phdo, laws; for the sophists,
+meno, republic, tim., theaet., soph., etc.) but at the same time he
+shows that he is not one of them. of natural philosophy he knows
+nothing; not that he despises such pursuits, but the fact is that he is
+ignorant of them, and never says a word about them. nor is he paid for
+giving instructionthat is another mistaken notion:he has nothing to
+teach. but he commends evenus for teaching virtue at such a moderate
+rate as five min. something of the accustomed irony, which may
+perhaps be expected to sleep in the ear of the multitude, is lurking
+here.
+
+he then goes on to explain the reason why he is in such an evil name.
+that had arisen out of a peculiar mission which he had taken upon
+himself. the enthusiastic chaerephon (probably in anticipation of the
+answer which he received) had gone to delphi and asked the oracle if
+there was any man wiser than socrates; and the answer was, that there
+was no man wiser. what could be the meaning of thisthat he who knew
+nothing, and knew that he knew nothing, should be declared by the
+oracle to be the wisest of men? reflecting upon the answer, he
+determined to refute it by finding a wiser; and first he went to the
+politicians, and then to the poets, and then to the craftsmen, but
+always with the same resulthe found that they knew nothing, or hardly
+anything more than himself; and that the little advantage which in some
+cases they possessed was more than counter-balanced by their conceit of
+knowledge. he knew nothing, and knew that he knew nothing: they knew
+little or nothing, and imagined that they knew all things. thus he had
+passed his life as a sort of missionary in detecting the pretended
+wisdom of mankind; and this occupation had quite absorbed him and taken
+him away both from public and private affairs. young men of the richer
+sort had made a pastime of the same pursuit, which was not unamusing.
+and hence bitter enmities had arisen; the professors of knowledge had
+revenged themselves by calling him a villainous corrupter of youth, and
+by repeating the commonplaces about atheism and materialism and
+sophistry, which are the stock-accusations against all philosophers
+when there is nothing else to be said of them.
+
+the second accusation he meets by interrogating meletus, who is present
+and can be interrogated. if he is the corrupter, who is the improver
+of the citizens? (compare meno.) all men everywhere. but how absurd,
+how contrary to analogy is this! how inconceivable too, that he should
+make the citizens worse when he has to live with them. this surely
+cannot be intentional; and if unintentional, he ought to have been
+instructed by meletus, and not accused in the court.
+
+but there is another part of the indictment which says that he teaches
+men not to receive the gods whom the city receives, and has other new
+gods. is that the way in which he is supposed to corrupt the youth?
+yes, it is. has he only new gods, or none at all? none at all.
+what, not even the sun and moon? no; why, he says that the sun is a
+stone, and the moon earth. that, replies socrates, is the old
+confusion about anaxagoras; the athenian people are not so ignorant as
+to attribute to the influence of socrates notions which have found
+their way into the drama, and may be learned at the theatre. socrates
+undertakes to show that meletus (rather unjustifiably) has been
+compounding a riddle in this part of the indictment: there are no
+gods, but socrates believes in the existence of the sons of gods, which
+is absurd.
+
+leaving meletus, who has had enough words spent upon him, he returns to
+the original accusation. the question may be asked, why will he persist
+in following a profession which leads him to death? why?because he
+must remain at his post where the god has placed him, as he remained at
+potidaea, and amphipolis, and delium, where the generals placed him.
+besides, he is not so overwise as to imagine that he knows whether
+death is a good or an evil; and he is certain that desertion of his
+duty is an evil. anytus is quite right in saying that they should never
+have indicted him if they meant to let him go. for he will certainly
+obey god rather than man; and will continue to preach to all men of all
+ages the necessity of virtue and improvement; and if they refuse to
+listen to him he will still persevere and reprove them. this is his way
+of corrupting the youth, which he will not cease to follow in obedience
+to the god, even if a thousand deaths await him.
+
+he is desirous that they should let him livenot for his own sake, but
+for theirs; because he is their heaven-sent friend (and they will never
+have such another), or, as he may be ludicrously described, he is the
+gadfly who stirs the generous steed into motion. why then has he never
+taken part in public affairs? because the familiar divine voice has
+hindered him; if he had been a public man, and had fought for the
+right, as he would certainly have fought against the many, he would not
+have lived, and could therefore have done no good. twice in public
+matters he has risked his life for the sake of justiceonce at the
+trial of the generals; and again in resistance to the tyrannical
+commands of the thirty.
+
+but, though not a public man, he has passed his days in instructing the
+citizens without fee or rewardthis was his mission. whether his
+disciples have turned out well or ill, he cannot justly be charged with
+the result, for he never promised to teach them anything. they might
+come if they liked, and they might stay away if they liked: and they
+did come, because they found an amusement in hearing the pretenders to
+wisdom detected. if they have been corrupted, their elder relatives (if
+not themselves) might surely come into court and witness against him,
+and there is an opportunity still for them to appear. but their fathers
+and brothers all appear in court (including this plato), to witness
+on his behalf; and if their relatives are corrupted, at least they are
+uncorrupted; and they are my witnesses. for they know that i am
+speaking the truth, and that meletus is lying.
+
+this is about all that he has to say. he will not entreat the judges to
+spare his life; neither will he present a spectacle of weeping
+children, although he, too, is not made of rock or oak. some of the
+judges themselves may have complied with this practice on similar
+occasions, and he trusts that they will not be angry with him for not
+following their example. but he feels that such conduct brings
+discredit on the name of athens: he feels too, that the judge has sworn
+not to give away justice; and he cannot be guilty of the impiety of
+asking the judge to break his oath, when he is himself being tried for
+impiety.
+
+as he expected, and probably intended, he is convicted. and now the
+tone of the speech, instead of being more conciliatory, becomes more
+lofty and commanding. anytus proposes death as the penalty: and what
+counter-proposition shall he make? he, the benefactor of the athenian
+people, whose whole life has been spent in doing them good, should at
+least have the olympic victors reward of maintenance in the prytaneum.
+or why should he propose any counter-penalty when he does not know
+whether death, which anytus proposes, is a good or an evil? and he is
+certain that imprisonment is an evil, exile is an evil. loss of money
+might be an evil, but then he has none to give; perhaps he can make up
+a mina. let that be the penalty, or, if his friends wish, thirty min;
+for which they will be excellent securities.
+
+
+           [_he is condemned to death._]
+
+
+he is an old man already, and the athenians will gain nothing but
+disgrace by depriving him of a few years of life. perhaps he could have
+escaped, if he had chosen to throw down his arms and entreat for his
+life. but he does not at all repent of the manner of his defence; he
+would rather die in his own fashion than live in theirs. for the
+penalty of unrighteousness is swifter than death; that penalty has
+already overtaken his accusers as death will soon overtake him.
+
+and now, as one who is about to die, he will prophesy to them. they
+have put him to death in order to escape the necessity of giving an
+account of their lives. but his death will be the seed of many
+disciples who will convince them of their evil ways, and will come
+forth to reprove them in harsher terms, because they are younger and
+more inconsiderate.
+
+he would like to say a few words, while there is time, to those who
+would have acquitted him. he wishes them to know that the divine sign
+never interrupted him in the course of his defence; the reason of
+which, as he conjectures, is that the death to which he is going is a
+good and not an evil. for either death is a long sleep, the best of
+sleeps, or a journey to another world in which the souls of the dead
+are gathered together, and in which there may be a hope of seeing the
+heroes of oldin which, too, there are just judges; and as all are
+immortal, there can be no fear of any one suffering death for his
+opinions.
+
+nothing evil can happen to the good man either in life or death, and
+his own death has been permitted by the gods, because it was better for
+him to depart; and therefore he forgives his judges because they have
+done him no harm, although they never meant to do him any good.
+
+he has a last request to make to themthat they will trouble his sons
+as he has troubled them, if they appear to prefer riches to virtue, or
+to think themselves something when they are nothing.
+
+
+few persons will be found to wish that socrates should have defended
+himself otherwise,if, as we must add, his defence was that with which
+plato has provided him. but leaving this question, which does not admit
+of a precise solution, we may go on to ask what was the impression
+which plato in the apology intended to give of the character and
+conduct of his master in the last great scene? did he intend to
+represent him (1) as employing sophistries; (2) as designedly
+irritating the judges? or are these sophistries to be regarded as
+belonging to the age in which he lived and to his personal character,
+and this apparent haughtiness as flowing from the natural elevation of
+his position?
+
+for example, when he says that it is absurd to suppose that one man is
+the corrupter and all the rest of the world the improvers of the youth;
+or, when he argues that he never could have corrupted the men with whom
+he had to live; or, when he proves his belief in the gods because he
+believes in the sons of gods, is he serious or jesting? it may be
+observed that these sophisms all occur in his cross-examination of
+meletus, who is easily foiled and mastered in the hands of the great
+dialectician. perhaps he regarded these answers as good enough for his
+accuser, of whom he makes very light. also there is a touch of irony in
+them, which takes them out of the category of sophistry. (compare
+euthyph.)
+
+that the manner in which he defends himself about the lives of his
+disciples is not satisfactory, can hardly be denied. fresh in the
+memory of the athenians, and detestable as they deserved to be to the
+newly restored democracy, were the names of alcibiades, critias,
+charmides. it is obviously not a sufficient answer that socrates had
+never professed to teach them anything, and is therefore not justly
+chargeable with their crimes. yet the defence, when taken out of this
+ironical form, is doubtless sound: that his teaching had nothing to do
+with their evil lives. here, then, the sophistry is rather in form than
+in substance, though we might desire that to such a serious charge
+socrates had given a more serious answer.
+
+truly characteristic of socrates is another point in his answer, which
+may also be regarded as sophistical. he says that if he has corrupted
+the youth, he must have corrupted them involuntarily. but if, as
+socrates argues, all evil is involuntary, then all criminals ought to
+be admonished and not punished. in these words the socratic doctrine of
+the involuntariness of evil is clearly intended to be conveyed. here
+again, as in the former instance, the defence of socrates is untrue
+practically, but may be true in some ideal or transcendental sense. the
+commonplace reply, that if he had been guilty of corrupting the youth
+their relations would surely have witnessed against him, with which he
+concludes this part of his defence, is more satisfactory.
+
+again, when socrates argues that he must believe in the gods because he
+believes in the sons of gods, we must remember that this is a
+refutation not of the original indictment, which is consistent
+enoughsocrates does not receive the gods whom the city receives, and
+has other new divinitiesbut of the interpretation put upon the words
+by meletus, who has affirmed that he is a downright atheist. to this
+socrates fairly answers, in accordance with the ideas of the time, that
+a downright atheist cannot believe in the sons of gods or in divine
+things. the notion that demons or lesser divinities are the sons of
+gods is not to be regarded as ironical or sceptical. he is arguing ad
+hominem according to the notions of mythology current in his age. yet
+he abstains from saying that he believed in the gods whom the state
+approved. he does not defend himself, as xenophon has defended him, by
+appealing to his practice of religion. probably he neither wholly
+believed, nor disbelieved, in the existence of the popular gods; he had
+no means of knowing about them. according to plato (compare phdo;
+symp.), as well as xenophon (memor.), he was punctual in the
+performance of the least religious duties; and he must have believed in
+his own oracular sign, of which he seemed to have an internal witness.
+but the existence of apollo or zeus, or the other gods whom the state
+approves, would have appeared to him both uncertain and unimportant in
+comparison of the duty of self-examination, and of those principles of
+truth and right which he deemed to be the foundation of religion.
+(compare phaedr.; euthyph.; republic.)
+
+the second question, whether plato meant to represent socrates as
+braving or irritating his judges, must also be answered in the
+negative. his irony, his superiority, his audacity, regarding not the
+person of man, necessarily flow out of the loftiness of his situation.
+he is not acting a part upon a great occasion, but he is what he has
+been all his life long, a king of men. he would rather not appear
+insolent, if he could avoid it (ouch os authadizomenos touto lego).
+neither is he desirous of hastening his own end, for life and death are
+simply indifferent to him. but such a defence as would be acceptable to
+his judges and might procure an acquittal, it is not in his nature to
+make. he will not say or do anything that might pervert the course of
+justice; he cannot have his tongue bound even in the throat of death.
+with his accusers he will only fence and play, as he had fenced with
+other improvers of youth, answering the sophist according to his
+sophistry all his life long. he is serious when he is speaking of his
+own mission, which seems to distinguish him from all other reformers of
+mankind, and originates in an accident. the dedication of himself to
+the improvement of his fellow-citizens is not so remarkable as the
+ironical spirit in which he goes about doing good only in vindication
+of the credit of the oracle, and in the vain hope of finding a wiser
+man than himself. yet this singular and almost accidental character of
+his mission agrees with the divine sign which, according to our
+notions, is equally accidental and irrational, and is nevertheless
+accepted by him as the guiding principle of his life. socrates is
+nowhere represented to us as a freethinker or sceptic. there is no
+reason to doubt his sincerity when he speculates on the possibility of
+seeing and knowing the heroes of the trojan war in another world. on
+the other hand, his hope of immortality is uncertain;he also conceives
+of death as a long sleep (in this respect differing from the phdo),
+and at last falls back on resignation to the divine will, and the
+certainty that no evil can happen to the good man either in life or
+death. his absolute truthfulness seems to hinder him from asserting
+positively more than this; and he makes no attempt to veil his
+ignorance in mythology and figures of speech. the gentleness of the
+first part of the speech contrasts with the aggravated, almost
+threatening, tone of the conclusion. he characteristically remarks that
+he will not speak as a rhetorician, that is to say, he will not make a
+regular defence such as lysias or one of the orators might have
+composed for him, or, according to some accounts, did compose for him.
+but he first procures himself a hearing by conciliatory words. he does
+not attack the sophists; for they were open to the same charges as
+himself; they were equally ridiculed by the comic poets, and almost
+equally hateful to anytus and meletus. yet incidentally the antagonism
+between socrates and the sophists is allowed to appear. he is poor and
+they are rich; his profession that he teaches nothing is opposed to
+their readiness to teach all things; his talking in the marketplace to
+their private instructions; his tarry-at-home life to their wandering
+from city to city. the tone which he assumes towards them is one of
+real friendliness, but also of concealed irony. towards anaxagoras, who
+had disappointed him in his hopes of learning about mind and nature, he
+shows a less kindly feeling, which is also the feeling of plato in
+other passages (laws). but anaxagoras had been dead thirty years, and
+was beyond the reach of persecution.
+
+it has been remarked that the prophecy of a new generation of teachers
+who would rebuke and exhort the athenian people in harsher and more
+violent terms was, as far as we know, never fulfilled. no inference can
+be drawn from this circumstance as to the probability of the words
+attributed to him having been actually uttered. they express the
+aspiration of the first martyr of philosophy, that he would leave
+behind him many followers, accompanied by the not unnatural feeling
+that they would be fiercer and more inconsiderate in their words when
+emancipated from his control.
+
+the above remarks must be understood as applying with any degree of
+certainty to the platonic socrates only. for, although these or similar
+words may have been spoken by socrates himself, we cannot exclude the
+possibility, that like so much else, _e.g._ the wisdom of critias, the
+poem of solon, the virtues of charmides, they may have been due only to
+the imagination of plato. the arguments of those who maintain that the
+apology was composed during the process, resting on no evidence, do not
+require a serious refutation. nor are the reasonings of schleiermacher,
+who argues that the platonic defence is an exact or nearly exact
+reproduction of the words of socrates, partly because plato would not
+have been guilty of the impiety of altering them, and also because many
+points of the defence might have been improved and strengthened, at all
+more conclusive. (see english translation.) what effect the death of
+socrates produced on the mind of plato, we cannot certainly determine;
+nor can we say how he would or must have written under the
+circumstances. we observe that the enmity of aristophanes to socrates
+does not prevent plato from introducing them together in the symposium
+engaged in friendly intercourse. nor is there any trace in the
+dialogues of an attempt to make anytus or meletus personally odious in
+the eyes of the athenian public.
+
+
+
+
+apology
+
+
+how you, o athenians, have been affected by my accusers, i cannot tell;
+but i know that they almost made me forget who i wasso persuasively
+did they speak; and yet they have hardly uttered a word of truth. but
+of the many falsehoods told by them, there was one which quite amazed
+me;i mean when they said that you should be upon your guard and not
+allow yourselves to be deceived by the force of my eloquence. to say
+this, when they were certain to be detected as soon as i opened my lips
+and proved myself to be anything but a great speaker, did indeed appear
+to me most shamelessunless by the force of eloquence they mean the
+force of truth; for if such is their meaning, i admit that i am
+eloquent. but in how different a way from theirs! well, as i was
+saying, they have scarcely spoken the truth at all; but from me you
+shall hear the whole truth: not, however, delivered after their manner
+in a set oration duly ornamented with words and phrases. no, by heaven!
+but i shall use the words and arguments which occur to me at the
+moment; for i am confident in the justice of my cause (or, i am certain
+that i am right in taking this course.): at my time of life i ought not
+to be appearing before you, o men of athens, in the character of a
+juvenile oratorlet no one expect it of me. and i must beg of you to
+grant me a favour:if i defend myself in my accustomed manner, and you
+hear me using the words which i have been in the habit of using in the
+agora, at the tables of the money-changers, or anywhere else, i would
+ask you not to be surprised, and not to interrupt me on this account.
+for i am more than seventy years of age, and appearing now for the
+first time in a court of law, i am quite a stranger to the language of
+the place; and therefore i would have you regard me as if i were really
+a stranger, whom you would excuse if he spoke in his native tongue, and
+after the fashion of his country:am i making an unfair request of you?
+never mind the manner, which may or may not be good; but think only of
+the truth of my words, and give heed to that: let the speaker speak
+truly and the judge decide justly.
+
+and first, i have to reply to the older charges and to my first
+accusers, and then i will go on to the later ones. for of old i have
+had many accusers, who have accused me falsely to you during many
+years; and i am more afraid of them than of anytus and his associates,
+who are dangerous, too, in their own way. but far more dangerous are
+the others, who began when you were children, and took possession of
+your minds with their falsehoods, telling of one socrates, a wise man,
+who speculated about the heaven above, and searched into the earth
+beneath, and made the worse appear the better cause. the disseminators
+of this tale are the accusers whom i dread; for their hearers are apt
+to fancy that such enquirers do not believe in the existence of the
+gods. and they are many, and their charges against me are of ancient
+date, and they were made by them in the days when you were more
+impressible than you are nowin childhood, or it may have been in
+youthand the cause when heard went by default, for there was none to
+answer. and hardest of all, i do not know and cannot tell the names of
+my accusers; unless in the chance case of a comic poet. all who from
+envy and malice have persuaded yousome of them having first convinced
+themselvesall this class of men are most difficult to deal with; for i
+cannot have them up here, and cross-examine them, and therefore i must
+simply fight with shadows in my own defence, and argue when there is no
+one who answers. i will ask you then to assume with me, as i was
+saying, that my opponents are of two kinds; one recent, the other
+ancient: and i hope that you will see the propriety of my answering the
+latter first, for these accusations you heard long before the others,
+and much oftener.
+
+well, then, i must make my defence, and endeavour to clear away in a
+short time, a slander which has lasted a long time. may i succeed, if
+to succeed be for my good and yours, or likely to avail me in my cause!
+the task is not an easy one; i quite understand the nature of it. and
+so leaving the event with god, in obedience to the law i will now make
+my defence.
+
+i will begin at the beginning, and ask what is the accusation which has
+given rise to the slander of me, and in fact has encouraged meletus to
+proof this charge against me. well, what do the slanderers say? they
+shall be my prosecutors, and i will sum up their words in an affidavit:
+socrates is an evil-doer, and a curious person, who searches into
+things under the earth and in heaven, and he makes the worse appear the
+better cause; and he teaches the aforesaid doctrines to others. such
+is the nature of the accusation: it is just what you have yourselves
+seen in the comedy of aristophanes (aristoph., clouds.), who has
+introduced a man whom he calls socrates, going about and saying that he
+walks in air, and talking a deal of nonsense concerning matters of
+which i do not pretend to know either much or littlenot that i mean to
+speak disparagingly of any one who is a student of natural philosophy.
+i should be very sorry if meletus could bring so grave a charge against
+me. but the simple truth is, o athenians, that i have nothing to do
+with physical speculations. very many of those here present are
+witnesses to the truth of this, and to them i appeal. speak then, you
+who have heard me, and tell your neighbours whether any of you have
+ever known me hold forth in few words or in many upon such
+matters...you hear their answer. and from what they say of this part of
+the charge you will be able to judge of the truth of the rest.
+
+as little foundation is there for the report that i am a teacher, and
+take money; this accusation has no more truth in it than the other.
+although, if a man were really able to instruct mankind, to receive
+money for giving instruction would, in my opinion, be an honour to him.
+there is gorgias of leontium, and prodicus of ceos, and hippias of
+elis, who go the round of the cities, and are able to persuade the
+young men to leave their own citizens by whom they might be taught for
+nothing, and come to them whom they not only pay, but are thankful if
+they may be allowed to pay them. there is at this time a parian
+philosopher residing in athens, of whom i have heard; and i came to
+hear of him in this way:i came across a man who has spent a world of
+money on the sophists, callias, the son of hipponicus, and knowing that
+he had sons, i asked him: callias, i said, if your two sons were
+foals or calves, there would be no difficulty in finding some one to
+put over them; we should hire a trainer of horses, or a farmer
+probably, who would improve and perfect them in their own proper virtue
+and excellence; but as they are human beings, whom are you thinking of
+placing over them? is there any one who understands human and political
+virtue? you must have thought about the matter, for you have sons; is
+there any one? there is, he said. who is he? said i; and of what
+country? and what does he charge? evenus the parian, he replied; he
+is the man, and his charge is five min. happy is evenus, i said to
+myself, if he really has this wisdom, and teaches at such a moderate
+charge. had i the same, i should have been very proud and conceited;
+but the truth is that i have no knowledge of the kind.
+
+i dare say, athenians, that some one among you will reply, yes,
+socrates, but what is the origin of these accusations which are brought
+against you; there must have been something strange which you have been
+doing? all these rumours and this talk about you would never have
+arisen if you had been like other men: tell us, then, what is the cause
+of them, for we should be sorry to judge hastily of you. now i regard
+this as a fair challenge, and i will endeavour to explain to you the
+reason why i am called wise and have such an evil fame. please to
+attend then. and although some of you may think that i am joking, i
+declare that i will tell you the entire truth. men of athens, this
+reputation of mine has come of a certain sort of wisdom which i
+possess. if you ask me what kind of wisdom, i reply, wisdom such as may
+perhaps be attained by man, for to that extent i am inclined to believe
+that i am wise; whereas the persons of whom i was speaking have a
+superhuman wisdom which i may fail to describe, because i have it not
+myself; and he who says that i have, speaks falsely, and is taking away
+my character. and here, o men of athens, i must beg you not to
+interrupt me, even if i seem to say something extravagant. for the word
+which i will speak is not mine. i will refer you to a witness who is
+worthy of credit; that witness shall be the god of delphihe will tell
+you about my wisdom, if i have any, and of what sort it is. you must
+have known chaerephon; he was early a friend of mine, and also a friend
+of yours, for he shared in the recent exile of the people, and returned
+with you. well, chaerephon, as you know, was very impetuous in all his
+doings, and he went to delphi and boldly asked the oracle to tell him
+whetheras i was saying, i must beg you not to interrupthe asked the
+oracle to tell him whether anyone was wiser than i was, and the pythian
+prophetess answered, that there was no man wiser. chaerephon is dead
+himself; but his brother, who is in court, will confirm the truth of
+what i am saying.
+
+why do i mention this? because i am going to explain to you why i have
+such an evil name. when i heard the answer, i said to myself, what can
+the god mean? and what is the interpretation of his riddle? for i know
+that i have no wisdom, small or great. what then can he mean when he
+says that i am the wisest of men? and yet he is a god, and cannot lie;
+that would be against his nature. after long consideration, i thought
+of a method of trying the question. i reflected that if i could only
+find a man wiser than myself, then i might go to the god with a
+refutation in my hand. i should say to him, here is a man who is wiser
+than i am; but you said that i was the wisest. accordingly i went to
+one who had the reputation of wisdom, and observed himhis name i need
+not mention; he was a politician whom i selected for examinationand
+the result was as follows: when i began to talk with him, i could not
+help thinking that he was not really wise, although he was thought wise
+by many, and still wiser by himself; and thereupon i tried to explain
+to him that he thought himself wise, but was not really wise; and the
+consequence was that he hated me, and his enmity was shared by several
+who were present and heard me. so i left him, saying to myself, as i
+went away: well, although i do not suppose that either of us knows
+anything really beautiful and good, i am better off than he is,for he
+knows nothing, and thinks that he knows; i neither know nor think that
+i know. in this latter particular, then, i seem to have slightly the
+advantage of him. then i went to another who had still higher
+pretensions to wisdom, and my conclusion was exactly the same.
+whereupon i made another enemy of him, and of many others besides him.
+
+then i went to one man after another, being not unconscious of the
+enmity which i provoked, and i lamented and feared this: but necessity
+was laid upon me,the word of god, i thought, ought to be considered
+first. and i said to myself, go i must to all who appear to know, and
+find out the meaning of the oracle. and i swear to you, athenians, by
+the dog i swear!for i must tell you the truththe result of my mission
+was just this: i found that the men most in repute were all but the
+most foolish; and that others less esteemed were really wiser and
+better. i will tell you the tale of my wanderings and of the
+herculean labours, as i may call them, which i endured only to find
+at last the oracle irrefutable. after the politicians, i went to the
+poets; tragic, dithyrambic, and all sorts. and there, i said to myself,
+you will be instantly detected; now you will find out that you are more
+ignorant than they are. accordingly, i took them some of the most
+elaborate passages in their own writings, and asked what was the
+meaning of themthinking that they would teach me something. will you
+believe me? i am almost ashamed to confess the truth, but i must say
+that there is hardly a person present who would not have talked better
+about their poetry than they did themselves. then i knew that not by
+wisdom do poets write poetry, but by a sort of genius and inspiration;
+they are like diviners or soothsayers who also say many fine things,
+but do not understand the meaning of them. the poets appeared to me to
+be much in the same case; and i further observed that upon the strength
+of their poetry they believed themselves to be the wisest of men in
+other things in which they were not wise. so i departed, conceiving
+myself to be superior to them for the same reason that i was superior
+to the politicians.
+
+at last i went to the artisans. i was conscious that i knew nothing at
+all, as i may say, and i was sure that they knew many fine things; and
+here i was not mistaken, for they did know many things of which i was
+ignorant, and in this they certainly were wiser than i was. but i
+observed that even the good artisans fell into the same error as the
+poets;because they were good workmen they thought that they also knew
+all sorts of high matters, and this defect in them overshadowed their
+wisdom; and therefore i asked myself on behalf of the oracle, whether i
+would like to be as i was, neither having their knowledge nor their
+ignorance, or like them in both; and i made answer to myself and to the
+oracle that i was better off as i was.
+
+this inquisition has led to my having many enemies of the worst and
+most dangerous kind, and has given occasion also to many calumnies. and
+i am called wise, for my hearers always imagine that i myself possess
+the wisdom which i find wanting in others: but the truth is, o men of
+athens, that god only is wise; and by his answer he intends to show
+that the wisdom of men is worth little or nothing; he is not speaking
+of socrates, he is only using my name by way of illustration, as if he
+said, he, o men, is the wisest, who, like socrates, knows that his
+wisdom is in truth worth nothing. and so i go about the world, obedient
+to the god, and search and make enquiry into the wisdom of any one,
+whether citizen or stranger, who appears to be wise; and if he is not
+wise, then in vindication of the oracle i show him that he is not wise;
+and my occupation quite absorbs me, and i have no time to give either
+to any public matter of interest or to any concern of my own, but i am
+in utter poverty by reason of my devotion to the god.
+
+there is another thing:young men of the richer classes, who have not
+much to do, come about me of their own accord; they like to hear the
+pretenders examined, and they often imitate me, and proceed to examine
+others; there are plenty of persons, as they quickly discover, who
+think that they know something, but really know little or nothing; and
+then those who are examined by them instead of being angry with
+themselves are angry with me: this confounded socrates, they say; this
+villainous misleader of youth!and then if somebody asks them, why,
+what evil does he practise or teach? they do not know, and cannot tell;
+but in order that they may not appear to be at a loss, they repeat the
+ready-made charges which are used against all philosophers about
+teaching things up in the clouds and under the earth, and having no
+gods, and making the worse appear the better cause; for they do not
+like to confess that their pretence of knowledge has been
+detectedwhich is the truth; and as they are numerous and ambitious and
+energetic, and are drawn up in battle array and have persuasive
+tongues, they have filled your ears with their loud and inveterate
+calumnies. and this is the reason why my three accusers, meletus and
+anytus and lycon, have set upon me; meletus, who has a quarrel with me
+on behalf of the poets; anytus, on behalf of the craftsmen and
+politicians; lycon, on behalf of the rhetoricians: and as i said at the
+beginning, i cannot expect to get rid of such a mass of calumny all in
+a moment. and this, o men of athens, is the truth and the whole truth;
+i have concealed nothing, i have dissembled nothing. and yet, i know
+that my plainness of speech makes them hate me, and what is their
+hatred but a proof that i am speaking the truth?hence has arisen the
+prejudice against me; and this is the reason of it, as you will find
+out either in this or in any future enquiry.
+
+i have said enough in my defence against the first class of my
+accusers; i turn to the second class. they are headed by meletus, that
+good man and true lover of his country, as he calls himself. against
+these, too, i must try to make a defence:let their affidavit be read:
+it contains something of this kind: it says that socrates is a doer of
+evil, who corrupts the youth; and who does not believe in the gods of
+the state, but has other new divinities of his own. such is the charge;
+and now let us examine the particular counts. he says that i am a doer
+of evil, and corrupt the youth; but i say, o men of athens, that
+meletus is a doer of evil, in that he pretends to be in earnest when he
+is only in jest, and is so eager to bring men to trial from a pretended
+zeal and interest about matters in which he really never had the
+smallest interest. and the truth of this i will endeavour to prove to
+you.
+
+come hither, meletus, and let me ask a question of you. you think a
+great deal about the improvement of youth?
+
+yes, i do.
+
+tell the judges, then, who is their improver; for you must know, as you
+have taken the pains to discover their corrupter, and are citing and
+accusing me before them. speak, then, and tell the judges who their
+improver is.observe, meletus, that you are silent, and have nothing to
+say. but is not this rather disgraceful, and a very considerable proof
+of what i was saying, that you have no interest in the matter? speak
+up, friend, and tell us who their improver is.
+
+the laws.
+
+but that, my good sir, is not my meaning. i want to know who the person
+is, who, in the first place, knows the laws.
+
+the judges, socrates, who are present in court.
+
+what, do you mean to say, meletus, that they are able to instruct and
+improve youth?
+
+certainly they are.
+
+what, all of them, or some only and not others?
+
+all of them.
+
+by the goddess here, that is good news! there are plenty of improvers,
+then. and what do you say of the audience,do they improve them?
+
+yes, they do.
+
+and the senators?
+
+yes, the senators improve them.
+
+but perhaps the members of the assembly corrupt them?or do they too
+improve them?
+
+they improve them.
+
+then every athenian improves and elevates them; all with the exception
+of myself; and i alone am their corrupter? is that what you affirm?
+
+that is what i stoutly affirm.
+
+i am very unfortunate if you are right. but suppose i ask you a
+question: how about horses? does one man do them harm and all the world
+good? is not the exact opposite the truth? one man is able to do them
+good, or at least not many;the trainer of horses, that is to say, does
+them good, and others who have to do with them rather injure them? is
+not that true, meletus, of horses, or of any other animals? most
+assuredly it is; whether you and anytus say yes or no. happy indeed
+would be the condition of youth if they had one corrupter only, and all
+the rest of the world were their improvers. but you, meletus, have
+sufficiently shown that you never had a thought about the young: your
+carelessness is seen in your not caring about the very things which you
+bring against me.
+
+and now, meletus, i will ask you another questionby zeus i will: which
+is better, to live among bad citizens, or among good ones? answer,
+friend, i say; the question is one which may be easily answered. do not
+the good do their neighbours good, and the bad do them evil?
+
+certainly.
+
+and is there anyone who would rather be injured than benefited by those
+who live with him? answer, my good friend, the law requires you to
+answerdoes any one like to be injured?
+
+certainly not.
+
+and when you accuse me of corrupting and deteriorating the youth, do
+you allege that i corrupt them intentionally or unintentionally?
+
+intentionally, i say.
+
+but you have just admitted that the good do their neighbours good, and
+the evil do them evil. now, is that a truth which your superior wisdom
+has recognized thus early in life, and am i, at my age, in such
+darkness and ignorance as not to know that if a man with whom i have to
+live is corrupted by me, i am very likely to be harmed by him; and yet
+i corrupt him, and intentionally, tooso you say, although neither i
+nor any other human being is ever likely to be convinced by you. but
+either i do not corrupt them, or i corrupt them unintentionally; and on
+either view of the case you lie. if my offence is unintentional, the
+law has no cognizance of unintentional offences: you ought to have
+taken me privately, and warned and admonished me; for if i had been
+better advised, i should have left off doing what i only did
+unintentionallyno doubt i should; but you would have nothing to say to
+me and refused to teach me. and now you bring me up in this court,
+which is a place not of instruction, but of punishment.
+
+it will be very clear to you, athenians, as i was saying, that meletus
+has no care at all, great or small, about the matter. but still i
+should like to know, meletus, in what i am affirmed to corrupt the
+young. i suppose you mean, as i infer from your indictment, that i
+teach them not to acknowledge the gods which the state acknowledges,
+but some other new divinities or spiritual agencies in their stead.
+these are the lessons by which i corrupt the youth, as you say.
+
+yes, that i say emphatically.
+
+then, by the gods, meletus, of whom we are speaking, tell me and the
+court, in somewhat plainer terms, what you mean! for i do not as yet
+understand whether you affirm that i teach other men to acknowledge
+some gods, and therefore that i do believe in gods, and am not an
+entire atheistthis you do not lay to my charge,but only you say that
+they are not the same gods which the city recognizesthe charge is that
+they are different gods. or, do you mean that i am an atheist simply,
+and a teacher of atheism?
+
+i mean the latterthat you are a complete atheist.
+
+what an extraordinary statement! why do you think so, meletus? do you
+mean that i do not believe in the godhead of the sun or moon, like
+other men?
+
+i assure you, judges, that he does not: for he says that the sun is
+stone, and the moon earth.
+
+friend meletus, you think that you are accusing anaxagoras: and you
+have but a bad opinion of the judges, if you fancy them illiterate to
+such a degree as not to know that these doctrines are found in the
+books of anaxagoras the clazomenian, which are full of them. and so,
+forsooth, the youth are said to be taught them by socrates, when there
+are not unfrequently exhibitions of them at the theatre (probably in
+allusion to aristophanes who caricatured, and to euripides who borrowed
+the notions of anaxagoras, as well as to other dramatic poets.) (price
+of admission one drachma at the most); and they might pay their money,
+and laugh at socrates if he pretends to father these extraordinary
+views. and so, meletus, you really think that i do not believe in any
+god?
+
+i swear by zeus that you believe absolutely in none at all.
+
+nobody will believe you, meletus, and i am pretty sure that you do not
+believe yourself. i cannot help thinking, men of athens, that meletus
+is reckless and impudent, and that he has written this indictment in a
+spirit of mere wantonness and youthful bravado. has he not compounded a
+riddle, thinking to try me? he said to himself:i shall see whether the
+wise socrates will discover my facetious contradiction, or whether i
+shall be able to deceive him and the rest of them. for he certainly
+does appear to me to contradict himself in the indictment as much as if
+he said that socrates is guilty of not believing in the gods, and yet
+of believing in thembut this is not like a person who is in earnest.
+
+i should like you, o men of athens, to join me in examining what i
+conceive to be his inconsistency; and do you, meletus, answer. and i
+must remind the audience of my request that they would not make a
+disturbance if i speak in my accustomed manner:
+
+did ever man, meletus, believe in the existence of human things, and
+not of human beings?...i wish, men of athens, that he would answer, and
+not be always trying to get up an interruption. did ever any man
+believe in horsemanship, and not in horses? or in flute-playing, and
+not in flute-players? no, my friend; i will answer to you and to the
+court, as you refuse to answer for yourself. there is no man who ever
+did. but now please to answer the next question: can a man believe in
+spiritual and divine agencies, and not in spirits or demigods?
+
+he cannot.
+
+how lucky i am to have extracted that answer, by the assistance of the
+court! but then you swear in the indictment that i teach and believe in
+divine or spiritual agencies (new or old, no matter for that); at any
+rate, i believe in spiritual agencies,so you say and swear in the
+affidavit; and yet if i believe in divine beings, how can i help
+believing in spirits or demigods;must i not? to be sure i must; and
+therefore i may assume that your silence gives consent. now what are
+spirits or demigods? are they not either gods or the sons of gods?
+
+certainly they are.
+
+but this is what i call the facetious riddle invented by you: the
+demigods or spirits are gods, and you say first that i do not believe
+in gods, and then again that i do believe in gods; that is, if i
+believe in demigods. for if the demigods are the illegitimate sons of
+gods, whether by the nymphs or by any other mothers, of whom they are
+said to be the sonswhat human being will ever believe that there are
+no gods if they are the sons of gods? you might as well affirm the
+existence of mules, and deny that of horses and asses. such nonsense,
+meletus, could only have been intended by you to make trial of me. you
+have put this into the indictment because you had nothing real of which
+to accuse me. but no one who has a particle of understanding will ever
+be convinced by you that the same men can believe in divine and
+superhuman things, and yet not believe that there are gods and demigods
+and heroes.
+
+i have said enough in answer to the charge of meletus: any elaborate
+defence is unnecessary, but i know only too well how many are the
+enmities which i have incurred, and this is what will be my destruction
+if i am destroyed;not meletus, nor yet anytus, but the envy and
+detraction of the world, which has been the death of many good men, and
+will probably be the death of many more; there is no danger of my being
+the last of them.
+
+some one will say: and are you not ashamed, socrates, of a course of
+life which is likely to bring you to an untimely end? to him i may
+fairly answer: there you are mistaken: a man who is good for anything
+ought not to calculate the chance of living or dying; he ought only to
+consider whether in doing anything he is doing right or wrongacting
+the part of a good man or of a bad. whereas, upon your view, the heroes
+who fell at troy were not good for much, and the son of thetis above
+all, who altogether despised danger in comparison with disgrace; and
+when he was so eager to slay hector, his goddess mother said to him,
+that if he avenged his companion patroclus, and slew hector, he would
+die himselffate, she said, in these or the like words, waits for
+you next after hector; he, receiving this warning, utterly despised
+danger and death, and instead of fearing them, feared rather to live in
+dishonour, and not to avenge his friend. let me die forthwith, he
+replies, and be avenged of my enemy, rather than abide here by the
+beaked ships, a laughing-stock and a burden of the earth. had achilles
+any thought of death and danger? for wherever a mans place is, whether
+the place which he has chosen or that in which he has been placed by a
+commander, there he ought to remain in the hour of danger; he should
+not think of death or of anything but of disgrace. and this, o men of
+athens, is a true saying.
+
+strange, indeed, would be my conduct, o men of athens, if i who, when i
+was ordered by the generals whom you chose to command me at potidaea
+and amphipolis and delium, remained where they placed me, like any
+other man, facing deathif now, when, as i conceive and imagine, god
+orders me to fulfil the philosophers mission of searching into myself
+and other men, i were to desert my post through fear of death, or any
+other fear; that would indeed be strange, and i might justly be
+arraigned in court for denying the existence of the gods, if i
+disobeyed the oracle because i was afraid of death, fancying that i was
+wise when i was not wise. for the fear of death is indeed the pretence
+of wisdom, and not real wisdom, being a pretence of knowing the
+unknown; and no one knows whether death, which men in their fear
+apprehend to be the greatest evil, may not be the greatest good. is not
+this ignorance of a disgraceful sort, the ignorance which is the
+conceit that a man knows what he does not know? and in this respect
+only i believe myself to differ from men in general, and may perhaps
+claim to be wiser than they are:that whereas i know but little of the
+world below, i do not suppose that i know: but i do know that injustice
+and disobedience to a better, whether god or man, is evil and
+dishonourable, and i will never fear or avoid a possible good rather
+than a certain evil. and therefore if you let me go now, and are not
+convinced by anytus, who said that since i had been prosecuted i must
+be put to death; (or if not that i ought never to have been prosecuted
+at all); and that if i escape now, your sons will all be utterly ruined
+by listening to my wordsif you say to me, socrates, this time we will
+not mind anytus, and you shall be let off, but upon one condition, that
+you are not to enquire and speculate in this way any more, and that if
+you are caught doing so again you shall die;if this was the condition
+on which you let me go, i should reply: men of athens, i honour and
+love you; but i shall obey god rather than you, and while i have life
+and strength i shall never cease from the practice and teaching of
+philosophy, exhorting any one whom i meet and saying to him after my
+manner: you, my friend,a citizen of the great and mighty and wise city
+of athens,are you not ashamed of heaping up the greatest amount of
+money and honour and reputation, and caring so little about wisdom and
+truth and the greatest improvement of the soul, which you never regard
+or heed at all? and if the person with whom i am arguing, says: yes,
+but i do care; then i do not leave him or let him go at once; but i
+proceed to interrogate and examine and cross-examine him, and if i
+think that he has no virtue in him, but only says that he has, i
+reproach him with undervaluing the greater, and overvaluing the less.
+and i shall repeat the same words to every one whom i meet, young and
+old, citizen and alien, but especially to the citizens, inasmuch as
+they are my brethren. for know that this is the command of god; and i
+believe that no greater good has ever happened in the state than my
+service to the god. for i do nothing but go about persuading you all,
+old and young alike, not to take thought for your persons or your
+properties, but first and chiefly to care about the greatest
+improvement of the soul. i tell you that virtue is not given by money,
+but that from virtue comes money and every other good of man, public as
+well as private. this is my teaching, and if this is the doctrine which
+corrupts the youth, i am a mischievous person. but if any one says that
+this is not my teaching, he is speaking an untruth. wherefore, o men of
+athens, i say to you, do as anytus bids or not as anytus bids, and
+either acquit me or not; but whichever you do, understand that i shall
+never alter my ways, not even if i have to die many times.
+
+men of athens, do not interrupt, but hear me; there was an
+understanding between us that you should hear me to the end: i have
+something more to say, at which you may be inclined to cry out; but i
+believe that to hear me will be good for you, and therefore i beg that
+you will not cry out. i would have you know, that if you kill such an
+one as i am, you will injure yourselves more than you will injure me.
+nothing will injure me, not meletus nor yet anytusthey cannot, for a
+bad man is not permitted to injure a better than himself. i do not deny
+that anytus may, perhaps, kill him, or drive him into exile, or deprive
+him of civil rights; and he may imagine, and others may imagine, that
+he is inflicting a great injury upon him: but there i do not agree. for
+the evil of doing as he is doingthe evil of unjustly taking away the
+life of anotheris greater far.
+
+and now, athenians, i am not going to argue for my own sake, as you may
+think, but for yours, that you may not sin against the god by
+condemning me, who am his gift to you. for if you kill me you will not
+easily find a successor to me, who, if i may use such a ludicrous
+figure of speech, am a sort of gadfly, given to the state by god; and
+the state is a great and noble steed who is tardy in his motions owing
+to his very size, and requires to be stirred into life. i am that
+gadfly which god has attached to the state, and all day long and in all
+places am always fastening upon you, arousing and persuading and
+reproaching you. you will not easily find another like me, and
+therefore i would advise you to spare me. i dare say that you may feel
+out of temper (like a person who is suddenly awakened from sleep), and
+you think that you might easily strike me dead as anytus advises, and
+then you would sleep on for the remainder of your lives, unless god in
+his care of you sent you another gadfly. when i say that i am given to
+you by god, the proof of my mission is this:if i had been like other
+men, i should not have neglected all my own concerns or patiently seen
+the neglect of them during all these years, and have been doing yours,
+coming to you individually like a father or elder brother, exhorting
+you to regard virtue; such conduct, i say, would be unlike human
+nature. if i had gained anything, or if my exhortations had been paid,
+there would have been some sense in my doing so; but now, as you will
+perceive, not even the impudence of my accusers dares to say that i
+have ever exacted or sought pay of any one; of that they have no
+witness. and i have a sufficient witness to the truth of what i saymy
+poverty.
+
+some one may wonder why i go about in private giving advice and busying
+myself with the concerns of others, but do not venture to come forward
+in public and advise the state. i will tell you why. you have heard me
+speak at sundry times and in divers places of an oracle or sign which
+comes to me, and is the divinity which meletus ridicules in the
+indictment. this sign, which is a kind of voice, first began to come to
+me when i was a child; it always forbids but never commands me to do
+anything which i am going to do. this is what deters me from being a
+politician. and rightly, as i think. for i am certain, o men of athens,
+that if i had engaged in politics, i should have perished long ago, and
+done no good either to you or to myself. and do not be offended at my
+telling you the truth: for the truth is, that no man who goes to war
+with you or any other multitude, honestly striving against the many
+lawless and unrighteous deeds which are done in a state, will save his
+life; he who will fight for the right, if he would live even for a
+brief space, must have a private station and not a public one.
+
+i can give you convincing evidence of what i say, not words only, but
+what you value far moreactions. let me relate to you a passage of my
+own life which will prove to you that i should never have yielded to
+injustice from any fear of death, and that as i should have refused to
+yield i must have died at once. i will tell you a tale of the courts,
+not very interesting perhaps, but nevertheless true. the only office of
+state which i ever held, o men of athens, was that of senator: the
+tribe antiochis, which is my tribe, had the presidency at the trial of
+the generals who had not taken up the bodies of the slain after the
+battle of arginusae; and you proposed to try them in a body, contrary
+to law, as you all thought afterwards; but at the time i was the only
+one of the prytanes who was opposed to the illegality, and i gave my
+vote against you; and when the orators threatened to impeach and arrest
+me, and you called and shouted, i made up my mind that i would run the
+risk, having law and justice with me, rather than take part in your
+injustice because i feared imprisonment and death. this happened in the
+days of the democracy. but when the oligarchy of the thirty was in
+power, they sent for me and four others into the rotunda, and bade us
+bring leon the salaminian from salamis, as they wanted to put him to
+death. this was a specimen of the sort of commands which they were
+always giving with the view of implicating as many as possible in their
+crimes; and then i showed, not in word only but in deed, that, if i may
+be allowed to use such an expression, i cared not a straw for death,
+and that my great and only care was lest i should do an unrighteous or
+unholy thing. for the strong arm of that oppressive power did not
+frighten me into doing wrong; and when we came out of the rotunda the
+other four went to salamis and fetched leon, but i went quietly home.
+for which i might have lost my life, had not the power of the thirty
+shortly afterwards come to an end. and many will witness to my words.
+
+now do you really imagine that i could have survived all these years,
+if i had led a public life, supposing that like a good man i had always
+maintained the right and had made justice, as i ought, the first thing?
+no indeed, men of athens, neither i nor any other man. but i have been
+always the same in all my actions, public as well as private, and never
+have i yielded any base compliance to those who are slanderously termed
+my disciples, or to any other. not that i have any regular disciples.
+but if any one likes to come and hear me while i am pursuing my
+mission, whether he be young or old, he is not excluded. nor do i
+converse only with those who pay; but any one, whether he be rich or
+poor, may ask and answer me and listen to my words; and whether he
+turns out to be a bad man or a good one, neither result can be justly
+imputed to me; for i never taught or professed to teach him anything.
+and if any one says that he has ever learned or heard anything from me
+in private which all the world has not heard, let me tell you that he
+is lying.
+
+but i shall be asked, why do people delight in continually conversing
+with you? i have told you already, athenians, the whole truth about
+this matter: they like to hear the cross-examination of the pretenders
+to wisdom; there is amusement in it. now this duty of cross-examining
+other men has been imposed upon me by god; and has been signified to me
+by oracles, visions, and in every way in which the will of divine power
+was ever intimated to any one. this is true, o athenians, or, if not
+true, would be soon refuted. if i am or have been corrupting the youth,
+those of them who are now grown up and have become sensible that i gave
+them bad advice in the days of their youth should come forward as
+accusers, and take their revenge; or if they do not like to come
+themselves, some of their relatives, fathers, brothers, or other
+kinsmen, should say what evil their families have suffered at my hands.
+now is their time. many of them i see in the court. there is crito, who
+is of the same age and of the same deme with myself, and there is
+critobulus his son, whom i also see. then again there is lysanias of
+sphettus, who is the father of aeschineshe is present; and also there
+is antiphon of cephisus, who is the father of epigenes; and there are
+the brothers of several who have associated with me. there is
+nicostratus the son of theosdotides, and the brother of theodotus (now
+theodotus himself is dead, and therefore he, at any rate, will not seek
+to stop him); and there is paralus the son of demodocus, who had a
+brother theages; and adeimantus the son of ariston, whose brother plato
+is present; and aeantodorus, who is the brother of apollodorus, whom i
+also see. i might mention a great many others, some of whom meletus
+should have produced as witnesses in the course of his speech; and let
+him still produce them, if he has forgotteni will make way for him.
+and let him say, if he has any testimony of the sort which he can
+produce. nay, athenians, the very opposite is the truth. for all these
+are ready to witness on behalf of the corrupter, of the injurer of
+their kindred, as meletus and anytus call me; not the corrupted youth
+onlythere might have been a motive for thatbut their uncorrupted
+elder relatives. why should they too support me with their testimony?
+why, indeed, except for the sake of truth and justice, and because they
+know that i am speaking the truth, and that meletus is a liar.
+
+well, athenians, this and the like of this is all the defence which i
+have to offer. yet a word more. perhaps there may be some one who is
+offended at me, when he calls to mind how he himself on a similar, or
+even a less serious occasion, prayed and entreated the judges with many
+tears, and how he produced his children in court, which was a moving
+spectacle, together with a host of relations and friends; whereas i,
+who am probably in danger of my life, will do none of these things. the
+contrast may occur to his mind, and he may be set against me, and vote
+in anger because he is displeased at me on this account. now if there
+be such a person among you,mind, i do not say that there is,to him i
+may fairly reply: my friend, i am a man, and like other men, a creature
+of flesh and blood, and not of wood or stone, as homer says; and i
+have a family, yes, and sons, o athenians, three in number, one almost
+a man, and two others who are still young; and yet i will not bring any
+of them hither in order to petition you for an acquittal. and why not?
+not from any self-assertion or want of respect for you. whether i am or
+am not afraid of death is another question, of which i will not now
+speak. but, having regard to public opinion, i feel that such conduct
+would be discreditable to myself, and to you, and to the whole state.
+one who has reached my years, and who has a name for wisdom, ought not
+to demean himself. whether this opinion of me be deserved or not, at
+any rate the world has decided that socrates is in some way superior to
+other men. and if those among you who are said to be superior in wisdom
+and courage, and any other virtue, demean themselves in this way, how
+shameful is their conduct! i have seen men of reputation, when they
+have been condemned, behaving in the strangest manner: they seemed to
+fancy that they were going to suffer something dreadful if they died,
+and that they could be immortal if you only allowed them to live; and i
+think that such are a dishonour to the state, and that any stranger
+coming in would have said of them that the most eminent men of athens,
+to whom the athenians themselves give honour and command, are no better
+than women. and i say that these things ought not to be done by those
+of us who have a reputation; and if they are done, you ought not to
+permit them; you ought rather to show that you are far more disposed to
+condemn the man who gets up a doleful scene and makes the city
+ridiculous, than him who holds his peace.
+
+but, setting aside the question of public opinion, there seems to be
+something wrong in asking a favour of a judge, and thus procuring an
+acquittal, instead of informing and convincing him. for his duty is,
+not to make a present of justice, but to give judgment; and he has
+sworn that he will judge according to the laws, and not according to
+his own good pleasure; and we ought not to encourage you, nor should
+you allow yourselves to be encouraged, in this habit of perjurythere
+can be no piety in that. do not then require me to do what i consider
+dishonourable and impious and wrong, especially now, when i am being
+tried for impiety on the indictment of meletus. for if, o men of
+athens, by force of persuasion and entreaty i could overpower your
+oaths, then i should be teaching you to believe that there are no gods,
+and in defending should simply convict myself of the charge of not
+believing in them. but that is not sofar otherwise. for i do believe
+that there are gods, and in a sense higher than that in which any of my
+accusers believe in them. and to you and to god i commit my cause, to
+be determined by you as is best for you and me.
+
+
+there are many reasons why i am not grieved, o men of athens, at the
+vote of condemnation. i expected it, and am only surprised that the
+votes are so nearly equal; for i had thought that the majority against
+me would have been far larger; but now, had thirty votes gone over to
+the other side, i should have been acquitted. and i may say, i think,
+that i have escaped meletus. i may say more; for without the assistance
+of anytus and lycon, any one may see that he would not have had a fifth
+part of the votes, as the law requires, in which case he would have
+incurred a fine of a thousand drachmae.
+
+and so he proposes death as the penalty. and what shall i propose on my
+part, o men of athens? clearly that which is my due. and what is my
+due? what return shall be made to the man who has never had the wit to
+be idle during his whole life; but has been careless of what the many
+care forwealth, and family interests, and military offices, and
+speaking in the assembly, and magistracies, and plots, and parties.
+reflecting that i was really too honest a man to be a politician and
+live, i did not go where i could do no good to you or to myself; but
+where i could do the greatest good privately to every one of you,
+thither i went, and sought to persuade every man among you that he must
+look to himself, and seek virtue and wisdom before he looks to his
+private interests, and look to the state before he looks to the
+interests of the state; and that this should be the order which he
+observes in all his actions. what shall be done to such an one?
+doubtless some good thing, o men of athens, if he has his reward; and
+the good should be of a kind suitable to him. what would be a reward
+suitable to a poor man who is your benefactor, and who desires leisure
+that he may instruct you? there can be no reward so fitting as
+maintenance in the prytaneum, o men of athens, a reward which he
+deserves far more than the citizen who has won the prize at olympia in
+the horse or chariot race, whether the chariots were drawn by two
+horses or by many. for i am in want, and he has enough; and he only
+gives you the appearance of happiness, and i give you the reality. and
+if i am to estimate the penalty fairly, i should say that maintenance
+in the prytaneum is the just return.
+
+perhaps you think that i am braving you in what i am saying now, as in
+what i said before about the tears and prayers. but this is not so. i
+speak rather because i am convinced that i never intentionally wronged
+any one, although i cannot convince youthe time has been too short; if
+there were a law at athens, as there is in other cities, that a capital
+cause should not be decided in one day, then i believe that i should
+have convinced you. but i cannot in a moment refute great slanders;
+and, as i am convinced that i never wronged another, i will assuredly
+not wrong myself. i will not say of myself that i deserve any evil, or
+propose any penalty. why should i? because i am afraid of the penalty
+of death which meletus proposes? when i do not know whether death is a
+good or an evil, why should i propose a penalty which would certainly
+be an evil? shall i say imprisonment? and why should i live in prison,
+and be the slave of the magistrates of the yearof the eleven? or shall
+the penalty be a fine, and imprisonment until the fine is paid? there
+is the same objection. i should have to lie in prison, for money i have
+none, and cannot pay. and if i say exile (and this may possibly be the
+penalty which you will affix), i must indeed be blinded by the love of
+life, if i am so irrational as to expect that when you, who are my own
+citizens, cannot endure my discourses and words, and have found them so
+grievous and odious that you will have no more of them, others are
+likely to endure me. no indeed, men of athens, that is not very likely.
+and what a life should i lead, at my age, wandering from city to city,
+ever changing my place of exile, and always being driven out! for i am
+quite sure that wherever i go, there, as here, the young men will flock
+to me; and if i drive them away, their elders will drive me out at
+their request; and if i let them come, their fathers and friends will
+drive me out for their sakes.
+
+some one will say: yes, socrates, but cannot you hold your tongue, and
+then you may go into a foreign city, and no one will interfere with
+you? now i have great difficulty in making you understand my answer to
+this. for if i tell you that to do as you say would be a disobedience
+to the god, and therefore that i cannot hold my tongue, you will not
+believe that i am serious; and if i say again that daily to discourse
+about virtue, and of those other things about which you hear me
+examining myself and others, is the greatest good of man, and that the
+unexamined life is not worth living, you are still less likely to
+believe me. yet i say what is true, although a thing of which it is
+hard for me to persuade you. also, i have never been accustomed to
+think that i deserve to suffer any harm. had i money i might have
+estimated the offence at what i was able to pay, and not have been much
+the worse. but i have none, and therefore i must ask you to proportion
+the fine to my means. well, perhaps i could afford a mina, and
+therefore i propose that penalty: plato, crito, critobulus, and
+apollodorus, my friends here, bid me say thirty min, and they will be
+the sureties. let thirty min be the penalty; for which sum they will
+be ample security to you.
+
+
+not much time will be gained, o athenians, in return for the evil name
+which you will get from the detractors of the city, who will say that
+you killed socrates, a wise man; for they will call me wise, even
+although i am not wise, when they want to reproach you. if you had
+waited a little while, your desire would have been fulfilled in the
+course of nature. for i am far advanced in years, as you may perceive,
+and not far from death. i am speaking now not to all of you, but only
+to those who have condemned me to death. and i have another thing to
+say to them: you think that i was convicted because i had no words of
+the sort which would have procured my acquittali mean, if i had
+thought fit to leave nothing undone or unsaid. not so; the deficiency
+which led to my conviction was not of wordscertainly not. but i had
+not the boldness or impudence or inclination to address you as you
+would have liked me to do, weeping and wailing and lamenting, and
+saying and doing many things which you have been accustomed to hear
+from others, and which, as i maintain, are unworthy of me. i thought at
+the time that i ought not to do anything common or mean when in danger:
+nor do i now repent of the style of my defence; i would rather die
+having spoken after my manner, than speak in your manner and live. for
+neither in war nor yet at law ought i or any man to use every way of
+escaping death. often in battle there can be no doubt that if a man
+will throw away his arms, and fall on his knees before his pursuers, he
+may escape death; and in other dangers there are other ways of escaping
+death, if a man is willing to say and do anything. the difficulty, my
+friends, is not to avoid death, but to avoid unrighteousness; for that
+runs faster than death. i am old and move slowly, and the slower runner
+has overtaken me, and my accusers are keen and quick, and the faster
+runner, who is unrighteousness, has overtaken them. and now i depart
+hence condemned by you to suffer the penalty of death,they too go
+their ways condemned by the truth to suffer the penalty of villainy and
+wrong; and i must abide by my awardlet them abide by theirs. i suppose
+that these things may be regarded as fated,and i think that they are
+well.
+
+and now, o men who have condemned me, i would fain prophesy to you; for
+i am about to die, and in the hour of death men are gifted with
+prophetic power. and i prophesy to you who are my murderers, that
+immediately after my departure punishment far heavier than you have
+inflicted on me will surely await you. me you have killed because you
+wanted to escape the accuser, and not to give an account of your lives.
+but that will not be as you suppose: far otherwise. for i say that
+there will be more accusers of you than there are now; accusers whom
+hitherto i have restrained: and as they are younger they will be more
+inconsiderate with you, and you will be more offended at them. if you
+think that by killing men you can prevent some one from censuring your
+evil lives, you are mistaken; that is not a way of escape which is
+either possible or honourable; the easiest and the noblest way is not
+to be disabling others, but to be improving yourselves. this is the
+prophecy which i utter before my departure to the judges who have
+condemned me.
+
+friends, who would have acquitted me, i would like also to talk with
+you about the thing which has come to pass, while the magistrates are
+busy, and before i go to the place at which i must die. stay then a
+little, for we may as well talk with one another while there is time.
+you are my friends, and i should like to show you the meaning of this
+event which has happened to me. o my judgesfor you i may truly call
+judgesi should like to tell you of a wonderful circumstance. hitherto
+the divine faculty of which the internal oracle is the source has
+constantly been in the habit of opposing me even about trifles, if i
+was going to make a slip or error in any matter; and now as you see
+there has come upon me that which may be thought, and is generally
+believed to be, the last and worst evil. but the oracle made no sign of
+opposition, either when i was leaving my house in the morning, or when
+i was on my way to the court, or while i was speaking, at anything
+which i was going to say; and yet i have often been stopped in the
+middle of a speech, but now in nothing i either said or did touching
+the matter in hand has the oracle opposed me. what do i take to be the
+explanation of this silence? i will tell you. it is an intimation that
+what has happened to me is a good, and that those of us who think that
+death is an evil are in error. for the customary sign would surely have
+opposed me had i been going to evil and not to good.
+
+let us reflect in another way, and we shall see that there is great
+reason to hope that death is a good; for one of two thingseither death
+is a state of nothingness and utter unconsciousness, or, as men say,
+there is a change and migration of the soul from this world to another.
+now if you suppose that there is no consciousness, but a sleep like the
+sleep of him who is undisturbed even by dreams, death will be an
+unspeakable gain. for if a person were to select the night in which his
+sleep was undisturbed even by dreams, and were to compare with this the
+other days and nights of his life, and then were to tell us how many
+days and nights he had passed in the course of his life better and more
+pleasantly than this one, i think that any man, i will not say a
+private man, but even the great king will not find many such days or
+nights, when compared with the others. now if death be of such a
+nature, i say that to die is gain; for eternity is then only a single
+night. but if death is the journey to another place, and there, as men
+say, all the dead abide, what good, o my friends and judges, can be
+greater than this? if indeed when the pilgrim arrives in the world
+below, he is delivered from the professors of justice in this world,
+and finds the true judges who are said to give judgment there, minos
+and rhadamanthus and aeacus and triptolemus, and other sons of god who
+were righteous in their own life, that pilgrimage will be worth making.
+what would not a man give if he might converse with orpheus and musaeus
+and hesiod and homer? nay, if this be true, let me die again and again.
+i myself, too, shall have a wonderful interest in there meeting and
+conversing with palamedes, and ajax the son of telamon, and any other
+ancient hero who has suffered death through an unjust judgment; and
+there will be no small pleasure, as i think, in comparing my own
+sufferings with theirs. above all, i shall then be able to continue my
+search into true and false knowledge; as in this world, so also in the
+next; and i shall find out who is wise, and who pretends to be wise,
+and is not. what would not a man give, o judges, to be able to examine
+the leader of the great trojan expedition; or odysseus or sisyphus, or
+numberless others, men and women too! what infinite delight would there
+be in conversing with them and asking them questions! in another world
+they do not put a man to death for asking questions: assuredly not. for
+besides being happier than we are, they will be immortal, if what is
+said is true.
+
+wherefore, o judges, be of good cheer about death, and know of a
+certainty, that no evil can happen to a good man, either in life or
+after death. he and his are not neglected by the gods; nor has my own
+approaching end happened by mere chance. but i see clearly that the
+time had arrived when it was better for me to die and be released from
+trouble; wherefore the oracle gave no sign. for which reason, also, i
+am not angry with my condemners, or with my accusers; they have done me
+no harm, although they did not mean to do me any good; and for this i
+may gently blame them.
+
+still i have a favour to ask of them. when my sons are grown up, i
+would ask you, o my friends, to punish them; and i would have you
+trouble them, as i have troubled you, if they seem to care about
+riches, or anything, more than about virtue; or if they pretend to be
+something when they are really nothing,then reprove them, as i have
+reproved you, for not caring about that for which they ought to care,
+and thinking that they are something when they are really nothing. and
+if you do this, both i and my sons will have received justice at your
+hands.
+
+the hour of departure has arrived, and we go our waysi to die, and you
+to live. which is better god only knows.
+
+
+
+
+end of the project gutenberg ebook of apology, by plato
+
+*** end of this project gutenberg ebook apology ***
+
+***** this file should be named 1656-0.txt or 1656-0.zip *****
+this and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/6/5/1656/
+
+produced by sue asscher, and david widger
+
+updated editions will replace the previous one--the old editions will
+be renamed.
+
+creating the works from print editions not protected by u.s. copyright
+law means that no one owns a united states copyright in these works,
+so the foundation (and you!) can copy and distribute it in the united
+states without permission and without paying copyright
+royalties. special rules, set forth in the general terms of use part
+of this license, apply to copying and distributing project
+gutenberg-tm electronic works to protect the project gutenberg-tm
+concept and trademark. project gutenberg is a registered trademark,
+and may not be used if you charge for the ebooks, unless you receive
+specific permission. if you do not charge anything for copies of this
+ebook, complying with the rules is very easy. you may use this ebook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. they may be modified and printed and given
+away--you may do practically anything in the united states with ebooks
+not protected by u.s. copyright law. redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+start: full license
+
+the full project gutenberg license
+please read this before you distribute or use this work
+
+to protect the project gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "project
+gutenberg"), you agree to comply with all the terms of the full
+project gutenberg-tm license available with this file or online at
+www.gutenberg.org/license.
+
+section 1. general terms of use and redistributing project
+gutenberg-tm electronic works
+
+1.a. by reading or using any part of this project gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. if you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of project gutenberg-tm electronic works in your
+possession. if you paid a fee for obtaining a copy of or access to a
+project gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.e.8.
+
+1.b. "project gutenberg" is a registered trademark. it may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. there are a few
+things that you can do with most project gutenberg-tm electronic works
+even without complying with the full terms of this agreement. see
+paragraph 1.c below. there are a lot of things you can do with project
+gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to project gutenberg-tm
+electronic works. see paragraph 1.e below.
+
+1.c. the project gutenberg literary archive foundation ("the
+foundation" or pglaf), owns a compilation copyright in the collection
+of project gutenberg-tm electronic works. nearly all the individual
+works in the collection are in the public domain in the united
+states. if an individual work is unprotected by copyright law in the
+united states and you are located in the united states, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to project gutenberg are removed. of course, we hope
+that you will support the project gutenberg-tm mission of promoting
+free access to electronic works by freely sharing project gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+project gutenberg-tm name associated with the work. you can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full project gutenberg-tm license when
+you share it without charge with others.
+
+1.d. the copyright laws of the place where you are located also govern
+what you can do with this work. copyright laws in most countries are
+in a constant state of change. if you are outside the united states,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other project gutenberg-tm work. the foundation makes no
+representations concerning the copyright status of any work in any
+country outside the united states.
+
+1.e. unless you have removed all references to project gutenberg:
+
+1.e.1. the following sentence, with active links to, or other
+immediate access to, the full project gutenberg-tm license must appear
+prominently whenever any copy of a project gutenberg-tm work (any work
+on which the phrase "project gutenberg" appears, or with which the
+phrase "project gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  this ebook is for the use of anyone anywhere in the united states and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. you may copy it, give it away or re-use it
+  under the terms of the project gutenberg license included with this
+  ebook or online at www.gutenberg.org. if you are not located in the
+  united states, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.e.2. if an individual project gutenberg-tm electronic work is
+derived from texts not protected by u.s. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the united states without paying any fees or charges. if you are
+redistributing or providing access to a work with the phrase "project
+gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.e.1 through 1.e.7 or
+obtain permission for the use of the work and the project gutenberg-tm
+trademark as set forth in paragraphs 1.e.8 or 1.e.9.
+
+1.e.3. if an individual project gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.e.1 through 1.e.7 and any
+additional terms imposed by the copyright holder. additional terms
+will be linked to the project gutenberg-tm license for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.e.4. do not unlink or detach or remove the full project gutenberg-tm
+license terms from this work, or any files containing a part of this
+work or any other work associated with project gutenberg-tm.
+
+1.e.5. do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.e.1 with
+active links or immediate access to the full terms of the project
+gutenberg-tm license.
+
+1.e.6. you may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. however, if you provide access
+to or distribute copies of a project gutenberg-tm work in a format
+other than "plain vanilla ascii" or other format used in the official
+version posted on the official project gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "plain
+vanilla ascii" or other form. any alternate format must include the
+full project gutenberg-tm license as specified in paragraph 1.e.1.
+
+1.e.7. do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any project gutenberg-tm works
+unless you comply with paragraph 1.e.8 or 1.e.9.
+
+1.e.8. you may charge a reasonable fee for copies of or providing
+access to or distributing project gutenberg-tm electronic works
+provided that
+
+* you pay a royalty fee of 20% of the gross profits you derive from
+  the use of project gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. the fee is owed
+  to the owner of the project gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the project
+  gutenberg literary archive foundation. royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. royalty
+  payments should be clearly marked as such and sent to the project
+  gutenberg literary archive foundation at the address specified in
+  section 4, "information about donations to the project gutenberg
+  literary archive foundation."
+
+* you provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full project gutenberg-tm
+  license. you must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of project gutenberg-tm
+  works.
+
+* you provide, in accordance with paragraph 1.f.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* you comply with all other terms of this agreement for free
+  distribution of project gutenberg-tm works.
+
+1.e.9. if you wish to charge a fee or distribute a project
+gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the project gutenberg literary archive foundation and the
+project gutenberg trademark llc, the owner of the project gutenberg-tm
+trademark. contact the foundation as set forth in section 3 below.
+
+1.f.
+
+1.f.1. project gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by u.s. copyright law in creating the project
+gutenberg-tm collection. despite these efforts, project gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.f.2. limited warranty, disclaimer of damages - except for the "right
+of replacement or refund" described in paragraph 1.f.3, the project
+gutenberg literary archive foundation, the owner of the project
+gutenberg-tm trademark, and any other party distributing a project
+gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. you agree that you have no remedies for negligence, strict
+liability, breach of warranty or breach of contract except those
+provided in paragraph 1.f.3. you agree that the foundation, the
+trademark owner, and any distributor under this agreement will not be
+liable to you for actual, direct, indirect, consequential, punitive or
+incidental damages even if you give notice of the possibility of such
+damage.
+
+1.f.3. limited right of replacement or refund - if you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. if you
+received the work on a physical medium, you must return the medium
+with your written explanation. the person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. if you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. if
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.f.4. except for the limited right of replacement or refund set forth
+in paragraph 1.f.3, this work is provided to you 'as-is', with no
+other warranties of any kind, express or implied, including but not
+limited to warranties of merchantability or fitness for any purpose.
+
+1.f.5. some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. if any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. the invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.f.6. indemnity - you agree to indemnify and hold the foundation, the
+trademark owner, any agent or employee of the foundation, anyone
+providing copies of project gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of project gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any project gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any project gutenberg-tm work, and (c) any
+defect you cause.
+
+section 2. information about the mission of project gutenberg-tm
+
+project gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. it
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching project gutenberg-tm's
+goals and ensuring that the project gutenberg-tm collection will
+remain freely available for generations to come. in 2001, the project
+gutenberg literary archive foundation was created to provide a secure
+and permanent future for project gutenberg-tm and future
+generations. to learn more about the project gutenberg literary
+archive foundation and how your efforts and donations can help, see
+sections 3 and 4 and the foundation information page at
+www.gutenberg.org
+
+
+
+section 3. information about the project gutenberg literary archive foundation
+
+the project gutenberg literary archive foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of mississippi and granted tax exempt status by the internal
+revenue service. the foundation's ein or federal tax identification
+number is 64-6221541. contributions to the project gutenberg literary
+archive foundation are tax deductible to the full extent permitted by
+u.s. federal laws and your state's laws.
+
+the foundation's principal office is in fairbanks, alaska, with the
+mailing address: po box 750175, fairbanks, ak 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. its business office is located at 809 north 1500 west, salt
+lake city, ut 84116, (801) 596-1887. email contact links and up to
+date contact information can be found at the foundation's web site and
+official page at www.gutenberg.org/contact
+
+for additional contact information:
+
+    dr. gregory b. newby
+    chief executive and director
+    gbnewby@pglaf.org
+
+section 4. information about donations to the project gutenberg
+literary archive foundation
+
+project gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the irs.
+
+the foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the united
+states. compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. we do not solicit donations in locations
+where we have not received written confirmation of compliance. to send
+donations or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+while we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+international donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the united states. u.s. laws alone swamp our small staff.
+
+please check the project gutenberg web pages for current donation
+methods and addresses. donations are accepted in a number of other
+ways including checks, online payments and credit card donations. to
+donate, please visit: www.gutenberg.org/donate
+
+section 5. general information about project gutenberg-tm electronic works.
+
+professor michael s. hart was the originator of the project
+gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. for forty years, he produced and
+distributed project gutenberg-tm ebooks with only a loose network of
+volunteer support.
+
+project gutenberg-tm ebooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the u.s. unless a copyright notice is included. thus, we do not
+necessarily keep ebooks in compliance with any particular paper
+edition.
+
+most people start at our web site which has the main pg search
+facility: www.gutenberg.org
+
+this web site includes information about project gutenberg-tm,
+including how to make donations to the project gutenberg literary
+archive foundation, how to help produce our new ebooks, and how to
+subscribe to our email newsletter to hear about new ebooks.
+
+

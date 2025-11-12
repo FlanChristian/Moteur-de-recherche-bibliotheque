@@ -1,0 +1,22 @@
+# === ETL et ingestion de livres ===
+requests>=2.32.0
+psycopg2-binary>=2.9.9
+
+# === Manipulation / calculs ===
+numpy>=1.26.0
+pandas>=2.2.0
+
+# === Graphes et centralités ===
+networkx>=3.3
+
+# === Visualisation (optionnelle, pour rapport ou debug) ===
+matplotlib>=3.9.0
+
+# === Utilitaires ===
+tqdm>=4.66.0     # barre de progression (optionnel mais pratique)
+python-dotenv>=1.0.1  # charger .env (PGURL etc.)
+PyYAML>=6.0.2    # lire config.yaml si tu l’utilises
+
+# === Linter / formatage (facultatif mais propre pour soutenance) ===
+black>=24.4.2
+isort>=5.13.2
