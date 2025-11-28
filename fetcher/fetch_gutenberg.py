@@ -61,31 +61,56 @@ def main():
         for b in results:
             gid = b.get("id")
             title = b.get("title") or "untitled"
-            txt_url = pick_text_url(b.get("formats", {}))
+            
+            # Récupère l'auteur
+            authors = b.get("authors", [])
+            author_name = authors[0].get("name") if authors else "Unknown"
+            
+            # Récupère la langue
+            languages = b.get("languages", [])
+            language = languages[0] if languages else "unknown"
+            
+            # Récupère l'URL de la couverture
+            formats = b.get("formats", {})
+            cover_url = formats.get("image/jpeg", "")
+            
+            txt_url = pick_text_url(formats)
             if not gid or not txt_url:
                 continue
 
             fname = OUT_DIR / f"pg_{gid}_{slugify(title)}.txt"
+            meta_fname = OUT_DIR / f"pg_{gid}_meta.json"  # Nouveau fichier pour les métadonnées
+            
             if fname.exists():
                 downloaded += 1
                 continue
 
             try:
-                time.sleep(RATE_LIMIT)  # politesse
+                time.sleep(RATE_LIMIT)
                 tr = requests.get(txt_url, timeout=TIMEOUT)
                 tr.raise_for_status()
                 text_raw = tr.text
 
-                # Normalisation "cours" + filtrage par nb de mots
                 norm = normalize_text(text_raw)
                 wc = word_count_from_text(norm)
                 if wc < MIN_WORDS:
-                    # on ignore ce livre (pas assez long)
                     continue
 
                 fname.write_text(norm, encoding="utf-8")
+                
+                # Sauvegarde les métadonnées dans un fichier JSON
+                import json
+                meta = {
+                    "gutenberg_id": gid,
+                    "title": title,
+                    "author": author_name,
+                    "language": language,
+                    "cover_url": cover_url
+                }
+                meta_fname.write_text(json.dumps(meta, ensure_ascii=False), encoding="utf-8")
+                
                 downloaded += 1
-                print(f"[OK] {fname.name}  ({wc} words)")
+                print(f"[OK] {fname.name}  ({wc} words, author: {author_name})")
             except Exception as e:
                 print(f"[SKIP] id={gid} -> {e}")
 

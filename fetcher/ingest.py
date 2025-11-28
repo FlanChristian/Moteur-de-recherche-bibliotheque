@@ -17,6 +17,7 @@ import os
 import re
 from pathlib import Path
 from collections import Counter
+import json
 
 import psycopg2
 from psycopg2.extras import execute_values
@@ -37,6 +38,7 @@ CREATE TABLE IF NOT EXISTS books (
   language     TEXT,
   word_count   INT NOT NULL,
   path_txt     TEXT,
+  cover_url    TEXT, 
   created_at   TIMESTAMPTZ DEFAULT now()
 );
 
@@ -55,6 +57,13 @@ CREATE TABLE IF NOT EXISTS postings (
   book_id BIGINT REFERENCES books(id) ON DELETE CASCADE,
   cnt     INT NOT NULL,
   PRIMARY KEY (word_id, book_id)
+);
+
+CREATE TABLE IF NOT EXISTS jaccard_edges (
+    book_id1 INTEGER NOT NULL,
+    book_id2 INTEGER NOT NULL,
+    dist     DOUBLE PRECISION NOT NULL,
+    PRIMARY KEY (book_id1, book_id2)
 );
 
 CREATE INDEX IF NOT EXISTS words_w_idx ON words (w);
@@ -114,21 +123,39 @@ def build_top_terms(conn, k=50):
 
 def parse_meta_from_filename(path: Path):
     """
-    Récupère un minimum de métadonnées depuis le nom de fichier.
-    Format attendu: pg_{id}_{slug(title)}.txt
+    Récupère les métadonnées depuis le fichier JSON associé
     """
     m = FNAME_RE.match(path.name)
     gid = int(m.group(1)) if m else None
+    
+    # Cherche le fichier meta JSON
+    meta_file = path.parent / f"pg_{gid}_meta.json"
+    
+    if meta_file.exists():
+        try:
+            meta_data = json.loads(meta_file.read_text(encoding="utf-8"))
+            return {
+                "gutenberg_id": gid,
+                "title": meta_data.get("title", "Unknown"),
+                "author": meta_data.get("author", "Unknown"),
+                "language": meta_data.get("language", "unknown"),
+                "cover_url": meta_data.get("cover_url", "")
+            }
+        except:
+            pass
+    
+    # Fallback sur l'ancien système
     title_slug = path.stem
-    # tout après 'pg_{id}_'
     if gid is not None:
         title_slug = title_slug[len(f"pg_{gid}_"):]
     title = title_slug.replace("_", " ").strip() or "Unknown"
+    
     return {
         "gutenberg_id": gid,
         "title": title,
-        "author": None,     # option: à enrichir
-        "language": None,   # option: à enrichir
+        "author": "Unknown",
+        "language": "unknown",
+        "cover_url": ""
     }
 
 def bulk_upsert_words(cur, words: list[str]) -> None:
@@ -179,10 +206,6 @@ def bulk_upsert_postings(cur, book_id: int, counts: Counter) -> None:
     )
 
 def ingest_file(cur, path: Path) -> bool:
-    """
-    Insère un fichier texte normalisé dans la base.
-    Retourne True si le livre est inséré/à jour, False sinon.
-    """
     meta = parse_meta_from_filename(path)
     if meta["gutenberg_id"] is None:
         return False
@@ -190,22 +213,24 @@ def ingest_file(cur, path: Path) -> bool:
     text = path.read_text(encoding="utf-8", errors="ignore")
     tokens = tokenize(text)
     if len(tokens) < 10000:
-        # Devrait déjà être filtré à l'étape fetch, mais on re-vérifie
         return False
 
-    # 1) books
+    # 1) books - AVEC cover_url
     cur.execute(
         """
-        INSERT INTO books (gutenberg_id, title, author, language, word_count, path_txt)
-        VALUES (%s, %s, %s, %s, %s, %s)
+        INSERT INTO books (gutenberg_id, title, author, language, word_count, path_txt, cover_url)
+        VALUES (%s, %s, %s, %s, %s, %s, %s)
         ON CONFLICT (gutenberg_id) DO UPDATE
           SET title = EXCLUDED.title,
+              author = EXCLUDED.author,
+              language = EXCLUDED.language,
               word_count = EXCLUDED.word_count,
-              path_txt = EXCLUDED.path_txt
+              path_txt = EXCLUDED.path_txt,
+              cover_url = EXCLUDED.cover_url
         RETURNING id
         """,
         (meta["gutenberg_id"], meta["title"], meta["author"], meta["language"],
-         len(tokens), str(path))
+         len(tokens), str(path), meta.get("cover_url", ""))
     )
     book_id = cur.fetchone()[0]
 
