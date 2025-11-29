@@ -86,18 +86,3 @@ def slugify(s: str, limit: int = 60) -> str:
     s = normalize_text(s)
     out = re.sub(r"[^a-z0-9]+", "_", s).strip("_")
     return out[:limit] if out else "untitled"
-
-def get_stopwords_stats(s: str) -> dict:
-    """ Retourne des stats sur les stop words dans un texte. """
-    all_tokens = tokenize(s, filter_stopwords=False)
-    filtered_tokens = tokenize(s, filter_stopwords=True)
-    
-    stopwords_count = len(all_tokens) - len(filtered_tokens)
-    stopwords_ratio = (stopwords_count / len(all_tokens) * 100) if all_tokens else 0
-    
-    return {
-        "total_tokens": len(all_tokens),
-        "filtered_tokens": len(filtered_tokens),
-        "stopwords_removed": stopwords_count,
-        "stopwords_ratio": round(stopwords_ratio, 2)
-    }

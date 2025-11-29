@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ book.title }} - BiblioSearch</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background-color: #f9fafb;
+            min-height: 100vh;
+        }
+
+        .header {
+            background-color: white;
+            border-bottom: 1px solid #e5e7eb;
+            padding: 24px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            gap: 24px;
+        }
+
+        .back-btn {
+            padding: 12px;
+            background-color: #f3f4f6;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background-color 0.2s;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .back-btn:hover {
+            background-color: #e5e7eb;
+        }
+
+        .header-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #1f2937;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 32px 24px;
+        }
+
+        .book-header {
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 48px;
+            margin-bottom: 48px;
+            background-color: white;
+            padding: 32px;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+
+        .book-cover-large {
+            aspect-ratio: 2/3;
+            border-radius: 12px;
+            background-size: cover;
+            background-position: center;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .book-info {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .book-title-large {
+            font-size: 32px;
+            font-weight: 700;
+            color: #1f2937;
+            line-height: 1.2;
+        }
+
+        .book-author-large {
+            font-size: 18px;
+            color: #6b7280;
+            font-style: italic;
+        }
+
+        .book-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            padding-top: 16px;
+            border-top: 1px solid #e5e7eb;
+        }
+
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 16px;
+            background-color: #f3f4f6;
+            border-radius: 8px;
+        }
+
+        .meta-label {
+            font-size: 12px;
+            color: #6b7280;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .meta-value {
+            font-size: 14px;
+            color: #1f2937;
+            font-weight: 500;
+        }
+
+        .section {
+            margin-bottom: 32px;
+            background-color: white;
+            padding: 24px;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+
+        .section-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #1f2937;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid #2563eb;
+        }
+
+        .content-preview {
+            font-size: 14px;
+            line-height: 1.8;
+            color: #374151;
+            white-space: pre-wrap;
+            padding: 16px;
+            background-color: #f9fafb;
+            border-radius: 8px;
+            border-left: 3px solid #2563eb;
+        }
+
+        .words-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 12px;
+        }
+
+        .word-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px 16px;
+            background-color: #f9fafb;
+            border-radius: 8px;
+            transition: background-color 0.2s;
+        }
+
+        .word-item:hover {
+            background-color: #eff6ff;
+        }
+
+        .word-text {
+            font-size: 14px;
+            font-weight: 500;
+            color: #1f2937;
+        }
+
+        .word-count {
+            font-size: 12px;
+            font-weight: 600;
+            color: #2563eb;
+            background-color: #dbeafe;
+            padding: 4px 8px;
+            border-radius: 4px;
+        }
+
+        .related-books {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 16px;
+        }
+
+        .related-book-card {
+            cursor: pointer;
+            transition: transform 0.2s;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .related-book-card:hover {
+            transform: scale(1.05);
+        }
+
+        .related-book-cover {
+            aspect-ratio: 2/3;
+            border-radius: 8px;
+            margin-bottom: 8px;
+            background-size: cover;
+            background-position: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .related-book-title {
+            font-size: 13px;
+            font-weight: 500;
+            color: #1f2937;
+            margin-bottom: 4px;
+        }
+
+        .related-book-author {
+            font-size: 11px;
+            color: #6b7280;
+        }
+
+        .no-content {
+            text-align: center;
+            padding: 32px;
+            color: #6b7280;
+        }
+
+        /* Chart Container */
+        .chart-container {
+            position: relative;
+            height: 300px;
+            margin-top: 16px;
+        }
+
+        /* Action Buttons */
+        .action-buttons {
+            display: flex;
+            gap: 12px;
+            margin-top: 16px;
+        }
+
+        .action-btn {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.2s;
+        }
+
+        .action-btn.primary {
+            background-color: #2563eb;
+            color: white;
+        }
+
+        .action-btn.primary:hover {
+            background-color: #1d4ed8;
+        }
+
+        .action-btn.secondary {
+            background-color: #f3f4f6;
+            color: #374151;
+        }
+
+        .action-btn.secondary:hover {
+            background-color: #e5e7eb;
+        }
+
+        /* Navigation */
+        .book-navigation {
+            display: flex;
+            justify-content: space-between;
+            gap: 16px;
+            margin-top: 32px;
+        }
+
+        .nav-btn {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 16px 24px;
+            background-color: white;
+            border: 1px solid #e5e7eb;
+            border-radius: 12px;
+            text-decoration: none;
+            color: #374151;
+            transition: all 0.2s;
+            flex: 1;
+        }
+
+        .nav-btn:hover {
+            border-color: #2563eb;
+            background-color: #eff6ff;
+        }
+
+        .nav-btn.prev {
+            justify-content: flex-start;
+        }
+
+        .nav-btn.next {
+            justify-content: flex-end;
+        }
+
+        .nav-info {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .nav-label {
+            font-size: 12px;
+            color: #6b7280;
+            text-transform: uppercase;
+        }
+
+        .nav-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: #1f2937;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <a class="back-btn" href="{% url 'home' %}">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M19 12H5M12 19l-7-7 7-7"/>
+                </svg>
+            </a>
+            <h1 class="header-title">Détails du livre</h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="book-header">
+            <div class="book-cover-large" {% if book.cover_url %}style="background-image: url('{{ book.cover_url }}');"{% else %}style="background-color: {{ book.cover_color }};"{% endif %}></div>
+            
+            <div class="book-info">
+                <h1 class="book-title-large">{{ book.title }}</h1>
+                <p class="book-author-large">Par {{ book.author|default:"Auteur inconnu" }}</p>
+                
+                <div class="book-meta">
+                    <div class="meta-item">
+                        <span class="meta-label">Langue</span>
+                        <span class="meta-value">{{ book.language|upper|default:"N/A" }}</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Mots</span>
+                        <span class="meta-value">{{ book.word_count|default:0 }}</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Gutenberg ID</span>
+                        <span class="meta-value">#{{ book.gutenberg_id|default:"N/A" }}</span>
+                    </div>
+                </div>
+
+                <!-- Action Buttons -->
+                <div class="action-buttons">
+                    {% if book.gutenberg_id %}
+                    <a href="https://www.gutenberg.org/ebooks/{{ book.gutenberg_id }}" target="_blank" class="action-btn primary">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/>
+                        </svg>
+                        Télécharger sur Gutenberg
+                    </a>
+                    {% endif %}
+                    <button class="action-btn secondary" onclick="shareBook()">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
+                            <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+                        </svg>
+                        Partager
+                    </button>
+                    <button class="action-btn secondary" onclick="printPage()">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/>
+                            <rect x="6" y="14" width="12" height="8"/>
+                        </svg>
+                        Imprimer
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">📖 Aperçu du contenu</h2>
+            <div class="content-preview">{{ content_preview }}</div>
+        </div>
+
+        {% if top_words %}
+        <div class="section">
+            <h2 class="section-title">⭐ Top 10 mots les plus fréquents</h2>
+            
+            <!-- Chart -->
+            <div class="chart-container">
+                <canvas id="wordsChart"></canvas>
+            </div>
+            
+            <div class="words-grid" style="margin-top: 24px;">
+                {% for word_data in top_words %}
+                <div class="word-item">
+                    <span class="word-text">{{ word_data.word }}</span>
+                    <span class="word-count">{{ word_data.count }}×</span>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+
+        {% if related_books %}
+        <div class="section">
+            <h2 class="section-title">📚 Autres livres de {{ book.author }}</h2>
+            <div class="related-books">
+                {% for related in related_books %}
+                <a href="{% url 'book_detail' related.id %}" class="related-book-card">
+                    <div class="related-book-cover" {% if related.cover_url %}style="background-image: url('{{ related.cover_url }}');"{% else %}style="background-color: {{ related.cover_color }};"{% endif %}></div>
+                    <h3 class="related-book-title">{{ related.title|truncatewords:6 }}</h3>
+                    <p class="related-book-author">{{ related.author }}</p>
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+
+        {% if jaccard_similar_books %}
+        <div class="section">
+            <h2 class="section-title">🔗 Livres similaires (graphe de Jaccard)</h2>
+            <p style="color: #6b7280; margin-bottom: 16px; font-size: 14px;">
+                Ces livres partagent un vocabulaire similaire basé sur l'analyse de similarité de Jaccard.
+            </p>
+            <div class="related-books">
+                {% for similar in jaccard_similar_books %}
+                <a href="{% url 'book_detail' similar.id %}" class="related-book-card" style="position: relative;">
+                    <div class="related-book-cover" {% if similar.cover_url %}style="background-image: url('{{ similar.cover_url }}');"{% else %}style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);"{% endif %}></div>
+                    <h3 class="related-book-title">{{ similar.title|truncatewords:6 }}</h3>
+                    <p class="related-book-author">{{ similar.author }}</p>
+                    <div style="margin-top: 8px; padding: 4px 8px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 4px; font-size: 12px; color: white; font-weight: 600; text-align: center;">
+                        📊 {{ similar.similarity|floatformat:2 }} similarité
+                    </div>
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+
+        <!-- Book Navigation -->
+        <div class="book-navigation">
+            {% if prev_book %}
+            <a href="{% url 'book_detail' prev_book.id %}" class="nav-btn prev">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M15 18l-6-6 6-6"/>
+                </svg>
+                <div class="nav-info">
+                    <span class="nav-label">← Précédent</span>
+                    <span class="nav-title">{{ prev_book.title|truncatewords:6 }}</span>
+                </div>
+            </a>
+            {% else %}
+            <div style="flex: 1;"></div>
+            {% endif %}
+
+            {% if next_book %}
+            <a href="{% url 'book_detail' next_book.id %}" class="nav-btn next">
+                <div class="nav-info" style="text-align: right;">
+                    <span class="nav-label">Suivant →</span>
+                    <span class="nav-title">{{ next_book.title|truncatewords:6 }}</span>
+                </div>
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M9 18l6-6-6-6"/>
+                </svg>
+            </a>
+            {% endif %}
+        </div>
+    </div>
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script>
+        // Words Chart
+        {% if top_words %}
+        const ctx = document.getElementById('wordsChart');
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: [{% for word_data in top_words %}'{{ word_data.word }}'{% if not forloop.last %}, {% endif %}{% endfor %}],
+                datasets: [{
+                    label: 'Occurrences',
+                    data: [{% for word_data in top_words %}{{ word_data.count }}{% if not forloop.last %}, {% endif %}{% endfor %}],
+                    backgroundColor: 'rgba(37, 99, 235, 0.8)',
+                    borderColor: 'rgba(37, 99, 235, 1)',
+                    borderWidth: 1,
+                    borderRadius: 8
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: false
+                    },
+                    tooltip: {
+                        backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                        padding: 12,
+                        titleFont: { size: 14, weight: 'bold' },
+                        bodyFont: { size: 13 }
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        grid: {
+                            color: 'rgba(0, 0, 0, 0.05)'
+                        }
+                    },
+                    x: {
+                        grid: {
+                            display: false
+                        }
+                    }
+                }
+            }
+        });
+        {% endif %}
+
+        // Share function
+        function shareBook() {
+            const title = '{{ book.title }}';
+            const url = window.location.href;
+            if (navigator.share) {
+                navigator.share({
+                    title: title,
+                    text: 'Découvrez "' + title + '" sur BiblioSearch',
+                    url: url
+                }).catch(err => console.log('Erreur de partage', err));
+            } else {
+                navigator.clipboard.writeText(url);
+                alert('Lien copié dans le presse-papiers !');
+            }
+        }
+
+        // Print function
+        function printPage() {
+            window.print();
+        }
+    </script>

@@ -141,12 +141,44 @@
             justify-content: space-between;
         }
 
+        /* Stats Banner */
+        .stats-banner {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 24px;
+            margin-bottom: 24px;
+            border-radius: 12px;
+            display: flex;
+            justify-content: space-around;
+            gap: 24px;
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+        }
+
+        .stat-card {
+            text-align: center;
+            color: white;
+        }
+
+        .stat-value {
+            font-size: 32px;
+            font-weight: 700;
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        .stat-label {
+            font-size: 14px;
+            opacity: 0.9;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
         .search-bar {
             display: flex;
             align-items: center;
             gap: 16px;
             flex: 1;
             max-width: 700px;
+            position: relative;
         }
 
         .search-input {
@@ -164,6 +196,93 @@
             background-color: white;
             border-color: #2563eb;
             box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+        }
+
+        /* Autocomplete */
+        .autocomplete-dropdown {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 200px;
+            background: white;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            margin-top: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            max-height: 300px;
+            overflow-y: auto;
+            z-index: 1000;
+            display: none;
+        }
+
+        .autocomplete-dropdown.show {
+            display: block;
+        }
+
+        .autocomplete-item {
+            padding: 12px 16px;
+            cursor: pointer;
+            border-bottom: 1px solid #f3f4f6;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            transition: background-color 0.15s;
+        }
+
+        .autocomplete-item:last-child {
+            border-bottom: none;
+        }
+
+        .autocomplete-item:hover,
+        .autocomplete-item.selected {
+            background-color: #eff6ff;
+        }
+
+        .autocomplete-icon {
+            color: #6b7280;
+            font-size: 14px;
+        }
+
+        .autocomplete-text {
+            flex: 1;
+            font-size: 14px;
+            color: #1f2937;
+        }
+
+        .autocomplete-type {
+            font-size: 11px;
+            color: #9ca3af;
+            text-transform: uppercase;
+        }
+
+        .search-toggle {
+            display: flex;
+            gap: 8px;
+            background-color: #f3f4f6;
+            padding: 4px;
+            border-radius: 8px;
+        }
+
+        .toggle-btn {
+            padding: 8px 16px;
+            border: none;
+            background-color: transparent;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 500;
+            color: #6b7280;
+            transition: all 0.2s;
+        }
+
+        .toggle-btn:hover {
+            color: #374151;
+        }
+
+        .toggle-btn.active {
+            background-color: white;
+            color: #2563eb;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
         }
 
         .search-btn {
@@ -264,6 +383,7 @@
             display: flex;
             gap: 12px;
             margin-bottom: 24px;
+            flex-wrap: wrap;
         }
 
         .category-btn {
@@ -288,6 +408,147 @@
 
         .category-btn:not(.active):hover {
             background-color: #bfdbfe;
+        }
+
+        /* Filters */
+        .filters-bar {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+            margin-bottom: 24px;
+            padding: 16px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+
+        .filter-select {
+            padding: 8px 16px;
+            border: 1px solid #e5e7eb;
+            border-radius: 6px;
+            font-size: 14px;
+            outline: none;
+            cursor: pointer;
+            background-color: white;
+        }
+
+        .filter-select:focus {
+            border-color: #2563eb;
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+        }
+
+        .filter-label {
+            font-size: 14px;
+            font-weight: 500;
+            color: #374151;
+        }
+
+        /* Search Stats Card */
+        .search-stats-card {
+            background: linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 24px;
+            border-left: 4px solid #2563eb;
+        }
+
+        .search-stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 16px;
+        }
+
+        .stat-item {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .stat-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+        }
+
+        .stat-info {
+            flex: 1;
+        }
+
+        .stat-number {
+            font-size: 18px;
+            font-weight: 700;
+            color: #1f2937;
+        }
+
+        .stat-text {
+            font-size: 12px;
+            color: #6b7280;
+        }
+
+        /* Popular List (compact sidebar style) */
+        .popular-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .popular-item {
+            display: flex;
+            gap: 12px;
+            padding: 12px;
+            background-color: #f9fafb;
+            border-radius: 8px;
+            transition: all 0.2s;
+            text-decoration: none;
+            color: inherit;
+            border: 1px solid transparent;
+        }
+
+        .popular-item:hover {
+            background-color: #eff6ff;
+            border-color: #2563eb;
+            transform: translateX(4px);
+        }
+
+        .popular-cover {
+            width: 60px;
+            height: 90px;
+            border-radius: 6px;
+            background-size: cover;
+            background-position: center;
+            flex-shrink: 0;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .popular-info {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .popular-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: #1f2937;
+            margin-bottom: 4px;
+            line-height: 1.3;
+        }
+
+        .popular-author {
+            font-size: 12px;
+            color: #6b7280;
+            margin-bottom: 6px;
+        }
+
+        .popular-stats {
+            font-size: 11px;
+            color: #2563eb;
+            font-weight: 500;
         }
 
         /* Icons SVG */
@@ -349,6 +610,30 @@
                 <span>Page d' accueil</span>
             </a>
 
+            <a href="{% url 'statistics' %}" class="nav-item">
+                <svg class="icon" viewBox="0 0 24 24">
+                    <line x1="12" y1="20" x2="12" y2="10"></line>
+                    <line x1="18" y1="20" x2="18" y2="4"></line>
+                    <line x1="6" y1="20" x2="6" y2="16"></line>
+                </svg>
+                <span>Statistiques</span>
+            </a>
+
+            <a href="{% url 'jaccard_graph' %}" class="nav-item">
+                <svg class="icon" viewBox="0 0 24 24">
+                    <circle cx="12" cy="12" r="3"></circle>
+                    <circle cx="6" cy="6" r="2"></circle>
+                    <circle cx="18" cy="6" r="2"></circle>
+                    <circle cx="6" cy="18" r="2"></circle>
+                    <circle cx="18" cy="18" r="2"></circle>
+                    <line x1="12" y1="9" x2="12" y2="6"></line>
+                    <line x1="12" y1="15" x2="12" y2="18"></line>
+                    <line x1="9" y1="12" x2="6" y2="12"></line>
+                    <line x1="15" y1="12" x2="18" y2="12"></line>
+                </svg>
+                <span>Graphe Jaccard</span>
+            </a>
+
             <a href="#" class="nav-item">
                 <svg class="icon" viewBox="0 0 24 24">
                     <rect x="3" y="3" width="7" height="7"></rect>
@@ -394,7 +679,22 @@
         <header class="header">
             <div class="header-content">
                 <form action="{% url 'home' %}" method="get" class="search-bar">
-                    <input type="text" name="q" class="search-input" placeholder="Rechercher un livre ..." value="{{ search_query }}">
+                    <input type="text" name="q" id="search-input" class="search-input" placeholder="Rechercher un livre (mot-clé ou RegEx)..." value="{{ search_query }}" autocomplete="off">
+                    
+                    <!-- Autocomplete Dropdown -->
+                    <div id="autocomplete-dropdown" class="autocomplete-dropdown"></div>
+                    
+                    <div class="search-toggle">
+                        <button type="button" class="toggle-btn {% if search_type == 'simple' or not search_type %}active{% endif %}" onclick="setSearchType('simple')">
+                            Simple
+                        </button>
+                        <button type="button" class="toggle-btn {% if search_type == 'regex' %}active{% endif %}" onclick="setSearchType('regex')">
+                            RegEx
+                        </button>
+                    </div>
+                    
+                    <input type="hidden" name="type" id="search-type" value="{{ search_type|default:'simple' }}">
+                    
                     <button type="submit" class="search-btn">
                         <svg class="icon" viewBox="0 0 24 24" style="stroke: white;">
                             <circle cx="11" cy="11" r="8"></circle>
@@ -412,31 +712,147 @@
         <!-- Content Area -->
         <div class="content-area">
             <div class="content-container">
-                <!-- Section: Les plus consultés -->
+                <!-- Statistics Banner -->
+                <div class="stats-banner">
+                    <div class="stat-card">
+                        <span class="stat-value">{{ total_books }}</span>
+                        <span class="stat-label">📚 Livres</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-value">{{ total_languages }}</span>
+                        <span class="stat-label">🌍 Langues</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-value">{{ total_words|floatformat:0 }}</span>
+                        <span class="stat-label">📝 Mots indexés</span>
+                    </div>
+                </div>
+
+                <!-- Section: Catégories / Bibliothèque principale -->
                 <section class="section">
-                    <h2 class="section-title">LES PLUS CONSULTÉS</h2>
+                    {% if search_query and search_results %}
+                    <!-- Résultats de recherche -->
+                    <h2 class="section-title">
+                        RÉSULTATS POUR "{{ search_query }}" ({{ search_stats.total }} trouvé{{ search_stats.total|pluralize }})
+                        {% if search_type == 'regex' %}<span style="font-size: 12px; color: #8b5cf6; font-weight: normal;"> - Recherche RegEx</span>{% endif %}
+                    </h2>
+                    
+                    {% if search_type == 'regex' %}
+                    <div style="padding: 12px 16px; background: #eff6ff; border-left: 3px solid #2563eb; border-radius: 4px; margin-bottom: 24px; font-size: 13px; color: #1e40af;">
+                        <strong style="display: block; margin-bottom: 4px;">💡 Exemples de patterns RegEx :</strong>
+                        <code>^love</code> (commence par), <code>[a-z]{3}$</code> (3 lettres), <code>sh.*ck</code> (contient), <code>book|novel</code> (ou)
+                    </div>
+                    {% endif %}
+                    
+                    <!-- Barre de tri des résultats -->
+                    <div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 24px; background: white; border-radius: 12px; margin-bottom: 24px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+                        <span style="font-size: 14px; color: #6b7280; font-weight: 500;">📊 Trier par :</span>
+                        <div style="display: flex; gap: 8px;">
+                            <button onclick="applyFilter('search_sort', 'relevance')" style="padding: 8px 16px; border: 1px solid #e5e7eb; background: {% if search_sort == 'relevance' or not search_sort %}#2563eb{% else %}white{% endif %}; color: {% if search_sort == 'relevance' or not search_sort %}white{% else %}#6b7280{% endif %}; border-radius: 8px; cursor: pointer; font-size: 13px; transition: all 0.2s;">
+                                🎯 Pertinence
+                            </button>
+                            <button onclick="applyFilter('search_sort', 'pagerank')" style="padding: 8px 16px; border: 1px solid #e5e7eb; background: {% if search_sort == 'pagerank' %}#2563eb{% else %}white{% endif %}; color: {% if search_sort == 'pagerank' %}white{% else %}#6b7280{% endif %}; border-radius: 8px; cursor: pointer; font-size: 13px; transition: all 0.2s;">
+                                ⭐ PageRank
+                            </button>
+                            <button onclick="applyFilter('search_sort', 'occurrences')" style="padding: 8px 16px; border: 1px solid #e5e7eb; background: {% if search_sort == 'occurrences' %}#2563eb{% else %}white{% endif %}; color: {% if search_sort == 'occurrences' %}white{% else %}#6b7280{% endif %}; border-radius: 8px; cursor: pointer; font-size: 13px; transition: all 0.2s;">
+                                🔢 Occurrences
+                            </button>
+                            <button onclick="applyFilter('search_sort', 'closeness')" style="padding: 8px 16px; border: 1px solid #e5e7eb; background: {% if search_sort == 'closeness' %}#2563eb{% else %}white{% endif %}; color: {% if search_sort == 'closeness' %}white{% else %}#6b7280{% endif %}; border-radius: 8px; cursor: pointer; font-size: 13px; transition: all 0.2s;">
+                                🎯 Closeness
+                            </button>
+                            <button onclick="applyFilter('search_sort', 'betweenness')" style="padding: 8px 16px; border: 1px solid #e5e7eb; background: {% if search_sort == 'betweenness' %}#2563eb{% else %}white{% endif %}; color: {% if search_sort == 'betweenness' %}white{% else %}#6b7280{% endif %}; border-radius: 8px; cursor: pointer; font-size: 13px; transition: all 0.2s;">
+                                🔗 Betweenness
+                            </button>
+                            <button onclick="applyFilter('search_sort', 'title')" style="padding: 8px 16px; border: 1px solid #e5e7eb; background: {% if search_sort == 'title' %}#2563eb{% else %}white{% endif %}; color: {% if search_sort == 'title' %}white{% else %}#6b7280{% endif %}; border-radius: 8px; cursor: pointer; font-size: 13px; transition: all 0.2s;">
+                                🔤 Titre
+                            </button>
+                        </div>
+                    </div>
+                    
+                    {% if search_stats.total %}
+                    <div class="search-stats-card">
+                        <div class="search-stats-grid">
+                            <div class="stat-item">
+                                <div class="stat-icon" style="background: #dbeafe;">📖</div>
+                                <div class="stat-info">
+                                    <div class="stat-number">{{ search_stats.in_titles|default:0 }}</div>
+                                    <div class="stat-text">Dans les titres</div>
+                                </div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-icon" style="background: #fef3c7;">⭐</div>
+                                <div class="stat-info">
+                                    <div class="stat-number">{{ search_stats.in_top_terms|default:0 }}</div>
+                                    <div class="stat-text">Mots fréquents (Top-50)</div>
+                                </div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-icon" style="background: #e9d5ff;">🔍</div>
+                                <div class="stat-info">
+                                    <div class="stat-number">{{ search_stats.in_postings|default:0 }}</div>
+                                    <div class="stat-text">Index complet</div>
+                                </div>
+                            </div>
+                            {% if search_stats.matched_words %}
+                            <div class="stat-item">
+                                <div class="stat-icon" style="background: #d1fae5;">📝</div>
+                                <div class="stat-info">
+                                    <div class="stat-number">{{ search_stats.matched_words }}</div>
+                                    <div class="stat-text">Mots matchés</div>
+                                </div>
+                            </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% endif %}
+
                     <div class="books-grid">
-                        {% for book in popular_books %}
+                        {% for book in search_results %}
                         <a href="{% url 'book_detail' book.id %}" class="book-card" style="text-decoration: none; color: inherit;">
-                            <div class="book-cover" {% if book.cover_url %}style="background-image: url('{{ book.cover_url }}'); background-size: cover; background-position: center;"{% else %}style="background-color: {{ book.cover_color }}"{% endif %}></div>
+                            <div class="book-cover" {% if book.cover_url %}style="background-image: url('{{ book.cover_url }}'); background-size: cover; background-position: center;"{% else %}style="background-color: #94a3b8"{% endif %}></div>
                             <h3 class="book-title">{{ book.title|truncatewords:6 }}</h3>
                             <p class="book-author">De {{ book.author|default:"Auteur inconnu" }}</p>
+                            {% if book.match_count %}
+                            <p style="font-size: 11px; color: #2563eb; margin-top: 4px;">{{ book.match_count }} occurrence{{ book.match_count|pluralize }}</p>
+                            {% endif %}
                         </a>
                         {% empty %}
-                        <p>Aucun livre disponible</p>
+                        <p style="grid-column: 1/-1; text-align: center; padding: 32px; color: #6b7280;">Aucun résultat trouvé pour "{{ search_query }}"</p>
                         {% endfor %}
                     </div>
-                </section>
-
-                <!-- Section: Catégories -->
-                <section class="section">
-                    <h2 class="section-title">CATEGORIE</h2>
                     
-                    <div class="categories-filter">
-                        <button class="category-btn active">Tout</button>
-                        <button class="category-btn">Sci-Fi</button>
-                        <button class="category-btn">Drame</button>
-                        <button class="category-btn">Education</button>
+                    {% elif search_query %}
+                    <!-- Pas de résultats -->
+                    <h2 class="section-title">AUCUN RÉSULTAT POUR "{{ search_query }}"</h2>
+                    <p style="color: #6b7280; padding: 32px; text-align: center;">Essayez avec d'autres mots-clés</p>
+                    
+                    {% else %}
+                    <!-- Affichage normal des catégories -->
+                    <h2 class="section-title">BIBLIOTHÈQUE</h2>
+                    
+                    <!-- Filters Bar -->
+                    <div class="filters-bar">
+                        <span class="filter-label">🔍 Filtres :</span>
+                        
+                        <select class="filter-select" onchange="applyFilter('lang', this.value)">
+                            <option value="">🌍 Toutes les langues</option>
+                            {% for lang in available_languages %}
+                            <option value="{{ lang }}" {% if current_language == lang %}selected{% endif %}>{{ lang|upper }}</option>
+                            {% endfor %}
+                        </select>
+                        
+                        <select class="filter-select" onchange="applyFilter('sort', this.value)">
+                            <option value="popular" {% if current_sort == 'popular' %}selected{% endif %}>⭐ Plus populaires</option>
+                            <option value="pagerank" {% if current_sort == 'pagerank' %}selected{% endif %}>📊 Par PageRank</option>
+                            <option value="title" {% if current_sort == 'title' %}selected{% endif %}>🔤 Par titre</option>
+                            <option value="recent" {% if current_sort == 'recent' %}selected{% endif %}>🆕 Plus récents</option>
+                        </select>
+                        
+                        {% if current_language or current_sort != 'popular' %}
+                        <button class="category-btn" onclick="resetFilters()" style="background: #fef2f2; color: #dc2626;">
+                            ✖ Réinitialiser
+                        </button>
+                        {% endif %}
                     </div>
 
                     <div class="books-grid">
@@ -450,25 +866,158 @@
                         <p>Aucun livre dans cette catégorie</p>
                         {% endfor %}
                     </div>
+                    {% endif %}
                 </section>
+
+                <!-- Section: Les plus populaires (sidebar) -->
+                {% if not search_query %}
+                <section class="section">
+                    <h2 class="section-title">⭐ LES PLUS POPULAIRES</h2>
+                    <div class="popular-list">
+                        {% for book in popular_books %}
+                        <a href="{% url 'book_detail' book.id %}" class="popular-item">
+                            <div class="popular-cover" {% if book.cover_url %}style="background-image: url('{{ book.cover_url }}'); background-size: cover; background-position: center;"{% else %}style="background-color: {{ book.cover_color }}"{% endif %}></div>
+                            <div class="popular-info">
+                                <h4 class="popular-title">{{ book.title|truncatewords:8 }}</h4>
+                                <p class="popular-author">{{ book.author|default:"Auteur inconnu" }}</p>
+                                <span class="popular-stats">{{ book.word_count|default:0 }} mots</span>
+                            </div>
+                        </a>
+                        {% endfor %}
+                    </div>
+                </section>
+                {% endif %}
             </div>
         </div>
     </div>
 
     <script>
-        // Category filter
-        document.querySelectorAll('.category-btn').forEach(btn => {
-            btn.addEventListener('click', function() {
-                document.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
-                this.classList.add('active');
+        // Toggle entre Simple et RegEx
+        function setSearchType(type) {
+            document.getElementById('search-type').value = type;
+            document.querySelectorAll('.toggle-btn').forEach(btn => {
+                btn.classList.remove('active');
             });
+            event.target.classList.add('active');
+        }
+
+        // Apply filter
+        function applyFilter(filterType, value) {
+            const url = new URL(window.location.href);
+            if (value) {
+                url.searchParams.set(filterType, value);
+            } else {
+                url.searchParams.delete(filterType);
+            }
+            window.location.href = url.toString();
+        }
+
+        // Reset filters
+        function resetFilters() {
+            const url = new URL(window.location.href);
+            url.searchParams.delete('lang');
+            url.searchParams.delete('sort');
+            window.location.href = url.toString();
+        }
+
+        // Autocomplete
+        const searchInput = document.getElementById('search-input');
+        const autocompleteDropdown = document.getElementById('autocomplete-dropdown');
+        let currentFocus = -1;
+        let autocompleteTimeout;
+
+        searchInput.addEventListener('input', function() {
+            clearTimeout(autocompleteTimeout);
+            const query = this.value.trim();
+            
+            if (query.length < 2) {
+                autocompleteDropdown.classList.remove('show');
+                return;
+            }
+
+            autocompleteTimeout = setTimeout(() => {
+                fetchSuggestions(query);
+            }, 300);
         });
 
-        // Search functionality
-        document.querySelector('.search-btn').addEventListener('click', function() {
-            const query = document.querySelector('.search-input').value;
-            console.log('Searching for:', query);
-            // Ajoutez ici votre logique de recherche
+        searchInput.addEventListener('keydown', function(e) {
+            const items = autocompleteDropdown.querySelectorAll('.autocomplete-item');
+            
+            if (e.key === 'ArrowDown') {
+                e.preventDefault();
+                currentFocus++;
+                if (currentFocus >= items.length) currentFocus = 0;
+                setActive(items);
+            } else if (e.key === 'ArrowUp') {
+                e.preventDefault();
+                currentFocus--;
+                if (currentFocus < 0) currentFocus = items.length - 1;
+                setActive(items);
+            } else if (e.key === 'Enter') {
+                if (currentFocus > -1 && items[currentFocus]) {
+                    e.preventDefault();
+                    items[currentFocus].click();
+                }
+            } else if (e.key === 'Escape') {
+                autocompleteDropdown.classList.remove('show');
+            }
+        });
+
+        function setActive(items) {
+            items.forEach((item, index) => {
+                if (index === currentFocus) {
+                    item.classList.add('selected');
+                    item.scrollIntoView({ block: 'nearest' });
+                } else {
+                    item.classList.remove('selected');
+                }
+            });
+        }
+
+        async function fetchSuggestions(query) {
+            try {
+                const response = await fetch(`/autocomplete/?q=${encodeURIComponent(query)}`);
+                const data = await response.json();
+                displaySuggestions(data);
+            } catch (error) {
+                console.error('Erreur autocomplete:', error);
+            }
+        }
+
+        function displaySuggestions(suggestions) {
+            if (!suggestions || suggestions.length === 0) {
+                autocompleteDropdown.classList.remove('show');
+                return;
+            }
+
+            const html = suggestions.map(item => {
+                const icon = item.type === 'book' ? '📚' : 
+                             item.type === 'author' ? '👤' : '🔤';
+                return `
+                    <div class="autocomplete-item" onclick="selectSuggestion('${item.text}', '${item.type}')">
+                        <span class="autocomplete-icon">${icon}</span>
+                        <span class="autocomplete-text">${item.text}</span>
+                        <span class="autocomplete-type">${item.type}</span>
+                    </div>
+                `;
+            }).join('');
+
+            autocompleteDropdown.innerHTML = html;
+            autocompleteDropdown.classList.add('show');
+            currentFocus = -1;
+        }
+
+        function selectSuggestion(text, type) {
+            searchInput.value = text;
+            autocompleteDropdown.classList.remove('show');
+            searchInput.form.submit();
+        }
+
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(e) {
+            if (!searchInput.contains(e.target) && !autocompleteDropdown.contains(e.target)) {
+                autocompleteDropdown.classList.remove('show');
+            }
         });
     </script>
 </body>

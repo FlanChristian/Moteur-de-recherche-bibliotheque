@@ -24,7 +24,9 @@ from psycopg2.extras import execute_values
 
 from utils_text import tokenize, ensure_dir
 
-RAW_DIR = Path("data/raw")
+# Chemin relatif au script
+SCRIPT_DIR = Path(__file__).parent
+RAW_DIR = SCRIPT_DIR / "data" / "raw"
 
 # --- Option: créer le schéma si INIT_SCHEMA=1 ---
 SCHEMA_SQL = """
@@ -77,9 +79,16 @@ FNAME_RE = re.compile(r"^pg_(\d+)_")  # extrait gutenberg_id depuis le nom de fi
 def build_top_terms(conn, k=50):
     """
     Construit la table top_terms avec les k mots les plus fréquents par livre.
+    Exclut automatiquement les stop words courants pour garder des mots significatifs.
     """
-    print(f"[INFO] Construction de top_terms avec top-{k} mots par livre...")
+    from utils_text import STOP_WORDS
+    
+    print(f"[INFO] Construction de top_terms avec top-{k} mots significatifs par livre...")
+    print(f"[INFO] Filtrage de {len(STOP_WORDS)} stop words...")
 
+    # Convertir le frozenset en liste pour PostgreSQL
+    stopwords_list = list(STOP_WORDS)
+    
     q = f"""
     DROP TABLE IF EXISTS top_terms;
     CREATE TABLE top_terms (
@@ -106,8 +115,8 @@ def build_top_terms(conn, k=50):
         ) AS rnk
       FROM postings p
       JOIN words w ON w.id = p.word_id
-      LEFT JOIN stopwords s ON s.w = w.w
-      WHERE (s.w IS NULL OR s.w IS NULL) AND char_length(w.w) > 2
+      WHERE char_length(w.w) > 2
+        AND w.w <> ALL(%s)  -- Exclut les stop words
     )
     INSERT INTO top_terms (book_id, word_id, w, cnt, rnk)
     SELECT book_id, word_id, w, cnt, rnk
@@ -116,9 +125,12 @@ def build_top_terms(conn, k=50):
     """
 
     with conn.cursor() as cur:
-        cur.execute(q)
+        cur.execute(q, (stopwords_list,))
+        # Stats
+        cur.execute("SELECT COUNT(*) FROM top_terms")
+        total = cur.fetchone()[0]
         conn.commit()
-    print("[OK] Table top_terms créée avec succès.")
+    print(f"[OK] Table top_terms créée avec {total} entrées (mots significatifs uniquement).")
 
 
 def parse_meta_from_filename(path: Path):
@@ -301,12 +313,13 @@ if __name__ == "__main__":
     # ... ton code d’ingestion des livres ...
     # (ajout dans books, book_texts, words, postings, etc.)
 
+    # Exécuter l'ingestion principale
+    main()
+
     # ✅ une fois les livres insérés :
     build_top_terms(conn, k=50)
 
     # ✅ enfin on ferme la connexion
     conn.close()
     print("[INFO] Connexion PostgreSQL fermée")
-
-    main()
 

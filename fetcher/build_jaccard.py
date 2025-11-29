@@ -56,28 +56,36 @@ def build_jaccard(conn):
     docs = load_postings(conn)
     book_ids = sorted(docs.keys())
 
-    print(f"{len(book_ids)} livres chargés.")
+    print(f"🔍 {len(book_ids)} livres chargés.")
+    total_pairs = len(book_ids) * (len(book_ids) - 1) // 2
+    print(f"📊 {total_pairs} paires à calculer.")
+    print(f"🎯 Seuil de distance: {THRESH} (similarité >= {1-THRESH})")
 
     with conn.cursor() as cur:
         # On nettoie la table si besoin
         cur.execute("TRUNCATE jaccard_edges;")
-
+        
+        edges_count = 0
         for i, (b1, b2) in enumerate(combinations(book_ids, 2), start=1):
             d = jaccard_distance(docs[b1], docs[b2])
             if d < THRESH:
+                sim = 1.0 - d
                 cur.execute(
                     """
-                    INSERT INTO jaccard_edges (book_id1, book_id2, dist)
-                    VALUES (%s, %s, %s)
+                    INSERT INTO jaccard_edges (book_id1, book_id2, dist, similarity)
+                    VALUES (%s, %s, %s, %s)
                     """,
-                    (b1, b2, d),
+                    (b1, b2, d, sim),
                 )
+                edges_count += 1
 
             if i % 10000 == 0:
-                print(f"{i} paires traitées...")
+                print(f"⏳ {i}/{total_pairs} paires traitées ({edges_count} arêtes créées)...")
                 conn.commit()
 
         conn.commit()
+        print(f"\n✅ Graphe construit avec succès!")
+        print(f"📊 {edges_count} arêtes créées sur {total_pairs} paires ({100*edges_count/total_pairs:.2f}%)")
 
 
 def main():
