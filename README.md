@@ -109,7 +109,7 @@ PR[i] = (1-d)/N + d × Σ(PR[voisin] × poids)
 Le site est hébergé sur une instance EC2 gratuite AWS :
 - **URL** : [bibliosearch.hamid-zibouche.fr](http://bibliosearch.hamid-zibouche.fr)
 - **Config** : t2.micro + Docker Compose
-- **Base de données** : PostgreSQL avec 35 livres pré-indexés
+- **Base de données** : PostgreSQL avec 1726 livres pré-indexés
 
 ---
 
