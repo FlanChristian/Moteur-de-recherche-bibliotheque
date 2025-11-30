@@ -1,0 +1,3381 @@
+the project gutenberg ebook of the symposium
+    
+this ebook is for the use of anyone anywhere in the united states and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. you may copy it, give it away or re-use it under the terms
+of the project gutenberg license included with this ebook or online
+at www.gutenberg.org. if you are not located in the united states,
+you will have to check the laws of the country where you are located
+before using this ebook.
+
+title: the symposium
+
+
+author: xenophon
+
+translator: henry graham dakyns
+
+release date: january 1, 1998 [ebook #1181]
+                most recently updated: september 16, 2008
+
+language: english
+
+
+
+*** start of the project gutenberg ebook the symposium ***
+
+
+
+produced by john bickers
+
+
+
+
+
+the symposium
+
+by xenophon
+
+translation by h. g. dakyns
+
+
+
+
+          xenophon the athenian was born 431 b.c. he was a
+          pupil of socrates. he marched with the spartans,
+          and was exiled from athens. sparta gave him land
+          and property in scillus, where he lived for many
+          years before having to move once more, to settle
+          in corinth. he died in 354 b.c.
+
+          the symposium records the discussion of socrates
+          and company at a dinner given by callias for the
+          youth autolycus. dakyns believed that plato knew
+          of this work, and that it influenced him to some
+          degree when he wrote his own "symposium."
+
+
+
+
+     preparer's note
+
+     this was typed from dakyns' series, "the works of xenophon," a
+     four-volume set. the complete list of xenophon's works (though
+     there is doubt about some of these) is:
+
+     work                                   number of books
+
+     the anabasis                                         7
+     the hellenica                                        7
+     the cyropaedia                                       8
+     the memorabilia                                      4
+     the symposium                                        1
+     the economist                                        1
+     on horsemanship                                      1
+     the sportsman                                        1
+     the cavalry general                                  1
+     the apology                                          1
+     on revenues                                          1
+     the hiero                                            1
+     the agesilaus                                        1
+     the polity of the athenians and the lacedaemonians   2
+
+     text in brackets "{}" is my transliteration of greek text into
+     english using an oxford english dictionary alphabet table. the
+     diacritical marks have been lost.
+
+
+
+
+the symposium
+
+or
+
+the banquet
+
+
+
+i
+
+for myself, (1) i hold to the opinion that not alone are the serious
+transactions of "good and noble men" (2) most memorable, but that words
+and deeds distinctive of their lighter moods may claim some record. (3)
+in proof of which contention, i will here describe a set of incidents
+within the scope of my experience. (4)
+
+ (1) see aristid. ii. foll.
+
+ (2) or, "nature's noblemen."
+
+ (3) cf. plut. "ages." 29 (clough, iv. 35): "and indeed if, as xenophon
+    says, in conversation good men, even in their sports and at their
+    wine, let fall many sayings that are worth preserving." see grote,
+    "plato," ii. 228 foll. as to the sportive character of the work.
+
+ (4) or, "let me describe a scene which i was witness of." see hug.
+    "plat. symp." p. xv. foll.
+
+the occasion was a horse-race (5) at the great panathenaic festival. (6)
+callias, (7) the son of hipponicus, being a friend and lover of the
+boy autolycus, (8) had brought the lad, himself the winner of the
+pankration, (9) to see the spectacle.
+
+ (5) see "hipparch," ii. 1.
+
+ (6) "held towards the end of july (hecatombaeon) every year, and with
+    greater pomp every four years (the third of each olympiad)."--gow,
+    84, 129, n.
+
+ (7) callias. cobet, "pros. x." p. 67 foll.; boeckh, "p. e. a." p. 481.
+
+ (8) see cobet, op. cit. p. 54; plut. "lysand." 15 (clough, iii. 120);
+    grote, "h. g." ix. 261.
+
+ (9) 420 b.c., al. 421. the date is fixed by the "autolycus" of
+    eupolis. see athen. v. 216. for the pankration, which comprised
+    wrestling and boxing, see aristot. "rhet." i. s. 14.
+
+as soon as the horse race was over, (10) callias proceeded to escort
+autolycus and his father, lycon, to his house in the piraeus, being
+attended also by niceratus. (11) but catching sight of socrates along
+with certain others (critobulus, (12) hermogenes, antisthenes, and
+charmides), he bade an attendant conduct the party with autolycus,
+whilst he himself approached the group, exclaiming:
+
+ (10) see a. martin, op. cit. p. 265.
+
+ (11) niceratus. see cobet, op. cit. 71; boeckh, "p. e. a." 480; plat.
+    "lach." 200 c; "hell." ii. iii. 39; lys. xviii.; diod. xiv. 5.
+
+ (12) critobulus, hermogenes, antisthenes, charmides. see "mem."
+
+a happy chance brings me across your path, just when i am about to
+entertain autolycus and his father at a feast. the splendour of the
+entertainment shall be much enhanced, i need not tell you, if my hall
+(13) should happily be graced by worthies like yourselves, who have
+attained to purity of soul, (14) rather than by generals and cavalry
+commanders (15) and a crowd of place-hunters. (16)
+
+ (13) or, "dining-room." see becker, "charicles," 265.
+
+ (14) see grote, "h. g." viii. 619 foll. cf. plat. "rep." 527 d;
+    "soph." 230 e.
+
+ (15) lit. strategoi, hipparchs.
+
+ (16) or, "petitioners for offices of state." reading {spoudarkhiais}.
+
+whereat socrates: when will you have done with your gibes, callias? why,
+because you have yourself spent sums of money on protagoras, (17) and
+gorgias, and prodicus, and a host of others, to learn wisdom, must you
+pour contempt on us poor fellows, who are but self-taught tinkers (18)
+in philosophy compared with you?
+
+ (17) as to protagoras of abdera, gorgias of leontini, prodicus of
+    ceos, see plat. "prot." 314 c, "rep." x. 600 c, "apol." 19 e;
+    "anab." ii. vi. 17; "mem." ii. i. 21; "encyc. brit." "sophists,"
+    h. jackson.
+
+ (18) or, "hand-to-mouth cultivators of philosophy," "roturiers." cf.
+    plat. "rep." 565 a: "a third class who work for themselves"; thuc.
+    i. 141: "the peloponnesians cultivate their own soil, and they
+    have no wealth either public or private." cf. "econ." v. 4.
+
+hitherto, no doubt (retorted callias), although i had plenty of wise
+things to say, i have kept my wisdom to myself; but if only you will
+honour me with your company to-day, i promise to present myself in quite
+another light; you will see i am a person of no mean consideration after
+all. (19)
+
+ (19) or, "i will prove to you that i am worthy of infinite respect."
+
+socrates and the others, while thanking callias politely for the
+invitation, were not disposed at first to join the dinner party; but the
+annoyance of the other so to be put off was so obvious that in the end
+the party were persuaded to accompany their host.
+
+after an interval devoted to gymnastic exercise (and subsequent
+anointing of the limbs) by some, whilst others of them took a bath, the
+guests were severally presented to the master of the house.
+
+autolycus was seated next his father, as was natural, (20) while the
+rest reclined on couches. noting the scene presented, the first idea to
+strike the mind of any one must certainly have been that beauty has
+by nature something regal in it; and the more so, if it chance to
+be combined (as now in the person of autolycus) with modesty and
+self-respect. even as when a splendid object blazes forth at night, the
+eyes of men are riveted, (21) so now the beauty of autolycus drew on him
+the gaze of all; nor was there one of those onlookers but was stirred
+to his soul's depth by him who sat there. (22) some fell into unwonted
+silence, while the gestures of the rest were equally significant.
+
+ (20) al. "autolycus found a seat beside his father, while the rest
+    reclined on couches in the usual fashion." see schneider's note.
+
+ (21) passage imitated by max. tyr. "or." xxiv. 4.
+
+ (22) cf. plat. "charm." 154.
+
+it seems the look betokening divine possession, no matter who the god,
+must ever be remarkable. only, whilst the subject of each commoner
+emotion passion-whirled may be distinguished by flashings of the eye, by
+terror-striking tones of voice, and by the vehement fervour of the man's
+whole being, so he who is inspired by temperate and harmonious love (23)
+will wear a look of kindlier welcome in his eyes; the words he utters
+fall from his lips with softer intonation; and every gesture of his
+bodily frame conform to what is truly frank and liberal. such, at any
+rate, the strange effects now wrought on callias by love. he was like
+one transformed, the cynosure of all initiated in the mysteries of this
+divinity. (24)
+
+ (23) cf. plat. "rep." iii. 403 a: "whereas true love is a love of
+    beauty and order, temperate and harmonious."
+
+ (24) cf. "econ." xxi. 12.
+
+so they supped in silence, the whole company, as if an injunction had
+been laid upon them by some superior power. but presently there came
+a knocking on the door! philippus the jester bade the doorkeeper (25)
+announce him, with apologies for seeking a night's lodging: (26) he had
+come, he said, provided with all necessaries for dining, at a friend's
+expense: his attendant was much galled with carrying, nothing but an
+empty bread-basket. (27) to this announcement callias, appealing to his
+guests, replied: "it would never do to begrudge the shelter of one's
+roof: (28) let him come in." and as he spoke, he glanced across to where
+autolycus was seated, as if to say: "i wonder how you take the jest."
+
+ (25) lit. "him who answers the knock," "the concierge" or hall-porter.
+    cf. theophr. "char." xiv. 7; aristot. "oec." i. 6.
+
+ (26) lit. "and why he wished to put up."
+
+ (27) lit. "and being breakfastless"; cf. theocr. i. 51. the jester's
+    humour resembles pistol's ("merry wives," i. 3. 23) "o base
+    hungarian wight!"
+
+ (28) or, "how say you, my friends, it would hardly do, methinks, to
+    shut the door upon him." see becker, "charicles," p. 92.
+
+meanwhile the jester, standing at the door of the apartment where the
+feast was spread, addressed the company:
+
+i believe you know, sirs, that being a jester by profession, it is my
+business to make jokes. i am all the readier, therefore, to present
+myself, feeling convinced it is a better joke to come to dinner thus
+unbidden than by solemn invitation.
+
+be seated, (29) then (replied the host). the company are fully fed on
+serious thoughts, you see, if somewhat starved of food for laughter.
+
+ (29) lit. "pray, find a couch then."
+
+the feast proceeded; and, if only to discharge the duty laid upon him at
+a dinner-party, philippus must try at once to perpetrate a jest. failing
+to stir a smile, poor fellow, he made no secret of his perturbation.
+presently he tried again; and for the second time the joke fell flat.
+whereat he paused abruptly in the middle of the course, and muffling up
+his face, fell prostrate on the couch.
+
+then callias: what ails you, sirrah? have you the cramp? the toothache?
+what?
+
+to which the other heaving a deep groan: yes, callias, an atrocious
+ache; since laughter has died out among mankind, my whole estate is
+bankrupt. (30) in old days i would be asked to dinner to amuse the
+company with jests. (31) now all is changed, and who will be at pains to
+ask me out to dinner any more? i might as well pretend to be immortal
+as to be serious. nor will any one invite me in hopes of reclining at
+my board in his turn. everyone knows so serious a thing as dinner in my
+house was never heard of; it's against the rules--the more's the pity.
+
+ (30) cf. "cyrop." vi. i. 3; plat. "laws," 677 c.
+
+ (31) lit. "by the laughter which i stirred in them."
+
+and as he spoke he blew his nose and snuffled, uttering the while so
+truly dolorous a moan (32) that everybody fell to soothing him. "they
+would all laugh again another day," they said, and so implored him
+to have done and eat his dinner; till critobulus could not stand his
+lamentation longer, but broke into a peal of laughter. the welcome sound
+sufficed. the sufferer unveiled his face, and thus addressed his inner
+self: (33) "be of good cheer, my soul, there are many battles (34) yet
+in store for us," and so he fell to discussing the viands once again.
+
+ (32) philippus would seem to have anticipated mr. woodward; see
+    prologue to "she stoops to conquer":
+
+pray, would you know the reason i'm crying? the comic muse long sick is
+now a-dying! and if she goes...
+
+
+ (33) cf. "cyrop." i. iv. 13; eur. "med." 1056, 1242; aristoph. "ach."
+    357, 480.
+
+ (34) or add, "ere we have expended our last shot." philippus puns on
+    the double sense of {sumbolai}. cf. aristoph. "ach." 1210, where
+    lamachus groans {talas ego xumboles bareias}, and dicaeopolis
+    replies {tois khousi gar tis xumbolas epratteto}.
+
+lam. 'twas at the final charge; i'd paid before
+   a number of the rogues; at least a score.
+
+dic. it was a most expensive charge you bore:
+   poor lamachus! he was forced to pay the score.
+
+h. frere.
+
+
+
+ii
+
+now the tables were removed, and in due order they had poured out the
+libation, and had sung the hymn. (1) to promote the revelry, there
+entered now a syracusan, with a trio of assistants: the first, a
+flute-girl, perfect in her art; and next, a dancing-girl, skilled to
+perform all kinds of wonders; lastly, in the bloom of beauty, a boy,
+who played the harp and danced with infinite grace. this syracusan went
+about exhibiting his troupe, whose wonderful performance was a source of
+income to him.
+
+ (1) see plat. "symp." 176 a; athen. ix. 408.
+
+after the girl had played to them upon the flute, and then the boy in
+turn upon the harp, and both performers, as it would appear, had set the
+hearts of every one rejoicing, socrates turned to callias:
+
+a feast, upon my word, o princeliest entertainer! (2) was it not enough
+to set before your guests a faultless dinner, but you must feast our
+eyes and ears on sights and sounds the most delicious?
+
+ (2) lit. "in consummate style."
+
+to which the host: and that reminds me, a supply of unguents might not
+be amiss; (3) what say you? shall we feast on perfumes also? (4)
+
+ (3) lit. "suppose i tell the servant to bring in some perfumes, so
+    that we may further feast on fragrance..." cf. theophr. "char."
+    vii. 6 (jebb ad loc.)
+
+ (4) see athen. xv. 686.
+
+no, i protest (the other answered). scents resemble clothes. one dress
+is beautiful on man and one on woman; and so with fragrance: what
+becomes the woman, ill becomes the man. did ever man anoint himself with
+oil of myrrh to please his fellow? women, and especially young women
+(like our two friends' brides, niceratus' and critobulus'), need no
+perfume, being but compounds themselves of fragrance. (5) no, sweeter
+than any perfume else to women is good olive-oil, suggestive of the
+training-school: (6) sweet if present, and when absent longed for. and
+why? distinctions vanish with the use of perfumes. the freeman and the
+slave have forthwith both alike one odour. but the scents derived from
+toils--those toils which every free man loves (7)--need customary habit
+first, and time's distillery, if they are to be sweet with freedom's
+breath, at last. (8)
+
+ (5) cf. solomon's song, iv. 10: "how fair is thy love, my sister, my
+    spouse! how much better is thy love than wine! and the smell of
+    thine ointments than all spices!"
+
+ (6) lit. "the gymnasium."
+
+ (7) cf. aristoph. "clouds," 1002 foll. see j. a. symonds, "the greek
+    poets," 1st s., p. 281.
+
+ (8) see "mem." iii. x. 5; "cyrop." viii. i. 43.
+
+here lycon interposed: that may be well enough for youths, but what
+shall we do whose gymnastic days are over? what fragrance is left for
+us?
+
+soc. why, that of true nobility, of course.
+
+lyc. and whence shall a man obtain this chrism?
+
+soc. not from those that sell perfumes and unguents, in good sooth.
+
+lyc. but whence, then?
+
+soc. theognis has told us:
+
+    from the good thou shalt learn good things, but if with the evil
+    thou holdest converse, thou shalt lose the wit that is in thee. (9)
+
+ (9) theog. 35 foll. see "mem." i. ii. 20; plat. "men." 95 d.
+
+lyc. (turning to his son). do you hear that, my son?
+
+that he does (socrates answered for the boy), and he puts the precept
+into practice also; to judge, at any rate, from his behaviour. when he
+had set his heart on carrying off the palm of victory in the pankration,
+he took you into his counsel; (10) and will again take counsel to
+discover the fittest friend to aid him in his high endeavour, (11) and
+with this friend associate.
+
+ (10) it looks as if something had been lost intimating that autolycus
+    would have need of some one to instruct him in spiritual things.
+    for attempts to fill up the lacuna see schenkl.
+
+ (11) or, "these high pursuits."
+
+thereupon several of the company exclaimed at once. "where will he find
+a teacher to instruct him in that wisdom?" one inquired. "why, it is not
+to be taught!" exclaimed another; to which a third rejoined: "why should
+it not be learnt as well as other things?" (12)
+
+ (12) cf. for the question {ei arete didakton}, "mem." i. ii. 19; iv.
+    i; "cyrop." iii. i. 17; iii. iii. 53.
+
+then socrates: the question would seem at any rate to be debatable.
+suppose we defer it till another time, and for the present not interrupt
+the programme of proceedings. i see, the dancing-girl is standing ready;
+they are handing her some hoops.
+
+and at the instant her fellow with the flute commenced a tune to keep
+her company, whilst some one posted at her side kept handing her the
+hoops till she had twelve in all. with these in her hands she fell
+to dancing, and the while she danced she flung the hoops into the
+air--overhead she sent them twirling--judging the height they must be
+thrown to catch them, as they fell, in perfect time. (13)
+
+ (13) "in time with the music and the measure of the dance."
+
+then socrates: the girl's performance is one proof among a host of
+others, sirs, that woman's nature is nowise inferior to man's. all she
+wants is strength and judgment; (14) and that should be an encouragement
+to those of you who have wives, to teach them whatever you would have
+them know as your associates. (15)
+
+ (14) reading, as vulg. {gnomes de kai iskhuos deitai}; al. continuing
+    {ouden} from the first half of the sentence, transl. "she has no
+    lack of either judgment or physical strength." lange conj. {romes}
+    for {gnomes}, "all she needs is force and strength of body." see
+    newman, op. cit. i. 419.
+
+ (15) lit. "so that, if any of you has a wife, he may well take heart
+    and teach her whatever he would wish her to know in dealing with
+    her." cf. "n. a." i. 17.
+
+antisthenes rejoined: if that is your conclusion, socrates, why do you
+not tutor your own wife, xanthippe, (16) instead of letting her (17)
+remain, of all the wives that are, indeed that ever will be, i imagine,
+the most shrewish?
+
+ (16) see cobet, "pros. xen." p. 56; "mem." ii. ii. 1; aul. gell. "n.
+    a." i. 17.
+
+ (17) lit. "dealing with her," "finding in her"; {khro} corresponding
+    to {khresthai} in socrates' remarks.
+
+well now, i will tell you (he answered). i follow the example of
+the rider who wishes to become an expert horseman: "none of your
+soft-mouthed, docile animals for me," he says; "the horse for me to own
+must show some spirit": (18) in the belief, no doubt, if he can manage
+such an animal, it will be easy enough to deal with every other horse
+besides. and that is just my case. i wish to deal with human beings, to
+associate with man in general; hence my choice of wife. (19) i know full
+well, if i can tolerate her spirit, i can with ease attach myself to
+every human being else.
+
+ (18) lit. "because i see the man who aims at skill in horsemanship
+    does not care to own a soft-mouthed, docile animal, but some
+    restive, fiery creature."
+
+ (19) lit. "being anxious to have intercourse with all mankind, to deal
+    with every sort of human being, i possess my wife."
+
+a well-aimed argument, not wide of the mark by any means! (20) the
+company were thinking.
+
+ (20) cf. plat. "theaet." 179 c.
+
+hereupon a large hoop studded with a bristling row of upright swords
+(21) was introduced; and into the centre of this ring of knives and
+out of it again the girl threw somersaults backwards, forwards, several
+times, till the spectators were in terror of some accident; but with the
+utmost coolness and without mishap the girl completed her performance.
+
+ (21) see becker, "char." p. 101. cf. plat. "symp." 190; "euthyd." 294.
+
+here socrates, appealing to antisthenes: none of the present company,
+i take it, who have watched this spectacle will ever again deny that
+courage can be taught, (22) when the girl there, woman should she be,
+rushes so boldly into the midst of swords.
+
+ (22) cf. "mem." iii. ix. 1.
+
+he, thus challenged, answered: no; and what our friend, the syracusan
+here, should do is to exhibit his dancing-girl to the state. (23) let
+him tell the authorities he is prepared, for a consideration, to give
+the whole athenian people courage to face the hostile lances at close
+quarters.
+
+ (23) or, "to the city," i.e. of athens.
+
+whereat the jester: an excellent idea, upon my word; and when it
+happens, may i be there to see that mighty orator (24) peisander
+learning to throw somersaults (25) into swords; since incapacity to
+look a row of lances in the face at present makes him shy of military
+service. (26)
+
+ (24) or, "tribune of the people." cf. plat. "gorg." 520 b; "laws," 908
+    d.
+
+ (25) or, "learning to go head over heels into swords."
+
+ (26) for peisander see cobet, "pros. xen." p. 46 foll. a thoroughgoing
+    oligarch (thuc. viii. 90), he was the occasion of much mirth to
+    the comic writers (so grote, "h. g." viii. 12). see re his "want
+    of spirit" aristoph. "birds," 1556:
+
+{entha kai peisandros elthe deomenos psukhen idein, e zont ekeinon
+proulipe, k.t.l.}
+
+    where the poet has a fling at socrates also:
+
+socrates beside the brink, summons from the murky sink many a
+disembodied ghost; and peisander reached the coast to raise the spirit
+that he lost; with conviction strange and new, a gawky camel which he
+slew, like ulysses.--whereupon, etc.
+
+h. frere
+
+    cf. "peace," 395; "lysistr." 490.
+
+at this stage of the proceedings the boy danced.
+
+the dance being over, socrates exclaimed: pray, did you notice how the
+beauty of the child, so lovely in repose, became enhanced with every
+movement of his supple body?
+
+to which charmides replied: how like a flatterer you are! one would
+think you had set yourself to puff the dancing-master. (27)
+
+ (27) see "the critic," i. ii.
+
+to be sure (he answered solemnly); and there's another point i could
+not help observing: how while he danced no portion of his body remained
+idle; neck and legs and hands together, one and all were exercised. (28)
+that is how a man should dance, who wants to keep his body light and
+healthy. (29) (then turning to the syracusan, he added): i cannot say
+how much obliged i should be to you, o man of syracuse, for lessons in
+deportment. pray teach me my steps. (30)
+
+ (28) cf. "pol. lac." v. 9.
+
+ (29) cf. aristot. "h. a." vi. 21. 4.
+
+ (30) "gestures," "postures," "figures." see eur. "cycl." 221;
+    aristoph. "peace," 323; isocr. "antid." 183.
+
+and what use will you make of them? (the other asked).
+
+god bless me! i shall dance, of course (he answered).
+
+the remark was greeted with a peal of merriment.
+
+then socrates, with a most serious expression of countenance: (31)
+you are pleased to laugh at me. pray, do you find it so ridiculous
+my wishing to improve my health by exercise? or to enjoy my victuals
+better? to sleep better? or is it the sort of exercise i set my heart
+on? not like those runners of the long race, (32) to have my legs
+grow muscular and my shoulders leaner in proportion; nor like a boxer,
+thickening chest and shoulders at expense of legs; but by distribution
+of the toil throughout my limbs (33) i seek to give an even balance to
+my body. or are you laughing to think that i shall not in future have
+to seek a partner in the training school, (34) whereby it will not be
+necessary for an old man like myself to strip in public? (35) all i
+shall need will be a seven-sofa'd chamber, (36) where i can warm to
+work, (37) just like the lad here who has found this room quite ample
+for the purpose. and in winter i shall do gymnastics (38) under cover,
+or when the weather is broiling under shade.... but what is it you keep
+on laughing at--the wish on my part to reduce to moderate size a paunch
+a trifle too rotund? is that the source of merriment? (39) perhaps you
+are not aware, my friends, that charmides--yes! he there--caught me only
+the other morning in the act of dancing?
+
+ (31) "bearing a weighty and serious brow."
+
+ (32) "like your runner of the mile race." cf. plat. "prot." 335 e.
+
+ (33) or, "resolute exercise of the whole body." see aristot. "pol."
+    viii. 4. 9; "rhet." i. 5. 14.
+
+ (34) or, "be dependent on a fellow-gymnast." "pol. lac." ix. 5; plat.
+    "soph." 218 b; "laws," 830 b; "symp." 217 b, c.
+
+ (35) or, "to strip in public when my hair turns gray." socrates was
+    (421 b.c.) about 50, but is pictured, i think, as an oldish man.
+
+ (36) see aristot. "h. a." ix. 45. 1; "econ." viii. 13.
+
+ (37) passage referred to by diog. laert. ii. 5. 15; lucian, "de salt."
+    25; plut. "praec. san." 496.
+
+ (38) "take my exercise."
+
+ (39) zeune cf. max. tyr. "diss." vii. 9; xxxix. 5.
+
+yes, that i will swear to (the other answered), and at first i stood
+aghast, i feared me you had parted with your senses; but when i heard
+your explanation, pretty much what you have just now told us, i went
+home and--i will not say, began to dance myself (it is an accomplishment
+i have not been taught as yet), but i fell to sparring, (40) an art of
+which i have a very pretty knowledge.
+
+ (40) "sparring," etc., an art which quintil. "inst. or." i. 11, 17,
+    attributes to socrates. cf. herod. vi. 129 concerning
+    hippocleides; and rich, "dict. of antiq." s.v. "chironomia."
+
+that's true, upon my life! (exclaimed the jester). one needs but look at
+you to see there's not a dram of difference between legs and shoulders.
+(41) i'll be bound, if both were weighed in the scales apart, like "tops
+and bottoms," the clerks of the market (42) would let you off scot-free.
+
+ (41) lit. "your legs are equal in weight with your shoulders." cf.
+    "od." xviii. 373, {elikes... isophoroi boes}, "of equal age and
+    force to bear the yoke."--butcher and lang.
+
+ (42) see boeckh, "public economy of athens," p. 48; aristoph.
+    "acharn." 723; lys. 165, 34.
+
+then callias: o socrates, do please invite me when you begin your
+dancing lessons. i will be your vis-a-vis, (43) and take lessons with
+you.
+
+ (43) cf. "anab." v. iv. 12.
+
+come on (the jester shouted), give us a tune upon the pipe, and let me
+show you how to dance.
+
+so saying up he got, and mimicked the dances of the boy and girl in
+burlesque fashion, and inasmuch as the spectators had been pleased to
+think the natural beauty of the boy enhanced by every gesture of his
+body in the dance, so the jester must give a counter-representation,
+(44) in which each twist and movement of his body was a comical
+exaggeration of nature.
+
+ (44) reading {antepedeizen}. cf. plat. "theaet." 162 b; "ages." i. 12;
+    if vulg. {antapedeizen}, transl. "would prove per contra each
+    bend," etc. cf. aristot. "rhet." ii. 26. 3.
+
+and since the girl had bent herself backwards and backwards, till she
+was nearly doubled into the form of a hoop, so he must try to imitate a
+hoop by stooping forwards and ducking down his head.
+
+and as finally, the boy had won a round of plaudits for the manner in
+which he kept each muscle of the body in full exercise whilst dancing,
+so now the jester, bidding the flute-girl quicken the time (presto!
+presto! prestissimo!), fell to capering madly, tossing legs and arms
+and head together, until he was fairly tired out, and threw himself dead
+beat upon the sofa, gasping:
+
+there, that's a proof that my jigs too are splendid exercise; at any
+rate, i am dying of thirst; let the attendant kindly fill me the mighty
+goblet. (45)
+
+ (45) cf. plat. "symp." 223 c.
+
+quite right (said callias), and we will pledge you. our throats are
+parched with laughing at you.
+
+at this point socrates: nay, gentlemen, if drinking is the order of the
+day, i heartily approve. wine it is in very truth that moistens the soul
+of man, (46) that lulls at once all cares to sleep, even as mandragora
+(47) drugs our human senses, and at the same time kindles light-hearted
+thoughts, (48) as oil a flame. yet it fares with the banquets of men,
+(49) if i mistake not, precisely as with plants that spring and shoot
+on earth. when god gives these vegetable growths too full a draught
+of rain, they cannot lift their heads nor feel the light air breathe
+through them; but if they drink in only the glad supply they need, they
+stand erect, they shoot apace, and reach maturity of fruitage. so we,
+too, if we drench our throats with over-copious draughts, (50) ere long
+may find our legs begin to reel and our thoughts begin to falter; (51)
+we shall scarce be able to draw breath, much less to speak a word in
+season. but if (to borrow language from the mint of gorgias (52)), if
+only the attendants will bedew us with a frequent mizzle (53) of small
+glasses, we shall not be violently driven on by wine to drunkenness, but
+with sweet seduction reach the goal of sportive levity.
+
+ (46) cf. plat. "laws," 649; aristoph. "knights," 96:
+
+come, quick now, bring me a lusty stoup of wine, to moisten my
+understanding and inspire me (h. frere).
+
+ (47) cf. plat. "rep." vi. 488 c; dem. "phil." iv. 133. 1; lucian v.,
+    "tim." 2; lxxiii., "dem. enc." 36. see "othello," iii. 3. 330:
+
+not poppy, nor mandragora, nor all the drowsy syrups of the world;
+
+    "antony and cl." i. 5, 4.
+
+ (48) cf. 1 esdras iii. 20: "it turneth also every thought into jollity
+    and mirth," {eis euokhian kai euphrosunen}. the whole passage is
+    quoted by athen. 504. stob. "fl." lvi. 17.
+
+ (49) reading {sumposia}, cf. theog. 298, 496; or if after athen.
+    {somata} transl. "persons."
+
+ (50) or, "if we swallow at a gulp the liquor." cf. plat. "sym." 176 d.
+
+ (51) see "cyrop." i. iii. 10, viii. viii. 10; aristoph. "wasps," 1324;
+    "pol. lac." v. 7.
+
+ (52) for phrases filed by gorgias, see aristot. "rhet." iii. 3;
+    "faults of taste in the use of metaphors," longin. "de subl." 3.
+    see also plat. "symp." 198 c.
+
+ (53) cf. aristoph. "peace," 1141; theophr. "lap." 13; lucian, xvii.,
+    "de merc. cond." 27; cic. "cat. m." 14, transl. "pocula...
+    minuta atque rorantia."
+
+the proposition was unanimously carried, with a rider appended by
+philippus: the cup-bearers should imitate good charioteers, and push the
+cups round, quickening the pace each circuit. (54)
+
+ (54) or, "at something faster than a hand-gallop each round." see the
+    drinking song in "antony and cl." i. 7. 120.
+
+
+
+iii
+
+during this interval, whilst the cup-bearers carried out their duties,
+the boy played on the lyre tuned to accompany the flute, and sang. (1)
+
+ (1) cf. plat. "laws," 812 c; aristot. "poet." i. 4.
+
+the performance won the plaudits of the company, and drew from charmides
+a speech as follows: sirs, what socrates was claiming in behalf of wine
+applies in my opinion no less aptly to the present composition. so
+rare a blending of boyish and of girlish beauty, and of voice with
+instrument, is potent to lull sorrow to sleep, and to kindle aphrodite's
+flame.
+
+then socrates, reverting in a manner to the charge: the young people
+have fully proved their power to give us pleasure. yet, charming as they
+are, we still regard ourselves, no doubt, as much their betters. what
+a shame to think that we should here be met together, and yet make no
+effort ourselves to heighten the festivity! (2)
+
+ (2) see plat. "prot." 347 d; "a company like this of ours, and men
+    such as we profess to be, do not require the help of another's
+    voice," etc.--jowett. cf. id. "symp." 176: "to-day let us have
+    conversation instead; and if you will allow me, i will tell you
+    what sort of conversation."
+
+several of the company exclaimed at once: be our director then yourself.
+explain what style of talk we should engage in to achieve that object.
+(3)
+
+ (3) {exegou}. "prescribe the form of words we must lay hold of to
+    achieve the object, and we will set to work, arch-casuist."
+
+nothing (he replied) would please me better than to demand of callias
+a prompt performance of his promise. he told us, you recollect, if we
+would dine with him, he would give us an exhibition of his wisdom.
+
+to which challenge callias: that i will readily, but you on your side,
+one and all, must propound some virtue of which you claim to have the
+knowledge.
+
+socrates replied: at any rate, not one of us will have the least
+objection to declaring what particular thing he claims to know as best
+worth having.
+
+agreed (proceeded callias); and for my part i proclaim at once what i
+am proudest of. my firm belief is, i have got the gift to make my
+fellow-mortals better.
+
+make men better! (cried antisthenes); and pray how? by teaching them
+some base mechanic art? or teaching them nobility of soul? (4)
+
+ (4) or, "beauty and nobility of soul" ({kalokagathia}). see "mem." i.
+    vi. 14.
+
+the latter (he replied), if justice (5) be synonymous with that high
+type of virtue.
+
+ (5) i.e. "social uprightness."
+
+of course it is (rejoined antisthenes) the most indisputable specimen.
+since, look you, courage and wisdom may at times be found calamitous to
+friends or country, (6) but justice has no single point in common with
+injustice, right and wrong cannot commingle. (7)
+
+ (6) see "mem." iv. ii. 33.
+
+ (7) i.e. "the one excludes the other."
+
+well then (proceeded callias), as soon (8) as every one has stated his
+peculiar merit, (9) i will make no bones of letting you into my secret.
+you shall learn the art by which i consummate my noble end. (10) so
+now, niceratus, suppose you tell us on what knowledge you most pride
+yourself.
+
+ (8) reading {emon}. al. {umon}, "when you others."
+
+ (9) lit. "what he has for which to claim utility."
+
+ (10) or, "give the work completeness." cf. plat. "charm." 173 a;
+    "gorg." 454 a.
+
+he answered: my father, (11) in his pains to make me a good man,
+compelled me to learn the whole of homer's poems, and it so happens that
+even now i can repeat the "iliad" and the "odyssey" by heart. (12)
+
+ (11) nicias.
+
+ (12) of, "off-hand." see "mem." iii. vi. 9; plat. "theaet." 142 d.
+
+you have not forgotten (interposed antisthenes), perhaps, that besides
+yourself there is not a rhapsodist who does not know these epics?
+
+forgotten! is it likely (he replied), considering i had to listen to
+them almost daily?
+
+ant. and did you ever come across a sillier tribe of people than these
+same rhapsodists? (13)
+
+ (13) cf. "mem." iv. ii. 10.
+
+nic. not i, indeed. don't ask me to defend their wits.
+
+it is plain (suggested socrates), they do not know the underlying
+meaning. (14) but you, niceratus, have paid large sums of money to
+anaximander, and stesimbrotus, and many others, (15) so that no single
+point in all that costly lore is lost upon you. (16) but what (he added,
+turning to critobulus) do you most pride yourself upon?
+
+ (14) i.e. "they haven't the key (of knowledge) to the allegorical or
+    spiritual meaning of the sacred text." cf. plat. "crat." 407;
+    "ion," 534; "rep." 378, 387; "theaet." 180; "prot." 316. see
+    grote, "h. g." i. 564.
+
+ (15) see aristot. "rhet." iii. 11, 13. "or we may describe niceratus
+     (not improbably our friend) as a 'philoctetes stung by pratys,'
+    using the simile of thrasymachus when he saw niceratus after his
+    defeat by pratys in the rhapsody with his hair still dishevelled
+    and his face unwashed."--welldon. as to stesimbrotus, see plat.
+    "ion," 530: "ion. very true, socrates; interpretation has
+    certainly been the most laborious part of my art; and i believe
+    myself able to speak about homer better than any man; and that
+    neither metrodorus of lampsacus, nor stesimbrotus of thasos, nor
+    glaucon, nor any one else who ever was, had as good ideas about
+    homer, or as many of them, as i have."--jowett. anaximander,
+    probably of lampsacus, the author of a {'erologia}; see cobet,
+    "pros. xen." p. 8.
+
+ (16) or, "you will not have forgotten one point of all that precious
+    teaching." like sir john falstaff's page (2 "henry iv." ii. 2.
+    100), niceratus, no doubt, has got many "a crown's worth of good
+    interpretations."
+
+on beauty (answered critobulus).
+
+what (socrates rejoined), shall you be able to maintain that by your
+beauty you can make us better?
+
+crit. that will i, or prove myself a shabby sort of person.
+
+soc. well, and what is it you pride yourself upon, antisthenes?
+
+on wealth (he answered).
+
+whereupon hermogenes inquired: had he then a large amount of money? (17)
+
+ (17) i.e. "out at interest," or, "in the funds," as we should say.
+
+not one sixpence: (18) that i swear to you (he answered).
+
+ (18) lit. "not an obol" = "a threepenny bit," circa.
+
+herm. then you possess large property in land?
+
+ant. enough, i daresay, for the youngster there, autolycus, to dust
+himself withal. (19)
+
+ (19) i.e. "to sprinkle himself with sand, after anointing." cf.
+    lucian, xxxviii., "amor." 45.
+
+well, we will lend you our ears, when your turn comes (exclaimed the
+others).
+
+soc. and do you now tell us, charmides, on what you pride yourself.
+
+oh, i, for my part, pride myself on poverty (he answered).
+
+upon my word, a charming business! (exclaimed socrates). poverty! of
+all things the least liable to envy; seldom, if ever, an object of
+contention; (20) never guarded, yet always safe; the more you starve it,
+the stronger it grows.
+
+ (20) cf. plat. "rep." 521 a; "laws," 678 c.
+
+and you, socrates, yourself (their host demanded), what is it you pride
+yourself upon?
+
+then he, with knitted brows, quite solemnly: on pandering. (21) and
+when they laughed to hear him say this, (22) he continued: laugh to your
+hearts content, my friends; but i am certain i could make a fortune, if
+i chose to practise this same art.
+
+ (21) or, more politely, "on playing the go-between." see grote, "h.
+    g." viii. 457, on the "extremely aristophanic" character of the
+    "symposium" of xenophon.
+
+ (22) "him, the master, thus declare himself."
+
+at this point lycon, turning to philippus: we need not ask you what you
+take the chiefest pride in. what can it be, you laughter-making man,
+except to set folk laughing?
+
+yes (he answered), and with better right, i fancy, than callippides,
+(23) the actor, who struts and gives himself such pompous airs, to think
+that he alone can set the crowds a-weeping in the theatre. (24)
+
+ (23) for illustrative tales about him see plut. "ages." xxi.; "alcib."
+    xxxii.; polyaen. vi. 10. cf. "hell." iv. viii. 16.
+
+ (24) or, "set for their sins a-weeping."
+
+and now you, lycon, tell us, won't you (asked antisthenes), what it is
+you take the greatest pride in?
+
+you all of you, i fancy, know already what that is (the father
+answered); it is in my son here.
+
+and the lad himself (some one suggested) doubtless prides himself,
+beyond all else, on having won the prize of victory.
+
+at that autolycus (and as he spoke he blushed) answered for himself:
+(25) no indeed, not i.
+
+ (25) cf. plat. "charm." 158 c.
+
+the company were charmed to hear him speak, and turned and looked; and
+some one asked: on what is it then, autolycus?
+
+to which he answered: on my father (and leaned closer towards him).
+
+at which sight callias, turning to the father: do you know you are the
+richest man in the whole world, lycon?
+
+to which lycon: really, i was not aware of that before.
+
+then callias: why then, it has escaped you that you would refuse the
+whole of persia's wealth, (26) in exchange for your own son.
+
+ (26) lit. "of the great king." cf. "cyrop." viii. iii. 26.
+
+most true (he answered), i plead guilty; here and now i am convicted
+(27) of being the wealthiest man in all the world!
+
+ (27) "caught flagrante delicto. i do admit i do out-croesus croesus."
+
+and you, hermogenes, on what do you plume yourself most highly? (asked
+niceratus).
+
+on the virtue and the power of my friends (he answered), and that being
+what they are, they care for me.
+
+at this remark they turned their eyes upon the speaker, and several
+spoke together, asking: will you make them known to us?
+
+i shall be very happy (he replied).
+
+
+
+iv
+
+at this point, socrates took up the conversation: it now devolves on us
+to prove in turn that what we each have undertaken to defend is really
+valuable.
+
+then callias: be pleased to listen to me first: my case is this, that
+while the rest of you go on debating what justice and uprightness are,
+(1) i spend my time in making men more just and upright.
+
+ (1) {to to dikaion}; cf. "mem." iv. iv.
+
+soc. and how do you do that, good sir?
+
+call. by giving money, to be sure.
+
+antisthenes sprang to his feet at once, and with the manner of a
+cross-examiner demanded: do human beings seem to you to harbour justice
+in their souls, or in their purses, (2) callias?
+
+ (2) or, "pockets."
+
+call. in their souls.
+
+ant. and do you pretend to make their souls more righteous by putting
+money in their pockets?
+
+call. undoubtedly.
+
+ant. pray how?
+
+call. in this way. when they know that they are furnished with the
+means, that is to say, my money, to buy necessaries, they would rather
+not incur the risk of evil-doing, and why should they?
+
+ant. and pray, do they repay you these same moneys?
+
+call. i cannot say they do.
+
+ant. well then, do they requite your gifts of gold with gratitude?
+
+call. no, not so much as a bare "thank you." in fact, some of them are
+even worse disposed towards me when they have got my money than before.
+
+now, here's a marvel! (exclaimed antisthenes, and as he spoke he eyed
+the witness with an air of triumph). you can render people just to all
+the world, but towards yourself you cannot?
+
+pray, where's the wonder? (asked the other). do you not see what scores
+of carpenters and house-builders there are who spend their time in
+building houses for half the world; but for themselves they simply
+cannot do it, and are forced to live in lodgings. and so admit that
+home-thrust, master sophist; (3) and confess yourself confuted.
+
+ (3) "professor of wisdom."
+
+upon my soul, he had best accept his fate (4) (said socrates). why,
+after all, you are only like those prophets who proverbially foretell
+the future for mankind, but cannot foresee what is coming upon
+themselves.
+
+ (4) or, "the coup de grace."
+
+and so the first discussion ended. (5)
+
+ (5) or, "so ended fytte the first of the word-controversy."
+
+thereupon niceratus: lend me your ears, and i will tell you in what
+respects you shall be better for consorting with myself. i presume,
+without my telling you, you know that homer, being the wisest of
+mankind, has touched upon nearly every human topic in his poems. (6)
+whosoever among you, therefore, would fain be skilled in economy, or
+oratory, or strategy; whose ambition it is to be like achilles, or ajax,
+nestor, or odysseus--one and all pay court to me, for i have all this
+knowledge at my fingers' ends.
+
+ (6) or, "his creations are all but coextensive with every mortal
+    thing."
+
+pray (interposed antisthenes), (7) do you also know the way to be a
+king? (8) since homer praises agamemnon, you are well aware, as being
+
+    a goodly king and eke a spearman bold. (9)
+
+ (7) some modern critics (e.g. f. dummler, "antisthenica," p. 29 foll.)
+    maintain plausibly that the author is here glancing (as also plato
+    in the "ion") at antisthenes' own treatises against the
+    rhapsodists and on a more correct interpretation of homer, {peri
+    exegeton} and {peri 'omerou}.
+
+ (8) or, "have you the knowledge also how to play the king?"
+
+ (9) "il." iii. 179. see "mem." iii. ii. 2.
+
+nic. full well i know it, and full well i know the duty of a skilful
+charioteer; how he who holds the ribbons must turn his chariot nigh the
+pillar's edge (10)
+
+himself inclined upon the polished chariot-board a little to the left
+of the twin pair: the right hand horse touch with the prick, and shout a
+cheery shout, and give him rein. (11)
+
+i know another thing besides, and you may put it to the test this
+instant, if you like. homer somewhere has said: (12)
+
+    and at his side an onion, which to drink gives relish.
+
+so if some one will but bring an onion, you shall reap the benefit of
+my sage lore (13) in less than no time, and your wine will taste the
+sweeter.
+
+ (10) "il." xxiii. 335; plat. "ion," 537.
+
+ (11) lit. "yield him the reins with his hands."
+
+ (12) "il." xi.630: "and set out a leek savourer of drink" (purves).
+    plat. "ion," 538 c.
+
+ (13) "my culinary skill."
+
+here charmides exclaimed: good sirs, let me explain. niceratus is
+anxious to go home, redolent of onions, so that his fair lady may
+persuade herself, it never entered into anybody's head to kiss her lord.
+(14)
+
+ (14) see shakesp. "much ado," v. 2. 51 foll.; "mids. n. d." iv. 2.
+
+bless me, that isn't all (continued socrates); if we do not take care,
+we shall win ourselves a comic reputation. (15) a relish must it be, in
+very truth, that can sweeten cup as well as platter, this same onion;
+and if we are to take to munching onions for desert, see if somebody
+does not say of us, "they went to dine with callias, and got more than
+their deserts, the epicures." (16)
+
+ (15) lit. "i warrant you! (quoth socrates) and there's another funny
+    notion we have every chance of getting fathered on us."
+
+ (16) or, "and had a most hilarious and herbaceous time."
+
+no fear of that (rejoined niceratus). always take a bite of onion before
+speeding forth to battle, just as your patrons of the cock-pit give
+their birds a feed of garlic (17) before they put them for the fight.
+but for ourselves our thoughts are less intent perhaps on dealing blows
+than blowing kisses. (18)
+
+ (17) cf. aristoph. "knights," 494:
+
+chorus. and here's the garlic. swallow it down! sausage seller.... what
+for? chorus. it will prime you up and make you fight the better.
+
+h. frere.
+
+ (18) "we are concerned less with the lists of battle than of love";
+    "we meditate no furious close of battle but of lips." lit. "how we
+    shall kiss some one rather than do battle with."
+
+after such sort the theme of their discourse reached its conclusion.
+
+then critobulus spoke: it is now my turn, i think, to state to you the
+grounds on which i pride myself on beauty. (19)
+
+ (19) see "hellenica essays," p. 353.
+
+a chorus of voices rejoined: say on.
+
+crit. to begin with, if i am not beautiful, as methinks i be, you will
+bring on your own heads the penalty of perjury; for, without waiting to
+have the oath administered, you are always taking the gods to witness
+that you find me beautiful. and i must needs believe you, for are you
+not all honourable men? (20) if i then be so beautiful and affect you,
+even as i also am affected by him whose fair face here attracts me, (21)
+i swear by all the company of heaven i would not choose the great king's
+empire in exchange for what i am--the beauty of the world, the paragon
+of animals. (22) and at this instant i feast my eyes on cleinias (23)
+gladlier than on all other sights which men deem fair. joyfully will i
+welcome blindness to all else, if but these eyes may still behold him
+and him only. with sleep and night i am sore vexed, which rob me of
+his sight; but to daylight and the sun i owe eternal thanks, for they
+restore him to me, my heart's joy, cleinias. (24)
+
+ (20) or, "beautiful and good."
+
+ (21) or, "whose fair face draws me." was cleinias there as a "muta
+    persona"? hardly, in spite of {nun}. it is the image of him which
+    is present to the mind's eye.
+
+ (22) lit. "being beautiful"; but there is a touch of bombast infused
+    into the speech by the artist. cf. the speech of callias ("hell."
+    vi. iii. 3) and, for the humour, "cyrop." passim.
+
+ (23) see cobet, "pros. xen." p. 59. cf. "mem." i. iii. 8.
+
+ (24) or, "for that they reveal his splendour to me."
+
+yes, and herein also have we, the beautiful, (25) just claim to boast.
+the strong man may by dint of toil obtain good things; the brave, by
+danger boldly faced, and the wise by eloquence of speech; but to the
+beautiful alone it is given to achieve all ends in absolute quiescence.
+to take myself as an example. i know that riches are a sweet possession,
+yet sweeter far to me to give all that i have to cleinias than to
+receive a fortune from another. gladly would i become a slave--ay,
+forfeit freedom--if cleinias would deign to be my lord. toil in his
+service were easier for me than rest from labour: danger incurred in his
+behalf far sweeter than security of days. so that if you, callias, may
+boast of making men more just and upright, to me belongs by juster
+right than yours to train mankind to every excellence. we are the
+true inspirers (26) who infuse some subtle fire into amorous souls, we
+beauties, and thereby raise them to new heights of being; we render them
+more liberal in the pursuit of wealth; we give them a zest for toil that
+mocks at danger, and enables them where honour the fair vision leads, to
+follow. (27) we fill their souls with deeper modesty, a self-constraint
+more staunch; about the things they care for most, there floats a
+halo of protecting awe. (28) fools and unwise are they who choose not
+beauteous men to be their generals. how merrily would i, at any rate,
+march through fire by the side of cleinias; (29) and so would all of
+you, i know full well, in company of him who now addresses you.
+
+ (25) "we beauties."
+
+ (26) the {eispnelas} in relation to the {aitas}, the inspirer to the
+    hearer. cf. theocr. xii. 13; ael. "v. h." iii. 12. see muller,
+    "dorians," ii. 300 foll.
+
+ (27) {philokaloterous}. cf. plat. "phaedr." 248 d; "criti." 111 e;
+    aristot. "eth. n." iv. 4. 4; x. 9. 3.
+
+ (28) lit. "they feel most awe of what they most desire."
+
+ (29) cf. "mem." i. iii. 9.
+
+cease, therefore, your perplexity, o socrates, abandon fears and doubts,
+believe and know that this thing of which i make great boast, my beauty,
+has power to confer some benefit on humankind.
+
+once more, let no man dare dishonour beauty, merely because the flower
+of it soon fades, since even as a child has growth in beauty, so is it
+with the stripling, the grown man, the reverend senior. (30) and
+this the proof of my contention. whom do we choose to bear the sacred
+olive-shoot (31) in honour of athena?--whom else save beautiful old men?
+witnessing thereby (32) that beauty walks hand in hand as a companion
+with every age of life, from infancy to eld.
+
+ (30) cf. ib. iii. iii. 12.
+
+ (31) cf. aristoph. "wasps," 544.
+
+ (32) or, "beauty steps in attendance lovingly hand in hand at every
+    season of the life of man." so walt whitman, passim.
+
+or again, if it be sweet to win from willing hearts the things we seek
+for, i am persuaded that, by the eloquence of silence, i could win a
+kiss from yonder girl or boy more speedily than ever you could, o sage!
+by help of half a hundred subtle arguments.
+
+eh, bless my ears, what's that? (socrates broke in upon this final
+flourish of the speaker). so beautiful you claim to rival me, you
+boaster?
+
+crit. why, yes indeed, i hope so, or else i should be uglier than all
+the silenuses in the satyric drama. (33)
+
+ (33) the mss. add  ("to whom, be it noted, socrates indeed bore a
+    marked resemblance"). obviously a gloss. cf. aristoph. "clouds,"
+    224; plat. "symp." 215 b.
+
+good! (socrates rejoined); the moment the programme of discussion is
+concluded, (34) please remember, we must obtain a verdict on the point
+of beauty. judgment shall be given--not at the bar of alexander, son
+of priam--but of these (35) who, as you flatter yourself, have such a
+hankering to kiss you.
+
+ (34) lit. "the arguments proposed have gone the round."
+
+ (35) i.e. "the boy and girl." al. "the present company, who are so
+    eager to bestow on you their kisses."
+
+oh, socrates (he answered, deprecatingly), will you not leave it to the
+arbitrament of cleinias?
+
+then socrates: will you never tire of repeating that one name? it is
+cleinias here, there, and everywhere with you.
+
+crit. and if his name died on my lips, think you my mind would less
+recall his memory? know you not, i bear so clear an image of him in my
+soul, that had i the sculptor's or the limner's skill, i might
+portray his features as exactly from this image of the mind as from
+contemplation of his actual self.
+
+but socrates broke in: pray, why then, if you bear about this lively
+image, why do you give me so much trouble, dragging me to this and that
+place, where you hope to see him?
+
+crit. for this good reason, socrates, the sight of him inspires
+gladness, whilst his phantom brings not joy so much as it engenders
+longing.
+
+at this point hermogenes protested: i find it most unlike you, socrates,
+to treat thus negligently one so passion-crazed as critobulus.
+
+socrates replied: do you suppose the sad condition of the patient dates
+from the moment only of our intimacy?
+
+herm. since when, then?
+
+soc. since when? why, look at him: the down begins to mantle on his
+cheeks, (36) and on the nape (37) of cleinias' neck already mounts.
+the fact is, when they fared to the same school together, he caught the
+fever. this his father was aware of, and consigned him to me, hoping
+i might be able to do something for him. ay, and his plight is not so
+sorry now. once he would stand agape at him like one whose gaze is
+fixed upon the gorgons, (38) his eyes one stony stare, and like a stone
+himself turn heavily away. but nowadays i have seen the statue actually
+blink. (39) and yet, may heaven help me! my good sirs, i think, between
+ourselves, the culprit must have bestowed a kiss on cleinias, than which
+love's flame asks no fiercer fuel. (40) so insatiable a thing it is
+and so suggestive of mad fantasy. (and for this reason held perhaps in
+higher honour, because of all external acts the close of lip with lip
+bears the same name as that of soul with soul in love.) (41) wherefore,
+say i, let every one who wishes to be master of himself and sound of
+soul abstain from kisses imprinted on fair lips. (42)
+
+ (36) lit. "creeping down beside his ears." cf. "od." xi. 319:
+
+{prin sphoin upo krotaphoisin ioulous anthesai pukasai te genus euanthei
+lakhne.}
+
+    "(zeus destroyed the twain) ere the curls had bloomed beneath
+    their temples, and darked their chins with the blossom of youth."
+    --butcher and lang. cf. theocr. xv. 85: {praton ioulon apo
+    krotaphon kataballon}, "with the first down upon his cheeks"
+    (lang); aesch. "theb." 534.
+
+ (37) {pros to opisthen}, perhaps = "ad posteriorem capitis partem,"
+    which would be more applicable to critobulus, whose whiskers were
+    just beginning to grow, than to callias. possibly we should read
+    (after pollux, ii. 10) {peri ten upenen}, "on the upper lip." see
+    plat. "protag." 309 b; "il." xxiv. 348; "od." x. 279.
+
+ (38) cf. pind. "pyth." x. 75.
+
+ (39) see "cyrop." i. iv. 28; shakesp. "ven. and ad." 89: "but when her
+    lips were ready for his pay, he winks, and turns his lips another
+    way."
+
+ (40) or, "a kiss which is to passion as dry combustious matter is to
+    fire," shakesp. ib. 1162.
+
+ (41) or, "is namesake of the love within the soul of lovers." the
+    whole passage, involving a play on the words {philein
+    phileisthai}, "where kisses rain without, love reigns within," is
+    probably to be regarded as a gloss. cf. "mem." i. iii. 13.
+
+ (42) cf. "mem." i. iii. 8-14.
+
+then charmides: oh! socrates, why will you scare your friends with these
+hobgoblin terrors, (43) bidding us all beware of handsome faces,
+whilst you yourself--yes, by apollo, i will swear i saw you at the
+schoolmaster's (44) that time when both of you were poring over one
+book, in which you searched for something, you and critobulus, head to
+head, shoulder to shoulder bare, as if incorporate? (45)
+
+ (43) cf. plat. "crit." 46 d; "hell." iv. iv. 17; arist. "birds," 1245.
+
+ (44) "grammarian's." plat. "protag." 312 b; 326 d; dem. 315. 8.
+
+ (45) like hermia and helena, "mids. n. d." iii. 2. 208.
+
+as yes, alack the day! (he answered); and that is why, no doubt, my
+shoulder ached for more than five days afterwards, as if i had been
+bitten by some fell beast, and methought i felt a sort of scraping at
+the heart. (46) now therefore, in the presence of these witnesses, i
+warn you, critobulus, never again to touch me till you wear as thick a
+crop of hair (47) upon your chin as on your head.
+
+ (46) reading {knisma}, "scratching." plat. "hipp. maj." 304 a. al.
+    {knesma}.
+
+ (47) see jebb, "theophr. ch." xxiv. 16.
+
+so pell-mell they went at it, half jest half earnest, and so the medley
+ended. callias here called on charmides.
+
+call. now, charmides, it lies with you to tell us why you pride yourself
+on poverty. (48)
+
+ (48) zeune, cf. "cyrop." viii. iii. 35-50.
+
+charmides responded: on all hands it is admitted, i believe, that
+confidence is better than alarm; better to be a freeman than a slave;
+better to be worshipped than pay court to others; better to be trusted
+than to be suspected by one's country.
+
+well now, i will tell you how it fared with me in this same city when
+i was wealthy. first, i lived in daily terror lest some burglar should
+break into my house and steal my goods and do myself some injury. i
+cringed before informers. (49) i was obliged to pay these people court,
+because i knew that i could injure them far less than they could injure
+me. never-ending the claims upon my pocket which the state enforced
+upon me; and as to setting foot abroad, that was beyond the range of
+possibility. but now that i have lost my property across the frontier,
+(50) and derive no income from my lands in attica itself; now that my
+very household goods have been sold up, i stretch my legs at ease, i get
+a good night's rest. the distrust of my fellow-citizens has vanished;
+instead of trembling at threats, it is now my turn to threaten; at last
+i feel myself a freeman, with liberty to go abroad or stay at home as
+suits my fancy. the tables now are turned. it is the rich who rise to
+give me their seats, who stand aside and make way for me as i meet them
+in the streets. to-day i am like a despot, yesterday i was literally a
+slave; formerly it was i who had to pay my tribute (51) to the sovereign
+people, now it is i who am supported by the state by means of general
+taxation. (52)
+
+ (49) "and police agents."
+
+ (50) cf. "mem." ii. viii. 1.
+
+ (51) {phoros}, tributum. al. "property-tax." cf. "econ." ii. 6.
+
+ (52) {telos}, vectigal. sturz, "lex. xen." s.v. cf. "pol. ath." i. 3.
+
+and there is another thing. so long as i was rich, they threw in my
+teeth as a reproach that i was friends with socrates, but now that i am
+become a beggar no one troubles his head two straws about the matter.
+once more, the while i rolled in plenty i had everything to lose, and,
+as a rule, i lost it; what the state did not exact, some mischance stole
+from me. but now that is over. i lose nothing, having nought to lose;
+but, on the contrary, i have everything to gain, and live in hope of
+some day getting something. (53)
+
+ (53) "i feed on the pleasures of hope, and fortune in the future."
+
+call. and so, of course, your one prayer is that you may never more be
+rich, and if you are visited by a dream of luck your one thought is to
+offer sacrifice to heaven to avert misfortune. (54)
+
+ (54) or, "you wake up in a fright, and offer sacrifice to the
+    'averters.'" for {tois apotropaiois} see aristoph. "plutus," 359;
+    plat. "laws," 854 b; "hell." iii. iii. 4.
+
+char. no, that i do not. on the contrary, i run my head into each danger
+most adventurously. i endure, if haply i may see a chance of getting
+something from some quarter of the sky some day.
+
+come now (socrates exclaimed), it lies with you, sir, you, antisthenes,
+to explain to us, how it is that you, with means so scanty, make so loud
+a boast of wealth.
+
+because (he answered) i hold to the belief, sirs, that wealth and
+poverty do not lie in a man's estate, but in men's souls. even in
+private life how many scores of people have i seen, who, although they
+roll in wealth, yet deem themselves so poor, there is nothing they will
+shrink from, neither toil nor danger, in order to add a little to their
+store. (55) i have known two brothers, (56) heirs to equal fortunes,
+one of whom has enough, more than enough, to cover his expenditure; the
+other is in absolute indigence. and so to monarchs, there are not a
+few, i perceive, so ravenous of wealth that they will outdo the veriest
+vagrants in atrocity. want (57) prompts a thousand crimes, you must
+admit. why do men steal? why break burglariously into houses? why hale
+men and women captive and make slaves of them? is it not from want?
+nay, there are monarchs who at one fell swoop destroy whole houses, make
+wholesale massacre, and oftentimes reduce entire states to slavery, and
+all for the sake of wealth. these i must needs pity for the cruel malady
+which plagues them. their condition, to my mind, resembles that poor
+creature's who, in spite of all he has (58) and all he eats, can never
+stay the wolf that gnaws his vitals.
+
+ (55) cf. "cyrop." viii. ii. 21; hor. "epist." i. 2. 26, "semper avarus
+    eget."
+
+ (56) is antisthenes thinking of callias and hermogenes? (presuming
+    these are sons of hipponicus and brothers). cf. "mem." ii. x. 3.
+
+ (57) or, "'tis want that does it." see "pol. ath." i. 5; "rev," i. 1.
+
+ (58) reading {ekhon}, or if {pinon}, transl. "who eats and drinks, but
+    never sates himself."
+
+but as to me, my riches are so plentiful i cannot lay my hands on them
+myself; (59) yet for all that i have enough to eat till my hunger is
+stayed, to drink till my thirst is sated; (60) to clothe myself withal;
+and out of doors not callias there, with all his riches, is more safe
+than i from shivering; and when i find myself indoors, what warmer
+shirting (61) do i need than my bare walls? what ampler greatcoat than
+the tiles above my head? these seem to suit me well enough; and as to
+bedclothes, i am not so ill supplied but it is a business to arouse me
+in the morning.
+
+ (59) "that i can scarce discover any portion of it." zeune cf. "econ."
+    viii. 2.
+
+ (60) so "the master" himself. see "mem." i. ii. 1, vi. 5.
+
+ (61) cf. aristot. "pol." ii. 8. 1, of hippodamus.
+
+and as to sexual desire, my body's need is satisfied by what comes first
+to hand. indeed, there is no lack of warmth in the caress which greets
+me, just because it is unsought by others. (62)
+
+ (62) cf. "mem." i. iii. 14, the germ of cynicism and stoicism, the
+    socratic {xs} form of "better to marry than to burn."
+
+well then, these several pleasures i enjoy so fully that i am much more
+apt to pray for less than more of them, so strongly do i feel that some
+of them are sweeter than what is good for one or profitable.
+
+but of all the precious things in my possession, i reckon this the
+choicest, that were i robbed of my whole present stock, there is no work
+so mean, but it would amply serve me to furnish me with sustenance. why,
+look you, whenever i desire to fare delicately, i have not to purchase
+precious viands in the market, which becomes expensive, but i open
+the storehouse of my soul, and dole them out. (63) indeed, as far as
+pleasure goes, i find it better to await desire before i suffer meat
+or drink to pass my lips, than to have recourse to any of your costly
+viands, as, for instance, now, when i have chanced on this fine thasian
+wine, (64) and sip it without thirst. but indeed, the man who makes
+frugality, not wealth of worldly goods, his aim, is on the face of it a
+much more upright person. and why?--the man who is content with what he
+has will least of all be prone to clutch at what is his neighbour's.
+
+ (63) or, "turn to the storehouse of a healthy appetite." see "apol."
+    18, the same sentiment "ex ore socratis."
+
+ (64) see athen. "deipnos." i. 28.
+
+and here's a point worth noting. wealth of my sort will make you liberal
+of soul. look at socrates; from him it was i got these riches. he did
+not supply me with it by weight or by measure, but just as much as i
+could carry, he with bounteous hand consigned to me. and i, too, grudge
+it to no man now. to all my friends without distinction i am ready to
+display my opulence: come one, come all; and whosoever likes to take
+a share is welcome to the wealth that lies within my soul. yes, and
+moreover, that most luxurious of possessions, (65) unbroken leisure, you
+can see, is mine, which leaves me free to contemplate things worthy of
+contemplation, (66) and to drink in with my ears all charming sounds.
+and what i value most, freedom to spend whole days in pure scholastic
+intercourse (67) with socrates, to whom i am devoted. (68) and he,
+on his side, is not the person to admire those whose tale of gold and
+silver happens to be the largest, but those who are well-pleasing to him
+he chooses for companions, and will consort with to the end.
+
+ (65) see eur. "ion," 601. lit. "at every moment i command it."
+
+ (66) "to gaze upon all fairest shows (like a spectator in the
+    theatre), and to drink in sounds most delectable." so walt
+    whitman.
+
+ (67) aristot. "rhet." ii. 4. 12; "eth. n." ix. 4. 9.
+
+ (68) see "mem." iii. xi. 17.
+
+with these words the speaker ended, and callias exclaimed:
+
+by hera, i envy you your wealth, antisthenes, firstly, because the state
+does not lay burthens on you and treat you like a slave; and secondly,
+people do not fall into a rage with you when you refuse to be their
+creditor.
+
+you may stay your envy (interposed niceratus), i shall presently present
+myself to borrow of him this same key of his to independence. (69)
+trained as i am to cast up figures by my master homer--
+
+    seven tripods, which ne'er felt the fire, and of gold ten talents
+    and burnished braziers twenty, and horses twelve-- (70)
+
+by weight and measure duly reckoned, (71) i cannot stay my craving
+for enormous wealth. and that's the reason certain people, i daresay,
+imagine i am inordinately fond of riches.
+
+ (69) or, "his want-for-nothing," or, "supply-all."
+
+ (70) niceratus quotes "il." ix. 122, 123, 263, 264.
+
+ (71) or, "by number and by measure," "so much apiece, so much a
+    pound," in reference to antisthenes' remark that socrates does not
+    stint his "good things."
+
+the remark drew forth a peal of laughter from the company, who thought
+the speaker hit the truth exactly.
+
+then some one: it lies with you, hermogenes, to tell us who your friends
+are; and next, to demonstrate the greatness of their power and their
+care for you, if you would prove to us your right to pride yoruself on
+them.
+
+herm. that the gods know all things, that the present and the future
+lie before their eyes, are tenets held by hellenes and barbarians
+alike. this is obvious; or else, why do states and nations, one and all,
+inquire of the gods by divination what they ought to do and what they
+ought not? this also is apparent, that we believe them able to do us
+good and to do us harm; or why do all men pray to heaven to avert the
+evil and bestow the good? well then, my boast is that these gods, who
+know and can do all things, (72) deign to be my friends; so that, by
+reason of their care for me, i can never escape from their sight, (73)
+neither by night nor by day, whithersoever i essay to go, whatsoever i
+take in hand to do. (74) but because they know beforehand the end and
+issue of each event, they give me signals, sending messengers, be it
+some voice, (75) or vision of the night, with omens of the solitary
+bird, which tell me what i should and what i should not do. when i
+listen to their warnings all goes well with me, i have no reason to
+repent; but if, as ere now has been the case, i have been disobedient,
+chastisement has overtaken me.
+
+ (72) cf. "mem." i. i. 19; i. iv. 18.
+
+ (73) schneid. cf. hom. "il." x. 279, {oude se letho kinomenos}, "nor
+    doth any motion of mine escape thee" (a. lang); and see arrian,
+    "epictet." i. 12. 3.
+
+ (74) cf. ps. cxxxix. "domine probasti."
+
+ (75) see "mem." i. i. 3; "apol." xii. 13; "cyrop." viii. vii. 3.
+
+then socrates: all this i well believe, (76) but there is one thing
+i would gladly learn of you: what service do you pay the gods, so to
+secure their friendship?
+
+ (76) lit. "nay, nought of the things you tell us is incredible,
+    but..."
+
+truly it is not a ruinous service, socrates (he answered)--far from it.
+i give them thanks, which is not costly. i make return to them of all
+they give to me from time to time. i speak well of them, with all the
+strength i have. and whenever i take their sacred names to witness, i do
+not wittingly falsify my word.
+
+then god be praised (said socrates), if being what you are, you have
+such friends; the gods themselves, it would appear, delight in nobleness
+of soul. (77)
+
+ (77) {kalokagathia}, "beautiful and gentle manhood."
+
+thus, in solemn sort, the theme was handled, thus gravely ended.
+
+but now it was the jester's turn, and so they fell to asking him: (78)
+what could he see to pride himself upon so vastly in the art of making
+people laugh?
+
+ (78) lit. "now that they had come to philippus (in the 'period' of
+    discussion), they..." or read, after hartman, "an. xen." p.
+    242, {eken} (sc. {o logos}).
+
+surely i have good reason (he replied). the whole world knows my
+business is to set them laughing, so when they are in luck's way,
+they eagerly invite me to a share of it; but if ill betide them,
+helter-skelter off they go, and never once turn back, (79) so fearful
+are they i may set them laughing will he nill he.
+
+ (79) plat. "rep." 620 e; "laws," 854 c.
+
+nic. heavens! you have good reason to be proud; with me it is just the
+opposite. when any of my friends are doing well, they take good care
+to turn their backs on me, (80) but if ever it goes ill with them,
+they claim relationship by birth, (81) and will not let their long-lost
+cousin out of sight.
+
+ (80) or, "they take good care to get out of my way," "they hold aloof
+    from me entirely."
+
+ (81) or, "produce the family-pedigree and claim me for a cousin." cf.
+    lucian v., "tim." 49; ter. "phorm." ii. 33, 45.
+
+charm. well, well! and you, sir (turning to the syracusan), what do you
+pride yourself upon? no doubt, upon the boy?
+
+the syr. not i, indeed; i am terribly afraid concerning him. it is plain
+enough to me that certain people are contriving for his ruin. (82)
+
+ (82) {diaphtheirai} = (1) to destroy, make away with; (2) to ruin and
+    corrupt, seduce by bribes or otherwise.
+
+good gracious! (83) (socrates exclaimed, when he heard that), what crime
+can they conceive your boy is guilty of that they should wish to make an
+end of him?
+
+ (83) lit. "heracles!" "zounds!"
+
+the syr. i do not say they want to murder him, but wheedle him away with
+bribes to pass his nights with them.
+
+soc. and if that happened, you on your side, it appears, believe the boy
+will be corrupted?
+
+the syr. beyond all shadow of a doubt, most villainously.
+
+soc. and you, of course, you never dream of such a thing. you don't
+spend nights with him?
+
+the syr. of course i do, all night and every night.
+
+soc. by hera, what a mighty piece of luck (84) for you--to be so happily
+compounded, of such flesh and blood. you alone can't injure those who
+sleep beside you. you have every right, it seems, to boast of your own
+flesh, if nothing else.
+
+ (84) cf. plat. "symp." 217 a.
+
+the syr. nay, in sooth, it is not on that i pride myself.
+
+soc. well, on what then?
+
+the syr. why, on the silly fools who come and see my puppet show. (85) i
+live on them.
+
+ (85) "my marionettes." cf. herod. ii. 48; lucian lxxii., "de syr. d."
+    16; aristot. "de mund." 6.
+
+phil. ah yes! and that explains how the other day i heard you praying to
+the gods to grant you, wheresoe'er you chance to be, great store of corn
+and wine, but dearth of wits. (86)
+
+ (86) or, "of fruits abundance, but of wits a famine." cf. plat. "rep."
+    546 a. his prayer resembles that of the thievish trader in ovid,
+    "fast." v. 675 foll., "grant me to-day my daily... fraud!" but
+    in spite of himself (like dogberry), he seems to pray to the gods
+    to "write him down an ass"!
+
+pass on (said callias); now it is your turn, socrates. what have you to
+say to justify your choice? how can you boast of so discredited an art?
+(87)
+
+ (87) sc. "the hold-door trade."
+
+he answered: let us first decide (88) what are the duties of the good
+go-between; (89) and please to answer every question without hesitating;
+let us know the points to which we mutually assent. (90) are you agreed
+to that?
+
+ (88) or, "define in common." cf. "mem." iv. vi. 15.
+
+ (89) or, "man-praiser." cf. "the manx witch," p. 47 (t. e. brown),
+    "and harry, more like a dooiney-molla for jack, lak helpin him to
+    woo." see, too, mr. hall caine's "manxman," p. 73.
+
+ (90) see plat. "rep." 342 d, for a specimen of socratic procedure,
+    "from one point of agreement to another."
+
+the company, in chorus. without a doubt (they answered, and the formula,
+once started, was every time repeated by the company, full chorus).
+
+soc. are you agreed it is the business of a good go-between to make him
+(or her) on whom he plies his art agreeable to those with them? (91)
+
+ (91) al. "their followers." see "mem." ii. vi. 36.
+
+omnes. without a doubt.
+
+soc. and, further, that towards agreeableness, one step at any rate
+consists in wearing a becoming fashion of the hair and dress? (92) are
+you agreed to that?
+
+ (92) see becker, "char." exc. iii. to sc. xi.
+
+omnes. without a doubt.
+
+soc. and we know for certain, that with the same eyes a man may dart a
+look of love or else of hate (93) on those he sees. are you agreed?
+
+ (93) see "mem." iii. x. 5.
+
+omnes. without a doubt.
+
+soc. well! and with the same tongue and lips and voice may speak with
+modesty or boastfulnes?
+
+omnes. without a doubt.
+
+soc. and there are words that bear the stamp of hate, and words that
+tend to friendliness? (94)
+
+ (94) cf. ep. st. james iii. 10, "out of the same mouth proceedeth
+    blessing and cursing."
+
+omnes. without a doubt.
+
+soc. the good go-between will therefore make his choice between them,
+and teach only what conduces to agreeableness?
+
+omnes. without a doubt.
+
+soc. and is he the better go-between who can make his clients pleasing
+to one person only, or can make them pleasing to a number? (95)
+
+ (95) or, "to the many." the question is ambiguous. {e} = "an" or
+    "quam."
+
+the company was here divided; the one half answered, "yes, of course,
+the largest number," whilst the others still maintained, "without a
+doubt."
+
+and socrates, remarking, "that proposition is agreed to also," thus
+proceeded: and if further he were able to make them pleasing to the
+whole community, should we not have found in this accomplished person an
+arch-go-between?
+
+clearly so (they answered with one voice).
+
+soc. if then a man had power to make his clients altogether pleasing;
+that man, i say, might justly pride himself upon his art, and should by
+rights receive a large reward? (96)
+
+ (96) or, "he deserves to do a rattling business," "to take handsome
+    fees." cf. sheridan's mrs. coupler, in "a trip to scarborough."
+
+and when these propositions were agreed to also, he turned about
+and said: just such a man, i take it, is before you in the person of
+antisthenes! (97)
+
+ (97) see diog. laert. "antisth." vi. i. 8; plut. "symp." ii. 1. 503.
+
+whereupon antisthenes exclaimed: what! are you going to pass on the
+business? will you devolve this art of yours on me as your successor,
+socrates? (98)
+
+ (98) or, "going to give up business, and hand on the trade to me as
+    your successor?"
+
+i will, upon my word, i will (he answered): since i see that you have
+practised to some purpose, nay elaborated, an art which is the handmaid
+to this other.
+
+and what may that be? asked antisthenes.
+
+soc. the art of the procurer. (99)
+
+ (99) cf. plat. "theaet." 150 a; aristot. "eth. n." v. 2, 13; aeschin.
+    3, 7; plut. "solon," 23.
+
+the other (in a tone of deep vexation): pray, what thing of the sort are
+you aware i ever perpetrated?
+
+soc. i am aware that it was you who introduced our host here, callias,
+to that wise man prodicus; (100) they were a match, you saw, the one
+enamoured of philosophy, and the other in need of money. it was you
+again, i am well enough aware, who introduced him once again to hippias
+(101) of elis, from whom he learnt his "art of memory"; (102) since
+which time he has become a very ardent lover, (103) from inability to
+forget each lovely thing he sets his eyes on. and quite lately, if i
+am not mistaken, it was you who sounded in my ears such praise of our
+visitor from heraclea, (104) that first you made me thirst for his
+society, and then united us. (105) for which indeed i am your debtor,
+since i find him a fine handsome fellow and true gentleman. (106) and
+did you not, moreover, sing the praises of aeschylus of phlius (107) in
+my ears and mine in his?--in fact, affected us so much by what you said,
+we fell in love and took to coursing wildly in pursuit of one another
+like two dogs upon a trail. (108)
+
+ (100) or, "the sage," "the sophist." see "mem." i. vi. 13; ii. i. 21.
+
+ (101) see "mem." iv. iv. 5; and for his art of memory cf. plat. "hipp.
+    min." 368 d; "hipp. maj." 285 e.
+
+ (102) the "memoria technica" (see aristot. "de an." iii. 3, 6), said
+    to have been invented by simonides of ceos. cic. "de or." ii. 86;
+    "de fin." ii. 32; quinct. xi. 2. 559.
+
+ (103) or, "has grown amorous to a degree"  (al. "an adept in love's
+    lore himself." cf. plat. "rep." 474 d, "an authority in love."--
+    jowett) "for the simple reason he can't forget each lovely thing
+    he once has seen." through the "ars memoriae" of hippias, it
+    becomes an "idee fixe" of the mind.
+
+ (104) perhaps zeuxippus. see plat. "prot." 318 b. al. zeuxis, also a
+    native of heraclea. see "mem." i. iv. 3; "econ." x. 1.
+
+ (105) or, "introduced him to me." cf. "econ." iii. 14; plat. "lach."
+    200 d.
+
+ (106) "an out-and-out {kalos te kagathos}."
+
+ (107) who this phliasian is, no one knows.
+
+ (108) al. "like two hounds chevying after one another."
+
+with such examples of your wonder-working skill before my eyes, i
+must suppose you are a first-rate matchmaker. for consider, a man with
+insight to discern two natures made to be of service to each other, and
+with power to make these same two people mutually enamoured! that is the
+sort of man, i take it, who should weld together states in friendship;
+cement alliances with gain to the contracting parties; (109) and, in
+general, be found an acquisition to those several states; to friends and
+intimates, and partisans in war, a treasure worth possessing. (110) but
+you, my friend, you got quite angry. one would suppose i had given you
+an evil name in calling you a first-rate matchmaker.
+
+ (109) al. "and cement desirable matrimonial connections." cf. aristot.
+    "pol." iii. 9, 13. 1280 b; v. 4, 5-8. 1303 b.
+
+ (110) see the conversation with critobulus, so often referred to,
+    {peri philias}, in "mem." ii. vi.
+
+yes (he answered meekly), but now i am calm. it is clear enough, if
+i possess these powers i shall find myself surcharged with spiritual
+riches.
+
+in this fashion the cycle of the speeches was completed. (111)
+
+ (111) see hug, "einleitung," xxxi. "quellen des platonischen
+    symposion."
+
+
+
+v
+
+then callias: our eyes are on you, critobulus. yours to enter the lists
+(1) against the champion socrates, who claims the prize of beauty. do
+you hesitate?
+
+ (1) soph. "fr." 234; thuc. i. 93.
+
+soc. likely enough he does, for possibly he sees sir pandarus stands
+high in their esteem who are the judges of the contest.
+
+in spite of which (retorted critobulus), i am not for drawing back. (2)
+i am ready; so come on, and if you have any subtle argument to prove
+that you are handsomer than i am, now's your time, instruct us. but just
+stop one minute; have the goodness, please, to bring the lamp a little
+closer.
+
+ (2) or, "i do; but all the same, i am not for shirking." cf. aristoph.
+    "frogs," 860, {etiomos eum egoge, kouk anaduomai, daknein}: "i'm
+    up to it; i am resolved" (frere); dem. "de f. leg." 406 20: "his
+    resolution never reached that point, but shrank back, for his
+    conscience checked it" (kennedy).
+
+soc. well then, i call upon you first of all, as party to this suit,
+to undergo the preliminary examination. (3) attend to what i say, and
+please be good enough to answer.
+
+ (3) the {anakrisis}, or "previous inquiry" (before one of the archons)
+    of parties concerned in a suit, to see whether the action lay. cf.
+    plat. "charm." 176 c. see gow, "companion," xiv. 74.
+
+crit. do you be good enough yourself to put your questions.
+
+soc. do you consider that the quality of beauty is confined to man, or
+is it to be found in other objects also? what is your belief on this
+point?
+
+crit. for my part, i consider it belongs alike to animals--the horse,
+the ox--and to many things inanimate: that is to say, a shield, a sword,
+a spear are often beautiful.
+
+soc. how is it possible that things, in no respect resembling one
+another, should each and all be beautiful? (4)
+
+ (4) see "mem." iii. viii. 5, quoted by galen, "de usu part." i. 370.
+
+crit. of course it is, god bless me! if well constructed by the hand
+of man to suit the sort of work for which we got them, or if naturally
+adapted to satisfy some want, the things in either case are beautiful.
+
+soc. can you tell me, then, what need is satisfied by our eyes?
+
+crit. clearly, the need of vision.
+
+soc. if so, my eyes are proved at once to be more beautiful than yours.
+
+crit. how so?
+
+soc. because yours can only see just straight in front of them, whereas
+mine are prominent and so projecting, they can see aslant. (5)
+
+ (5) or, "squint sideways and command the flanks."
+
+crit. and amongst all animals, you will tell us that the crab has
+loveliest eyes? (6) is that your statement?
+
+ (6) or, "is best provided in respect of eyeballs."
+
+soc. decidedly, the creature has. and all the more so, since for
+strength and toughness its eyes by nature are the best constructed.
+
+crit. well, let that pass. to come to our two noses, which is the more
+handsome, yours or mine?
+
+soc. mine, i imagine, if, that is, the gods presented us with noses for
+the sake of smelling. your nostrils point to earth; but mine are spread
+out wide and flat, as if to welcome scents from every quarter.
+
+crit. but consider, a snubness of the nose, how is that more beautiful
+than straightness? (7)
+
+ (7) or, "your straight nose." cf. plat. "theaet." 209 c: soc. "or, if
+    i had further known you not only as having nose and eyes, but as
+    having a snub nose and prominent eyes, should i have any more
+    notion of you than myself and others who resemble me?" cf. also
+    aristot. "pol." v. 9, 7: "a nose which varies from the ideal of
+    straightness to a hook or snub may still be a good shape and
+    agreeable to the eye; but if the excess be very great, all
+    symmetry is lost, and the nose at last ceases to be a nose at all
+    on account of some excess in one direction or defect in the other;
+    and this is true of every other part of the human body. the same
+    law of proportion holds in states."--jowett.
+
+soc. for this good reason, that a snub nose does not discharge the
+office of a barrier; (8) it allows the orbs of sight free range of
+vision: whilst your towering nose looks like an insulting wall of
+partition to shut off the two eyes. (9)
+
+ (8) or, "the humble snub is not a screen or barricade."
+
+ (9) cf. "love's labour lost," v. 2. 568: boyet. "your nose says no,
+    you are not, for it stands too right"; also "the song of solomon,"
+    vii. 4: "thy nose is the tower of lebanon, which looketh toward
+    damascus."
+
+as to the mouth (proceeded critobulus), i give in at once; for, given
+mouths are made for purposes of biting, you could doubtless bite off a
+much larger mouthful with your mouth than i with mine.
+
+soc. yes, and you will admit, perhaps, that i can give a softer kiss
+than you can, thanks to my thick lips.
+
+crit. it seems i have an uglier mouth than any ass.
+
+soc. and here is a fact which you will have to reckon with, if further
+evidence be needed to prove that i am handsomer than you. the naiads,
+nymphs, divine, have as their progeny sileni, who are much more like
+myself, i take it, than like you. is that conclusive?
+
+nay, i give it up (cried critobulus), i have not a word to say in
+answer. i am silenced. let them record the votes. i fain would know at
+once what i must suffer or must pay. (10) only (he added) let them vote
+in secret. (11) i am afraid your wealth and his (antisthenes') combined
+may overpower me.
+
+ (10) for this formula see "dict. ant." {timema}. cf. "econ." xi. 25;
+    plat. "apol." 36 b; "statesm." 299 a; "laws," freq.; dem. 529. 23;
+    533. 2.
+
+ (11) and not as in the case described (thuc. iv. 74), where the people
+    (at megara) were compelled to give sentence on the political
+    opponents of the oligarchs by an open vote. cf. lysias, 133, 12,
+    {ten de psephon ouk eis kadiskous, alla phaneran epi tas trapezas
+    tautas dei tithenai}.
+
+accordingly the boy and girl began to register the votes in secret,
+while socrates directed the proceedings. he would have the lamp-stand
+(12) this time brought close up to critobulus; the judges must on no
+account be taken in; the victor in the suit would get from the two
+judges, not a wreath of ribands (13) for a chaplet, but some kisses.
+
+ (12) {ton lukhnon} here, above, s. 2, {ton lamptera}. both, i take it,
+    are oil-lamps, and differ merely as "light" and "lamp."
+
+ (13) cf. plat. "symp." 213; "hell." v. i. 3.
+
+when the urns were emptied, it was found that every vote, without
+exception, had been cast for critobulus. (14)
+
+ (14) lit. "when the pebbles were turned out and proved to be with
+    critobulus, socrates remarked, 'papae!'" which is as much to say,
+    "od's pity!"
+
+whereat socrates: bless me! you don't say so? the coin you deal in,
+critobulus, is not at all like that of callias. his makes people just;
+whilst yours, like other filthy lucre, can corrupt both judge and jury.
+(15)
+
+ (15) {kai dikastas kai kritas}, "both jury and presiding judges," i.e.
+    the company and the boy and girl.
+
+
+
+vi
+
+thereupon some members of the party called on critobulus to accept the
+meed of victory in kisses (due from boy and girl); others urged him
+first to bribe their master; whilst others bandied other jests. amidst
+the general hilarity hermogenes alone kept silence.
+
+whereat socrates turned to the silent man, and thus accosted him:
+hermogenes, what is a drunken brawl? can you explain to us?
+
+he answered: if you ask me what it is, i do not know, but i can tell you
+what it seems to me to be.
+
+soc. that seems as good. what does it seem?
+
+her. a drunken brawl, in my poor judgment, is annoyance caused to people
+over wine.
+
+soc. are you aware that you at present are annoying us by silence?
+
+her. what, whilst you are talking?
+
+soc. no, when we pause a while.
+
+her. then you have not observed that, as to any interval between your
+talk, a man would find it hard to insert a hair, much more one grain of
+sense.
+
+then socrates: o callias, to the rescue! help a man severely handled by
+his cross-examiner.
+
+call. with all my heart (and as he spoke he faced hermogenes). why, when
+the flute is talking, we are as silent as the grave.
+
+her. what, would you have me imitate nicostratus (1) the actor, reciting
+his tetrameters (2) to the music of the fife? must i discourse to you in
+answer to the flute?
+
+ (1) see cobet, "pros. xen." p. 53; and cf. diog. laert. iv. 3, 4;
+    polyaen. vi. 10; "hell." iv. viii. 18.
+
+ (2) see aristoph. "clouds," where socrates is giving strepsiades a
+    lesson in "measures," 639-646: {poteron to trimetron e to
+    tetrametron}.
+
+then socrates: by all that's holy, i wish you would, hermogenes. how
+delightful it would be. just as a song sounds sweeter in concert with
+the flute, so would your talk be more mellifluous attuned to its soft
+pipings; and particularly if you would use gesticulation like the
+flute-girl, to suit the tenor of your speech.
+
+here callias demanded: and when our friend (antisthenes) essays to
+cross-examine people (3) at a banquet, what kind of piping (4) should he
+have?
+
+ (3) or, "a poor body," in reference to the elentic onslaught made on
+    himself by antisthenes above.
+
+ (4) {to aulema}, a composition for reed instruments, "music for the
+    flute." cf. aristoph. "frogs," 1302.
+
+ant. the person in the witness-box would best be suited with a
+serpent-hissing theme. (5)
+
+ (5) or, "motif on a scrannel pipe." see l. & s. s.v. {puthaules}. cf.
+    poll. iv. 81, {puthikon aulema}, an air ({nomos}) played on the
+    {puthois aulos}, expressing the battle between apollo and the
+    python, the hiss of which was imitated.
+
+thus the stream of talk flowed on; until the syracusan, who was
+painfully aware that while the company amused themselves, his
+"exhibition" was neglected, turned, in a fit of jealous spleen, at last
+on socrates. (6)
+
+ (6) "the syracusan is 'civil as an orange, and of that jealous
+    complexion.'"
+
+the syr. they call you socrates. are you that person commonly nicknamed
+the thinker? (7)
+
+ (7) apparently he has been to see the "clouds" (exhibited first in 423
+    b.c.), and has conceived certain ideas concerning socrates, "a
+    wise man, who speculated about the heaven above, and searched into
+    the earth beneath, and made the worse appear the better cause."
+    plat. "apol." 18 b, 19 c. "clouds," 101, 360, {khair o presbuta
+   ... ton nun meteorosophiston... ta te meteora phrontistes}.
+
+soc. which surely is a better fate than to be called a thoughtless
+person?
+
+the syr. perhaps, if you were not thought to split your brains on things
+above us--transcendental stuff. (8)
+
+ (8) or, "if only you were held to be less 'meteoric,' less head-in-
+    airy in your speculations."
+
+soc. and is there anything more transcendental than the gods?
+
+the syr. by heaven! no, it is not the gods above us whom you care for,
+but for matters void of use and valueless. (9)
+
+ (9) it is impossible to give the play on words. the syr.
+    {anophelestaton}. soc. {ano... ophelousin}. schenkl after
+    madvig emend.: {ton ano en nephelais onton} = "but for things in
+    the clouds above."
+
+soc. it seems, then, by your showing i do care for them. how value less
+the gods, not more, if being above us they make the void of use to send
+us rain, and cause their light to shine on us? and now, sir, if you do
+not like this frigid (10) argument, why do you cause me trouble? the
+fault is yours. (11)
+
+ (10) cf. "cyrop." viii. iv. 22, 23.
+
+ (11) {pho parekhousin... pragmata moi parekhon}. lit. "cause light
+   ... causing me trouble."
+
+well, let that be (the other answered); answer me one question: how
+many fleas' feet distance is it, pray, from you to me? (12) they say you
+measure them by geometric scale.
+
+ (12) see aristoph. "clouds," 144 foll.:
+
+{aneret' arti khairephonta sokrates psullan oposous alloito tous autes
+podas dakousa gar...}
+
+    cf. lucian, ii. "prom. in verb. 6," and "hudibras, the second part
+    of," canto iii.:
+
+how many scores a flea will jump of his own length from head to rump
+which socrates and chaerephon in vain essayed so long agon.
+
+but here antisthenes, appealing to philippus, interposed: you are a
+man full of comparisons. (13) does not this worthy person strike you as
+somewhat like a bully seeking to pick a quarrel? (14)
+
+ (13) like biron, "l. l. l." v. 2. 854. or, "you are a clever
+    caricaturist." see plat. "symp." 215 a; hug, "enleitung," xiv.;
+    aristoph. "birds," 804 (frere, p. 173); "wasps," 1309.
+
+ (14) aristoph. "frogs," 857, "for it ill beseems illustrious bards to
+    scold like market-women." (frere, p. 269); "knights," 1410, "to
+    bully"; "eccles." 142:
+
+{kai loidorountai g' osper empepokotes, kai ton paroinount' ekpherous'
+oi toxotai.}
+
+yes (replied the jester), he has a striking likeness to that person and
+a heap of others. he bristles with metaphors.
+
+soc. for all that, do not you be too eager to draw comparisons at his
+expense, or you will find yourself the image of a scold and brawler.
+(15)
+
+ (15) or, "a striking person."
+
+phil. but what if i compare him to all the primest creatures of the
+world, to beauty's nonpareils, (16) to nature's best--i might be justly
+likened to a flatterer but not a brawler. (17)
+
+ (16) lit. "compare him to those in all things beauteous and the best."
+    with {tois pasi kalois kai tois beltistois} cf. thuc. v. 28, {oi
+    'argeioi arista eskhon tois pasi}, "the argives were in excellent
+    condition in all respects." as to philippus's back-handed
+    compliment to the showman, it reminds one of peter quince's
+    commendation of bottom: "yea and the best person too; and he is a
+    very paramour for a sweet voice."
+
+ (17) it is not easy to keep pace with the merryman's jests; but if i
+    follow his humour, he says to socrates: "if the cap is to fit, you
+    must liken me to one who quits 'assault and battery' for
+    'compliments  (sotto voce, "lies") and flattery.'"
+
+soc. why now, you are like a person apt to pick a quarrel, since you
+imply they are all his betters. (18)
+
+ (18) when socrates says {ei pant' autou beltio phes einai, k.t.l.},
+    the sense seems to be: "no, if you say that all these prime
+    creatures are better than he is, you are an abusive person still."
+
+phil. what, would you have me then compare him to worse villains?
+
+soc. no, not even to worse villains.
+
+phil. what, then, to nothing, and to nobody?
+
+soc. to nought in aught. let him remain his simple self--
+
+phil. incomparable. but if my tongue is not to wag, whatever shall i do
+to earn my dinner?
+
+soc. why, that you shall quite easily, if with your wagging tongue you
+do not try to utter things unutterable.
+
+here was a pretty quarrel over wine soon kindled and soon burnt.
+
+
+
+vii
+
+but on the instant those who had not assisted in the fray gave tongue,
+the one part urging the jester to proceed with his comparisons, and the
+other part dissuading.
+
+the voice of socrates was heard above the tumult: since we are all so
+eager to be heard at once, what fitter time than now to sing a song, in
+chorus.
+
+and suiting the action to the words, he commenced a stave.
+
+the song was barely finished, when a potter's wheel was brought in, on
+which the dancing-girl was to perform more wonders.
+
+at this point socrates addressed the man of syracuse: it seems i am
+likely to deserve the title which you gave me of a thinker in good
+earnest. just now i am speculating by what means your boy and girl may
+pass a happy time, and we spectators still derive the greatest pleasure
+from beholding them; and this, i take it, is precisely what you would
+yourself most wish. now i maintain, that throwing somersaults in and out
+of swords is a display of danger uncongenial to a banquet. and as for
+writing and reading on a wheel that all the while keeps whirling, i do
+not deny the wonder of it, but what pleasure such a marvel can present,
+i cannot for the life of me discover. nor do i see how it is a whit more
+charming to watch these fair young people twisting about their bodies
+and imitating wheels than to behold them peacefully reposing.
+
+we need not fare far afield to light on marvels, if that is our object.
+all about us here is full of marvel; we can begin at once by wondering,
+why it is the candle gives a light by dint of its bright flame, while
+side by side with it the bright bronze vessel gives no light, but shows
+within itself those other objects mirrored. (1) or, how is it that oil,
+being moist and liquid, keeps that flame ablaze, but water, just because
+it is liquid, quenches fire. but no more do these same marvels tend to
+promote the object of the wine-cup. (2)
+
+ (1) cf. "mem." iv. vii. 7. socrates' criticism of anaxagoras' theory
+    with regard to the sun.
+
+ (2) lit. "work to the same end as wine."
+
+but now, supposing your young people yonder were to tread a measure to
+the flute, some pantomime in dance, like those which the graces and the
+hours with the nymphs are made to tread in pictures, (3) i think they
+would spend a far more happy time themselves, and our banquet would at
+once assume a grace and charm unlooked for.
+
+ (3) cf. plat. "laws," vii. 815 c; hor. "carm." i. 4. 6:
+
+iunctaeque nymphis gratiae decentes alterno terram quatiunt pede.
+
+the graces and the nymphs, together knit, with rhythmic feet the meadow
+beat (conington).
+
+    ib. iv. 7. 5.
+
+the syracusan caught the notion readily.
+
+by all that's holy, socrates (he cried), a capital suggestion, and for
+my part, i warrant you, i will put a piece upon the stage, which will
+delight you, one and all.
+
+
+
+viii
+
+with these words the syracusan made his exit, bent on organising his
+performance. (1) as soon as he was gone, socrates once more essayed a
+novel argument. (2) he thus addressed them:
+
+ (1) {sunekroteito}, "on the composition of his piece." al. "amidst a
+    round of plaudits."
+
+ (2) "struck the keynote of a novel theme." cf. plat. "symp." 177 e.
+
+it were but reasonable, sirs, on our part not to ignore the mighty
+power here present, (3) a divinity in point of age coequal with the
+everlasting gods, yet in outward form the youngest, (4) who in magnitude
+embraces all things, and yet his shrine is planted in the soul of man.
+love (5) is his name! and least of all should we forget him who are one
+and all votaries of this god. (6) for myself i cannot name the time at
+which i have not been in love with some one. (7) and charmides here has,
+to my knowledge, captivated many a lover, while his own soul has gone
+out in longing for the love of not a few himself. (8) so it is with
+critobulus also; the beloved of yesterday is become the lover of to-day.
+ay, and niceratus, as i am told, adores his wife, and is by her adored.
+(9) as to hermogenes, which of us needs to be told (10) that the soul
+of this fond lover is consumed with passion for a fair ideal--call it by
+what name you will--the spirit blent of nobleness and beauty. (11) see
+you not what chaste severity dwells on his brow; (12) how tranquil
+his gaze; (13) how moderate his words; how gentle his intonation; now
+radiant his whole character. and if he enjoys the friendship of the most
+holy gods, he keeps a place in his regard for us poor mortals. but how
+is it that you alone, antisthenes, you misanthrope, love nobody?
+
+ (3) cf. shelley, "hymn to intellectual beauty":
+
+the awful shadow of some unseen power floats, though unseen, among
+us....
+
+ (4) reading with l. d. after blomfield (aesch. "ag." p. 304),
+    {idrumenou}, or if as vulg. {isoumenou}, transl. "but in soul is
+    fashioned like to mortal man."
+
+ (5) "eros."
+
+ (6) or, "who are each and all of us members of his band." for
+    {thiasotai} cf. aristot. "eth. n." viii. 9. 5; aristoph. "frogs,"
+    327.
+
+ (7) cf. plat. "symp." 177 d: "no one will vote against you,
+    erysimachus, said socrates; on the only subject  ({ta erotika}) of
+    which i profess to have any knowledge, i certainly cannot refuse
+    to speak, nor, i presume, agathon and pasuanias; and there can be
+    no doubt of arisophanes, who is the constant servant of dionysus
+    and aphrodite; nor will any one disagree of those i see around me"
+    (jowett).
+
+ (8) or, "has had many a passionate admirer, and been enamoured of more
+    than one true love himself." see plat. "charm.," ad in.
+
+ (9) for love and love-for-love, {eros} and {anteros}, see plat.
+    "phaedr." 255 d. cf. aristot. "eth. n." ix. 1.
+
+ (10) lit. "which of us but knows his soul is melting away with
+    passion." cf. theocr. xiv. 26.
+
+ (11) lit. "beautiful and gentle manhood."
+
+ (12) lit. "how serious are his brows."
+
+ (13) the phrases somehow remind one of sappho's famous ode:
+
+{phainetai moi kenos isos theoisin emmen oner, ostis enantios toi
+izanei, kai plasion adu phoneusas upakouei kai gelosas imeroen}.
+
+    but there we must stop. hermogenes is a sort of sir percivale,
+    "such a courtesy spake thro' the limbs and in the voice."
+
+nay, so help me heaven! (he replied), but i do love most desperately
+yourself, o socrates!
+
+whereat socrates, still carrying on the jest, with a coy, coquettish
+air, (14) replied: yes; only please do not bother me at present. i have
+other things to do, you see.
+
+ (14) al. "like a true coquet." cf. plat. "phaedr." 228 c.
+
+antisthenes replied: how absolutely true to your own character, arch
+go-between! (15) it is always either your familiar oracle won't suffer
+you, that's your pretext, and so you can't converse with me; or you are
+bent upon something or somebody else.
+
+ (15) see "mem." iii. xi. 14.
+
+then socrates: for heaven's sake, don't carbonado (16) me, antisthenes,
+that's all. any other savagery on your part i can stand, and will stand,
+as a lover should. however (he added), the less we say about your love
+the better, since it is clearly an attachment not to my soul, but to my
+lovely person.
+
+ (16) or, "tear and scratch me."
+
+and then, turning to callias: and that you, callias, do love autolycus,
+this whole city knows and half the world besides, (17) if i am not
+mistaken; and the reason is that you are both sons of famous fathers,
+and yourselves illustrious. for my part i have ever admired your nature,
+but now much more so, when i see that you are in love with one who does
+not wanton in luxury or languish in effeminacy, (18) but who displays to
+all his strength, his hardihood, his courage, and sobriety of soul.
+to be enamoured of such qualities as these is a proof itself of a true
+lover's nature.
+
+ (17) lit. "many a foreign visitor likewise."
+
+ (18) see the attic type of character, as drawn by pericles, thuc. ii.
+    40.
+
+whether indeed aphrodite be one or twain (19) in personality, the
+heavenly and the earthly, i cannot tell, for zeus, who is one and
+indivisible, bears many titles. (20) but this thing i know, that these
+twain have separate altars, shrines, and sacrifices, (21) as befits
+their nature--she that is earthly, of a lighter and a laxer sort; she
+that is heavenly, purer and holier in type. and you may well conjecture,
+it is the earthly goddess, the common aphrodite, who sends forth the
+bodily loves; while from her that is named of heaven, ourania, proceed
+those loves which feed upon the soul, on friendship and on noble deeds.
+it is by this latter, callias, that you are held in bonds, if i mistake
+not, love divine. (22) this i infer as well from the fair and noble
+character of your friend, as from the fact that you invite his father to
+share your life and intercourse. (23) since no part of these is hidden
+from the father by the fair and noble lover.
+
+ (19) for aphrodite ourania and pandemos see plat. "symp." 180.
+
+ (20) lit. "that is believed to be the same." see cic. "de n. d." iii.
+    16. cf. aesch. "prom." 210 (of themis and gaia), {pollon onomaton
+    morphe mia}.
+
+ (21) e.g. to aphrodite pandemos a white goat, {mekas leuke}, but to
+    aphrodite ourania a heifer, and {thusiai nephaliai}, offerings
+    without wine, i.e. of water, milk, and honey. schol. to soph.
+    "oed. col." 100; lucian, lxvii. "dial. mer." 7. 1.
+
+ (22) lit. "by eros."
+
+ (23) cf. plat. "prot." 318 a; aristoph. "thesmoph." 21, "learned
+    conversazioni."
+
+hermogenes broke in: by hera, socrates, i much admire you for many
+things, and now to see how in the act of gratifying callias you are
+training him in duty and true excellence. (24)
+
+ (24) lit. "teaching him what sort of man he ought to be." this, as we
+    know, is the very heart and essence of the socratic (= {xs})
+    method. see "mem." i. ii. 3.
+
+why, yes (he said), if only that his cup of happiness may overflow, i
+wish to testify to him how far the love of soul is better than the love
+of body.
+
+without friendship, (25) as we full well know, there is no society of
+any worth. and this friendship, what is it? on the part of those whose
+admiration (26) is bestowed upon the inner disposition, it is well named
+a sweet and voluntary compulsion. but among those whose desire (26) is
+for the body, there are not a few who blame, nay hate, the ways of their
+beloved ones. and even where attachment (26) clings to both, (27) even
+so the bloom of beauty after all does quickly reach its prime; the
+flower withers, and when that fails, the affection which was based upon
+it must also wither up and perish. but the soul, with every step she
+makes in her onward course towards deeper wisdom, grows ever worthier of
+love.
+
+ (25) lit. "that without love no intercourse is worth regarding, we all
+    know."
+
+ (26) n.b.--{agamenon, epithumounton, sterxosi}. here, as often, the
+    author seems to have studied the {orthoepeia} of prodicus. see
+    "mem." ii. i. 24.
+
+ (27) i.e. "body and character."
+
+ay, and in the enjoyment of external beauty a sort of surfeit is
+engendered. just as the eater's appetite palls through repletion with
+regard to meats, (28) so will the feelings of a lover towards his idol.
+but the soul's attachment, owing to its purity, knows no satiety.
+(29) yet not therefore, as a man might fondly deem, has it less of the
+character of loveliness. (30) but very clearly herein is our prayer
+fulfilled, in which we beg the goddess to grant us words and deeds that
+bear the impress of her own true loveliness. (31)
+
+ (28) cf. "mem." iii. xi. 13.
+
+ (29) lit. "is more insatiate." cf. charles wesley's hymn:
+
+o love divine, how sweet thou art! when shall i find my willing heart
+all taken up by thee?
+
+ (30) lit. "is she, the soul, more separate from aphrodite."
+
+ (31) or, "stamped with the image of aphrodite." zeune cf. lucr. i. 24,
+    addressing venus, "te sociam studeo scribendis versibus esse," "i
+    would have thee for a helpmate in writing the verses..."; and
+    below, 28, "quo magis aeternum da dictis, diva, leporem,"
+    "wherefore all the more, o lady, lend my lays an ever-living
+    charm" (h. a. j. munro).
+
+that a soul whose bloom is visible alike in beauty of external form,
+free and unfettered, and an inner disposition, bashful, generous; a
+spirit (32) at once imperial and affable, (33) born to rule among its
+fellows--that such a being will, of course, admire and fondly cling to
+his beloved, is a thesis which needs no further argument on my part.
+rather i will essay to teach you, how it is natural that this same type
+of lover should in turn be loved by his soul's idol. (34)
+
+ (32) cf. plat. "phaedr." 252 e.
+
+ (33) the epithet {philophron} occurs "mem." iii. i. 6, of a general;
+    ib. iii. v. 3 (according to the vulg. reading), of the athenians.
+
+ (34) or, "the boy whom he cherishes."
+
+how, in the first place, is it possible for him to hate a lover who,
+he knows, regards him as both beautiful and good? (35) and, in the next
+place, one who, it is clear, is far more anxious to promote the fair
+estate of him he loves (36) than to indulge his selfish joys? and above
+all, when he has faith and trust that neither dereliction, (37) nor
+loss of beauty through sickness, nor aught else, will diminish their
+affection.
+
+ (35) or, "perfection."
+
+ (36) lit. "the boy."
+
+ (37) reading {en para ti poiese}. al. "come what come may," lit. "no
+    alteration"; or if reading {parebese} transl. "although his may of
+    youth should pass, and sickness should mar his features, the tie
+    of friendship will not be weakened."
+
+if, then, they own a mutual devotion, (38) how can it but be, they will
+take delight in gazing each into the other's eyes, hold kindly converse,
+trust and be trusted, have forethought for each other, in success
+rejoice together, in misfortune share their troubles; and so long as
+health endures make merry cheer, day in day out; or if either of
+them should fall on sickness, then will their intercourse be yet more
+constant; and if they cared for one another face to face, much more will
+they care when parted. (39) are not all these the outward tokens of true
+loveliness? (40) in the exercise of such sweet offices, at any rate,
+they show their passion for holy friendship's state, and prove its
+bliss, continuously pacing life's path from youth to eld.
+
+ (38) for beauty of style (in the original) zeune cf. "mem." ii. vi. 28
+    foll.; iii. xi. 10.
+
+ (39) "albeit absent from one another in the body, they are more
+    present in the soul." cf. virg. "aen." iv. 83, "illum absens
+    absentem auditque videtque."
+
+ (40) or, "bear the stamp of aphrodite."
+
+but the lover who depends upon the body, (41) what of him? first, why
+should love-for-love be given to such a lover? because, forsooth, he
+bestows upon himself what he desires, and upon his minion things of dire
+reproach? or that what he hastens to exact, infallibly must separate
+that other from his nearest friends?
+
+ (41) or, "is wholly taken up with." cf. plat. "laws," 831 c.
+
+if it be pleaded that persuasion is his instrument, not violence; is
+that no reason rather for a deeper loathing? since he who uses violence
+(42) at any rate declares himself in his true colours as a villain,
+while the tempter corrupts the soul of him who yields to his
+persuasions.
+
+ (42) cf. "hiero," iii. 3; "cyrop." iii. i. 39.
+
+ay, and how should he who traffics with his beauty love the purchaser,
+any more than he who keeps a stall in the market-place and vends to the
+highest bidder? love springs not up, i trow, because the one is in his
+prime, and the other's bloom is withered, because fair is mated with
+what is not fair, and hot lips are pressed to cold. between man and
+woman it is different. there the wife at any rate shares with her
+husband in their nuptial joys; but here conversely, the one is sober and
+with unimpassioned eye regards his fellow, who is drunken with the wine
+of passion. (43)
+
+ (43) lit. "by aphrodite." cf. plat. "phaedr." 240, "but the lover
+   ... when he is drunk" (jowett); "symp." 214 c.
+
+wherefore it is no marvel if, beholding, there springs up in his breast
+the bitterest contempt and scorn for such a lover. search and you shall
+find that nothing harsh was ever yet engendered by attachment based on
+moral qualities; whilst shameless intercourse, time out of mind, has
+been the source of countless hateful and unhallowed deeds. (44)
+
+ (44) zeune cf. ael. "v. h." viii. 9, re archelaus king of macedon,
+    concerning whom aristotle, "pol." v. 10. 1311 b: "many
+    conspiracies have originated in shameful attempts made by
+    sovereigns on the persons of their subjects. such was the attack
+    of crataeus upon archelaus," etc. (jowett).
+
+i have next to show that the society of him whose love is of the body,
+not the soul, is in itself illiberal. the true educator who trains
+another in the path of virtue, who will teach us excellence, whether
+of speech or conduct, (45) may well be honoured, even as cheiron and
+phoenix (46) were honoured by achilles. but what can he expect, who
+stretches forth an eager hand to clutch the body, save to be treated
+(47) as a beggar? that is his character; for ever cringing and
+petitioning a kiss, or some other soft caress, (48) this sorry suitor
+dogs his victims.
+
+ (45) phoenix addresses achilles, "il." ix. 443:
+
+{muthon te reter' emenai, prektera te ergon}
+
+therefore sent he (peleus) me to thee to teach thee all things, to be
+both a speaker of words and a doer of deeds (w. leaf).
+
+ (46) see "il." xi. 831; "hunting," ch. i., as to cheiron and his
+    scholars, the last of whom is achilles.
+
+ (47) {an periepoito}. "he will be scurvily treated." cf. "hell." iii.
+    i. 19.
+
+ (48) cf. "mem." i. ii. 29.
+
+if my language has a touch of turbulence, (49) do not marvel: partly the
+wine exalts me; partly that love which ever dwells within my heart
+of hearts now pricks me forward to use great boldness of speech (50)
+against his base antagonist. why, yes indeed, it seems to me that he who
+fixes his mind on outward beauty is like a man who has taken a farm on
+a short lease. he shows no anxiety to improve its value; his sole object
+being to take off it the largest crops he can himself. but he whose
+heart is set on loyal friendship resembles rather a man who has a
+farmstead of his own. at any rate, he scours the wide world to find what
+may enhance the value of his soul's delight. (51)
+
+ (49) or, "wantonness"; and for the apology see plat. "phaedr." 238: "i
+    appear to be in a divine fury, for already i am getting into
+    dithyrambics" (jowett).
+
+ (50) lit. "to speak openly against that other sort of love which is
+    its rival."
+
+ (51) cf. michelet, i think, as to the french peasant-farmer regarding
+    his property as "sa femme."
+
+again, let us consider the effect upon the object of attachment. let him
+but know his beauty is a bond sufficient to enthrall his lover, (52) and
+what wonder if he be careless of all else and play the wanton. let him
+discover, on the contrary, that if he would retain his dear affection
+he must himself be truly good and beautiful, and it is only natural he
+should become more studious of virtue. but the greatest blessing which
+descends on one beset with eager longing to convert the idol of his soul
+into a good man and true friend is this: necessity is laid upon himself
+to practise virtue; since how can he hope to make his comrade good,
+if he himself works wickedness? is it conceivable that the example he
+himself presents of what is shameless and incontinent, (53) will serve
+to make the beloved one temperate and modest?
+
+ (52) or, "that by largess of beauty he can enthrall his lover."
+
+ (53) see plat. "symp." 182 a, 192 a.
+
+i have a longing, callias, by mythic argument (54) to show you that not
+men only, but gods and heroes, set greater store by friendship of
+the soul than bodily enjoyment. thus those fair women (55) whom zeus,
+enamoured of their outward beauty, wedded, he permitted mortal to
+remain; but those heroes whose souls he held in admiration, these he
+raised to immortality. of whom are heracles and the dioscuri, and there
+are others also named. (56) as i maintain, it was not for his body's
+sake, but for his soul's, that ganymede (57) was translated to olympus,
+as the story goes, by zeus. and to this his very name bears witness, for
+is it not written in homer?
+
+    and he gladdens ({ganutai}) to hear his voice. (58)
+
+this the poet says, meaning "he is pleased to listen to his words."
+
+ (54) or, "i have a desire to romance a little," "for your benefit to
+    explain by legendary lore." cf. isocr. 120 c; plat. "rep." 392 b.
+
+ (55) e.g. leda, danae, europa, alcmena, electra, latona, laodamia
+    (zeune).
+
+ (56) see "hunting," i.; "hell." vi. iii. 6.
+
+ (57) see plat. "phaedr." 255 c; cic. "tusc." i. 26, "nec homerum audio
+   ... divina mallem ad nos," a protest against anthropomorphism in
+    religion.
+
+ (58) not in "our" version of homer, but cf. "il." xx. 405, {ganutai de
+    te tois 'enosikhthon}; "il." xiii. 493, {ganutai d' ara te phrena
+    poimen}.
+
+and again, in another passage he says:
+
+    knowing deep devices ({medea}) in his mind, (59)
+
+which is as much as to say, "knowing wise counsels in his mind."
+ganymede, therefore, bears a name compounded of the two words, "joy" and
+"counsel," and is honoured among the gods, not as one "whose body," but
+"whose mind" "gives pleasure."
+
+ (59) partly "il." xxiv. 674, {pukina phresi mede' ekhontes}; and "il."
+    xxiv. 424, {phila phresi medea eidos}. cf. "od." vi. 192; xviii.
+    67, 87; xxii. 476.
+
+furthermore (i appeal to you, niceratus), (60) homer makes achilles
+avenge patroclus in that brilliant fashion, not as his favourite, but
+as his comrade. (61) yes, and orestes and pylades, (62) theseus
+and peirithous, (63) with many another noble pair of demigods, are
+celebrated as having wrought in common great and noble deeds, not
+because they lay inarmed, but because of the admiration they felt for
+one another.
+
+ (60) as an authority on homer.
+
+ (61) cf. plat. "symp." 179 e: "the notion that patroclus was the
+    beloved one is a foolish error into which aeschylus has fallen,"
+    etc. (in his "myrmidons"). see j. a. symonds, "the greek poets,"
+    2nd series, "achilles," p. 66 foll.
+
+ (62) concerning whom ovid ("pont." iii. 2. 70) says, "nomina fama
+    tenet."
+
+ (63) see plut. "thes." 30 foll. (clough, i. p. 30 foll.); cf. lucian,
+    xli. "toxaris," 10.
+
+nay, take the fair deeds of to-day: and you shall find them wrought
+rather for the sake of praise by volunteers in toil and peril, than by
+men accustomed to choose pleasure in place of honour. and yet pausanias,
+(64) the lover of the poet agathon, (65) making a defence in behalf (66)
+of some who wallow in incontinence, has stated that an army composed
+of lovers and beloved would be invincible. (67) these, in his opinion,
+would, from awe of one another, have the greatest horror of destruction.
+a truly marvellous argument, if he means that men accustomed to turn
+deaf ears to censure and to behave to one another shamelessly, are more
+likely to feel ashamed of doing a shameful deed. he adduced as evidence
+the fact that the thebans and the eleians (68) recognise the very
+principle, and added: though they sleep inarmed, they do not scruple
+to range the lover side by side with the beloved one in the field of
+battle. an instance which i take to be no instance, or at any rate
+one-sided, (69) seeing that what they look upon as lawful with us is
+scandalous. (70) indeed, it strikes me that this vaunted battle-order
+would seem to argue some mistrust on their part who adopt it--a
+suspicion that their bosom friends, once separated from them, may forget
+to behave as brave men should. but the men of lacedaemon, holding that
+"if a man but lay his hand upon the body and for lustful purpose, he
+shall thereby forfeit claim to what is beautiful and noble"--do, in
+the spirit of their creed, contrive to mould and fashion their "beloved
+ones" to such height of virtue, (71) that should these find themselves
+drawn up with foreigners, albeit no longer side by side with their own
+lovers, (72) conscience will make desertion of their present friends
+impossible. self-respect constrains them: since the goddess whom the men
+of lacedaemon worship is not "shamelessness," but "reverence." (73)
+
+ (64) see cobet, "pros. xen." p. 15; plat. "protag." 315 d; ael. "v.
+    h." ii. 21.
+
+ (65) ib.; aristot. "poet." ix.
+
+ (66) or, "in his 'apology' for."
+
+ (67) plat. "symp." 179 e, puts the sentiment into the mouth of
+    phaedrus: "and if there were only some way of contriving that a
+    state or an army should be made up of lovers and their loves, they
+    would be the very best governors of their own city, abstaining
+    from all dishonour, and emulating one another in honour; and when
+    fighting at one another's side, although not a mere handful, they
+    would overcome the world. for what lover would not choose rather
+    to be seen by all mankind than by his beloved, either when
+    abandoning his post or throwing away his arms? he would be ready
+    to die a thousand deaths rather than endure this. or would desert
+    his beloved or fail him in the hour of danger? the veriest coward
+    would become an inspired hero, equal to the bravest, at such a
+    time; love would inspire him. that courage which, as homer says,
+    the god breathes into the soul of heroes, love of his own nature
+    infuses into the lover" (jowett). cf. "hunting," xii. 20; "anab."
+    vii. iv. 7; "cyrop." vii. i. 30.
+
+ (68) sc. in their institutions. cf. plat. "symp." 182, "in elis and
+    boeotia"; "pol. lac." ii. 13; ael. "v. h." iii. 12, xiii. 5;
+    athen. xiii. 2. for the theban sacred band see plut. "pelop." 18,
+    19 (clough, ii. 218).
+
+ (69) or, "not in pari materia, so to speak."
+
+ (70) is not xenophon imputing himself to socrates? henkel cf. plat.
+    "crito," 52 e. see newman, op. cit. i. 396.
+
+ (71) or, "shape to so fine a manhood that..."
+
+ (72) reading {en te aute taxei}. al. {... polei}, transl. "nor
+    indeed in the same city." cf. "hell." v. iv. 33, re death of
+    cleonymus at leuctra.
+
+ (73) lit. "aidos not anaideia." see paus. "lac." xx. 10; "attica,"
+    xvii. 1; cic. "de leg." ii. 11, a reference which i owe to m.
+    eugene talbot, "xen." i. 236.
+
+i fancy we should all agree with one another on the point in question,
+if we thus approached it. ask yourself to which type of the two must
+he (74) accord, to whom you would entrust a sum of money, make him
+the guardian of your children, look to find in him a safe and sure
+depositary of any favour? (75) for my part, i am certain that the very
+lover addicted to external beauty would himself far sooner have his
+precious things entrusted to the keeping of one who has the inward
+beauty of the soul. (76)
+
+ (74) he (the master-mistress of my passion).
+
+ (75) {kharitas} = "kindly offices," beneficia. cf. "ages." iv. 4;
+    "mem." iv. iv. 17. al. = delicias, "to deposit some darling
+    object."
+
+ (76) or, "some one truly lovable in soul and heart."
+
+ah, yes! and you, my friend (he turned to callias), you have good reason
+to be thankful to the gods who of their grace inspired you with love for
+your autolycus. covetous of honour, (77) beyond all controversy, must he
+be, who could endure so many toils and pains to hear his name proclaimed
+(78) victor in the "pankration."
+
+ (77) see "mem." ii. iii. 16; "isocr." 189 c, {ph. kai megalopsukhoi}.
+
+ (78) i.e. "by the public herald."
+
+but what if the thought arose within him: (79) his it is not merely
+to add lustre to himself and to his father, but that he has ability,
+through help of manly virtue, to benefit his friends and to exalt his
+fatherland, by trophies which he will set up against our enemies in war,
+(80) whereby he will himself become the admired of all observers, nay,
+a name to be remembered among hellenes and barbarians. (81) would he not
+in that case, think you, make much of (82) one whom he regarded as his
+bravest fellow-worker, laying at his feet the greatest honours?
+
+ (79) cf. theogn. 947:
+
+{patrida kosmeso, liparen polin, out' epi demo trepsas out' adikois
+andrasi peithomenos}.
+
+ (80) who in 421 b.c. were of course the lacedaemonians and the allies.
+    autolycus was killed eventually by the thirty to please the
+    lacedaemonian harmost. see plut. "lysand." 15 (clough, iii. 120);
+    paus. i. 18. 3; ix. 32. 8. cf. "hell." ii. iii. 14.
+
+ (81) cf. "anab." iv. i. 20; "mem." iii. vi. 2.
+
+ (82) {periepein}. cf. "cyrop." iv. iv. 12; "mem." ii. ix. 5.
+
+if, then, you wish to be well-pleasing in his eyes, you had best inquire
+by what knowledge themistocles (83) was able to set hellas free. you
+should ask yourself, what keen wit belonged to pericles (83) that he was
+held to be the best adviser of his fatherland. you should scan (84) the
+field of history to learn by what sage wisdom solon (85) established
+for our city her consummate laws. i would have you find the clue to
+that peculiar training by which the men of lacedaemon have come to be
+regarded as the best of leaders. (86) is it not at your house that their
+noblest citizens are lodged as representatives of a foreign state? (87)
+
+ (83) see "mem." ii. vi. 13; iii. vi. 2; iv. ii. 2.
+
+ (84) for the diction, {skepteon, skepteon, aphreteon, ereuneteon,
+    epistamenos, eidos, philosopheras}, xenophon's rhetorical style
+    imitates the {orthoepeia} of prodicus.
+
+ (85) see "econ." xiv. 4.
+
+ (86) or, "won for themselves at all hands the reputation of noblest
+    generalship." cf. "ages." i. 3; "pol. lac." xiv. 3.
+
+ (87) reading as vulg. {proxenoi d' ei...} or if with schenkl,
+    {proxenos d' ei...} transl. "you are their consul-general; at
+    your house their noblest citizens are lodged from time to time."
+    as to the office, cf. dem. 475. 10; 1237. 17; thuc. ii. 29;
+    boeckh, "p. e. a." 50. callias appears as the lac. {proxenos}
+    ("hell." v. iv. 22) 378 b.c., and at sparta, 371 b.c., as the
+    peace commissioner ("hell." vi. iii. 3).
+
+be sure that our state of athens would speedily entrust herself to your
+direction were you willing. (88) everything is in your favour. you are
+of noble family, "eupatrid" by descent, a priest of the divinities,
+(89) and of erechtheus' famous line, (90) which with iacchus marched to
+encounter the barbarian. (91) and still, at the sacred festival to-day,
+it is agreed that no one among your ancestors has ever been more fitted
+to discharge the priestly office than yourself; yours a person the
+goodliest to behold in all our city, and a frame adapted to undergo
+great toils.
+
+ (88) cf. "mem." iii. vii.
+
+ (89) i.e. demeter and core. callias (see "hell." vi. l.c.) was
+    dadouchos (or torch-holder) in the mysteries.
+
+ (90) or, "whose rites date back to erechtheus." cf. plat. "theag."
+    122.
+
+ (91) at salamis. the tale is told by herod. viii. 65, and plut.
+    "themist." 15; cf. polyaen. "strat." iii. 11. 2. just as
+    themistocles had won the battle of salamis by help of iacchus on
+    the 16th boedromion, the first day of the mysteries, so chabrias
+    won the sea-fight of naxos by help of the day itself, {to 'alade
+    mustai}, 376 b.c.
+
+but if i seem to any of you to indulge a vein more serious than befits
+the wine-cup, marvel not. it has long been my wont to share our city's
+passion for noble-natured souls, alert and emulous in pursuit of virtue.
+
+he ended, and, while the others continued to discuss the theme of his
+discourse, autolycus sat regarding callias. that other, glancing the
+while at the beloved one, turned to socrates.
+
+call. then, socrates, be pleased, as go-between, (92) to introduce me
+to the state, that i may employ myself in state affairs and never lapse
+from her good graces. (93)
+
+ (92) lit. "as pander."
+
+ (93) so critobulus in the conversation so often referred to. "mem."
+    ii. vi.
+
+never fear (he answered), if only people see your loyalty to virtue is
+genuine, (94) not of mere repute. a false renown indeed is quickly seen
+for what it is worth, being tested; but true courage (95) (save only
+what some god hinder) perpetually amidst the storm and stress of
+circumstance (96) pours forth a brighter glory.
+
+ (94) see "mem." i. vii. 1, passim; ii. vi. 39; "econ." x. 9.
+
+ (95) cf. thuc. ii. 42, {andragathia}, "true courage in the public
+    service covers a multitude of private shortcomings."
+
+ (96) {en tais praxesi}. cf. plat. "phaedr." 271 d, "in actual life."
+
+
+
+ix
+
+on such a note he ended his discourse.
+
+at that, autolycus, whose hour for walking exercise had now come, arose.
+his father, lycon, was about to leave the room along with him, but
+before so doing, turned to socrates, remarking:
+
+by hera, socrates, if ever any one deserved the appellation "beautiful
+and good," (1) you are that man!
+
+ (1) for {kalos ge kalathos} see "econ." vii. 2 and passim.
+
+so the pair departed. after they were gone, a sort of throne was first
+erected in the inner room abutting on the supper chamber. then the
+syracusan entered, with a speech:
+
+with your good pleasure, sirs, ariadne is about to enter the bridal
+chamber set apart for her and dionysus. anon dionysus will appear, fresh
+from the table of the gods, wine-flushed, and enter to his bride. in the
+last scene the two will play (2) with one another.
+
+ (2) {paixountai}. the syracusan naturally uses the doric form. see
+    cobet, "pros. xen." p. 16, note 23. rutherford, "n. phrynicus," p.
+    91.
+
+he had scarce concluded, when ariadne entered, attired like a bride. she
+crossed the stage and sate herself upon the throne. meanwhile, before
+the god himself appeared a sound of flutes was heard; the cadence of the
+bacchic air proclaimed his coming.
+
+at this point the company broke forth in admiration of the
+ballet-master. for no sooner did the sound of music strike upon the ear
+of ariadne than something in her action revealed to all the pleasure
+which it caused her. she did not step forward to meet her lover, she did
+not rise even from her seat; but the flutter of her unrest was plain to
+see. (3)
+
+ (3) lit. "the difficulty she had to keep so still was evident."
+
+when dionysus presently caught sight of her he loved, lightly he danced
+towards her, and with show of tenderest passion gently reclined upon her
+knees; his arms entwined about her lovingly, and upon her lips he sealed
+a kiss; (4)--she the while with most sweet bashfulness was fain to wind
+responsive arms about her lover; till the banqueters, the while they
+gazed all eyes, clapped hands and cried "encore!" but when dionysus rose
+upon his feet, and rising lifted ariadne to her full height, the action
+of those lovers as they kissed and fondled one another was a thing to
+contemplate. (5) as to the spectators, they could see that dionysus was
+indeed most beautiful, and ariadne like some lovely blossom; nor were
+those mocking gestures, but real kisses sealed on loving lips; and so,
+(6) with hearts aflame, they gazed expectantly. they could hear the
+question asked by dionysus, did she love him? and her answer, as
+prettily she swore she did. and withal so earnestly, not dionysus only,
+but all present, had sworn an oath in common: the boy and girl were
+verily and indeed a pair of happy lovers. so much less did they resemble
+actors, trained to certain gestures, than two beings bent on doing what
+for many a long day they had set their hearts on.
+
+ (4) or, "and encircling his arms about her impressed upon her lips a
+    kiss."
+
+ (5) or, "then was it possible to see the more than mimic gestures."
+
+ (6) or, "on the tiptoe of excitement." cf. "hell." iii. i. 14, iv. 2.
+
+at last when these two lovers, caught in each other's arms, were seen to
+be retiring to the nuptial couch, the members of the supper party turned
+to withdraw themselves; and whilst those of them who were unmarried
+swore that they would wed, those who were wedded mounted their horses
+and galloped off to join their wives, in quest of married joys.
+
+only socrates, and of the rest the few who still remained behind, anon
+set off with callias, to see out lycon and his son, and share the walk.
+
+and so this supper party, assembled in honour of autolycus, broke up.
+
+
+
+
+
+
+        
+            *** end of the project gutenberg ebook the symposium ***
+        
+
+    
+
+updated editions will replace the previous onethe old editions will
+be renamed.
+
+creating the works from print editions not protected by u.s. copyright
+law means that no one owns a united states copyright in these works,
+so the foundation (and you!) can copy and distribute it in the united
+states without permission and without paying copyright
+royalties. special rules, set forth in the general terms of use part
+of this license, apply to copying and distributing project
+gutenbergtm electronic works to protect the project gutenbergtm
+concept and trademark. project gutenberg is a registered trademark,
+and may not be used if you charge for an ebook, except by following
+the terms of the trademark license, including paying royalties for use
+of the project gutenberg trademark. if you do not charge anything for
+copies of this ebook, complying with the trademark license is very
+easy. you may use this ebook for nearly any purpose such as creation
+of derivative works, reports, performances and research. project
+gutenberg ebooks may be modified and printed and given awayyou may
+do practically anything in the united states with ebooks not protected
+by u.s. copyright law. redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+start: full license
+
+the full project gutenberg license
+
+please read this before you distribute or use this work
+
+to protect the project gutenbergtm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase project
+gutenberg), you agree to comply with all the terms of the full
+project gutenbergtm license available with this file or online at
+www.gutenberg.org/license.
+
+section 1. general terms of use and redistributing project gutenbergtm
+electronic works
+
+1.a. by reading or using any part of this project gutenbergtm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. if you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of project gutenbergtm electronic works in your
+possession. if you paid a fee for obtaining a copy of or access to a
+project gutenbergtm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.e.8.
+
+1.b. project gutenberg is a registered trademark. it may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. there are a few
+things that you can do with most project gutenbergtm electronic works
+even without complying with the full terms of this agreement. see
+paragraph 1.c below. there are a lot of things you can do with project
+gutenbergtm electronic works if you follow the terms of this
+agreement and help preserve free future access to project gutenbergtm
+electronic works. see paragraph 1.e below.
+
+1.c. the project gutenberg literary archive foundation (the
+foundation or pglaf), owns a compilation copyright in the collection
+of project gutenbergtm electronic works. nearly all the individual
+works in the collection are in the public domain in the united
+states. if an individual work is unprotected by copyright law in the
+united states and you are located in the united states, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to project gutenberg are removed. of course, we hope
+that you will support the project gutenbergtm mission of promoting
+free access to electronic works by freely sharing project gutenbergtm
+works in compliance with the terms of this agreement for keeping the
+project gutenbergtm name associated with the work. you can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full project gutenbergtm license when
+you share it without charge with others.
+
+1.d. the copyright laws of the place where you are located also govern
+what you can do with this work. copyright laws in most countries are
+in a constant state of change. if you are outside the united states,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other project gutenbergtm work. the foundation makes no
+representations concerning the copyright status of any work in any
+country other than the united states.
+
+1.e. unless you have removed all references to project gutenberg:
+
+1.e.1. the following sentence, with active links to, or other
+immediate access to, the full project gutenbergtm license must appear
+prominently whenever any copy of a project gutenbergtm work (any work
+on which the phrase project gutenberg appears, or with which the
+phrase project gutenberg is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    this ebook is for the use of anyone anywhere in the united states and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. you may copy it, give it away or re-use it under the terms
+    of the project gutenberg license included with this ebook or online
+    at www.gutenberg.org. if you
+    are not located in the united states, you will have to check the laws
+    of the country where you are located before using this ebook.
+  
+1.e.2. if an individual project gutenbergtm electronic work is
+derived from texts not protected by u.s. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the united states without paying any fees or charges. if you are
+redistributing or providing access to a work with the phrase project
+gutenberg associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.e.1 through 1.e.7 or
+obtain permission for the use of the work and the project gutenbergtm
+trademark as set forth in paragraphs 1.e.8 or 1.e.9.
+
+1.e.3. if an individual project gutenbergtm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.e.1 through 1.e.7 and any
+additional terms imposed by the copyright holder. additional terms
+will be linked to the project gutenbergtm license for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.e.4. do not unlink or detach or remove the full project gutenbergtm
+license terms from this work, or any files containing a part of this
+work or any other work associated with project gutenbergtm.
+
+1.e.5. do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.e.1 with
+active links or immediate access to the full terms of the project
+gutenbergtm license.
+
+1.e.6. you may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. however, if you provide access
+to or distribute copies of a project gutenbergtm work in a format
+other than plain vanilla ascii or other format used in the official
+version posted on the official project gutenbergtm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original plain
+vanilla ascii or other form. any alternate format must include the
+full project gutenbergtm license as specified in paragraph 1.e.1.
+
+1.e.7. do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any project gutenbergtm works
+unless you comply with paragraph 1.e.8 or 1.e.9.
+
+1.e.8. you may charge a reasonable fee for copies of or providing
+access to or distributing project gutenbergtm electronic works
+provided that:
+
+     you pay a royalty fee of 20% of the gross profits you derive from
+        the use of project gutenbergtm works calculated using the method
+        you already use to calculate your applicable taxes. the fee is owed
+        to the owner of the project gutenbergtm trademark, but he has
+        agreed to donate royalties under this paragraph to the project
+        gutenberg literary archive foundation. royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. royalty
+        payments should be clearly marked as such and sent to the project
+        gutenberg literary archive foundation at the address specified in
+        section 4, information about donations to the project gutenberg
+        literary archive foundation.
+    
+     you provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full project gutenbergtm
+        license. you must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of project gutenbergtm
+        works.
+    
+     you provide, in accordance with paragraph 1.f.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+     you comply with all other terms of this agreement for free
+        distribution of project gutenbergtm works.
+    
+
+1.e.9. if you wish to charge a fee or distribute a project
+gutenbergtm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the project gutenberg literary archive foundation, the manager of
+the project gutenbergtm trademark. contact the foundation as set
+forth in section 3 below.
+
+1.f.
+
+1.f.1. project gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by u.s. copyright law in creating the project
+gutenbergtm collection. despite these efforts, project gutenbergtm
+electronic works, and the medium on which they may be stored, may
+contain defects, such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.f.2. limited warranty, disclaimer of damages - except for the right
+of replacement or refund described in paragraph 1.f.3, the project
+gutenberg literary archive foundation, the owner of the project
+gutenbergtm trademark, and any other party distributing a project
+gutenbergtm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. you agree that you have no remedies for negligence, strict
+liability, breach of warranty or breach of contract except those
+provided in paragraph 1.f.3. you agree that the foundation, the
+trademark owner, and any distributor under this agreement will not be
+liable to you for actual, direct, indirect, consequential, punitive or
+incidental damages even if you give notice of the possibility of such
+damage.
+
+1.f.3. limited right of replacement or refund - if you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. if you
+received the work on a physical medium, you must return the medium
+with your written explanation. the person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. if you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. if
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.f.4. except for the limited right of replacement or refund set forth
+in paragraph 1.f.3, this work is provided to you as-is, with no
+other warranties of any kind, express or implied, including but not
+limited to warranties of merchantability or fitness for any purpose.
+
+1.f.5. some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. if any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. the invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.f.6. indemnity - you agree to indemnify and hold the foundation, the
+trademark owner, any agent or employee of the foundation, anyone
+providing copies of project gutenbergtm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of project gutenbergtm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any project gutenbergtm work, (b) alteration, modification, or
+additions or deletions to any project gutenbergtm work, and (c) any
+defect you cause.
+
+section 2. information about the mission of project gutenbergtm
+
+project gutenbergtm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. it
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching project gutenbergtms
+goals and ensuring that the project gutenbergtm collection will
+remain freely available for generations to come. in 2001, the project
+gutenberg literary archive foundation was created to provide a secure
+and permanent future for project gutenbergtm and future
+generations. to learn more about the project gutenberg literary
+archive foundation and how your efforts and donations can help, see
+sections 3 and 4 and the foundation information page at www.gutenberg.org.
+
+section 3. information about the project gutenberg literary archive foundation
+
+the project gutenberg literary archive foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of mississippi and granted tax exempt status by the internal
+revenue service. the foundations ein or federal tax identification
+number is 64-6221541. contributions to the project gutenberg literary
+archive foundation are tax deductible to the full extent permitted by
+u.s. federal laws and your states laws.
+
+the foundations business office is located at 809 north 1500 west,
+salt lake city, ut 84116, (801) 596-1887. email contact links and up
+to date contact information can be found at the foundations website
+and official page at www.gutenberg.org/contact
+
+section 4. information about donations to the project gutenberg
+literary archive foundation
+
+project gutenbergtm depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the irs.
+
+the foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the united
+states. compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. we do not solicit donations in locations
+where we have not received written confirmation of compliance. to send
+donations or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+while we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+international donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the united states. u.s. laws alone swamp our small staff.
+
+please check the project gutenberg web pages for current donation
+methods and addresses. donations are accepted in a number of other
+ways including checks, online payments and credit card donations. to
+donate, please visit: www.gutenberg.org/donate.
+
+section 5. general information about project gutenbergtm electronic works
+
+professor michael s. hart was the originator of the project
+gutenbergtm concept of a library of electronic works that could be
+freely shared with anyone. for forty years, he produced and
+distributed project gutenbergtm ebooks with only a loose network of
+volunteer support.
+
+project gutenbergtm ebooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the u.s. unless a copyright notice is included. thus, we do not
+necessarily keep ebooks in compliance with any particular paper
+edition.
+
+most people start at our website which has the main pg search
+facility: www.gutenberg.org.
+
+this website includes information about project gutenbergtm,
+including how to make donations to the project gutenberg literary
+archive foundation, how to help produce our new ebooks, and how to
+subscribe to our email newsletter to hear about new ebooks.
+
+

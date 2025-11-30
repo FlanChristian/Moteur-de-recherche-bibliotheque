@@ -1,0 +1,3482 @@
+the project gutenberg ebook of honorine, by honore de balzac
+
+this ebook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  you may copy it, give it away or
+re-use it under the terms of the project gutenberg license included
+with this ebook or online at www.gutenberg.org
+
+
+title: honorine
+
+author: honore de balzac
+
+translator: clara bell
+
+release date: march, 1998  [etext #1683]
+posting date: february 28, 2010
+last updated: november 22, 2016
+
+language: english
+
+character set encoding: utf-8
+
+*** start of this project gutenberg ebook honorine ***
+
+
+
+
+produced by john bickers, and dagny
+
+
+
+
+
+honorine
+
+
+by honore de balzac
+
+
+
+translated by clara bell
+
+
+
+                            dedication
+
+                   to monsieur achille deveria
+
+           an affectionate remembrance from the author.
+
+
+
+
+
+honorine
+
+
+if the french have as great an aversion for traveling as the english
+have a propensity for it, both english and french have perhaps
+sufficient reasons. something better than england is everywhere to be
+found; whereas it is excessively difficult to find the charms of france
+outside france. other countries can show admirable scenery, and they
+frequently offer greater comfort than that of france, which makes but
+slow progress in that particular. they sometimes display a bewildering
+magnificence, grandeur, and luxury; they lack neither grace nor noble
+manners; but the life of the brain, the talent for conversation, the
+attic salt so familiar at paris, the prompt apprehension of what one
+is thinking, but does not say, the spirit of the unspoken, which is half
+the french language, is nowhere else to be met with. hence a frenchman,
+whose raillery, as it is, finds so little comprehension, would wither
+in a foreign land like an uprooted tree. emigration is counter to the
+instincts of the french nation. many frenchmen, of the kind here in
+question, have owned to pleasure at seeing the custom-house officers
+of their native land, which may seem the most daring hyperbole of
+patriotism.
+
+this preamble is intended to recall to such frenchmen as have traveled
+the extreme pleasure they have felt on occasionally finding their native
+land, like an oasis, in the drawing-room of some diplomate: a pleasure
+hard to be understood by those who have never left the asphalt of the
+boulevard des italiens, and to whom the quais of the left bank of the
+seine are not really paris. to find paris again! do you know what that
+means, o parisians? it is to find--not indeed the cookery of the _rocher
+de cancale_ as borel elaborates it for those who can appreciate it, for
+that exists only in the rue montorgueil--but a meal which reminds you
+of it! it is to find the wines of france, which out of france are to be
+regarded as myths, and as rare as the woman of whom i write! it is
+to find--not the most fashionable pleasantry, for it loses its aroma
+between paris and the frontier--but the witty understanding, the
+critical atmosphere in which the french live, from the poet down to the
+artisan, from the duchess to the boy in the street.
+
+in 1836, when the sardinian court was residing at genoa, two parisians,
+more or less famous, could fancy themselves still in paris when they
+found themselves in a palazzo, taken by the french consul-general, on
+the hill forming the last fold of the apennines between the gate of san
+tomaso and the well-known lighthouse, which is to be seen in all the
+keepsake views of genoa. this palazzo is one of the magnificent villas
+on which genoese nobles were wont to spend millions at the time when the
+aristocratic republic was a power.
+
+if the early night is beautiful anywhere, it surely is at genoa, after
+it has rained as it can rain there, in torrents, all the morning; when
+the clearness of the sea vies with that of the sky; when silence reigns
+on the quay and in the groves of the villa, and over the marble heads
+with yawning jaws, from which water mysteriously flows; when the stars
+are beaming; when the waves of the mediterranean lap one after another
+like the avowal of a woman, from whom you drag it word by word. it must
+be confessed, that the moment when the perfumed air brings fragrance to
+the lungs and to our day-dreams; when voluptuousness, made visible and
+ambient as the air, holds you in your easy-chair; when, a spoon in your
+hand, you sip an ice or a sorbet, the town at your feet and fair woman
+opposite--such boccaccio hours can be known only in italy and on the
+shores of the mediterranean.
+
+imagine to yourself, round the table, the marquis di negro, a knight
+hospitaller to all men of talent on their travels, and the marquis
+damaso pareto, two frenchmen disguised as genoese, a consul-general
+with a wife as beautiful as a madonna, and two silent children--silent
+because sleep has fallen on them--the french ambassador and his wife,
+a secretary to the embassy who believes himself to be crushed and
+mischievous; finally, two parisians, who have come to take leave of
+the consuls wife at a splendid dinner, and you will have the picture
+presented by the terrace of the villa about the middle of may--a picture
+in which the predominant figure was that of a celebrated woman, on
+whom all eyes centered now and again, the heroine of this improvised
+festival.
+
+one of the two frenchmen was the famous landscape painter, leon de lora;
+the other a well known critic claude vignon. they had both come with
+this lady, one of the glories of the fair sex, mademoiselle des touches,
+known in the literary world by the name of camille maupin.
+
+mademoiselle des touches had been to florence on business. with the
+charming kindness of which she is prodigal, she had brought with her
+leon de lora to show him italy, and had gone on as far as rome that he
+might see the campagna. she had come by simplon, and was returning by
+the cornice road to marseilles. she had stopped at genoa, again on the
+landscape painters account. the consul-general had, of course, wished
+to do the honors of genoa, before the arrival of the court, to a woman
+whose wealth, name, and position recommend her no less than her talents.
+camille maupin, who knew her genoa down to its smallest chapels, had
+left her landscape painter to the care of the diplomate and the two
+genoese marquises, and was miserly of her minutes. though the ambassador
+was a distinguished man of letters, the celebrated lady had refused to
+yield to his advances, dreading what the english call an exhibition;
+but she had drawn in the claws of her refusals when it was proposed that
+they should spend a farewell day at the consuls villa. leon de lora had
+told camille that her presence at the villa was the only return he
+could make to the ambassador and his wife, the two genoese noblemen, the
+consul and his wife. so mademoiselle des touches had sacrificed one of
+those days of perfect freedom, which are not always to be had in paris
+by those on whom the world has its eye.
+
+now, the meeting being accounted for, it is easy to understand that
+etiquette had been banished, as well as a great many women even of the
+highest rank, who were curious to know whether camille maupins manly
+talent impaired her grace as a pretty woman, and to see, in a word,
+whether the trousers showed below her petticoats. after dinner till nine
+oclock, when a collation was served, though the conversation had been
+gay and grave by turns, and constantly enlivened by leon de loras
+sallies--for he is considered the most roguish wit of paris to-day--and
+by the good taste which will surprise no one after the list of guests,
+literature had scarcely been mentioned. however, the butterfly flittings
+of this french tilting match were certain to come to it, were it only to
+flutter over this essentially french subject. but before coming to the
+turn in the conversation which led the consul-general to speak, it will
+not be out of place to give some account of him and his family.
+
+this diplomate, a man of four-and-thirty, who had been married about six
+years, was the living portrait of lord byron. the familiarity of that
+face makes a description of the consuls unnecessary. it may, however,
+be noted that there was no affectation in his dreamy expression. lord
+byron was a poet, and the consul was poetical; women know and recognize
+the difference, which explains without justifying some of their
+attachments. his handsome face, thrown into relief by a delightful
+nature, had captivated a genoese heiress. a genoese heiress! the
+expression might raise a smile at genoa, where, in consequence of the
+inability of daughters to inherit, a woman is rarely rich; but onorina
+pedrotti, the only child of a banker without heirs male, was an
+exception. notwithstanding all the flattering advances prompted by a
+spontaneous passion, the consul-general had not seemed to wish to marry.
+nevertheless, after living in the town for two years, and after certain
+steps taken by the ambassador during his visits to the genoese court,
+the marriage was decided on. the young man withdrew his former refusal,
+less on account of the touching affection of onorina pedrotti than by
+reason of an unknown incident, one of those crises of private life which
+are so instantly buried under the daily tide of interests that, at a
+subsequent date, the most natural actions seem inexplicable.
+
+this involution of causes sometimes affects the most serious events of
+history. this, at any rate, was the opinion of the town of genoa, where,
+to some women, the extreme reserve, the melancholy of the french consul
+could be explained only by the word passion. it may be remarked, in
+passing, that women never complain of being the victims of a preference;
+they are very ready to immolate themselves for the common weal. onorina
+pedrotti, who might have hated the consul if she had been altogether
+scorned, loved her _sposo_ no less, and perhaps more, when she know that
+he had loved. women allow precedence in love affairs. all is well if
+other women are in question.
+
+a man is not a diplomate with impunity: the _sposo_ was as secret as the
+grave--so secret that the merchants of genoa chose to regard the young
+consuls attitude as premeditated, and the heiress might perhaps have
+slipped through his fingers if he had not played his part of a love-sick
+_malade imaginaire_. if it was real, the women thought it too degrading
+to be believed.
+
+pedrottis daughter gave him her love as a consolation; she lulled these
+unknown griefs in a cradle of tenderness and italian caresses.
+
+il signor pedrotti had indeed no reason to complain of the choice to
+which he was driven by his beloved child. powerful protectors in paris
+watched over the young diplomates fortunes. in accordance with a
+promise made by the ambassador to the consul-generals father-in-law,
+the young man was created baron and commander of the legion of honor.
+signor pedrotti himself was made a count by the king of sardinia.
+onorinas dower was a million of francs. as to the fortune of the casa
+pedrotti, estimated at two millions, made in the corn trade, the young
+couple came into it within six months of their marriage, for the first
+and last count pedrotti died in january 1831.
+
+onorina pedrotti is one of those beautiful genoese women who, when they
+are beautiful, are the most magnificent creatures in italy. michael
+angelo took his models in genoa for the tomb of giuliano. hence the
+fulness and singular placing of the breast in the figures of day and
+night, which so many critics have thought exaggerated, but which is
+peculiar to the women of liguria. a genoese beauty is no longer to be
+found excepting under the mezzaro, as at venice it is met with only
+under the _fazzioli_. this phenomenon is observed among all fallen
+nations. the noble type survives only among the populace, as after the
+burning of a town coins are found hidden in the ashes. and onorina, an
+exception as regards her fortune, is no less an exceptional patrician
+beauty. recall to mind the figure of night which michael angelo has
+placed at the feet of the _pensieroso_, dress her in modern garb, twist
+that long hair round the magnificent head, a little dark in complexion,
+set a spark of fire in those dreamy eyes, throw a scarf about the
+massive bosom, see the long dress, white, embroidered with flowers,
+imagine the statue sitting upright, with her arms folded like those of
+mademoiselle georges, and you will see before you the consuls wife,
+with a boy of six, as handsome as a mothers desire, and a little
+girl of four on her knees, as beautiful as the type of childhood so
+laboriously sought out by the sculptor david to grace a tomb.
+
+this beautiful family was the object of camilles secret study. it
+struck mademoiselle des touches that the consul looked rather too
+absent-minded for a perfectly happy man.
+
+although, throughout the day, the husband and wife had offered her the
+pleasing spectacle of complete happiness, camille wondered why one of
+the most superior men she had ever met, and whom she had seen too
+in paris drawing-rooms, remained as consul-general at genoa when he
+possessed a fortune of a hundred odd thousand francs a year. but, at the
+same time, she had discerned, by many of the little nothings which women
+perceive with the intelligence of the arab sage in _zadig_, that the
+husband was faithfully devoted. these two handsome creatures would no
+doubt love each other without a misunderstanding till the end of their
+days. so camille said to herself alternately, what is wrong?--nothing
+is wrong, following the misleading symptoms of the consuls demeanor;
+and he, it may be said, had the absolute calmness of englishmen, of
+savages, of orientals, and of consummate diplomatists.
+
+in discussing literature, they spoke of the perennial stock-in-trade
+of the republic of letters--womans sin. and they presently found
+themselves confronted by two opinions: when a woman sins, is the man
+or the woman to blame? the three women present--the ambassadress,
+the consuls wife, and mademoiselle des touches, women, of course, of
+blameless reputations--were without pity for the woman. the men tried to
+convince these fair flowers of their sex that some virtues might remain
+in a woman after she had fallen.
+
+how long are we going to play at hide-and-seek in this way? said leon
+de lora.
+
+_cara vita_, go and put your children to bed, and send me by gina the
+little black pocket-book that lies on my boule cabinet, said the consul
+to his wife.
+
+she rose without a reply, which shows that she loved her husband very
+truly, for she already knew french enough to understand that her husband
+was getting rid of her.
+
+i will tell you a story in which i played a part, and after that we can
+discuss it, for it seems to me childish to practise with the scalpel on
+an imaginary body. begin by dissecting a corpse.
+
+every one prepared to listen, with all the greater readiness because
+they had all talked enough, and this is the moment to be chosen for
+telling a story. this, then, is the consul-generals tale:--
+
+when i was two-and-twenty, and had taken my degree in law, my old
+uncle, the abbe loraux, then seventy-two years old, felt it necessary
+to provide me with a protector, and to start me in some career. this
+excellent man, if not indeed a saint, regarded each year of his life as
+a fresh gift from god. i need not tell you that the father confessor of
+a royal highness had no difficulty in finding a place for a young man
+brought up by himself, his sisters only child. so one day, towards the
+end of the year 1824, this venerable old man, who for five years had
+been cure of the white friars at paris, came up to the room i had in his
+house, and said:
+
+get yourself dressed, my dear boy; i am going to introduce you to some
+one who is willing to engage you as secretary. if i am not mistaken, he
+may fill my place in the event of gods taking me to himself. i shall
+have finished mass at nine oclock; you have three-quarters of an hour
+before you. be ready.
+
+what, uncle! must i say good-bye to this room, where for four years i
+have been so happy?
+
+i have no fortune to leave you, said he.
+
+have you not the reputation of your name to leave me, the memory of
+your good works----?
+
+we need say nothing of that inheritance, he replied, smiling. you do
+not yet know enough of the world to be aware that a legacy of that kind
+is hardly likely to be paid, whereas by taking you this morning to m. le
+comte--allow me, said the consul, interrupting himself, to speak
+of my protector by his christian name only, and to call him comte
+octave.--by taking you this morning to m. le comte octave, i hope to
+secure you his patronage, which, if you are so fortunate as to please
+that virtuous statesman--as i make no doubt you can--will be worth, at
+least, as much as the fortune i might have accumulated for you, if my
+brother-in-laws ruin and my sisters death had not fallen on me like a
+thunder-bolt from a clear sky.
+
+are you the counts director?
+
+if i were, could i place you with him? what priest could be capable
+of taking advantage of the secrets which he learns at the tribunal of
+repentance? no; you owe this position to his highness, the keeper of
+the seals. my dear maurice, you will be as much at home there as in your
+fathers house. the count will give you a salary of two thousand four
+hundred francs, rooms in his house, and an allowance of twelve hundred
+francs in lieu of feeding you. he will not admit you to his table,
+nor give you a separate table, for fear of leaving you to the care of
+servants. i did not accept the offer when it was made to me till i was
+perfectly certain that comte octaves secretary was never to be a mere
+upper servant. you will have an immense amount of work, for the count
+is a great worker; but when you leave him, you will be qualified to fill
+the highest posts. i need not warn you to be discreet; that is the first
+virtue of any man who hopes to hold public appointments.
+
+you may conceive of my curiosity. comte octave, at that time, held one
+of the highest legal appointments; he was in the confidence of madame
+the dauphiness, who had just got him made a state minister; he led such
+a life as the comte de serizy, whom you all know, i think; but even more
+quietly, for his house was in the marais, rue payenne, and he hardly
+ever entertained. his private life escaped public comment by its
+hermit-like simplicity and by constant hard work.
+
+let me describe my position to you in a few words. having found in the
+solemn headmaster of the college saint-louis a tutor to whom my uncle
+delegated his authority, at the age of eighteen i had gone through all
+the classes; i left school as innocent as a seminarist, full of faith,
+on quitting saint-sulpice. my mother, on her deathbed, had made my uncle
+promise that i should not become a priest, but i was as pious as though
+i had to take orders. on leaving college, the abbe loraux took me
+into his house and made me study law. during the four years of study
+requisite for passing all the examinations, i worked hard, but chiefly
+at things outside the arid fields of jurisprudence. weaned from
+literature as i had been at college, where i lived in the headmasters
+house, i had a thirst to quench. as soon as i had read a few modern
+masterpieces, the works of all the preceding ages were greedily
+swallowed. i became crazy about the theatre, and for a long time i went
+every night to the play, though my uncle gave me only a hundred francs
+a month. this parsimony, to which the good old man was compelled by his
+regard for the poor, had the effect of keeping a young mans desires
+within reasonable limits.
+
+when i went to live with comte octave i was not indeed an innocent, but
+i thought of my rare escapades as crimes. my uncle was so truly angelic,
+and i was so much afraid of grieving him, that in all those four years
+i had never spent a night out. the good man would wait till i came in
+to go to bed. this maternal care had more power to keep me within bounds
+than the sermons and reproaches with which the life of a young man
+is diversified in a puritanical home. i was a stranger to the various
+circles which make up the world of paris society; i only knew some women
+of the better sort, and none of the inferior class but those i saw as i
+walked about, or in the boxes at the play, and then only from the depths
+of the pit where i sat. if, at that period, any one had said to me, you
+will see canalis, or camille maupin, i should have felt hot coals in
+my head and in my bowels. famous people were to me as gods, who neither
+spoke, nor walked, nor ate like other mortals.
+
+how many tales of the thousand-and-one nights are comprehended in the
+ripening of a youth! how many wonderful lamps must we have rubbed before
+we understand that the true wonderful lamp is either luck, or work, or
+genius. in some men this dream of the aroused spirit is but brief; mine
+has lasted until now! in those days i always went to sleep as grand duke
+of tuscany,--as a millionaire,--as beloved by a princess,--or famous! so
+to enter the service of comte octave, and have a hundred louis a year,
+was entering on independent life. i had glimpses of some chance of
+getting into society, and seeking for what my heart desired most, a
+protectress, who would rescue me from the paths of danger, which a young
+man of two-and-twenty can hardly help treading, however prudent and well
+brought up he may be. i began to be afraid of myself.
+
+the persistent study of other peoples rights into which i had plunged
+was not always enough to repress painful imaginings. yes, sometimes in
+fancy i threw myself into theatrical life; i thought i could be a great
+actor; i dreamed of endless triumphs and loves, knowing nothing of the
+disillusion hidden behind the curtain, as everywhere else--for every
+stage has its reverse behind the scenes. i have gone out sometimes, my
+heart boiling, carried away by an impulse to rush hunting through paris,
+to attach myself to some handsome woman i might meet, to follow her
+to her door, watch her, write to her, throw myself on her mercy, and
+conquer her by sheer force of passion. my poor uncle, a heart consumed
+by charity, a child of seventy years, as clear-sighted as god, as
+guileless as a man of genius, no doubt read the tumult of my soul; for
+when he felt the tether by which he held me strained too tightly and
+ready to break, he would never fail to say, here, maurice, you too
+are poor! here are twenty francs; go and amuse yourself, you are not a
+priest! and if you could have seen the dancing light that gilded his
+gray eyes, the smile that relaxed his fine lips, puckering the corners
+of his mouth, the adorable expression of that august face, whose native
+ugliness was redeemed by the spirit of an apostle, you would understand
+the feeling which made me answer the cure of white friars only with a
+kiss, as if he had been my mother.
+
+in comte octave you will find not a master, but a friend, said my
+uncle on the way to the rue payenne. but he is distrustful, or to be
+more exact, he is cautious. the statesmans friendship can be won only
+with time; for in spite of his deep insight and his habit of gauging
+men, he was deceived by the man you are succeeding, and nearly became a
+victim to his abuse of confidence. this is enough to guide you in your
+behavior to him.
+
+when we knocked at the enormous outer door of a house as large as the
+hotel carnavalet, with a courtyard in front and a garden behind, the
+sound rang as in a desert. while my uncle inquired of an old porter in
+livery if the count were at home, i cast my eyes, seeing everything
+at once, over the courtyard where the cobblestones were hidden in the
+grass, the blackened walls where little gardens were flourishing above
+the decorations of the elegant architecture, and on the roof, as high as
+that of the tuileries. the balustrade of the upper balconies was eaten
+away. through a magnificent colonnade i could see a second court on one
+side, where were the offices; the door was rotting. an old coachman
+was there cleaning an old carriage. the indifferent air of this servant
+allowed me to assume that the handsome stables, where of old so many
+horses had whinnied, now sheltered two at most. the handsome facade of
+the house seemed to me gloomy, like that of a mansion belonging to the
+state or the crown, and given up to some public office. a bell rang as
+we walked across, my uncle and i, from the porters lodge--_inquire of
+the porter_ was still written over the door--towards the outside steps,
+where a footman came out in a livery like that of labranche at the
+theatre francais in the old stock plays. a visitor was so rare that the
+servant was putting his coat on when he opened a glass door with small
+panes, on each side of which the smoke of a lamp had traced patterns on
+the walls.
+
+a hall so magnificent as to be worthy of versailles ended in a
+staircase such as will never again be built in france, taking up as much
+space as the whole of a modern house. as we went up the marble steps, as
+cold as tombstones, and wide enough for eight persons to walk abreast,
+our tread echoed under sonorous vaulting. the banister charmed the eye
+by its miraculous workmanship--goldsmiths work in iron--wrought by the
+fancy of an artist of the time of henri iii. chilled as by an icy mantle
+that fell on our shoulders, we went through ante-rooms, drawing-rooms
+opening one out of the other, with carpetless parquet floors, and
+furnished with such splendid antiquities as from thence would find their
+way to the curiosity dealers. at last we reached a large study in a
+cross wing, with all the windows looking into an immense garden.
+
+monsieur le cure of the white friars, and his nephew, monsieur de
+lhostal, said labranche, to whose care the other theatrical servant
+had consigned us in the first ante-chamber.
+
+comte octave, dressed in long trousers and a gray flannel morning coat,
+rose from his seat by a huge writing-table, came to the fireplace,
+and signed to me to sit down, while he went forward to take my uncles
+hands, which he pressed.
+
+though i am in the parish of saint-paul, said he, i could scarcely
+have failed to hear of the cure of the white friars, and i am happy to
+make his acquaintance.
+
+your excellency is most kind, replied my uncle. i have brought to
+you my only remaining relation. while i believe that i am offering a
+good gift to your excellency, i hope at the same time to give my nephew
+a second father.
+
+as to that, i can only reply, monsieur labbe, when we shall have
+tried each other, said comte octave. your name? he added to me.
+
+maurice.
+
+he has taken his doctors degree in law, my uncle observed.
+
+very good, very good! said the count, looking at me from head to
+foot. monsieur labbe, i hope that for your nephews sake in the first
+instance, and then for mine, you will do me the honor of dining here
+every monday. that will be our family dinner, our family party.
+
+my uncle and the count then began to talk of religion from the
+political point of view, of charitable institutes, the repression of
+crime, and i could at my leisure study the man on whom my fate would
+henceforth depend. the count was of middle height; it was impossible to
+judge of his build on account of his dress, but he seemed to me to
+be lean and spare. his face was harsh and hollow; the features were
+refined. his mouth, which was rather large, expressed both irony and
+kindliness. his forehead perhaps too spacious, was as intimidating as
+that of a madman, all the more so from the contrast of the lower part of
+the face, which ended squarely in a short chin very near the lower lip.
+small eyes, of turquoise blue, were as keen and bright as those of the
+prince de talleyrand--which i admired at a later time--and endowed, like
+the princes, with the faculty of becoming expressionless to the verge
+of gloom; and they added to the singularity of a face that was not pale
+but yellow. this complexion seemed to bespeak an irritable temper and
+violent passions. his hair, already silvered, and carefully dressed,
+seemed to furrow his head with streaks of black and white alternately.
+the trimness of this head spoiled the resemblance i had remarked in the
+count to the wonderful monk described by lewis after schedoni in
+the _confessional of the black penitents (the italian)_, a superior
+creation, as it seems to me, to _the monk_.
+
+the count was already shaved, having to attend early at the law courts.
+two candelabra with four lights, screened by lamp-shades, were still
+burning at the opposite ends of the writing-table, and showed plainly
+that the magistrate rose long before daylight. his hands, which i saw
+when he took hold of the bell-pull to summon his servant, were extremely
+fine, and as white as a womans.
+
+as i tell you this story, said the consul-general, interrupting
+himself, i am altering the titles and the social position of this
+gentleman, while placing him in circumstances analogous to what his
+really were. his profession, rank, luxury, fortune, and style of living
+were the same; all these details are true, but i would not be false to
+my benefactor, nor to my usual habits of discretion.
+
+instead of feeling--as i really was, socially speaking--an insect in
+the presence of an eagle, the narrator went on after a pause, i felt i
+know not what indefinable impression from the counts appearance,
+which, however, i can now account for. artists of genius (and he
+bowed gracefully to the ambassador, the distinguished lady, and the
+two frenchmen), real statesmen, poets, a general who has commanded
+armies--in short, all really great minds are simple, and their
+simplicity places you on a level with themselves.--you who are all of
+superior minds, he said, addressing his guests, have perhaps observed
+how feeling can bridge over the distances created by society. if we
+are inferior to you in intellect, we can be your equals in devoted
+friendship. by the temperature--allow me the word--of our hearts i felt
+myself as near my patron as i was far below him in rank. in short, the
+soul has its clairvoyance; it has presentiments of suffering, grief,
+joy, antagonism, or hatred in others.
+
+i vaguely discerned the symptoms of a mystery, from recognizing in the
+count the same effects of physiognomy as i had observed in my uncle.
+the exercise of virtue, serenity of conscience, and purity of mind had
+transfigured my uncle, who from being ugly had become quite beautiful.
+i detected a metamorphosis of a reverse kind in the counts face; at the
+first glance i thought he was about fifty-five, but after an attentive
+examination i found youth entombed under the ice of a great sorrow,
+under the fatigue of persistent study, under the glowing hues of some
+suppressed passion. at a word from my uncle the counts eyes recovered
+for a moment the softness of the periwinkle flower, and he had an
+admiring smile, which revealed what i believed to be his real age, about
+forty. these observations i made, not then but afterwards, as i recalled
+the circumstances of my visit.
+
+the man-servant came in carrying a tray with his masters breakfast on
+it.
+
+i did not ask for breakfast, remarked the count; but leave it, and
+show monsieur to his rooms.
+
+i followed the servant, who led the way to a complete set of pretty
+rooms, under a terrace, between the great courtyard and the servants
+quarters, over a corridor of communication between the kitchens and
+the grand staircase. when i returned to the counts study, i overheard,
+before opening the door, my uncle pronouncing this judgment on me:
+
+he may do wrong, for he has strong feelings, and we are all liable to
+honorable mistakes; but he has no vices.
+
+well, said the count, with a kindly look, do you like yourself
+there? tell me. there are so many rooms in this barrack that, if you
+were not comfortable, i could put you elsewhere.
+
+at my uncles i had but one room, replied i.
+
+well, you can settle yourself this evening, said the count, for your
+possessions, no doubt, are such as all students own, and a hackney coach
+will be enough to convey them. to-day we will all three dine together,
+and he looked at my uncle.
+
+a splendid library opened from the counts study, and he took us in
+there, showing me a pretty little recess decorated with paintings, which
+had formerly served, no doubt, as an oratory.
+
+this is your cell, said he. you will sit there when you have to work
+with me, for you will not be tethered by a chain; and he explained in
+detail the kind and duration of my employment with him. as i listened i
+felt that he was a great political teacher.
+
+it took me about a month to familiarize myself with people and things,
+to learn the duties of my new office, and accustom myself to the counts
+methods. a secretary necessarily watches the man who makes use of him.
+that mans tastes, passions, temper, and manias become the subject of
+involuntary study. the union of their two minds is at once more and less
+than a marriage.
+
+during these months the count and i reciprocally studied each other. i
+learned with astonishment that comte octave was but thirty-seven years
+old. the merely superficial peacefulness of his life and the propriety
+of his conduct were the outcome not solely of a deep sense of duty and
+of stoical reflection; in my constant intercourse with this man--an
+extraordinary man to those who knew him well--i felt vast depths beneath
+his toil, beneath his acts of politeness, his mask of benignity, his
+assumption of resignation, which so closely resembled calmness that it
+is easy to mistake it. just as when walking through forest-lands certain
+soils give forth under our feet a sound which enables us to guess
+whether they are dense masses of stone or a void; so intense egoism,
+though hidden under the flowers of politeness, and subterranean caverns
+eaten out by sorrow sound hollow under the constant touch of familiar
+life. it was sorrow and not despondency that dwelt in that really great
+soul. the count had understood that actions, deeds, are the supreme law
+of social man. and he went on his way in spite of secret wounds, looking
+to the future with a tranquil eye, like a martyr full of faith.
+
+his concealed sadness, the bitter disenchantment from which he
+suffered, had not led him into philosophical deserts of incredulity;
+this brave statesman was religious, without ostentation; he always
+attended the earliest mass at saint-pauls for pious workmen and
+servants. not one of his friends, no one at court, knew that he so
+punctually fulfilled the practice of religion. he was addicted to god as
+some men are addicted to a vice, with the greatest mystery. thus one day
+i came to find the count at the summit of an alp of woe much higher than
+that on which many are who think themselves the most tried; who laugh at
+the passions and the beliefs of others because they have conquered their
+own; who play variations in every key of irony and disdain. he did not
+mock at those who still follow hope into the swamps whither she leads,
+nor those who climb a peak to be alone, nor those who persist in the
+fight, reddening the arena with their blood and strewing it with their
+illusions. he looked on the world as a whole; he mastered its beliefs;
+he listened to its complaining; he was doubtful of affection, and yet
+more of self-sacrifice; but this great and stern judge pitied them,
+or admired them, not with transient enthusiasm, but with silence,
+concentration, and the communion of a deeply-touched soul. he was a sort
+of catholic manfred, and unstained by crime, carrying his choiceness
+into his faith, melting the snows by the fires of a sealed volcano,
+holding converse with a star seen by himself alone!
+
+i detected many dark riddles in his ordinary life. he evaded my gaze
+not like a traveler who, following a path, disappears from time to time
+in dells or ravines according to the formation of the soil, but like a
+sharpshooter who is being watched, who wants to hide himself, and seeks
+a cover. i could not account for his frequent absences at the times when
+he was working the hardest, and of which he made no secret from me, for
+he would say, go on with this for me, and trust me with the work in
+hand.
+
+this man, wrapped in the threefold duties of the statesman, the judge,
+and the orator, charmed me by a taste for flowers, which shows an
+elegant mind, and which is shared by almost all persons of refinement.
+his garden and his study were full of the rarest plants, but he always
+bought them half-withered. perhaps it pleased him to see such an image
+of his own fate! he was faded like these dying flowers, whose almost
+decaying fragrance mounted strangely to his brain. the count loved his
+country; he devoted himself to public interests with the frenzy of a
+heart that seeks to cheat some other passion; but the studies and
+work into which he threw himself were not enough for him; there were
+frightful struggles in his mind, of which some echoes reached me.
+finally, he would give utterance to harrowing aspirations for happiness,
+and it seemed to me he ought yet to be happy; but what was the obstacle?
+was there a woman he loved? this was a question i asked myself. you may
+imagine the extent of the circles of torment that my mind had searched
+before coming to so simple and so terrible a question. notwithstanding
+his efforts, my patron did not succeed in stifling the movements of his
+heart. under his austere manner, under the reserve of the magistrate, a
+passion rebelled, though coerced with such force that no one but i
+who lived with him ever guessed the secret. his motto seemed to be,
+i suffer, and am silent. the escort of respect and admiration
+which attended him; the friendship of workers as valiant as
+himself--grandville and serizy, both presiding judges--had no hold over
+the count: either he told them nothing, or they knew all. impassible and
+lofty in public, the count betrayed the man only on rare intervals when,
+alone in his garden or his study, he supposed himself unobserved; but
+then he was a child again, he gave course to the tears hidden beneath
+the toga, to the excitement which, if wrongly interpreted, might have
+damaged his credit for perspicacity as a statesman.
+
+when all this had become to me a matter of certainty, comte octave had
+all the attractions of a problem, and won on my affection as much as
+though he had been my own father. can you enter into the feeling of
+curiosity, tempered by respect? what catastrophe had blasted this
+learned man, who, like pitt, had devoted himself from the age of
+eighteen to the studies indispensable to power, while he had no
+ambition; this judge, who thoroughly knew the law of nations, political
+law, civil and criminal law, and who could find in these a weapon
+against every anxiety, against every mistake; this profound legislator,
+this serious writer, this pious celibate whose life sufficiently proved
+that he was open to no reproach? a criminal could not have been more
+hardly punished by god than was my master; sorrow had robbed him of half
+his slumbers; he never slept more than four hours. what struggle was
+it that went on in the depths of these hours apparently so calm, so
+studious, passing without a sound or a murmur, during which i often
+detected him, when the pen had dropped from his fingers, with his head
+resting on one hand, his eyes like two fixed stars, and sometimes wet
+with tears? how could the waters of that living spring flow over the
+burning strand without being dried up by the subterranean fire? was
+there below it, as there is under the sea, between it and the central
+fires of the globe, a bed of granite? and would the volcano burst at
+last?
+
+sometimes the count would give me a look of that sagacious and
+keen-eyed curiosity by which one man searches another when he desires
+an accomplice; then he shunned my eye as he saw it open a mouth, so to
+speak, insisting on a reply, and seeming to say, speak first! now and
+then comte octaves melancholy was surly and gruff. if these spurts of
+temper offended me, he could get over it without thinking of asking my
+pardon; but then his manners were gracious to the point of christian
+humility.
+
+when i became attached like a son to this man--to me such a mystery,
+but so intelligible to the outer world, to whom the epithet eccentric is
+enough to account for all the enigmas of the heart--i changed the state
+of the house. neglect of his own interests was carried by the count
+to the length of folly in the management of his affairs. possessing an
+income of about a hundred and sixty thousand francs, without including
+the emoluments of his appointments--three of which did not come under
+the law against plurality--he spent sixty thousand, of which at least
+thirty thousand went to his servants. by the end of the first year i
+had got rid of all these rascals, and begged his excellency to use his
+influence in helping me to get honest servants. by the end of the second
+year the count, better fed and better served, enjoyed the comforts of
+modern life; he had fine horses, supplied by a coachman to whom i paid
+so much a month for each horse; his dinners on his reception days,
+furnished by chevet at a price agreed upon, did him credit; his daily
+meals were prepared by an excellent cook found by my uncle, and helped
+by two kitchenmaids. the expenditure for housekeeping, not including
+purchases, was no more than thirty thousand francs a year; we had two
+additional men-servants, whose care restored the poetical aspect of the
+house; for this old palace, splendid even in its rust, had an air of
+dignity which neglect had dishonored.
+
+i am no longer astonished, said he, on hearing of these results, at
+the fortunes made by servants. in seven years i have had two cooks, who
+have become rich restaurant-keepers.
+
+early in the year 1826 the count had, no doubt, ceased to watch me, and
+we were as closely attached as two men can be when one is subordinate to
+the other. he had never spoken to me of my future prospects, but he had
+taken an interest, both as a master and as a father, in training me. he
+often required me to collect materials for his most arduous labors;
+i drew up some of his reports, and he corrected them, showing the
+difference between his interpretation of the law, his views and mine.
+when at last i had produced a document which he could give in as his own
+he was delighted; this satisfaction was my reward, and he could see that
+i took it so. this little incident produced an extraordinary effect on a
+soul which seemed so stern. the count pronounced sentence on me, to
+use a legal phrase, as supreme and royal judge; he took my head in his
+hands, and kissed me on the forehead.
+
+maurice, he exclaimed, you are no longer my apprentice; i know not
+yet what you will be to me--but if no change occurs in my life, perhaps
+you will take the place of a son.
+
+comte octave had introduced me to the best houses in paris, whither i
+went in his stead, with his servants and carriage, on the too frequent
+occasions when, on the point of starting, he changed his mind, and sent
+for a hackney cab to take him--where?--that was the mystery. by the
+welcome i met with i could judge of the counts feelings towards me, and
+the earnestness of his recommendations. he supplied all my wants with
+the thoughtfulness of a father, and with all the greater liberality
+because my modesty left it to him always to think of me. towards the
+end of january 1827, at the house of the comtesse de serizy, i had such
+persistent ill-luck at play that i lost two thousand francs, and i would
+not draw them out of my savings. next morning i asked myself, had i
+better ask my uncle for the money, or put my confidence in the count?
+
+i decided on the second alternative.
+
+yesterday, said i, when he was at breakfast, i lost persistently at
+play; i was provoked, and went on; i owe two thousand francs. will you
+allow me to draw the sum on account of my years salary?
+
+no, said he, with the sweetest smile; when a man plays in society,
+he must have a gambling purse. draw six thousand francs; pay your debts.
+henceforth we must go halves; for since you are my representative on
+most occasions, your self-respect must not be made to suffer for it.
+
+i made no speech of thanks. thanks would have been superfluous between
+us. this shade shows the character of our relations. and yet we had not
+yet unlimited confidence in each other; he did not open to me the vast
+subterranean chambers which i had detected in his secret life; and
+i, for my part, never said to him, what ails you? from what are you
+suffering?
+
+what could he be doing during those long evenings? he would often come
+in on foot or in a hackney cab when i returned in a carriage--i, his
+secretary! was so pious a man a prey to vices hidden under hypocrisy?
+did he expend all the powers of his mind to satisfy a jealousy more
+dexterous than othellos? did he live with some woman unworthy of him?
+one morning, on returning from i have forgotten what shop, where i had
+just paid a bill, between the church of saint-paul and the hotel de
+ville, i came across comte octave in such eager conversation with an old
+woman that he did not see me. the appearance of this hag filled me with
+strange suspicions, suspicions that were all the better founded because
+i never found that the count invested his savings. is it not shocking to
+think of? i was constituting myself my patrons censor. at that time i
+knew that he had more than six hundred thousand francs to invest; and
+if he had bought securities of any kind, his confidence in me was so
+complete in all that concerned his pecuniary interests, that i certainly
+should have known it.
+
+sometimes, in the morning, the count took exercise in his garden, to
+and fro, like a man to whom a walk is the hippogryph ridden by dreamy
+melancholy. he walked and walked! and he rubbed his hands enough to
+rub the skin off. and then, if i met him unexpectedly as he came to
+the angle of a path, i saw his face beaming. his eyes, instead of
+the hardness of a turquoise, had that velvety softness of the blue
+periwinkle, which had so much struck me on the occasion of my first
+visit, by reason of the astonishing contrast in the two different looks;
+the look of a happy man, and the look of an unhappy man. two or three
+times at such a moment he had taken me by the arm and led me on; then
+he had said, what have you come to ask? instead of pouring out his
+joy into my heart that opened to him. but more often, especially since
+i could do his work for him and write his reports, the unhappy man would
+sit for hours staring at the goldfish that swarmed in a handsome marble
+basin in the middle of the garden, round which grew an amphitheatre
+of the finest flowers. he, an accomplished statesman, seemed to have
+succeeded in making a passion of the mechanical amusement of crumbling
+bread to fishes.
+
+this is how the drama was disclosed of this second inner life, so
+deeply ravaged and storm-tossed, where, in a circle overlooked by dante
+in his _inferno_, horrible joys had their birth.
+
+the consul-general paused.
+
+
+
+on a certain monday, he resumed, as chance would have it, m. le
+president de grandville and m. de serizy (at that time vice-president
+of the council of state) had come to hold a meeting at comte octaves
+house. they formed a committee of three, of which i was the secretary.
+the count had already got me the appointment of auditor to the council
+of state. all the documents requisite for their inquiry into the
+political matter privately submitted to these three gentlemen were laid
+out on one of the long tables in the library. mm. de grandville and de
+serizy had trusted to the count to make the preliminary examination of
+the papers relating to the matter. to avoid the necessity for carrying
+all the papers to m. de serizy, as president of the commission, it was
+decided that they should meet first in the rue payenne. the cabinet at
+the tuileries attached great importance to this piece of work, of which
+the chief burden fell on me--and to which i owed my appointment, in the
+course of that year, to be master of appeals.
+
+though the comtes de grandville and de serizy, whose habits were much
+the same as my patrons, never dined away from home, we were still
+discussing the matter at a late hour, when we were startled by the
+man-servant calling me aside to say, mm. the cures of saint-paul and of
+the white friars have been waiting in the drawing-room for two hours.
+
+it was nine oclock.
+
+well, gentlemen, you find yourselves compelled to dine with priests,
+said comte octave to his colleagues. i do not know whether grandville
+can overcome his horror of a priests gown----
+
+it depends on the priest.
+
+one of them is my uncle, and the other is the abbe gaudron, said
+i. do not be alarmed; the abbe fontanon is no longer second priest at
+saint-paul----
+
+well, let us dine, replied the president de grandville. a bigot
+frightens me, but there is no one so cheerful as a truly pious man.
+
+we went into the drawing-room. the dinner was delightful. men of
+real information, politicians to whom business gives both consummate
+experience and the practice of speech, are admirable story-tellers, when
+they tell stories. with them there is no medium; they are either heavy,
+or they are sublime. in this delightful sport prince metternich is as
+good as charles nodier. the fun of a statesman, cut in facets like a
+diamond, is sharp, sparkling, and full of sense. being sure that the
+proprieties would be observed by these three superior men, my uncle
+allowed his wit full play, a refined wit, gentle, penetrating, and
+elegant, like that of all men who are accustomed to conceal their
+thoughts under the black robe. and you may rely upon it, there was
+nothing vulgar nor idle in this light talk, which i would compare, for
+its effect on the soul, to rossinis music.
+
+the abbe gaudron was, as m. de grandville said, a saint peter rather
+than a saint paul, a peasant full of faith, as square on his feet as he
+was tall, a sacerdotal of whose ignorance in matters of the world and
+of literature enlivened the conversation by guileless amazement and
+unexpected questions. they came to talking of one of the plague spots
+of social life, of which we were just now speaking--adultery. my uncle
+remarked on the contradiction which the legislators of the code, still
+feeling the blows of the revolutionary storm, had established between
+civil and religious law, and which he said was at the root of all the
+mischief.
+
+in the eyes of the church, said he, adultery is a crime; in those of
+your tribunals it is a misdemeanor. adultery drives to the police court
+in a carriage instead of standing at the bar to be tried. napoleons
+council of state, touched with tenderness towards erring women, was
+quite inefficient. ought they not in this case to have harmonized the
+civil and the religious law, and have sent the guilty wife to a convent,
+as of old?
+
+to a convent! said m. de serizy. they must first have created
+convents, and in those days monasteries were being turned into barracks.
+besides, think of what you say, m. labbe--give to god what society
+would have none of?
+
+oh! said the comte de grandville, you do not know france. they were
+obliged to leave the husband free to take proceedings: well, there are
+not ten cases of adultery brought up in a year.
+
+m. labbe preaches for his own saint, for it was jesus christ who
+invented adultery, said comte octave. in the east, the cradle of
+the human race, woman was merely a luxury, and there was regarded as a
+chattel; no virtues were demanded of her but obedience and beauty.
+by exalting the soul above the body, the modern family in europe--a
+daughter of christ--invented indissoluble marriage, and made it a
+sacrament.
+
+ah! the church saw the difficulties, exclaimed m. de grandville.
+
+this institution has given rise to a new world, the count went on
+with a smile. but the practices of that world will never be that of
+a climate where women are marriageable at seven years of age, and more
+than old at five-and-twenty. the catholic church overlooked the needs of
+half the globe.--so let us discuss europe only.
+
+is woman our superior or our inferior? that is the real question so
+far as we are concerned. if woman is our inferior, by placing her on so
+high a level as the church does, fearful punishments for adultery were
+needful. and formerly that was what was done. the cloister or death sums
+up early legislation. but since then practice has modified the law, as
+is always the case. the throne served as a hotbed for adultery, and the
+increase of this inviting crime marks the decline of the dogmas of the
+catholic church. in these days, in cases where the church now exacts no
+more than sincere repentance from the erring wife, society is satisfied
+with a brand-mark instead of an execution. the law still condemns
+the guilty, but it no longer terrifies them. in short, there are two
+standards of morals: that of the world, and that of the code. where the
+code is weak, as i admit with our dear abbe, the world is audacious and
+satirical. there are so few judges who would not gladly have committed
+the fault against which they hurl the rather stolid thunders of their
+inasmuch. the world, which gives the lie to the law alike in its
+rejoicings, in its habits, and in its pleasures, is severer than the
+code and the church; the world punishes a blunder after encouraging
+hypocrisy. the whole economy of the law on marriage seems to me to
+require reconstruction from the bottom to the top. the french law would
+be perfect perhaps if it excluded daughters from inheriting.
+
+we three among us know the question very thoroughly, said the comte
+de grandville with a laugh. i have a wife i cannot live with. serizy
+has a wife who will not live with him. as for you, octave, yours
+ran away from you. so we three represent every case of the conjugal
+conscience, and, no doubt, if ever divorce is brought in again, we shall
+form the committee.
+
+octaves fork dropped on his glass, broke it, and broke his plate. he
+had turned as pale as death, and flashed a thunderous glare at m. de
+grandville, by which he hinted at my presence, and which i caught.
+
+forgive me, my dear fellow. i did not see maurice, the president went
+on. serizy and i, after being the witnesses to your marriage, became
+your accomplices; i did not think i was committing an indiscretion in
+the presence of these two venerable priests.
+
+m. de serizy changed the subject by relating all he had done to please
+his wife without ever succeeding. the old man concluded that it was
+impossible to regulate human sympathies and antipathies; he maintained
+that social law was never more perfect than when it was nearest to
+natural law. now nature takes no account of the affinities of souls; her
+aim is fulfilled by the propagation of the species. hence, the code,
+in its present form, was wise in leaving a wide latitude to chance. the
+incapacity of daughters to inherit so long as there were male heirs was
+an excellent provision, whether to hinder the degeneration of the race,
+or to make households happier by abolishing scandalous unions and giving
+the sole preference to moral qualities and beauty.
+
+but then, he exclaimed, lifting his hand with a gesture of disgust,
+how are we to perfect legislation in a country which insists on
+bringing together seven or eight hundred legislators!--after all, if i
+am sacrificed, he added, i have a child to succeed me.
+
+setting aside all the religious question, my uncle said, i would
+remark to your excellency that nature only owes us life, and that it is
+society that owes us happiness. are you a father? asked my uncle.
+
+and i--have i any children? said comte octave in a hollow voice, and
+his tone made such an impression that there was no more talk of wives or
+marriage.
+
+when coffee had been served, the two counts and the two priests stole
+away, seeing that poor octave had fallen into a fit of melancholy which
+prevented his noticing their disappearance. my patron was sitting in an
+armchair by the fire, in the attitude of a man crushed.
+
+you now know the secret of my life, said he to me on noticing that we
+were alone. after three years of married life, one evening when i came
+in i found a letter in which the countess announced her flight. the
+letter did not lack dignity, for it is in the nature of women to
+preserve some virtues even when committing that horrible sin.--the
+story is now that my wife went abroad in a ship that was wrecked; she
+is supposed to be dead. i have lived alone for seven years!--enough for
+this evening, maurice. we will talk of my situation when i have grown
+used to the idea of speaking of it to you. when we suffer from a
+chronic disease, it needs time to become accustomed to improvement. that
+improvement often seems to be merely another aspect of the complaint.
+
+i went to bed greatly agitated; for the mystery, far from being
+explained, seemed to me more obscure than ever. i foresaw some strange
+drama indeed, for i understood that there could be no vulgar difference
+between the woman that count could choose and such a character as his.
+the events which had driven the countess to leave a man so noble, so
+amiable, so perfect, so loving, so worthy to be loved, must have been
+singular, to say the least. m. de grandvilles remark had been like a
+torch flung into the caverns over which i had so long been walking; and
+though the flame lighted them but dimly, my eyes could perceive their
+wide extent! i could imagine the counts sufferings without knowing
+their depths or their bitterness. that sallow face, those parched
+temples, those overwhelming studies, those moments of absentmindedness,
+the smallest details of the life of this married bachelor, all stood out
+in luminous relief during the hour of mental questioning, which is,
+as it were, the twilight before sleep, and to which any man would have
+given himself up, as i did.
+
+oh! how i loved my poor master! he seemed to me sublime. i read a poem
+of melancholy, i saw perpetual activity in the heart i had accused of
+being torpid. must not supreme grief always come at last to stagnation?
+had this judge, who had so much in his power, ever revenged himself? was
+he feeding himself on her long agony? is it not a remarkable thing in
+paris to keep anger always seething for ten years? what had octave done
+since this great misfortune--for the separation of husband and wife is
+a great misfortune in our day, when domestic life has become a social
+question, which it never was of old?
+
+we allowed a few days to pass on the watch, for great sorrows have a
+diffidence of their own; but at last, one evening, the count said in a
+grave voice:
+
+stay.
+
+
+
+this, as nearly as may be, is his story.
+
+my father had a ward, rich and lovely, who was sixteen at the time
+when i came back from college to live in this old house. honorine, who
+had been brought up by my mother, was just awakening to life. full of
+grace and of childish ways, she dreamed of happiness as she would have
+dreamed of jewels; perhaps happiness seemed to her the jewel of the
+soul. her piety was not free from puerile pleasures; for everything,
+even religion, was poetry to her ingenuous heart. she looked to the
+future as a perpetual fete. innocent and pure, no delirium had disturbed
+her dream. shame and grief had never tinged her cheek nor moistened
+her eye. she did not even inquire into the secret of her involuntary
+emotions on a fine spring day. and then, she felt that she was weak and
+destined to obedience, and she awaited marriage without wishing for
+it. her smiling imagination knew nothing of the corruption--necessary
+perhaps--which literature imparts by depicting the passions; she knew
+nothing of the world, and was ignorant of all the dangers of society.
+the dear child had suffered so little that she had not even developed
+her courage. in short, her guilelessness would have led her to walk
+fearless among serpents, like the ideal figure of innocence a painter
+once created. we lived together like two brothers.
+
+at the end of a year i said to her one day, in the garden of this
+house, by the basin, as we stood throwing crumbs to the fish:
+
+would you like that we should be married? with me you could do
+whatever you please, while another man would make you unhappy.
+
+mamma, said she to my mother, who came out to join us, octave and i
+have agreed to be married----
+
+what! at seventeen? said my mother. no, you must wait eighteen
+months; and if eighteen months hence you like each other, well, your
+birth and fortunes are equal, you can make a marriage which is suitable,
+as well as being a love match.
+
+when i was six-and-twenty, and honorine nineteen, we were married.
+our respect for my father and mother, old folks of the bourbon court,
+hindered us from making this house fashionable, or renewing the
+furniture; we lived on, as we had done in the past, as children.
+however, i went into society; i initiated my wife into the world of
+fashion; and i regarded it as one of my duties to instruct her.
+
+i recognized afterwards that marriages contracted under such
+circumstances as ours bear in themselves a rock against which many
+affections are wrecked, many prudent calculations, many lives. the
+husband becomes a pedagogue, or, if you like, a professor, and love
+perishes under the rod which, sooner or later, gives pain; for a young
+and handsome wife, at once discreet and laughter-loving, will not accept
+any superiority above that with which she is endowed by nature. perhaps
+i was in the wrong? during the difficult beginnings of a household i,
+perhaps, assumed a magisterial tone? on the other hand, i may have made
+the mistake of trusting too entirely to that artless nature; i kept no
+watch over the countess, in whom revolt seemed to me impossible? alas!
+neither in politics nor in domestic life has it yet been ascertained
+whether empires and happiness are wrecked by too much confidence or too
+much severity! perhaps again, the husband failed to realize honorines
+girlish dreams? who can tell, while happy days last, what precepts he
+has neglected?
+
+i remember only the broad outlines of the reproaches the count
+addressed to himself, with all the good faith of an anatomist seeking
+the cause of a disease which might be overlooked by his brethren; but
+his merciful indulgence struck me then as really worthy of that of jesus
+christ when he rescued the woman taken in adultery.
+
+it was eighteen months after my fathers death--my mother followed him
+to the tomb in a few months--when the fearful night came which surprised
+me by honorines farewell letter. what poetic delusion had seduced my
+wife? was it through her senses? was it the magnetism of misfortune
+or of genius? which of these powers had taken her by storm or misled
+her?--i would not know. the blow was so terrible, that for a month i
+remained stunned. afterwards, reflection counseled me to continue in
+ignorance, and honorines misfortunes have since taught me too much
+about all these things.--so far, maurice, the story is commonplace
+enough; but one word will change it all: i love honorine, i have never
+ceased to worship her. from the day when she left me i have lived on
+memory; one by one i recall the pleasures for which honorine no doubt
+had no taste.
+
+oh! said he, seeing the amazement in my eyes, do not make a hero of
+me, do not think me such a fool, as the colonel of the empire would say,
+as to have sought no diversion. alas, my boy! i was either too young or
+too much in love; i have not in the whole world met with another woman.
+after frightful struggles with myself, i tried to forget; money in hand,
+i stood on the very threshold of infidelity, but there the memory of
+honorine rose before me like a white statue. as i recalled the infinite
+delicacy of that exquisite skin, through which the blood might be seen
+coursing and the nerves quivering; as i saw in fancy that ingenuous
+face, as guileless on the eve of my sorrows as on the day when i said
+to her, shall we marry? as i remembered a heavenly fragrance, the
+very odor of virtue, and the light in her eyes, the prettiness of her
+movements, i fled like a man preparing to violate a tomb, who sees
+emerging from it the transfigured soul of the dead. at consultations,
+in court, by night, i dream so incessantly of honorine that only by
+excessive strength of mind do i succeed in attending to what i am doing
+and saying. this is the secret of my labors.
+
+well, i felt no more anger with her than a father can feel on seeing
+his beloved child in some danger it has imprudently rushed into. i
+understood that i had made a poem of my wife--a poem i delighted in
+with such intoxication, that i fancied she shared the intoxication. ah!
+maurice, an indiscriminating passion in a husband is a mistake that may
+lead to any crime in a wife. i had no doubt left all the faculties of
+this child, loved as a child, entirely unemployed; i had perhaps wearied
+her with my love before the hour of loving had struck for her! too young
+to understand that in the constancy of the wife lies the germ of the
+mothers devotion, she mistook this first test of marriage for life
+itself, and the refractory child cursed life, unknown to me, nor daring
+to complain to me, out of sheer modesty perhaps! in so cruel a position
+she would be defenceless against any man who stirred her deeply.--and
+i, so wise a judge as they say--i, who have a kind heart, but whose mind
+was absorbed--i understood too late these unwritten laws of the womans
+code, i read them by the light of the fire that wrecked my roof. then i
+constituted my heart a tribunal by virtue of the law, for the law makes
+the husband a judge: i acquitted my wife, and i condemned myself. but
+love took possession of me as a passion, the mean, despotic passion
+which comes over some old men. at this day i love the absent honorine as
+a man of sixty loves a woman whom he must possess at any cost, and yet
+i feel the strength of a young man. i have the insolence of the old man
+and the reserve of a boy.--my dear fellow, society only laughs at such
+a desperate conjugal predicament. where it pities a lover, it regards a
+husband as ridiculously inept; it makes sport of those who cannot keep
+the woman they have secured under the canopy of the church, and before
+the maires scarf of office. and i had to keep silence.
+
+serizy is happy. his indulgence allows him to see his wife; he can
+protect and defend her; and, as he adores her, he knows all the perfect
+joys of a benefactor whom nothing can disturb, not even ridicule, for he
+pours it himself on his fatherly pleasures. i remain married only for
+my wifes sake, he said to me one day on coming out of court.
+
+but i--i have nothing; i have not even to face ridicule, i who live
+solely on a love which is starving! i who can never find a word to say
+to a woman of the world! i who loathe prostitution! i who am faithful
+under a spell!--but for my religious faith, i should have killed myself.
+i have defied the gulf of hard work; i have thrown myself into it, and
+come out again alive, fevered, burning, bereft of sleep!----
+
+i cannot remember all the words of this eloquent man, to whom passion
+gave an eloquence indeed so far above that of the pleader that, as i
+listened to him, i, like him, felt my cheeks wet with tears. you may
+conceive of my feelings when, after a pause, during which we dried them
+away, he finished his story with this revelation:--
+
+this is the drama of my soul, but it is not the actual living drama
+which is at this moment being acted in paris! the interior drama
+interests nobody. i know it; and you will one day admit that it is so,
+you, who at this moment shed tears with me; no one can burden his heart
+or his skin with anothers pain. the measure of our sufferings is in
+ourselves.--you even understand my sorrows only by very vague analogy.
+could you see me calming the most violent frenzy of despair by the
+contemplation of a miniature in which i can see and kiss her brow, the
+smile on her lips, the shape of her face, can breathe the whiteness of
+her skin; which enables me almost to feel, to play with the black masses
+of her curling hair?--could you see me when i leap with hope--when i
+writhe under the myriad darts of despair--when i tramp through the mire
+of paris to quell my irritation by fatigue? i have fits of collapse
+comparable to those of a consumptive patient, moods of wild hilarity,
+terrors as of a murderer who meets a sergeant of police. in short, my
+life is a continual paroxysm of fears, joy, and dejection.
+
+as to the drama--it is this. you imagine that i am occupied with the
+council of state, the chamber, the courts, politics.--why, dear me,
+seven hours at night are enough for all that, so much are my faculties
+overwrought by the life i lead! honorine is my real concern. to
+recover my wife is my only study; to guard her in her cage, without her
+suspecting that she is in my power; to satisfy her needs, to supply the
+little pleasure she allows herself, to be always about her like a sylph
+without allowing her to see or to suspect me, for if she did, the future
+would be lost,--that is my life, my true life.--for seven years i
+have never gone to bed without going first to see the light of her
+night-lamp, or her shadow on the window curtains.
+
+she left my house, choosing to take nothing but the dress she wore
+that day. the child carried her magnanimity to the point of folly!
+consequently, eighteen months after her flight she was deserted by her
+lover, who was appalled by the cold, cruel, sinister, and revolting
+aspect of poverty--the coward! the man had, no doubt, counted on the
+easy and luxurious life in switzerland or italy which fine ladies
+indulge in when they leave their husbands. honorine has sixty thousand
+francs a year of her own. the wretch left the dear creature expecting an
+infant, and without a penny. in the month of november 1820 i found means
+to persuade the best _accoucheur_ in paris to play the part of a humble
+suburban apothecary. i induced the priest of the parish in which the
+countess was living to supply her needs as though he were performing an
+act of charity. then to hide my wife, to secure her against discovery,
+to find her a housekeeper who would be devoted to me and be my
+intelligent confidante--it was a task worthy of figaro! you may suppose
+that to discover where my wife had taken refuge i had only to make up my
+mind to it.
+
+after three months of desperation rather than despair, the idea of
+devoting myself to honorine with god only in my secret, was one of those
+poems which occur only to the heart of a lover through life and death!
+love must have its daily food. and ought i not to protect this child,
+whose guilt was the outcome of my imprudence, against fresh disaster--to
+fulfil my part, in short, as a guardian angel?--at the age of seven
+months her infant died, happily for her and for me. for nine months more
+my wife lay between life and death, deserted at the time when she most
+needed a manly arm; but this arm, said he, holding out his own with a
+gesture of angelic dignity, was extended over her head. honorine was
+nursed as she would have been in her own home. when, on her recovery,
+she asked how and by whom she had been assisted, she was told--by the
+sisters of charity in the neighborhood--by the maternity society--by the
+parish priest, who took an interest in her.
+
+this woman, whose pride amounts to a vice, has shown a power of
+resistance in misfortune, which on some evenings i call the obstinacy of
+a mule. honorine was bent on earning her living. my wife works! for five
+years past i have lodged her in the rue saint-maur, in a charming little
+house, where she makes artificial flowers and articles of fashion. she
+believes that she sells the product of her elegant fancywork to a shop,
+where she is so well paid that she makes twenty francs a day, and in
+these six years she had never had a moments suspicion. she pays for
+everything she needs at about the third of its value, so that on six
+thousand francs a year she lives as if she had fifteen thousand. she is
+devoted to flowers, and pays a hundred crowns to a gardener, who costs
+me twelve hundred in wages, and sends me in a bill for two thousand
+francs every three months. i have promised the man a market-garden with
+a house on it close to the porters lodge in the rue saint-maur. i
+hold this ground in the name of a clerk of the law courts. the smallest
+indiscretion would ruin the gardeners prospects. honorine has her
+little house, a garden, and a splendid hothouse, for a rent of
+five hundred francs a year. there she lives under the name of her
+housekeeper, madame gobain, the old woman of impeccable discretion whom
+i was so lucky as to find, and whose affection honorine has won. but her
+zeal, like that of the gardener, is kept hot by the promise of reward at
+the moment of success. the porter and his wife cost me dreadfully dear
+for the same reasons. however, for three years honorine has been happy,
+believing that she owes to her own toil all the luxury of flowers,
+dress, and comfort.
+
+oh! i know what you are about to say, cried the count, seeing a
+question in my eyes and on my lips. yes, yes; i have made the attempt.
+my wife was formerly living in the faubourg saint-antoine. one day when,
+from what gobain told me, i believed in some chance of a reconciliation,
+i wrote by post a letter, in which i tried to propitiate my wife--a
+letter written and re-written twenty times! i will not describe my
+agonies. i went from the rue payenne to the rue de reuilly like a
+condemned wretch going from the palais de justice to his execution, but
+he goes on a cart, and i was on foot. it was dark--there was a fog; i
+went to meet madame gobain, who was to come and tell me what my wife had
+done. honorine, on recognizing my writing, had thrown the letter into
+the fire without reading it.--madame gobain, she had exclaimed, i
+leave this to-morrow.
+
+what a dagger-stroke was this to a man who found inexhaustible
+pleasure in the trickery by which he gets the finest lyons velvet at
+twelve francs a yard, a pheasant, a fish, a dish of fruit, for a tenth
+of their value, for a woman so ignorant as to believe that she is paying
+ample wages with two hundred and fifty francs to madame gobain, a cook
+fit for a bishop.
+
+you have sometimes found me rubbing my hands in the enjoyment of a
+sort of happiness. well, i had just succeeded in some ruse worthy of
+the stage. i had just deceived my wife--i had sent her by a purchaser
+of wardrobes an indian shawl, to be offered to her as the property of an
+actress who had hardly worn it, but in which i--the solemn lawyer whom
+you know--had wrapped myself for a night! in short, my life at this
+day may be summed up in the two words which express the extremes of
+torment--i love, and i wait! i have in madame gobain a faithful spy on
+the heart i worship. i go every evening to chat with the old woman, to
+hear from her all that honorine has done during the day, the lightest
+word she has spoken, for a single exclamation might betray to me the
+secrets of that soul which is wilfully deaf and dumb. honorine is pious;
+she attends the church services and prays, but she has never been to
+confession or taken the communion; she foresees what a priest would
+tell her. she will not listen to the advice, to the injunction, that she
+should return to me. this horror of me overwhelms me, dismays me, for i
+have never done her the smallest harm. i have always been kind to her.
+granting even that i may have been a little hasty when teaching her,
+that my mans irony may have hurt her legitimate girlish pride, is
+that a reason for persisting in a determination which only the most
+implacable hatred could have inspired? honorine has never told madame
+gobain who she is; she keeps absolute silence as to her marriage, so
+that the worthy and respectable woman can never speak a word in my
+favor, for she is the only person in the house who knows my secret. the
+others know nothing; they live under the awe caused by the name of the
+prefect of police, and their respect for the power of a minister. hence
+it is impossible for me to penetrate that heart; the citadel is mine,
+but i cannot get into it. i have not a single means of action. an act of
+violence would ruin me for ever.
+
+how can i argue against reasons of which i know nothing? should i
+write a letter, and have it copied by a public writer, and laid before
+honorine? but that would be to run the risk of a third removal. the
+last cost me fifty thousand francs. the purchase was made in the first
+instance in the name of the secretary whom you succeeded. the unhappy
+man, who did not know how lightly i sleep, was detected by me in the act
+of opening a box in which i had put the private agreement; i coughed,
+and he was seized with a panic; next day i compelled him to sell the
+house to the man in whose name it now stands, and i turned him out.
+
+if it were not that i feel all my noblest faculties as a man
+satisfied, happy, expansive; if the part i am playing were not that of
+divine fatherhood; if i did not drink in delight by every pore, there
+are moments when i should believe that i was a monomaniac. sometimes
+at night i hear the jingling bells of madness. i dread the violent
+transitions from a feeble hope, which sometimes shines and flashes up,
+to complete despair, falling as low as man can fall. a few days since i
+was seriously considering the horrible end of the story of lovelace and
+clarissa harlowe, and saying to myself, if honorine were the mother of a
+child of mine, must she not necessarily return under her husbands roof?
+
+and i have such complete faith in a happy future, that ten months
+ago i bought and paid for one of the handsomest houses in the faubourg
+saint-honore. if i win back honorine, i will not allow her to see this
+house again, nor the room from which she fled. i mean to place my idol
+in a new temple, where she may feel that life is altogether new. that
+house is being made a marvel of elegance and taste. i have been told
+of a poet who, being almost mad with love for an actress, bought the
+handsomest bed in paris without knowing how the actress would reward his
+passion. well, one of the coldest of lawyers, a man who is supposed to
+be the gravest adviser of the crown, was stirred to the depths of
+his heart by that anecdote. the orator of the legislative chamber can
+understand the poet who fed his ideal on material possibilities. three
+days before the arrival of maria louisa, napoleon flung himself on
+his wedding bed at compiegne. all stupendous passions have the same
+impulses. i love as a poet--as an emperor!
+
+as i heard the last words, i believed that count octaves fears were
+realized; he had risen, and was walking up and down, and gesticulating,
+but he stopped as if shocked by the vehemence of his own words.
+
+i am very ridiculous, he added, after a long pause, looking at me, as
+if craving a glance of pity.
+
+no, monsieur, you are very unhappy.
+
+ah yes! said he, taking up the thread of his confidences. from the
+violence of my speech you may, you must believe in the intensity of a
+physical passion which for nine years has absorbed all my faculties; but
+that is nothing in comparison with the worship i feel for the soul, the
+mind, the heart, all in that woman; the enchanting divinities in the
+train of love, with whom we pass our life, and who form the daily poem
+of a fugitive delight. by a phenomenon of retrospection i see now the
+graces of honorines mind and heart, to which i paid little heed in the
+time of my happiness--like all who are happy. from day to day i have
+appreciated the extent of my loss, discovering the exquisite gifts of
+that capricious and refractory young creature who has grown so strong
+and so proud under the heavy hand of poverty and the shock of the most
+cowardly desertion. and that heavenly blossom is fading in solitude and
+hiding!--ah! the law of which we were speaking, he went on with bitter
+irony, the law is a squad of gendarmes--my wife seized and dragged away
+by force! would not that be to triumph over a corpse? religion has no
+hold on her; she craves its poetry, she prays, but she does not listen
+to the commandments of the church. i, for my part, have exhausted
+everything in the way of mercy, of kindness, of love; i am at my wits
+end. only one chance of victory is left to me; the cunning and patience
+with which bird-catchers at last entrap the wariest birds, the swiftest,
+the most capricious, and the rarest. hence, maurice, when m. de
+grandvilles indiscretion betrayed to you the secret of my life, i ended
+by regarding this incident as one of the decrees of fate, one of the
+utterances for which gamblers listen and pray in the midst of their
+most impassioned play.... have you enough affection for me to show me
+romantic devotion?
+
+i see what you are coming to, monsieur le comte, said i, interrupting
+him; i guess your purpose. your first secretary tried to open your deed
+box. i know the heart of your second--he might fall in love with your
+wife. and can you devote him to destruction by sending him into the
+fire? can any one put his hand into a brazier without burning it?
+
+you are a foolish boy, replied the count. i will send you well
+gloved. it is no secretary of mine that will be lodged in the rue
+saint-maur in the little garden-house which i have at his disposal. it
+is my distant cousin, baron de lhostal, a lawyer high in office...
+
+after a moment of silent surprise, i heard the gate bell ring, and a
+carriage came into the courtyard. presently the footman announced madame
+de courteville and her daughter. the count had a large family connection
+on his mothers side. madame de courteville, his cousin, was the widow
+of a judge on the bench of the seine division, who had left her a
+daughter and no fortune whatever. what could a woman of nine-and-twenty
+be in comparison with a young girl of twenty, as lovely as imagination
+could wish for an ideal mistress?
+
+baron, and master of appeals, till you get something better, and this
+old house settled on her,--would not you have enough good reasons for
+not falling in love with the countess? he said to me in a whisper, as
+he took me by the hand and introduced me to madame de courteville and
+her daughter.
+
+i was dazzled, not so much by these advantages of which i had never
+dreamed, but by amelie de courteville, whose beauty was thrown into
+relief by one of those well-chosen toilets which a mother can achieve
+for a daughter when she wants to see her married.
+
+but i will not talk of myself, said the consul after a pause.
+
+three weeks later i went to live in the gardeners cottage, which
+had been cleaned, repaired, and furnished with the celerity which is
+explained by three words: paris; french workmen; money! i was as much
+in love as the count could possibly desire as a security. would the
+prudence of a young man of five-and-twenty be equal to the part i was
+undertaking, involving a friends happiness? to settle that matter, i
+may confess that i counted very much on my uncles advice; for i had
+been authorized by the count to take him into confidence in any case
+where i deemed his interference necessary. i engaged a garden; i devoted
+myself to horticulture; i worked frantically, like a man whom nothing
+can divert, turning up the soil of the market-garden, and appropriating
+the ground to the culture of flowers. like the maniacs of england, or
+of holland, i gave it out that i was devoted to one kind of flower, and
+especially grew dahlias, collecting every variety. you will understand
+that my conduct, even in the smallest details, was laid down for me by
+the count, whose whole intellectual powers were directed to the most
+trifling incidents of the tragi-comedy enacted in the rue saint-maur. as
+soon as the countess had gone to bed, at about eleven at night, octave,
+madame gobain, and i sat in council. i heard the old womans report to
+the count of his wifes least proceedings during the day. he inquired
+into everything: her meals, her occupations, her frame of mind, her
+plans for the morrow, the flowers she proposed to imitate. i understood
+what love in despair may be when it is the threefold passion of the
+heart, the mind, and the senses. octave lived only for that hour.
+
+during two months, while my work in the garden lasted, i never set
+eyes on the little house where my fair neighbor dwelt. i had not even
+inquired whether i had a neighbor, though the countess garden was
+divided from mine by a paling, along which she had planted cypress trees
+already four feet high. one fine morning madame gobain announced to her
+mistress, as a disastrous piece of news, the intention, expressed by
+an eccentric creature who had become her neighbor, of building a wall
+between the two gardens, at the end of the year. i will say nothing of
+the curiosity which consumed me to see the countess! the wish almost
+extinguished my budding love for amelie de courteville. my scheme for
+building a wall was indeed a dangerous threat. there would be no more
+fresh air for honorine, whose garden would then be a sort of narrow
+alley shut in between my wall and her own little house. this dwelling,
+formerly a summer villa, was like a house of cards; it was not more
+than thirty feet deep, and about a hundred feet long. the garden front,
+painted in the german fashion, imitated a trellis with flowers up to the
+second floor, and was really a charming example of the pompadour style,
+so well called rococo. a long avenue of limes led up to it. the gardens
+of the pavilion and my plot of ground were in the shape of a hatchet, of
+which this avenue was the handle. my wall would cut away three-quarters
+of the hatchet.
+
+the countess was in despair.
+
+my good gobain, said she, what sort of man is this florist?
+
+on my word, said the housekeeper, i do not know whether it will
+be possible to tame him. he seems to have a horror of women. he is the
+nephew of a paris cure. i have seen the uncle but once; a fine old man
+of sixty, very ugly, but very amiable. it is quite possible that this
+priest encourages his nephew, as they say in the neighborhood, in his
+love of flowers, that nothing worse may happen----
+
+why--what?
+
+well, your neighbor is a little cracked! said gobain, tapping her
+head!
+
+now a harmless lunatic is the only man whom no woman ever distrusts
+in the matter of sentiment. you will see how wise the count had been in
+choosing this disguise for me.
+
+what ails him then? asked the countess.
+
+he has studied too hard, replied gobain; he has turned misanthropic.
+and he has his reasons for disliking women--well, if you want to know
+all that is said about him----
+
+well, said honorine, madmen frighten me less than sane folks; i will
+speak to him myself! tell him that i beg him to come here. if i do not
+succeed, i will send for the cure.
+
+the day after this conversation, as i was walking along my graveled
+path, i caught sight of the half-opened curtains on the first floor of
+the little house, and of a womans face curiously peeping out. madame
+gobain called me. i hastily glanced at the countess house, and by a
+rude shrug expressed, what do i care for your mistress!
+
+madame, said gobain, called upon to give an account of her errand,
+the madman bid me leave him in peace, saying that even a charcoal
+seller is master in his own premises, especially when he has no wife.
+
+he is perfectly right, said the countess.
+
+yes, but he ended by saying, i will go, when i told him that he
+would greatly distress a lady living in retirement, who found her
+greatest solace in growing flowers.
+
+next day a signal from gobain informed me that i was expected. after
+the countess breakfast, when she was walking to and fro in front of
+her house, i broke out some palings and went towards her. i had dressed
+myself like a countryman, in an old pair of gray flannel trousers,
+heavy wooden shoes, and shabby shooting coat, a peaked cap on my head,
+a ragged bandana round my neck, hands soiled with mould, and a dibble in
+my hand.
+
+madame, said the housekeeper, this good man is your neighbor.
+
+the countess was not alarmed. i saw at last the woman whom her own
+conduct and her husbands confidences had made me so curious to meet. it
+was in the early days of may. the air was pure, the weather serene; the
+verdure of the first foliage, the fragrance of spring formed a setting
+for this creature of sorrow. as i then saw honorine i understood
+octaves passion and the truthfulness of his description, a heavenly
+flower!
+
+her pallor was what first struck me by its peculiar tone of white--for
+there are as many tones of white as of red or blue. on looking at the
+countess, the eye seemed to feel that tender skin, where the blood
+flowed in the blue veins. at the slightest emotion the blood mounted
+under the surface in rosy flushes like a cloud. when we met, the
+sunshine, filtering through the light foliage of the acacias, shed on
+honorine the pale gold, ambient glory in which raphael and titian, alone
+of all painters, have been able to enwrap the virgin. her brown
+eyes expressed both tenderness and vivacity; their brightness seemed
+reflected in her face through the long downcast lashes. merely by
+lifting her delicate eyelids, honorine could cast a spell; there was
+so much feeling, dignity, terror, or contempt in her way of raising or
+dropping those veils of the soul. she could freeze or give life by a
+look. her light-brown hair, carelessly knotted on her head, outlined
+a poets brow, high, powerful, and dreamy. the mouth was wholly
+voluptuous. and to crown all by a grace, rare in france, though common
+in italy, all the lines and forms of the head had a stamp of nobleness
+which would defy the outrages of time.
+
+though slight, honorine was not thin, and her figure struck me as
+being one that might revive love when it believed itself exhausted. she
+perfectly represented the idea conveyed by the word _mignonne_, for she
+was one of those pliant little women who allow themselves to be taken
+up, petted, set down, and taken up again like a kitten. her small feet,
+as i heard them on the gravel, made a light sound essentially their own,
+that harmonized with the rustle of her dress, producing a feminine
+music which stamped itself on the heart, and remained distinct from the
+footfall of a thousand other women. her gait bore all the quarterings of
+her race with so much pride, that, in the street, the least respectful
+working man would have made way for her. gay and tender, haughty and
+imposing, it was impossible to understand her, excepting as gifted with
+these apparently incompatible qualities, which, nevertheless, had left
+her still a child. but it was a child who might be as strong as an
+angel; and, like the angel, once hurt in her nature, she would be
+implacable.
+
+coldness on that face must no doubt be death to those on whom her eyes
+had smiled, for whom her set lips had parted, for those whose soul had
+drunk in the melody of that voice, lending to her words the poetry of
+song by its peculiar intonation. inhaling the perfume of violets that
+accompanied her, i understood how the memory of this wife had arrested
+the count on the threshold of debauchery, and how impossible it would be
+ever to forget a creature who really was a flower to the touch, a flower
+to the eye, a flower of fragrance, a heavenly flower to the soul....
+honorine inspired devotion, chivalrous devotion, regardless of reward. a
+man on seeing her must say to himself:
+
+think, and i will divine your thought; speak, and i will obey. if my
+life, sacrificed in torments, can procure you one days happiness, take
+my life, i will smile like a martyr at the stake, for i shall offer that
+day to god, as a token to which a father responds on recognizing a
+gift to his child. many women study their expression, and succeed in
+producing effects similar to those which would have struck you at
+first sight of the countess; only, in her, it was all the outcome of a
+delightful nature, that inimitable nature went at once to the heart.
+if i tell you all this, it is because her soul, her thoughts, the
+exquisiteness of her heart, are all we are concerned with, and you would
+have blamed me if i had not sketched them for you.
+
+i was very near forgetting my part as a half-crazy lout, clumsy, and by
+no means chivalrous.
+
+i am told, madame, that you are fond of flowers?
+
+i am an artificial flower-maker, said she. after growing flowers, i
+imitate them, like a mother who is artist enough to have the pleasure of
+painting her children.... that is enough to tell you that i am poor and
+unable to pay for the concession i am anxious to obtain from you?
+
+but how, said i, as grave as a judge, can a lady of such rank as
+yours would seem to be, ply so humble a calling? have you, like me,
+good reasons for employing your fingers so as to keep your brains from
+working?
+
+let us stick to the question of the wall, said she, with a smile.
+
+why, we have begun at the foundations, said i. must not i know which
+of us ought to yield to the other in behalf of our suffering, or, if you
+choose, of our mania?--oh! what a charming clump of narcissus! they are
+as fresh as this spring morning!
+
+i assure you, she had made for herself a perfect museum of flowers and
+shrubs, which none might see but the sun, and of which the arrangement
+had been prompted by the genius of an artist; the most heartless of
+landlords must have treated it with respect. the masses of plants,
+arranged according to their height, or in single clumps, were really a
+joy to the soul. this retired and solitary garden breathed comforting
+scents, and suggested none but sweet thoughts and graceful, nay,
+voluptuous pictures. on it was set that inscrutable sign-manual, which
+our true character stamps on everything, as soon as nothing compels us
+to obey the various hypocrisies, necessary as they are, which society
+insists on. i looked alternately at the mass of narcissus and at the
+countess, affecting to be far more in love with the flowers than with
+her, to carry out my part.
+
+so you are very fond of flowers? said she.
+
+they are, i replied, the only beings that never disappoint our cares
+and affection. and i went on to deliver such a diatribe while comparing
+botany and the world, that we ended miles away from the dividing wall,
+and the countess must have supposed me to be a wretched and wounded
+sufferer worthy of her pity. however, at the end of half an hour my
+neighbor naturally brought me back to the point; for women, when they
+are not in love, have all the cold blood of an experienced attorney.
+
+if you insist on my leaving the paling, said i, you will learn all
+the secrets of gardening that i want to hide; i am seeking to grow a
+blue dahlia, a blue rose; i am crazy for blue flowers. is not blue the
+favorite color of superior souls? we are neither of us really at home;
+we might as well make a little door of open railings to unite our
+gardens.... you, too, are fond of flowers; you will see mine, i shall
+see yours. if you receive no visitors at all, i, for my part, have none
+but my uncle, the cure of the white friars.
+
+no, said she, i will give you the right to come into my garden, my
+premises at any hour. come and welcome; you will always be admitted as a
+neighbor with whom i hope to keep on good terms. but i like my solitude
+too well to burden it with any loss of independence.
+
+as you please, said i, and with one leap i was over the paling.
+
+now, of what use would a door be? said i, from my own domain, turning
+round to the countess, and mocking her with a madmans gesture and
+grimace.
+
+for a fortnight i seemed to take no heed of my neighbor. towards the
+end of may, one lovely evening, we happened both to be out on opposite
+sides of the paling, both walking slowly. having reached the end, we
+could not help exchanging a few civil words; she found me in such deep
+dejection, lost in such painful meditations, that she spoke to me of
+hopefulness, in brief sentences that sounded like the songs with which
+nurses lull their babies. i then leaped the fence, and found myself for
+the second time at her side. the countess led me into the house, wishing
+to subdue my sadness. so at last i had penetrated the sanctuary where
+everything was in harmony with the woman i have tried to describe to
+you.
+
+exquisite simplicity reigned there. the interior of the little house
+was just such a dainty box as the art of the eighteenth century devised
+for the pretty profligacy of a fine gentleman. the dining-room, on the
+ground floor, was painted in fresco, with garlands of flowers, admirably
+and marvelously executed. the staircase was charmingly decorated in
+monochrome. the little drawing-room, opposite the dining-room, was very
+much faded; but the countess had hung it with panels of tapestry of
+fanciful designs, taken off old screens. a bath-room came next. upstairs
+there was but one bedroom, with a dressing-room, and a library which she
+used as her workroom. the kitchen was beneath in the basement on which
+the house was raised, for there was a flight of several steps outside.
+the balustrade of a balcony in garlands a la pompadour concealed the
+roof; only the lead cornices were visible. in this retreat one was a
+hundred leagues from paris.
+
+but for the bitter smile which occasionally played on the beautiful
+red lips of this pale woman, it would have been possible to believe that
+this violet buried in her thicket of flowers was happy. in a few days
+we had reached a certain degree of intimacy, the result of our close
+neighborhood and of the countess conviction that i was indifferent to
+women. a look would have spoilt all, and i never allowed a thought of
+her to be seen in my eyes. honorine chose to regard me as an old friend.
+her manner to me was the outcome of a kind of pity. her looks, her
+voice, her words, all showed that she was a hundred miles away from the
+coquettish airs which the strictest virtue might have allowed under such
+circumstances. she soon gave me the right to go into the pretty workshop
+where she made her flowers, a retreat full of books and curiosities, as
+smart as a boudoir where elegance emphasized the vulgarity of the tools
+of her trade. the countess had in the course of time poetized, as i may
+say, a thing which is at the antipodes to poetry--a manufacture.
+
+perhaps of all the work a woman can do, the making of artificial
+flowers is that of which the details allow her to display most grace.
+for coloring prints she must sit bent over a table and devote herself,
+with some attention, to this half painting. embroidering tapestry, as
+diligently as a woman must who is to earn her living by it, entails
+consumption or curvature of the spine. engraving music is one of the
+most laborious, by the care, the minute exactitude, and the intelligence
+it demands. sewing and white embroidery do not earn thirty sous a day.
+but the making of flowers and light articles of wear necessitates a
+variety of movements, gestures, ideas even, which do not take a pretty
+woman out of her sphere; she is still herself; she may chat, laugh,
+sing, or think.
+
+there was certainly a feeling for art in the way in which the countess
+arranged on a long deal table the myriad-colored petals which were used
+in composing the flowers she was to produce. the saucers of color were
+of white china, and always clean, arranged in such order that the eye
+could at once see the required shade in the scale of tints. thus the
+aristocratic artist saved time. a pretty little cabinet with a hundred
+tiny drawers, of ebony inlaid with ivory, contained the little steel
+moulds in which she shaped the leaves and some forms of petals. a fine
+japanese bowl held the paste, which was never allowed to turn sour, and
+it had a fitted cover with a hinge so easy that she could lift it with
+a finger-tip. the wire, of iron and brass, lurked in a little drawer of
+the table before her.
+
+under her eyes, in a venetian glass, shaped like a flower-cup on its
+stem, was the living model she strove to imitate. she had a passion for
+achievement; she attempted the most difficult things, close racemes,
+the tiniest corollas, heaths, nectaries of the most variegated hues. her
+hands, as swift as her thoughts, went from the table to the flower she
+was making, as those of an accomplished pianist fly over the keys. her
+fingers seemed to be fairies, to use perraults expression, so infinite
+were the different actions of twisting, fitting, and pressure needed
+for the work, all hidden under grace of movement, while she adapted each
+motion to the result with the lucidity of instinct.
+
+i could not tire of admiring her as she shaped a flower from the
+materials sorted before her, padding the wire stem and adjusting the
+leaves. she displayed the genius of a painter in her bold attempts;
+she copied faded flowers and yellowing leaves; she struggled even with
+wildflowers, the most artless of all, and the most elaborate in their
+simplicity.
+
+this art, she would say, is in its infancy. if the women of paris
+had a little of the genius which the slavery of the harem brings out in
+oriental women, they would lend a complete language of flowers to the
+wreaths they wear on their head. to please my own taste as an artist i
+have made drooping flowers with leaves of the hue of florentine bronze,
+such as are found before or after the winter. would not such a crown
+on the head of a young woman whose life is a failure have a certain
+poetical fitness? how many things a woman might express by her
+head-dress! are there not flowers for drunken bacchantes, flowers
+for gloomy and stern bigots, pensive flowers for women who are bored?
+botany, i believe, may be made to express every sensation and thought of
+the soul, even the most subtle.
+
+she would employ me to stamp out the leaves, cut up material, and
+prepare wires for the stems. my affected desire for occupation made me
+soon skilful. we talked as we worked. when i had nothing to do, i read
+new books to her, for i had my part to keep up as a man weary of life,
+worn out with griefs, gloomy, sceptical, and soured. my person led to
+adorable banter as to my purely physical resemblance--with the exception
+of his club foot--to lord byron. it was tacitly acknowledged that
+her own troubles, as to which she kept the most profound silence, far
+outweighed mine, though the causes i assigned for my misanthropy might
+have satisfied young or job.
+
+i will say nothing of the feelings of shame which tormented me as i
+inflicted on my heart, like the beggars in the street, false wounds to
+excite the compassion of that enchanting woman. i soon appreciated the
+extent of my devotedness by learning to estimate the baseness of a spy.
+the expressions of sympathy bestowed on me would have comforted the
+greatest grief. this charming creature, weaned from the world, and for
+so many years alone, having, besides love, treasures of kindliness
+to bestow, offered these to me with childlike effusiveness and
+such compassion as would inevitably have filled with bitterness any
+profligate who should have fallen in love with her; for, alas, it was
+all charity, all sheer pity. her renunciation of love, her dread of what
+is called happiness for women, she proclaimed with equal vehemence and
+candor. these happy days proved to me that a womans friendship is far
+superior to her love.
+
+i suffered the revelations of my sorrows to be dragged from me with as
+many grimaces as a young lady allows herself before sitting down to the
+piano, so conscious are they of the annoyance that will follow. as
+you may imagine, the necessity for overcoming my dislike to speak had
+induced the countess to strengthen the bonds of our intimacy; but she
+found in me so exact a counterpart of her own antipathy to love, that
+i fancied she was well content with the chance which had brought to her
+desert island a sort of man friday. solitude was perhaps beginning to
+weigh on her. at the same time, there was nothing of the coquette in
+her; nothing survived of the woman; she did not feel that she had a
+heart, she told me, excepting in the ideal world where she found refuge.
+i involuntarily compared these two lives--hers and the counts:--his,
+all activity, agitation, and emotion; hers, all inaction, quiescence,
+and stagnation. the woman and the man were admirably obedient to their
+nature. my misanthropy allowed me to utter cynical sallies against men
+and women both, and i indulged in them, hoping to bring honorine to
+the confidential point; but she was not to be caught in any trap, and i
+began to understand that mulish obstinacy which is commoner among women
+than is generally supposed.
+
+the orientals are right, i said to her one evening, when they shut
+you up and regard you merely as the playthings of their pleasure. europe
+has been well punished for having admitted you to form an element of
+society and for accepting you on an equal footing. in my opinion, woman
+is the most dishonorable and cowardly being to be found. nay, and that
+is where her charm lies. where would be the pleasure of hunting a tame
+thing? when once a woman has inspired a mans passion, she is to him
+for ever sacred; in his eyes she is hedged round by an imprescriptible
+prerogative. in men gratitude for past delights is eternal. though he
+should find his mistress grown old or unworthy, the woman still has
+rights over his heart; but to you women the man you have loved is as
+nothing to you; nay, more, he is unpardonable in one thing--he lives on!
+you dare not own it, but you all have in your hearts the feeling which
+that popular calumny called tradition ascribes to the lady of the tour
+de nesle: what a pity it is that we cannot live on love as we live on
+fruit, and that when we have had our fill, nothing should survive but
+the remembrance of pleasure!
+
+god has, no doubt, reserved such perfect bliss for paradise, said
+she. but, she added, if your argument seems to you very witty, to me
+it has the disadvantage of being false. what can those women be who give
+themselves up to a succession of loves? she asked, looking at me as the
+virgin in ingres picture looks at louis xiii. offering her his kingdom.
+
+you are an actress in good faith, said i, for you gave me a look
+just now which would make the fame of an actress. still, lovely as you
+are, you have loved; _ergo_, you forget.
+
+i! she exclaimed, evading my question, i am not a woman. i am a nun,
+and seventy-two years old!
+
+then, how can you so positively assert that you feel more keenly than
+i? sorrow has but one form for women. the only misfortunes they regard
+are disappointments of the heart.
+
+she looked at me sweetly, and, like all women when stuck between the
+issues of a dilemma, or held in the clutches of truth, she persisted,
+nevertheless, in her wilfulness.
+
+i am a nun, she said, and you talk to me of the world where i shall
+never again set foot.
+
+not even in thought? said i.
+
+is the world so much to be desired? she replied. oh! when my mind
+wanders, it goes higher. the angel of perfection, the beautiful angel
+gabriel, often sings in my heart. if i were rich, i should work, all the
+same, to keep me from soaring too often on the many-tinted wings of the
+angel, and wandering in the world of fancy. there are meditations which
+are the ruin of us women! i owe much peace of mind to my flowers, though
+sometimes they fail to occupy me. on some days i find my soul invaded
+by a purposeless expectancy; i cannot banish some idea which takes
+possession of me, which seems to make my fingers clumsy. i feel that
+some great event is impending, that my life is about to change; i listen
+vaguely, i stare into the darkness, i have no liking for my work, and
+after a thousand fatigues i find life once more--everyday life. is this
+a warning from heaven? i ask myself----
+
+after three months of this struggle between two diplomates, concealed
+under the semblance of youthful melancholy, and a woman whose disgust of
+life made her invulnerable, i told the count that it was impossible
+to drag this tortoise out of her shell; it must be broken. the evening
+before, in our last quite friendly discussion, the countess had
+exclaimed:
+
+lucretias dagger wrote in letters of blood the watchword of womans
+charter: _liberty!_
+
+from that moment the count left me free to act.
+
+i have been paid a hundred francs for the flowers and caps i made this
+week! honorine exclaimed gleefully one saturday evening when i went
+to visit her in the little sitting-room on the ground floor, which the
+unavowed proprietor had had regilt.
+
+it was ten oclock. the twilight of july and a glorious moon lent
+us their misty light. gusts of mingled perfumes soothed the soul; the
+countess was clinking in her hand the five gold pieces given to her by
+a supposititious dealer in fashionable frippery, another of octaves
+accomplices found for him by a judge, m. popinot.
+
+i earn my living by amusing myself, said she; i am free, when
+men, armed with their laws, have tried to make us slaves. oh, i have
+transports of pride every saturday! in short, i like m. gaudissarts
+gold pieces as much as lord byron, your double, liked mr. murrays.
+
+this is not becoming in a woman, said i.
+
+pooh! am i a woman? i am a boy gifted with a soft soul, that is all; a
+boy whom no woman can torture----
+
+your life is the negation of your whole being, i replied. what? you,
+on whom god has lavished his choicest treasures of love and beauty, do
+you never wish----
+
+for what? said she, somewhat disturbed by a speech which, for the
+first time, gave the lie to the part i had assumed.
+
+for a pretty little child, with curling hair, running, playing among
+the flowers, like a flower itself of life and love, and calling you
+mother!
+
+i waited for an answer. a too prolonged silence led me to perceive the
+terrible effect of my words, though the darkness at first concealed it.
+leaning on her sofa, the countess had not indeed fainted, but frozen
+under a nervous attack of which the first chill, as gentle as everything
+that was part of her, felt, as she afterwards said, like the influence
+of a most insidious poison. i called madame gobain, who came and led
+away her mistress, laid her on her bed, unlaced her, undressed her, and
+restored her, not to life, it is true, but to the consciousness of some
+dreadful suffering. i meanwhile walked up and down the path behind the
+house, weeping, and doubting my success. i only wished to give up this
+part of the bird-catcher which i had so rashly assumed. madame gobain,
+who came down and found me with my face wet with tears, hastily went up
+again to say to the countess:
+
+what has happened, madame? monsieur maurice is crying like a child.
+
+roused to action by the evil interpretation that might be put on our
+mutual behavior, she summoned superhuman strength to put on a wrapper
+and come down to me.
+
+you are not the cause of this attack, said she. i am subject to
+these spasms, a sort of cramp of the heart----
+
+and will you not tell me of your troubles? said i, in a voice which
+cannot be affected, as i wiped away my tears. have you not just now
+told me that you have been a mother, and have been so unhappy as to lose
+your child?
+
+marie! she called as she rang the bell. gobain came in.
+
+bring lights and some tea, said she, with the calm decision of a
+mylady clothed in the armor of pride by the dreadful english training
+which you know too well.
+
+when the housekeeper had lighted the tapers and closed the shutters,
+the countess showed me a mute countenance; her indomitable pride and
+gravity, worthy of a savage, had already reasserted their mastery. she
+said:
+
+do you know why i like lord byron so much? it is because he suffered
+as animals do. of what use are complaints when they are not an elegy
+like manfreds, nor bitter mockery like don juans, nor a reverie like
+childe harolds? nothing shall be known of me. my heart is a poem that i
+lay before god.
+
+if i chose---- said i.
+
+if? she repeated.
+
+i have no interest in anything, i replied, so i cannot be
+inquisitive; but, if i chose, i could know all your secrets by
+to-morrow.
+
+i defy you! she exclaimed, with ill-disguised uneasiness.
+
+seriously?
+
+certainly, said she, tossing her head. if such a crime is possible,
+i ought to know it.
+
+in the first place, madame, i went on, pointing to her hands,
+those pretty fingers, which are enough to show that you are not a mere
+girl--were they made for toil? then you call yourself madame gobain,
+you, who, in my presence the other day on receiving a letter, said to
+marie: here, this is for you? marie is the real madame gobain; so
+you conceal your name behind that of your housekeeper.--fear nothing,
+madame, from me. you have in me the most devoted friend you will ever
+have: friend, do you understand me? i give this word its sacred and
+pathetic meaning, so profaned in france, where we apply it to our
+enemies. and your friend, who will defend you against everything, only
+wishes that you should be as happy as such a woman ought to be. who
+can tell whether the pain i have involuntarily caused you was not a
+voluntary act?
+
+yes, replied she with threatening audacity, i insist on it. be
+curious, and tell me all that you can find out about me; but, and she
+held up her finger, you must also tell me by what means you obtain
+your information. the preservation of the small happiness i enjoy here
+depends on the steps you take.
+
+that means that you will fly----
+
+on wings! she cried, to the new world----
+
+where you will be at the mercy of the brutal passions you will
+inspire, said i, interrupting her. is it not the very essence of
+genius and beauty to shine, to attract mens gaze, to excite desires and
+evil thoughts? paris is a desert with bedouins; paris is the only place
+in the world where those who must work for their livelihood can hide
+their life. what have you to complain of? who am i? an additional
+servant--m. gobain, that is all. if you have to fight a duel, you may
+need a second.
+
+never mind; find out who i am. i have already said that i insist. now,
+i beg that you will, she went on, with the grace which you ladies have
+at command, said the consul, looking at the ladies.
+
+well, then, to-morrow, at the same hour, i will tell you what i may
+have discovered, replied i. but do not therefore hate me! will you
+behave like other women?
+
+what do other women do?
+
+they lay upon us immense sacrifices, and when we have made them, they
+reproach us for it some time later as if it were an injury.
+
+they are right if the thing required appears to be a sacrifice!
+replied she pointedly.
+
+instead of sacrifices, say efforts and----
+
+it would be an impertinence, said she.
+
+forgive me, said i. i forget that woman and the pope are
+infallible.
+
+good heavens! said she after a long pause, only two words would be
+enough to destroy the peace so dearly bought, and which i enjoy like a
+fraud----
+
+she rose and paid no further heed to me.
+
+where can i go? she said. what is to become of me?--must i leave
+this quiet retreat, that i had arranged with such care to end my days
+in?
+
+to end your days! exclaimed i with visible alarm. has it never
+struck you that a time would come when you could no longer work,
+when competition will lower the price of flowers and articles of
+fashion----?
+
+i have already saved a thousand crowns, she said.
+
+heavens! what privations such a sum must represent! i exclaimed.
+
+leave me, said she, till to-morrow. this evening i am not myself; i
+must be alone. must i not save my strength in case of disaster? for,
+if you should learn anything, others besides you would be informed, and
+then--good-night, she added shortly, dismissing me with an imperious
+gesture.
+
+the battle is to-morrow, then, i replied with a smile, to keep up the
+appearance of indifference i had given to the scene. but as i went down
+the avenue i repeated the words:
+
+the battle is to-morrow.
+
+octaves anxiety was equal to honorines. the count and i remained
+together till two in the morning, walking to and fro by the trenches of
+the bastille, like two generals who, on the eve of a battle, calculate
+all the chances, examine the ground, and perceive that the victory must
+depend on an opportunity to be seized half-way through the fight. these
+two divided beings would each lie awake, one in the hope, the other
+in agonizing dread of reunion. the real dramas of life are not in
+circumstances, but in feelings; they are played in the heart, or, if you
+please, in that vast realm which we ought to call the spiritual world.
+octave and honorine moved and lived altogether in the world of lofty
+spirits.
+
+i was punctual. at ten next evening i was, for the first time, shown
+into a charming bedroom furnished with white and blue--the nest of this
+wounded dove. the countess looked at me, and was about to speak, but was
+stricken dumb by my respectful demeanor.
+
+madame la comtesse, said i with a grave smile.
+
+the poor woman, who had risen, dropped back into her chair and remained
+there, sunk in an attitude of grief, which i should have liked to see
+perpetuated by a great painter.
+
+you are, i went on, the wife of the noblest and most highly
+respected of men; of a man who is acknowledged to be great, but who is
+far greater in his conduct to you than he is in the eyes of the world.
+you and he are two lofty natures.--where do you suppose yourself to be
+living? i asked her.
+
+in my own house, she replied, opening her eyes with a wide stare of
+astonishment.
+
+in count octaves, i replied. you have been tricked. m. lenormand,
+the usher of the court, is not the real owner; he is only a screen for
+your husband. the delightful seclusion you enjoy is the counts work,
+the money you earn is paid by him, and his protection extends to the
+most trivial details of your existence. your husband has saved you
+in the eyes of the world; he has assigned plausible reasons for your
+disappearance; he professes to hope that you were not lost in the wreck
+of the _cecile_, the ship in which you sailed for havana to secure the
+fortune to be left to you by an old aunt, who might have forgotten
+you; you embarked, escorted by two ladies of her family and an old
+man-servant. the count says that he has sent agents to various spots,
+and received letters which give him great hopes. he takes as many
+precautions to hide you from all eyes as you take yourself. in short, he
+obeys you...
+
+that is enough, she said. i want to know but one thing more. from
+whom have you obtained all these details?
+
+well, madame, my uncle got a place for a penniless youth as secretary
+to the commissary of police in this part of paris. that young man told
+me everything. if you leave this house this evening, however stealthily,
+your husband will know where you are gone, and his care will follow
+you everywhere.--how could a woman so clever as you are believe that
+shopkeepers buy flowers and caps as dear as they sell them? ask
+a thousand crowns for a bouquet, and you will get it. no mothers
+tenderness was ever more ingenious than your husbands! i have learned
+from the porter of this house that the count often comes behind the
+fence when all are asleep, to see the glimmer of your nightlight! your
+large cashmere shawl cost six thousand francs--your old-clothes-seller
+brings you, as second hand, things fresh from the best makers. in short,
+you are living here like venus in the toils of vulcan; but you are alone
+in your prison by the devices of a sublime magnanimity, sublime for
+seven years past, and at every hour.
+
+the countess was trembling as a trapped swallow trembles while, as you
+hold it in your hand, it strains its neck to look about it with wild
+eyes. she shook with a nervous spasm, studying me with a defiant look.
+her dry eyes glittered with a light that was almost hot: still, she
+was a woman! the moment came when her tears forced their way, and she
+wept--not because she was touched, but because she was helpless; they
+were tears of desperation. she had believed herself independent and
+free; marriage weighed on her as the prison cell does on the captive.
+
+i will go! she cried through her tears. he forces me to it; i will
+go where no one certainly will come after me.
+
+what, i said, you would kill yourself?--madame, you must have some
+very powerful reasons for not wishing to return to comte octave.
+
+certainly i have!
+
+well, then, tell them to me; tell them to my uncle. in us you will
+find two devoted advisers. though in the confessional my uncle is a
+priest, he never is one in a drawing-room. we will hear you; we will try
+to find a solution of the problems you may lay before us; and if you are
+the dupe or the victim of some misapprehension, perhaps we can clear the
+matter up. your soul, i believe, is pure; but if you have done wrong,
+your fault is fully expiated.... at any rate, remember that in me you
+have a most sincere friend. if you should wish to evade the counts
+tyranny, i will find you the means; he shall never find you.
+
+oh! there is always a convent! said she.
+
+yes. but the count, as minister of state, can procure your rejection
+by every convent in the world. even though he is powerful, i will save
+you from him--; but--only when you have demonstrated to me that you
+cannot and ought not to return to him. oh! do not fear that you would
+escape his power only to fall into mine, i added, noticing a glance of
+horrible suspicion, full of exaggerated dignity. you shall have peace,
+solitude, and independence; in short, you shall be as free and as little
+annoyed as if you were an ugly, cross old maid. i myself would never be
+able to see you without your consent.
+
+and how? by what means?
+
+that is my secret. i am not deceiving you, of that you may be
+sure. prove to me that this is the only life you can lead, that it is
+preferable to that of the comtesse octave, rich, admired, in one of the
+finest houses in paris, beloved by her husband, a happy mother... and i
+will decide in your favor.
+
+but, said she, will there never be a man who understands me?
+
+no. and that is why i appeal to religion to decide between us. the
+cure of the white friars is a saint, seventy-five years of age. my uncle
+is not a grand inquisitor, he is saint john; but for you he will be
+fenelon--the fenelon who said to the duc de bourgogne: eat a calf on a
+friday by all means, monseigneur. but be a christian.
+
+nay, nay, monsieur, the convent is my last hope and my only refuge.
+there is none but god who can understand me. no man, not saint augustine
+himself, the tenderest of the fathers of the church, could enter into
+the scruples of my conscience, which are to me as the circles of dantes
+hell, whence there is no escape. another than my husband, a different
+man, however unworthy of the offering, has had all my love. no, he has
+not had it, for he did not take it; i gave it him as a mother gives her
+child a wonderful toy, which it breaks. for me there never could be two
+loves. in some natures love can never be on trial; it is, or it is not.
+when it comes, when it rises up, it is complete.--well, that life of
+eighteen months was to me a life of eighteen years; i threw into it
+all the faculties of my being, which were not impoverished by their
+effusiveness; they were exhausted by that delusive intimacy in which
+i alone was genuine. for me the cup of happiness is not drained, nor
+empty; and nothing can refill it, for it is broken. i am out of the
+fray; i have no weapons left. having thus utterly abandoned myself,
+what am i?--the leavings of a feast. i had but one name bestowed on
+me, honorine, as i had but one heart. my husband had the young girl, a
+worthless lover had the woman--there is nothing left!--then let myself
+be loved! that is the great idea you mean to utter to me. oh! but i
+still am something, and i rebel at the idea of being a prostitute! yes,
+by the light of the conflagration i saw clearly; and i tell you--well, i
+could imagine surrendering to another mans love, but to octaves?--no,
+never.
+
+ah! you love him, i said.
+
+i esteem him, respect him, venerate him; he never has done me the
+smallest hurt; he is kind, he is tender; but i can never more love him.
+however, she went on, let us talk no more of this. discussion makes
+everything small. i will express my notions on this subject in writing
+to you, for at this moment they are suffocating me; i am feverish, my
+feet are standing in the ashes of my paraclete. all that i see, these
+things which i believed i had earned by my labor, now remind me of
+everything i wish to forget. ah! i must fly from hence as i fled from my
+home.
+
+where will you go? i asked. can a woman exist unprotected? at
+thirty, in all the glory of your beauty, rich in powers of which you
+have no suspicion, full of tenderness to be bestowed, are you prepared
+to live in the wilderness where i could hide you?--be quite easy. the
+count, who for nine years has never allowed himself to be seen here,
+will never go there without your permission. you have his sublime
+devotion of nine years as a guarantee for your tranquillity. you may
+therefore discuss the future in perfect confidence with my uncle and
+me. my uncle has as much influence as a minister of state. so compose
+yourself; do not exaggerate your misfortune. a priest whose hair has
+grown white in the exercise of his functions is not a boy; you will be
+understood by him to whom every passion has been confided for nearly
+fifty years now, and who weighs in his hands the ponderous heart of
+kings and princes. if he is stern under his stole, in the presence of
+your flowers he will be as tender as they are, and as indulgent as his
+divine master.
+
+i left the countess at midnight; she was apparently calm, but
+depressed, and had some secret purpose which no perspicacity could
+guess. i found the count a few paces off, in the rue saint-maur. drawn
+by an irresistible attraction, he had quitted the spot on the boulevards
+where we had agreed to meet.
+
+what a night my poor child will go through! he exclaimed, when i had
+finished my account of the scene that had just taken place. supposing i
+were to go to her! he added; supposing she were to see me suddenly?
+
+at this moment she is capable of throwing herself out of the window,
+i replied. the countess is one of those lucretias who could not survive
+any violence, even if it were done by a man into whose arms she could
+throw herself.
+
+you are young, he answered; you do not know that in a soul tossed by
+such dreadful alternatives the will is like waters of a lake lashed by a
+tempest; the wind changes every instant, and the waves are driven now to
+one shore, now to the other. during this night the chances are quite
+as great that on seeing me honorine might rush into my arms as that she
+would throw herself out of the window.
+
+and you would accept the equal chances, said i.
+
+well, come, said he, i have at home, to enable me to wait till
+to-morrow, a dose of opium which desplein prepared for me to send me to
+sleep without any risk!
+
+next day at noon gobain brought me a letter, telling me that the
+countess had gone to bed at six, worn out with fatigue, and that, having
+taken a soothing draught prepared by the chemist, she had now fallen
+asleep.
+
+this is her letter, of which i kept a copy--for you, mademoiselle,
+ said the consul, addressing camille, know all the resources of art, the
+tricks of style, and the efforts made in their compositions by writers
+who do not lack skill; but you will acknowledge that literature could
+never find such language in its assumed pathos; there is nothing so
+terrible as truth. here is the letter written by this woman, or rather
+by this anguish:--
+
+monsieur maurice,--
+
+i know all your uncle would say to me; he is not better informed than
+my own conscience. conscience is the interpreter of god to man. i know
+that if i am not reconciled to octave, i shall be damned; that is the
+sentence of religious law. civil law condemns me to obey, cost what it
+may. if my husband does not reject me, the world will regard me as pure,
+as virtuous, whatever i may have done. yes, that much is sublime in
+marriage; society ratifies the husbands forgiveness; but it forgets
+that the forgiveness must be accepted. legally, religiously, and from
+the worlds point of view i ought to go back to octave. keeping only
+to the human aspect of the question, is it not cruel to refuse him
+happiness, to deprive him of children, to wipe his name out of the
+golden book and the list of peers? my sufferings, my repugnance, my
+feelings, all my egoism--for i know that i am an egoist--ought to be
+sacrificed to the family. i shall be a mother; the caresses of my child
+will wipe away many tears! i shall be very happy; i certainly shall
+be much looked up to. i shall ride, haughty and wealthy, in a handsome
+carriage! i shall have servants and a fine house, and be the queen of as
+many parties as there are weeks in the year. the world will receive
+me handsomely. i shall not have to climb up again to the heaven of
+aristocracy, i shall never have come down from it. so god, the law,
+society are all in accord.
+
+what are you rebelling against? i am asked from the height of
+heaven, from the pulpit, from the judges bench, and from the throne,
+whose august intervention may at need be invoked by the count. your
+uncle, indeed, at need, would speak to me of a certain celestial grace
+which will flood my heart when i know the pleasure of doing my duty.
+
+god, the law, the world, and octave all wish me to live, no doubt.
+well, if there is no other difficulty, my reply cuts the knot: i will
+not live. i will become white and innocent again; for i will lie in my
+shroud, white with the blameless pallor of death. this is not in the
+least mulish obstinacy. that mulish obstinacy of which you jestingly
+accused me is in a woman the result of confidence, of a vision of the
+future. though my husband, sublimely generous, may forget all, i
+shall not forget. does forgetfulness depend on our will? when a widow
+re-marries, love makes a girl of her; she marries a man she loves. but i
+cannot love the count. it all lies in that, do not you see?
+
+every time my eyes met his i should see my sin in them, even when his
+were full of love. the greatness of his generosity would be the measure
+of the greatness of my crime. my eyes, always uneasy, would be for ever
+reading an invisible condemnation. my heart would be full of confused
+and struggling memories; marriage can never move me to the cruel
+rapture, the mortal delirium of passion. i should kill my husband by
+my coldness, by comparisons which he would guess, though hidden in the
+depths of my conscience. oh! on the day when i should read a trace of
+involuntary, even of suppressed reproach in a furrow on his brow, in a
+saddened look, in some imperceptible gesture, nothing could hold me: i
+should be lying with a fractured skull on the pavement, and find that
+less hard than my husband. it might be my own over-susceptibility that
+would lead me to this horrible but welcome death; i might die the victim
+of an impatient mood in octave caused by some matter of business, or be
+deceived by some unjust suspicion. alas! i might even mistake some proof
+of love for a sign of contempt!
+
+what torture on both sides! octave would be always doubting me, i
+doubting him. i, quite involuntarily, should give him a rival wholly
+unworthy of him, a man whom i despise, but with whom i have known
+raptures branded on me with fire, which are my shame, but which i cannot
+forget.
+
+have i shown you enough of my heart? no one, monsieur, can convince
+me that love may be renewed, for i neither can nor will accept love from
+any one. a young bride is like a plucked flower; but a guilty wife is
+like a flower that had been walked over. you, who are a florist, you
+know whether it is ever possible to restore the broken stem, to revive
+the faded colors, to make the sap flow again in the tender vessels of
+which the whole vegetative function lies in their perfect rigidity. if
+some botanist should attempt the operation, could his genius smooth out
+the folds of the bruised corolla? if he could remake a flower, he
+would be god! god alone can remake me! i am drinking the bitter cup
+of expiation; but as i drink it i painfully spell out this sentence:
+expiation is not annihilation.
+
+in my little house, alone, i eat my bread soaked in tears; but no one
+sees me eat nor sees me weep. if i go back to octave, i must give up
+my tears--they would offend him. oh! monsieur, how many virtues must a
+woman tread under foot, not to give herself, but to restore herself to a
+betrayed husband? who could count them? god alone; for he alone can know
+and encourage the horrible refinements at which the angels must turn
+pale. nay, i will go further. a woman has courage in the presence of her
+husband if he knows nothing; she shows a sort of fierce strength in her
+hypocrisy; she deceives him to secure him double happiness. but common
+knowledge is surely degrading. supposing i could exchange humiliation
+for ecstasy? would not octave at last feel that my consent was sheer
+depravity? marriage is based on esteem, on sacrifices on both sides; but
+neither octave nor i could esteem each other the day after our reunion.
+he would have disgraced me by a love like that of an old man for a
+courtesan, and i should for ever feel the shame of being a chattel
+instead of a lady. i should represent pleasure, and not virtue, in his
+house. these are the bitter fruits of such a sin. i have made myself a
+bed where i can only toss on burning coals, a sleepless pillow.
+
+here, when i suffer, i bless my sufferings; i say to god, i thank
+thee! but in my husbands house i should be full of terror, tasting
+joys to which i have no right.
+
+all this, monsieur, is not argument; it is the feeling of a soul made
+vast and hollow by seven years of suffering. finally, must i make a
+horrible confession? i shall always feel at my bosom the lips of a child
+conceived in rapture and joy, and in the belief in happiness, of a child
+i nursed for seven months, that i shall bear in my womb all the days of
+my life. if other children should draw their nourishment from me, they
+would drink in tears mingling with the milk, and turning it sour. i
+seem a light thing, you regard me as a child--ah yes! i have a childs
+memory, the memory which returns to us on the verge of the tomb. so, you
+see, there is not a situation in that beautiful life to which the world
+and my husbands love want to recall me, which is not a false position,
+which does not cover a snare or reveal a precipice down which i must
+fall, torn by pitiless rocks. for five years now i have been wandering
+in the sandy desert of the future without finding a place convenient to
+repent in, because my soul is possessed by true repentance.
+
+religion has its answers ready to all this, and i know them by heart.
+this suffering, these difficulties, are my punishment, she says, and god
+will give me strength to endure them. this, monsieur, is an argument to
+certain pious souls gifted with an energy which i have not. i have made
+my choice between this hell, where god does not forbid my blessing him,
+and the hell that awaits me under count octaves roof.
+
+one word more. if i were still a girl, with the experience i now have,
+my husband is the man i should choose; but that is the very reason of
+my refusal. i could not bear to blush before that man. what! i should
+be always on my knees, he always standing upright; and if we were to
+exchange positions, i should scorn him! i will not be better treated
+by him in consequence of my sin. the angel who might venture under such
+circumstances on certain liberties which are permissible when both are
+equally blameless, is not on earth; he dwells in heaven! octave is
+full of delicate feeling, i know; but even in his soul (which, however
+generous, is a mans soul after all) there is no guarantee for the new
+life i should lead with him.
+
+come then, and tell me where i may find the solitude, the peace, the
+silence, so kindly to irreparable woes, which you promised me.
+
+after making this copy of the letter to preserve it complete, i went
+to the rue payenne. anxiety had conquered the power of opium. octave was
+walking up and down his garden like a madman.
+
+answer that! said i, giving him his wifes letter. try to reassure
+the modesty of experience. it is rather more difficult than conquering
+the modesty of ignorance, which curiosity helps to betray.
+
+she is mine! cried the count, whose face expressed joy as he went on
+reading the letter.
+
+he signed to me with his hand to leave him to himself. i understood
+that extreme happiness and extreme pain obey the same laws; i went in
+to receive madame de courteville and amelie, who were to dine with the
+count that day. however handsome mademoiselle de courteville might be, i
+felt, on seeing her once more, that love has three aspects, and that
+the women who can inspire us with perfect love are very rare. as i
+involuntarily compared amelie with honorine, i found the erring wife
+more attractive than the pure girl. to honorines heart fidelity had not
+been a duty, but the inevitable; while amelie would serenely pronounce
+the most solemn promises without knowing their purport or to what they
+bound her. the crushed, the dead woman, so to speak, the sinner to be
+reinstated, seemed to me sublime; she incited the special generosities
+of a mans nature; she demanded all the treasures of the heart, all
+the resources of strength; she filled his life and gave the zest of
+a conflict to happiness; whereas amelie, chaste and confiding,
+would settle down into the sphere of peaceful motherhood, where the
+commonplace must be its poetry, and where my mind would find no struggle
+and no victory.
+
+of the plains of champagne and the snowy, storm-beaten but sublime
+alps, what young man would choose the chalky, monotonous level? no; such
+comparisons are fatal and wrong on the threshold of the mairie. alas!
+only the experience of life can teach us that marriage excludes passion,
+that a family cannot have its foundation on the tempests of love. after
+having dreamed of impossible love, with its infinite caprices, after
+having tasted the tormenting delights of the ideal, i saw before me
+modest reality. pity me, for what could be expected! at five-and-twenty
+i did not trust myself; but i took a manful resolution.
+
+i went back to the count to announce the arrival of his relations, and
+i saw him grown young again in the reflected light of hope.
+
+what ails you, maurice? said he, struck by my changed expression.
+
+monsieur le comte----
+
+no longer octave? you, to whom i shall owe my life, my happiness----
+
+my dear octave, if you should succeed in bringing the countess back
+to her duty, i have studied her well--(he looked at me as othello must
+have looked at iago when iago first contrived to insinuate a suspicion
+into the moors mind)--she must never see me again; she must never know
+that maurice was your secretary. never mention my name to her, or
+all will be undone.... you have got me an appointment as maitre
+des requetes--well, get me instead some diplomatic post abroad, a
+consulship, and do not think of my marrying amelie.--oh! do not be
+uneasy, i added, seeing him draw himself up, i will play my part to
+the end.
+
+poor boy! said he, taking my hand, which he pressed, while he kept
+back the tears that were starting to his eyes.
+
+you gave me the gloves, i said, laughing, but i have not put them
+on; that is all.
+
+we then agreed as to what i was to do that evening at honorines house,
+whither i presently returned. it was now august; the day had been hot
+and stormy, but the storm hung overhead, the sky was like copper; the
+scent of the flowers was heavy, i felt as if i were in an oven, and
+caught myself wishing that the countess might have set out for the
+indies; but she was sitting on a wooden bench shaped like a sofa, under
+an arbor, in a loose dress of white muslin fastened with blue bows,
+her hair unadorned in waving bands over her cheeks, her feet on a small
+wooden stool, and showing a little way beyond her skirt. she did not
+rise; she showed me with her hand to the seat by her side, saying:
+
+now, is not life at a deadlock for me?
+
+life as you have made it, i replied. but not the life i propose to
+make for you; for, if you choose, you may be very happy....
+
+how? said she; her whole person was a question.
+
+your letter is in the counts hands.
+
+honorine started like a frightened doe, sprang to a few paces off,
+walked down the garden, turned about, remained standing for some
+minutes, and finally went in to sit alone in the drawing-room, where i
+joined her, after giving her time to get accustomed to the pain of this
+poniard thrust.
+
+you--a friend? say rather a traitor! a spy, perhaps, sent by my
+husband.
+
+instinct in women is as strong as the perspicacity of great men.
+
+you wanted an answer to your letter, did you not? and there was but
+one man in the world who could write it. you must read the reply, my
+dear countess; and if after reading it you still find that your life is
+a deadlock, the spy will prove himself a friend; i will place you in
+a convent whence the counts power cannot drag you. but, before going
+there, let us consider the other side of the question. there is a law,
+alike divine and human, which even hatred affects to obey, and which
+commands us not to condemn the accused without hearing his defence.
+till now you have passed condemnation, as children do, with your ears
+stopped. the devotion of seven years has its claims. so you must read
+the answer your husband will send you. i have forwarded to him, through
+my uncle, a copy of your letter, and my uncle asked him what his reply
+would be if his wife wrote him a letter in such terms. thus you are not
+compromised. he will himself bring the counts answer. in the presence
+of that saintly man, and in mine, out of respect for your own dignity,
+you must read it, or you will be no better than a wilful, passionate
+child. you must make this sacrifice to the world, to the law, and to
+god.
+
+as she saw in this concession no attack on her womanly resolve, she
+consented. all the labor or four or five months had been building up to
+this moment. but do not the pyramids end in a point on which a bird may
+perch? the count had set all his hopes on this supreme instant, and he
+had reached it.
+
+in all my life i remember nothing more formidable than my uncles
+entrance into that little pompadour drawing-room, at ten that evening.
+the fine head, with its silver hair thrown into relief by the entirely
+black dress, and the divinely calm face, had a magical effect on the
+comtesse honorine; she had the feeling of cool balm on her wounds, and
+beamed in the reflection of that virtue which gave light without knowing
+it.
+
+monsieur the cure of the white friars, said old gobain.
+
+are you come, uncle, with a message of happiness and peace? said i.
+
+happiness and peace are always to be found in obedience to the
+precepts of the church, replied my uncle, and he handed the countess
+the following letter:--
+
+my dear honorine,--
+
+if you had but done me the favor of trusting me, if you had read the
+letter i wrote to you five years since, you would have spared yourself
+five years of useless labor, and of privations which have grieved me
+deeply. in it i proposed an arrangement of which the stipulations will
+relieve all your fears, and make our domestic life possible. i have much
+to reproach myself with, and in seven years of sorrow i have discovered
+all my errors. i misunderstood marriage. i failed to scent danger when
+it threatened you. an angel was in the house. the lord bid me guard it
+well! the lord has punished me for my audacious confidence.
+
+you cannot give yourself a single lash without striking me. have mercy
+on me, my dear honorine. i so fully appreciated your susceptibilities
+that i would not bring you back to the old house in the rue payenne,
+where i can live without you, but which i could not bear to see again
+with you. i am decorating, with great pleasure, another house, in the
+faubourg saint-honore, to which, in hope, i conduct not a wife whom i
+owe to her ignorance of life, and secured to me by law, but a sister
+who will allow me to press on her brow such a kiss as a father gives the
+daughter he blesses every day.
+
+will you bereave me of the right i have conquered from your
+despair--that of watching more closely over your needs, your pleasures,
+your life even? women have one heart always on their side, always
+abounding in excuses--their mothers; you never knew any mother but my
+mother, who would have brought you back to me. but how is it that you
+never guessed that i had for you the heart of a mother, both of my
+mother and of your own? yes, dear, my affection is neither mean nor
+grasping; it is one of those which will never let any annoyance last
+long enough to pucker the brow of the child it worships. what can you
+think of the companion of your childhood, honorine, if you believe
+him capable of accepting kisses given in trembling, of living between
+delight and anxiety? do not fear that you will be exposed to the laments
+of a suppliant passion; i would not want you back until i felt certain
+of my own strength to leave you in perfect freedom.
+
+your solitary pride has exaggerated the difficulties. you may, if you
+will, look on at the life of a brother, or of a father, without either
+suffering or joy; but you will find neither mockery nor indifference,
+nor have any doubt as to his intentions. the warmth of the atmosphere
+in which you live will be always equable and genial, without tempests,
+without a possible squall. if, later, when you feel secure that you
+are as much at home as in your own little house, you desire to try some
+other elements of happiness, pleasures, or amusements, you can expand
+their circle at your will. the tenderness of a mother knows neither
+contempt nor pity. what is it? love without desire. well, in me
+admiration shall hide every sentiment in which you might see an offence.
+
+thus, living side by side, we may both be magnanimous. in you the
+kindness of a sister, the affectionate thoughtfulness of a friend, will
+satisfy the ambition of him who wishes to be your lifes companion; and
+you may measure his tenderness by the care he will take to conceal
+it. neither you nor i will be jealous of the past, for we may each
+acknowledge that the other has sense enough to look only straight
+forward.
+
+thus you will be at home in your new house exactly as you are in the
+rue saint-maur; unapproachable, alone, occupied as you please, living by
+your own law; but having in addition the legitimate protection, of
+which you are now exacting the most chivalrous labors of love, with the
+consideration which lends so much lustre to a woman, and the fortune
+which will allow of your doing many good works. honorine, when you long
+for an unnecessary absolution, you have only to ask for it; it will not
+be forced upon you by the church or by the law; it will wait on your
+pride, on your own impulsion. my wife might indeed have to fear all the
+things you dread; but not my friend and sister, towards whom i am bound
+to show every form and refinement of politeness. to see you happy is
+enough happiness for me; i have proved this for the seven years past.
+the guarantee for this, honorine, is to be seen in all the flowers made
+by you, carefully preserved, and watered by my tears. like the _quipos_,
+the tally cords of the peruvians, they are the record of our sorrows.
+
+if this secret compact does not suit you, my child, i have begged
+the saintly man who takes charge of this letter not to say a word in
+my behalf. i will not owe your return to the terrors threatened by the
+church, nor to the bidding of the law. i will not accept the simple and
+quiet happiness that i ask from any one but yourself. if you persist
+in condemning me to the lonely life, bereft even of a fraternal smile,
+which i have led for nine years, if you remain in your solitude and show
+no sign, my will yields to yours. understand me perfectly: you shall be
+no more troubled than you have been until this day. i will get rid
+of the crazy fellow who has meddled in your concerns, and has perhaps
+caused you some annoyance...
+
+monsieur, said honorine, folding up the letter, which she placed in
+her bosom, and looking at my uncle, thank you very much. i will avail
+myself of monsieur le comtes permission to remain here----
+
+ah! i exclaimed.
+
+this exclamation made my uncle look at me uneasily, and won from the
+countess a mischievous glance, which enlightened me as to her motives.
+
+honorine had wanted to ascertain whether i were an actor, a bird
+snarer; and i had the melancholy satisfaction of deceiving her by my
+exclamation, which was one of those cries from the heart which women
+understand so well.
+
+ah, maurice, said she, you know how to love.
+
+the light that flashed in my eyes was another reply which would have
+dissipated the countess uneasiness if she still had any. thus the count
+found me useful to the very last.
+
+honorine then took out the counts letter again to finish reading it.
+my uncle signed to me, and i rose.
+
+let us leave the countess, said he.
+
+you are going already maurice? she said, without looking at me.
+
+she rose, and still reading, followed us to the door. on the threshold
+she took my hand, pressed it very affectionately, and said, we shall
+meet again...
+
+no, i replied, wringing her hand, so that she cried out. you love
+your husband. i leave to-morrow.
+
+and i rushed away, leaving my uncle, to whom she said:
+
+why, what is the matter with your nephew?
+
+the good abbe completed my work by pointing to his head and heart, as
+much as to say, he is mad, madame; you must forgive him! and with all
+the more truth, because he really thought it.
+
+six days after, i set out with an appointment as vice-consul in spain,
+in a large commercial town, where i could quickly qualify to rise in the
+career of a consul, to which i now restricted my ambition. after i had
+established myself there, i received this letter from the count:--
+
+my dear maurice,--
+
+if i were happy, i should not write to you, but i have entered on a
+new life of suffering. i have grown young again in my desires, with all
+the impatience of a man of forty, and the prudence of a diplomatist, who
+has learned to moderate his passion. when you left i had not yet been
+admitted to the _pavillon_ in the rue saint-maur, but a letter had
+promised me that i should have permission--the mild and melancholy
+letter of a woman who dreaded the agitations of a meeting. after waiting
+for more than a month, i made bold to call, and desired gobain to
+inquire whether i could be received. i sat down in a chair in the avenue
+near the lodge, my head buried in my hands, and there i remained for
+almost an hour.
+
+madame had to dress, said gobain, to hide honorines hesitancy under
+a pride of appearance which was flattering to me.
+
+during a long quarter of an hour we both of us were possessed by an
+involuntary nervous trembling as great as that which seizes a speaker on
+the platform, and we spoke to each other sacred phrases, like those of
+persons taken by surprise who make believe a conversation.
+
+you see, honorine, said i, my eyes full of tears, the ice is
+broken, and i am so tremulous with happiness that you must forgive the
+incoherency of my language. it will be so for a long time yet.
+
+there is no crime in being in love with your wife, said she with a
+forced smile.
+
+do me the favor, said i, no longer to work as you do. i have heard
+from madame gobain that for three weeks you have been living on your
+savings; you have sixty thousand francs a year of your own, and if you
+cannot give me back your heart, at least do not abandon your fortune to
+me.
+
+i have long known your kindness, said she.
+
+though you should prefer to remain here, said i, and to preserve
+your independence; though the most ardent love should find no favor in
+your eyes, still, do not toil.
+
+i gave her three certificates for twelve thousand francs a year each;
+she took them, opened them languidly, and after reading them through she
+gave me only a look as my reward. she fully understood that i was not
+offering her money, but freedom.
+
+i am conquered, said she, holding out her hand, which i kissed.
+come and see me as often as you like.
+
+so she had done herself a violence in receiving me. next day i found
+her armed with affected high spirits, and it took two months of habit
+before i saw her in her true character. but then it was like a delicious
+may, a springtime of love that gave me ineffable bliss; she was no
+longer afraid; she was studying me. alas! when i proposed that she
+should go to england to return ostensibly to me, to our home, that she
+should resume her rank and live in our new residence, she was seized
+with alarm.
+
+why not live always as we are? she said.
+
+i submitted without saying a word.
+
+is she making an experiment? i asked myself as i left her. on my way
+from my own house to the rue saint-maur thoughts of love had swelled in
+my heart, and i had said to myself, like a young man, this evening she
+will yield.
+
+all my real or affected force was blown to the winds by a smile, by a
+command from those proud, calm eyes, untouched by passion. i remembered
+the terrible words you once quoted to me, lucretias dagger wrote in
+letters of blood the watchword of womans charter--liberty! and
+they froze me. i felt imperatively how necessary to me was honorines
+consent, and how impossible it was to wring it from her. could she guess
+the storms that distracted me when i left as when i came?
+
+at last i painted my situation in a letter to her, giving up the
+attempt to speak of it. honorine made no answer, and she was so sad that
+i made as though i had not written. i was deeply grieved by the idea
+that i could have distressed her; she read my heart and forgave me. and
+this was how. three days ago she received me, for the first time, in
+her own blue-and-white room. it was bright with flowers, dressed, and
+lighted up. honorine was in a dress that made her bewitching. her hair
+framed that face that you know in its light curls; and in it were some
+sprays of cape heath; she wore a white muslin gown, a white sash with
+long floating ends. you know what she is in such simplicity, but that
+day she was a bride, the honorine of long past days. my joy was chilled
+at once, for her face was terribly grave; there were fires beneath the
+ice.
+
+octave, she said, i will return as your wife when you will. but
+understand clearly that this submission has its dangers. i can be
+resigned----
+
+i made a movement.
+
+yes, she went on, i understand: resignation offends you, and you
+want what i cannot give--love. religion and pity led me to renounce my
+vow of solitude; you are here! she paused.
+
+at first, she went on, you asked no more. now you demand your wife.
+well, here i give you honorine, such as she is, without deceiving you as
+to what she will be.--what shall i be? a mother? i hope it. believe
+me, i hope it eagerly. try to change me; you have my consent; but if
+i should die, my dear, do not curse my memory, and do not set down to
+obstinacy what i should call the worship of the ideal, if it were not
+more natural to call the indefinable feeling which must kill me the
+worship of the divine! the future will be nothing to me; it will be your
+concern; consult your own mind.
+
+and she sat down in the calm attitude you used to admire, and watched
+me turning pale with the pain she had inflicted. my blood ran cold. on
+seeing the effect of her words she took both my hands, and, holding them
+in her own, she said:
+
+octave, i do love you, but not in the way you wish to be loved. i
+love your soul.... still, understand that i love you enough to die in
+your service like an eastern slave, and without a regret. it will be my
+expiation.
+
+she did more; she knelt before me on a cushion, and in a spirit of
+sublime charity she said:
+
+and perhaps i shall not die!
+
+for two months now i have been struggling with myself. what shall i
+do? my heart is too full; i therefore seek a friend, and send out this
+cry, what shall i do?
+
+i did not answer this letter. two months later the newspapers announced
+the return on board an english vessel of the comtesse octave, restored
+to her family after adventures by land and sea, invented with sufficient
+probability to arouse no contradiction.
+
+when i moved to genoa i received a formal announcement of the happy
+event of the birth of a son to the count and countess. i held that
+letter in my hand for two hours, sitting on this terrace--on this bench.
+two months after, urged by octave, by m. de grandville, and monsieur de
+serizy, my kind friends, and broken by the death of my uncle, i agreed
+to take a wife.
+
+six months after the revolution of july i received this letter, which
+concludes the story of this couple:--
+
+monsieur maurice,--i am dying though i am a mother--perhaps because
+i am a mother. i have played my part as a wife well; i have deceived my
+husband. i have had happiness not less genuine than the tears shed by
+actresses on the stage. i am dying for society, for the family, for
+marriage, as the early christians died for god! i know not of what i am
+dying, and i am honestly trying to find out, for i am not perverse; but
+i am bent on explaining my malady to you--you who brought that heavenly
+physician your uncle, at whose word i surrendered. he was my director;
+i nursed him in his last illness, and he showed me the way to heaven,
+bidding me persevere in my duty.
+
+and i have done my duty.
+
+i do not blame those who forget. i admire them as strong and necessary
+natures; but i have the malady of memory! i have not been able twice to
+feel that love of the heart which identifies a woman with the man she
+loves. to the last moment, as you know, i cried to your heart, in the
+confessional, and to my husband, have mercy! but there was no mercy.
+well, and i am dying, dying with stupendous courage. no courtesan was
+ever more gay than i. my poor octave is happy; i let his love feed on
+the illusions of my heart. i throw all my powers into this terrible
+masquerade; the actress is applauded, feasted, smothered in flowers; but
+the invisible rival comes every day to seek its prey--a fragment of
+my life. i am rent and i smile. i smile on two children, but it is the
+elder, the dead one, that will triumph! i told you so before. the dead
+child calls me, and i am going to him.
+
+the intimacy of marriage without love is a position in which my soul
+feels degraded every hour. i can never weep or give myself up to dreams
+but when i am alone. the exigencies of society, the care of my child,
+and that of octaves happiness never leave me a moment to refresh
+myself, to renew my strength, as i could in my solitude. the incessant
+need for watchfulness startles my heart with constant alarms. i have not
+succeeded in implanting in my soul the sharp-eared vigilance that lies
+with facility, and has the eyes of a lynx. it is not the lip of one i
+love that drinks my tears and kisses them; my burning eyes are cooled
+with water, and not with tender lips. it is my soul that acts a part,
+and that perhaps is why i am dying! i lock up my griefs with so much
+care that nothing is to be seen of it; it must eat into something, and
+it has attacked my life.
+
+i said to the doctors, who discovered my secret, make me die of some
+plausible complaint, or i shall drag my husband with me.
+
+so it is quite understood by m. desplein, bianchon, and myself that
+i am dying of the softening of some bone which science has fully
+described. octave believes that i adore him, do you understand? so i am
+afraid lest he should follow me. i now write to beg you in that case
+to be the little counts guardian. you will find with this a codicil in
+which i have expressed my wish; but do not produce it excepting in case
+of need, for perhaps i am fatuously vain. my devotion may perhaps leave
+octave inconsolable but willing to live.--poor octave! i wish him a
+better wife than i am, for he deserves to be well loved.
+
+since my spiritual spy is married, i bid him remember what the florist
+of the rue saint-maur hereby bequeaths to him as a lesson: may your wife
+soon be a mother! fling her into the vulgarest materialism of household
+life; hinder her from cherishing in her heart the mysterious flower
+of the ideal--of that heavenly perfection in which i believed, that
+enchanted blossom with glorious colors, and whose perfume disgusts us
+with reality. i am a saint-theresa who has not been suffered to live on
+ecstasy in the depths of a convent, with the holy infant, and a spotless
+winged angel to come and go as she wished.
+
+you saw me happy among my beloved flowers. i did not tell you all: i
+saw love budding under your affected madness, and i concealed from you
+my thoughts, my poetry; i did not admit you to my kingdom of beauty.
+well, well; you will love my child for love of me if he should one day
+lose his poor father. keep my secrets as the grave will keep them. do
+not mourn for me; i have been dead this many a day, if saint bernard
+was right in saying that where there is no more love there is no more
+life.
+
+and the countess died, said the consul, putting away the letters and
+locking the pocket-book.
+
+is the count still living? asked the ambassador, for since the
+revolution of july he has disappeared from the political stage.
+
+do you remember, monsieur de lora, said the consul-general, having
+seen me going to the steamboat with----
+
+a white-haired man! an old man? said the painter.
+
+an old man of forty-five, going in search of health and amusement in
+southern italy. that old man was my poor friend, my patron, passing
+through genoa to take leave of me and place his will in my hands.
+he appoints me his sons guardian. i had no occasion to tell him of
+honorines wishes.
+
+does he suspect himself of murder? said mademoiselle des touches to
+the baron de lhostal.
+
+he suspects the truth, replied the consul, and that is what is
+killing him. i remained on board the steam packet that was to take him
+to naples till it was out of the roadstead; a small boat brought me
+back. we sat for some little time taking leave of each other--for ever,
+i fear. god only knows how much we love the confidant of our love when
+she who inspired it is no more.
+
+that man, said octave, holds a charm and wears an aureole. the
+count went to the prow and looked down on the mediterranean. it happened
+to be fine, and, moved no doubt by the spectacle, he spoke these last
+words: ought we not, in the interests of human nature, to inquire
+what is the irresistible power which leads us to sacrifice an exquisite
+creature to the most fugitive of all pleasures, and in spite of our
+reason? in my conscience i heard cries. honorine was not alone in her
+anguish. and yet i would have it!... i am consumed by remorse. in the
+rue payenne i was dying of the joys i had not; now i shall die in italy
+of the joys i have had.... wherein lay the discord between two natures,
+equally noble, i dare assert?
+
+for some minutes profound silence reigned on the terrace.
+
+then the consul, turning to the two women, asked, was she virtuous?
+
+mademoiselle des touches rose, took the consuls arm, went a few steps
+away, and said to him:
+
+are not men wrong too when they come to us and make a young girl a wife
+while cherishing at the bottom of their heart some angelic image, and
+comparing us to those unknown rivals, to perfections often borrowed from
+a remembrance, and always finding us wanting?
+
+mademoiselle, you would be right if marriage were based on passion; and
+that was the mistake of those two, who will soon be no more. marriage
+with heart-deep love on both sides would be paradise.
+
+mademoiselle des touches turned from the consul, and was immediately
+joined by claude vignon, who said in her ear:
+
+a bit of a coxcomb is m. de lhostal.
+
+no, replied she, whispering to claude these words: for he has not yet
+guessed that honorine would have loved him.--oh! she exclaimed, seeing
+the consuls wife approaching, his wife was listening! unhappy man!
+
+eleven was striking by all the clocks, and the guests went home on foot
+along the seashore.
+
+still, that is not life, said mademoiselle des touches. that woman
+was one of the rarest, and perhaps the most extraordinary exceptions in
+intellect--a pearl! life is made up of various incidents, of pain and
+pleasure alternately. the paradise of dante, that sublime expression of
+the ideal, that perpetual blue, is to be found only in the soul; to ask
+it of the facts of life is a luxury against which nature protests every
+hour. to such souls as those the six feet of a cell, and the kneeling
+chair are all they need.
+
+you are right, said leon de lora; but good-for-nothing as i may be, i
+cannot help admiring a woman who is capable, as that one was, of living
+by the side of a studio, under a painters roof, and never coming down,
+nor seeing the world, nor dipping her feet in the street mud.
+
+such a thing has been known--for a few months, said claude vignon,
+with deep irony.
+
+comtesse honorine is not unique of her kind, replied the ambassador
+to mademoiselle des touches. a man, nay, and a politician, a bitter
+writer, was the object of such a passion; and the pistol shot which
+killed him hit not him alone; the woman who loved lived like a nun ever
+after.
+
+then there are yet some great souls in this age! said camille maupin,
+and she stood for some minutes pensively leaning on the balustrade of
+the quay.
+
+
+
+
+addendum
+
+the following personages appear in other stories of the human comedy.
+
+     bauvan, comte octave de
+       scenes from a courtesans life
+
+     bianchon, horace
+       father goriot
+       the atheists mass
+       cesar birotteau
+       the commission in lunacy
+       lost illusions
+       a distinguished provincial at paris
+       a bachelors establishment
+       the secrets of a princess
+       the government clerks
+       pierrette
+       a study of woman
+       scenes from a courtesans life
+       the seamy side of history
+       the magic skin
+       a second home
+       a prince of bohemia
+       letters of two brides
+       the muse of the department
+       the imaginary mistress
+       the middle classes
+       cousin betty
+       the country parson
+     in addition, m. bianchon narrated the following:
+       another study of woman
+       la grande breteche
+
+     desplein
+       the atheists mass
+       cousin pons
+       lost illusions
+       the thirteen
+       the government clerks
+       pierrette
+       a bachelors establishment
+       the seamy side of history
+       modeste mignon
+       scenes from a courtesans life
+
+     fontanon, abbe
+       a second home
+       the government clerks
+       the member for arcis
+
+     gaudissart, felix
+       scenes from a courtesans life
+       cousin pons
+       cesar birotteau
+       gaudissart the great
+
+     gaudron, abbe
+       the government clerks
+       a start in life
+
+     granville, vicomte de (later comte)
+       the gondreville mystery
+       a second home
+       farewell (adieu)
+       cesar birotteau
+       scenes from a courtesans life
+       a daughter of eve
+       cousin pons
+
+     lora, leon de
+       the unconscious humorists
+       a bachelors establishment
+       a start in life
+       pierre grassou
+       cousin betty
+       beatrix
+
+     loraux, abbe
+       a start in life
+       a bachelors establishment
+       cesar birotteau
+
+     popinot, jean-jules
+       cesar birotteau
+       the commission in lunacy
+       the seamy side of history
+       the middle classes
+
+     serizy, comte hugret de
+       a start in life
+       a bachelors establishment
+       modeste mignon
+       scenes from a courtesans life
+
+     touches, mademoiselle felicite des
+       beatrix
+       lost illusions
+       a distinguished provincial at paris
+       a bachelors establishment
+       another study of woman
+       a daughter of eve
+       beatrix
+       the muse of the department
+
+     vignon, claude
+       a distinguished provincial at paris
+       a daughter of eve
+       honorine
+       beatrix
+       cousin betty
+       the unconscious humorists
+
+
+
+
+
+
+end of the project gutenberg ebook of honorine, by honore de balzac
+
+*** end of this project gutenberg ebook honorine ***
+
+***** this file should be named 1683-0.txt or 1683-0.zip *****
+this and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/6/8/1683/
+
+produced by john bickers, and dagny
+
+updated editions will replace the previous one--the old editions
+will be renamed.
+
+creating the works from public domain print editions means that no
+one owns a united states copyright in these works, so the foundation
+(and you!) can copy and distribute it in the united states without
+permission and without paying copyright royalties.  special rules,
+set forth in the general terms of use part of this license, apply to
+copying and distributing project gutenberg-tm electronic works to
+protect the project gutenberg-tm concept and trademark.  project
+gutenberg is a registered trademark, and may not be used if you
+charge for the ebooks, unless you receive specific permission.  if you
+do not charge anything for copies of this ebook, complying with the
+rules is very easy.  you may use this ebook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  they may be modified and printed and given away--you may do
+practically anything with public domain ebooks.  redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** start: full license ***
+
+the full project gutenberg license
+please read this before you distribute or use this work
+
+to protect the project gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase project
+gutenberg), you agree to comply with all the terms of the full project
+gutenberg-tm license (available with this file or online at
+http://gutenberg.org/license).
+
+
+section 1.  general terms of use and redistributing project gutenberg-tm
+electronic works
+
+1.a.  by reading or using any part of this project gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  if you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of project gutenberg-tm electronic works in your possession.
+if you paid a fee for obtaining a copy of or access to a project
+gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.e.8.
+
+1.b.  project gutenberg is a registered trademark.  it may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  there are a few
+things that you can do with most project gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  see
+paragraph 1.c below.  there are a lot of things you can do with project
+gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to project gutenberg-tm electronic
+works.  see paragraph 1.e below.
+
+1.c.  the project gutenberg literary archive foundation (the foundation
+ or pglaf), owns a compilation copyright in the collection of project
+gutenberg-tm electronic works.  nearly all the individual works in the
+collection are in the public domain in the united states.  if an
+individual work is in the public domain in the united states and you are
+located in the united states, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to project gutenberg
+are removed.  of course, we hope that you will support the project
+gutenberg-tm mission of promoting free access to electronic works by
+freely sharing project gutenberg-tm works in compliance with the terms of
+this agreement for keeping the project gutenberg-tm name associated with
+the work.  you can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full project
+gutenberg-tm license when you share it without charge with others.
+
+1.d.  the copyright laws of the place where you are located also govern
+what you can do with this work.  copyright laws in most countries are in
+a constant state of change.  if you are outside the united states, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other project
+gutenberg-tm work.  the foundation makes no representations concerning
+the copyright status of any work in any country outside the united
+states.
+
+1.e.  unless you have removed all references to project gutenberg:
+
+1.e.1.  the following sentence, with active links to, or other immediate
+access to, the full project gutenberg-tm license must appear prominently
+whenever any copy of a project gutenberg-tm work (any work on which the
+phrase project gutenberg appears, or with which the phrase project
+gutenberg is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+this ebook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  you may copy it, give it away or
+re-use it under the terms of the project gutenberg license included
+with this ebook or online at www.gutenberg.org
+
+1.e.2.  if an individual project gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the united states without paying any fees
+or charges.  if you are redistributing or providing access to a work
+with the phrase project gutenberg associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.e.1
+through 1.e.7 or obtain permission for the use of the work and the
+project gutenberg-tm trademark as set forth in paragraphs 1.e.8 or
+1.e.9.
+
+1.e.3.  if an individual project gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.e.1 through 1.e.7 and any additional
+terms imposed by the copyright holder.  additional terms will be linked
+to the project gutenberg-tm license for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.e.4.  do not unlink or detach or remove the full project gutenberg-tm
+license terms from this work, or any files containing a part of this
+work or any other work associated with project gutenberg-tm.
+
+1.e.5.  do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.e.1 with
+active links or immediate access to the full terms of the project
+gutenberg-tm license.
+
+1.e.6.  you may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  however, if you provide access to or
+distribute copies of a project gutenberg-tm work in a format other than
+plain vanilla ascii or other format used in the official version
+posted on the official project gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original plain vanilla ascii or other
+form.  any alternate format must include the full project gutenberg-tm
+license as specified in paragraph 1.e.1.
+
+1.e.7.  do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any project gutenberg-tm works
+unless you comply with paragraph 1.e.8 or 1.e.9.
+
+1.e.8.  you may charge a reasonable fee for copies of or providing
+access to or distributing project gutenberg-tm electronic works provided
+that
+
+- you pay a royalty fee of 20% of the gross profits you derive from
+     the use of project gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  the fee is
+     owed to the owner of the project gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     project gutenberg literary archive foundation.  royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  royalty payments should be clearly marked as such and
+     sent to the project gutenberg literary archive foundation at the
+     address specified in section 4, information about donations to
+     the project gutenberg literary archive foundation.
+
+- you provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full project gutenberg-tm
+     license.  you must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     project gutenberg-tm works.
+
+- you provide, in accordance with paragraph 1.f.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- you comply with all other terms of this agreement for free
+     distribution of project gutenberg-tm works.
+
+1.e.9.  if you wish to charge a fee or distribute a project gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the project gutenberg literary archive foundation and michael
+hart, the owner of the project gutenberg-tm trademark.  contact the
+foundation as set forth in section 3 below.
+
+1.f.
+
+1.f.1.  project gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the project gutenberg-tm
+collection.  despite these efforts, project gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+defects, such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.f.2.  limited warranty, disclaimer of damages - except for the right
+of replacement or refund described in paragraph 1.f.3, the project
+gutenberg literary archive foundation, the owner of the project
+gutenberg-tm trademark, and any other party distributing a project
+gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  you agree that you have no remedies for negligence, strict
+liability, breach of warranty or breach of contract except those
+provided in paragraph f3.  you agree that the foundation, the
+trademark owner, and any distributor under this agreement will not be
+liable to you for actual, direct, indirect, consequential, punitive or
+incidental damages even if you give notice of the possibility of such
+damage.
+
+1.f.3.  limited right of replacement or refund - if you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  if you
+received the work on a physical medium, you must return the medium with
+your written explanation.  the person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  if you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  if the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.f.4.  except for the limited right of replacement or refund set forth
+in paragraph 1.f.3, this work is provided to you as-is with no other
+warranties of any kind, express or implied, including but not limited to
+warranties of merchantibility or fitness for any purpose.
+
+1.f.5.  some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+if any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  the invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.f.6.  indemnity - you agree to indemnify and hold the foundation, the
+trademark owner, any agent or employee of the foundation, anyone
+providing copies of project gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of project gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any project gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+project gutenberg-tm work, and (c) any defect you cause.
+
+
+section  2.  information about the mission of project gutenberg-tm
+
+project gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  it exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching project gutenberg-tms
+goals and ensuring that the project gutenberg-tm collection will
+remain freely available for generations to come.  in 2001, the project
+gutenberg literary archive foundation was created to provide a secure
+and permanent future for project gutenberg-tm and future generations.
+to learn more about the project gutenberg literary archive foundation
+and how your efforts and donations can help, see sections 3 and 4
+and the foundation web page at http://www.pglaf.org.
+
+
+section 3.  information about the project gutenberg literary archive
+foundation
+
+the project gutenberg literary archive foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of mississippi and granted tax exempt status by the internal
+revenue service.  the foundations ein or federal tax identification
+number is 64-6221541.  its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  contributions to the project gutenberg
+literary archive foundation are tax deductible to the full extent
+permitted by u.s. federal laws and your states laws.
+
+the foundations principal office is located at 4557 melan dr. s.
+fairbanks, ak, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  its business office is located at
+809 north 1500 west, salt lake city, ut 84116, (801) 596-1887, email
+business@pglaf.org.  email contact links and up to date contact
+information can be found at the foundations web site and official
+page at http://pglaf.org
+
+for additional contact information:
+     dr. gregory b. newby
+     chief executive and director
+     gbnewby@pglaf.org
+
+
+section 4.  information about donations to the project gutenberg
+literary archive foundation
+
+project gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the irs.
+
+the foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the united
+states.  compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  we do not solicit donations in locations
+where we have not received written confirmation of compliance.  to
+send donations or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+while we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+international donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the united states.  u.s. laws alone swamp our small staff.
+
+please check the project gutenberg web pages for current donation
+methods and addresses.  donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+to donate, please visit: http://pglaf.org/donate
+
+
+section 5.  general information about project gutenberg-tm electronic
+works.
+
+professor michael s. hart is the originator of the project gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  for thirty years, he produced and distributed project
+gutenberg-tm ebooks with only a loose network of volunteer support.
+
+
+project gutenberg-tm ebooks are often created from several printed
+editions, all of which are confirmed as public domain in the u.s.
+unless a copyright notice is included.  thus, we do not necessarily
+keep ebooks in compliance with any particular paper edition.
+
+
+most people start at our web site which has the main pg search facility:
+
+     http://www.gutenberg.org
+
+this web site includes information about project gutenberg-tm,
+including how to make donations to the project gutenberg literary
+archive foundation, how to help produce our new ebooks, and how to
+subscribe to our email newsletter to hear about new ebooks.

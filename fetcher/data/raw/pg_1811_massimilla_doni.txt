@@ -1,0 +1,3682 @@
+the project gutenberg ebook of massimilla doni, by honore de balzac
+
+this ebook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  you may copy it, give it away or
+re-use it under the terms of the project gutenberg license included
+with this ebook or online at www.gutenberg.org
+
+
+title: massimilla doni
+
+author: honore de balzac
+
+translator: clara bell and james waring
+
+release date: march 2, 2010 [ebook #1811]
+last updated: november 22, 2016
+
+language: english
+
+character set encoding: utf-8
+
+*** start of this project gutenberg ebook massimilla doni ***
+
+
+
+
+produced by john bickers, and dagny
+
+
+
+
+
+massimilla doni
+
+
+by honore de balzac
+
+
+translated by clara bell and james waring
+
+
+
+
+                              dedication
+
+                           to jacques strunz.
+
+  my dear strunz:--i should be ungrateful if i did not set your name
+  at the head of one of the two tales i could never have written but
+  for your patient kindness and care. accept this as my grateful
+  acknowledgment of the readiness with which you tried--perhaps not
+  very successfully--to initiate me into the mysteries of musical
+  knowledge. you have at least taught me what difficulties and what
+  labor genius must bury in those poems which procure us
+  transcendental pleasures. you have also afforded me the
+  satisfaction of laughing more than once at the expense of a
+  self-styled connoisseur.
+
+  some have taxed me with ignorance, not knowing that i have taken
+  counsel of one of our best musical critics, and had the benefit of
+  your conscientious help. i have, perhaps, been an inaccurate
+  amanuensis. if this were the case, i should be the traitorous
+  translator without knowing it, and i yet hope to sign myself
+  always one of your friends.
+
+                                                         de balzac.
+
+
+
+
+
+massimilla doni
+
+
+as all who are learned in such matters know, the venetian aristocracy is
+the first in europe. its _libro doro_ dates from before the crusades,
+from a time when venice, a survivor of imperial and christian rome which
+had flung itself into the waters to escape the barbarians, was already
+powerful and illustrious, and the head of the political and commercial
+world.
+
+with a few rare exceptions this brilliant nobility has fallen into utter
+ruin. among the gondoliers who serve the english--to whom history here
+reads the lesson of their future fate--there are descendants of long
+dead doges whose names are older than those of sovereigns. on some
+bridge, as you glide past it, if you are ever in venice, you may admire
+some lovely girl in rags, a poor child belonging, perhaps, to one of
+the most famous patrician families. when a nation of kings has fallen
+so low, naturally some curious characters will be met with. it is not
+surprising that sparks should flash out among the ashes.
+
+these reflections, intended to justify the singularity of the persons
+who figure in this narrative, shall not be indulged in any longer, for
+there is nothing more intolerable than the stale reminiscences of those
+who insist on talking about venice after so many great poets and petty
+travelers. the interest of the tale requires only this record of the
+most startling contrast in the life of man: the dignity and poverty
+which are conspicuous there in some of the men as they are in most of
+the houses.
+
+the nobles of venice and of geneva, like those of poland in former
+times, bore no titles. to be named quirini, doria, brignole, morosini,
+sauli, mocenigo, fieschi, cornaro, or spinola, was enough for the pride
+of the haughtiest. but all things become corrupt. at the present day
+some of these families have titles.
+
+and even at a time when the nobles of the aristocratic republics were
+all equal, the title of prince was, in fact, given at genoa to a member
+of the doria family, who were sovereigns of the principality of
+amalfi, and a similar title was in use at venice, justified by ancient
+inheritance from facino cane, prince of varese. the grimaldi, who
+assumed sovereignty, did not take possession of monaco till much later.
+
+the last cane of the elder branch vanished from venice thirty years
+before the fall of the republic, condemned for various crimes more
+or less criminal. the branch on whom this nominal principality then
+devolved, the cane memmi, sank into poverty during the fatal period
+between 1796 and 1814. in the twentieth year of the present century they
+were represented only by a young man whose name was emilio, and an old
+palace which is regarded as one of the chief ornaments of the grand
+canal. this son of venice the fair had for his whole fortune this
+useless palazzo, and fifteen hundred francs a year derived from a
+country house on the brenta, the last plot of the lands his family had
+formerly owned on _terra firma_, and sold to the austrian government.
+this little income spared our handsome emilio the ignominy of accepting,
+as many nobles did, the indemnity of a franc a day, due to every
+impoverished patrician under the stipulations of the cession to austria.
+
+at the beginning of winter, this young gentleman was still lingering in
+a country house situated at the base of the tyrolese alps, and purchased
+in the previous spring by the duchess cataneo. the house, erected by
+palladio for the piepolo family, is a square building of the finest
+style of architecture. there is a stately staircase with a marble
+portico on each side; the vestibules are crowded with frescoes, and
+made light by sky-blue ceilings across which graceful figures float
+amid ornament rich in design, but so well proportioned that the building
+carries it, as a woman carries her head-dress, with an ease that
+charms the eye; in short, the grace and dignity that characterize
+the _procuratie_ in the piazetta at venice. stone walls, admirably
+decorated, keep the rooms at a pleasantly cool temperature. verandas
+outside, painted in fresco, screen off the glare. the flooring
+throughout is the old venetian inlay of marbles, cut into unfading
+flowers.
+
+the furniture, like that of all italian palaces, was rich with handsome
+silks, judiciously employed, and valuable pictures favorably hung; some
+by the genoese priest, known as _il capucino_, several by leonardo da
+vinci, carlo dolci, tintoretto, and titian.
+
+the shelving gardens were full of the marvels where money has been
+turned into rocky grottoes and patterns of shells,--the very madness
+of craftsmanship,--terraces laid out by the fairies, arbors of sterner
+aspect, where the cypress on its tall trunk, the triangular pines, and
+the melancholy olive mingled pleasingly with orange trees, bays, and
+myrtles, and clear pools in which blue or russet fishes swam. whatever
+may be said in favor of the natural or english garden, these trees,
+pruned into parasols, and yews fantastically clipped; this luxury of art
+so skilfully combined with that of nature in court dress; those cascades
+over marble steps where the water spreads so shyly, a filmy scarf swept
+aside by the wind and immediately renewed; those bronzed metal figures
+speechlessly inhabiting the silent grove; that lordly palace, an object
+in the landscape from every side, raising its light outline at the
+foot of the alps,--all the living thoughts which animate the stone,
+the bronze, and the trees, or express themselves in garden plots,--this
+lavish prodigality was in perfect keeping with the loves of a duchess
+and a handsome youth, for they are a poem far removed from the coarse
+ends of brutal nature.
+
+any one with a soul for fantasy would have looked to see, on one of
+those noble flights of steps, standing by a vase with medallions in
+bas-relief, a negro boy swathed about the loins with scarlet stuff, and
+holding in one hand a parasol over the duchess head, and in the other
+the train of her long skirt, while she listened to emilio memmi. and
+how far grander the venetian would have looked in such a dress as the
+senators wore whom titian painted.
+
+but alas! in this fairy palace, not unlike that of the peschieri at
+genoa, the duchess cataneo obeyed the edicts of victorine and the paris
+fashions. she had on a muslin dress and broad straw hat, pretty shot
+silk shoes, thread lace stockings that a breath of air would have blown
+away; and over her shoulders a black lace shawl. but the thing which no
+one could ever understand in paris, where women are sheathed in their
+dresses as a dragon-fly is cased in its annular armor, was the perfect
+freedom with which this lovely daughter of tuscany wore her french
+attire; she had italianized it. a frenchwoman treats her shirt with the
+greatest seriousness; an italian never thinks about it; she does not
+attempt self-protection by some prim glance, for she knows that she is
+safe in that of a devoted love, a passion as sacred and serious in her
+eyes as in those of others.
+
+at eleven in the forenoon, after a walk, and by the side of a table
+still strewn with the remains of an elegant breakfast, the duchess,
+lounging in an easy-chair, left her lover the master of these muslin
+draperies, without a frown each time he moved. emilio, seated at her
+side, held one of her hands between his, gazing at her with utter
+absorption. ask not whether they loved; they loved only too well. they
+were not reading out of the same book, like paolo and francesca; far
+from it, emilio dared not say: let us read. the gleam of those eyes,
+those glistening gray irises streaked with threads of gold that started
+from the centre like rifts of light, giving her gaze a soft, star-like
+radiance, thrilled him with nervous rapture that was almost a spasm.
+sometimes the mere sight of the splendid black hair that crowned the
+adored head, bound by a simple gold fillet, and falling in satin tresses
+on each side of a spacious brow, was enough to give him a ringing in his
+ears, the wild tide of the blood rushing through his veins as if it must
+burst his heart. by what obscure phenomenon did his soul so overmaster
+his body that he was no longer conscious of his independent self, but
+was wholly one with this woman at the least word she spoke in that voice
+which disturbed the very sources of life in him? if, in utter seclusion,
+a woman of moderate charms can, by being constantly studied, seem
+supreme and imposing, perhaps one so magnificently handsome as the
+duchess could fascinate to stupidity a youth in whom rapture found some
+fresh incitement; for she had really absorbed his young soul.
+
+massimilla, the heiress of the doni, of florence, had married the
+sicilian duke cataneo. her mother, since dead, had hoped, by promoting
+this marriage, to leave her rich and happy, according to florentine
+custom. she had concluded that her daughter, emerging from a convent to
+embark in life, would achieve, under the laws of love, that second
+union of heart with heart which, to an italian woman, is all in all. but
+massimilla doni had acquired in her convent a real taste for a religious
+life, and, when she had pledged her troth to duke cataneo, she was
+christianly content to be his wife.
+
+this was an untenable position. cataneo, who only looked for a duchess,
+thought himself ridiculous as a husband; and, when massimilla complained
+of this indifference, he calmly bid her look about her for a _cavaliere
+servente_, even offering his services to introduce to her some youths
+from whom to choose. the duchess wept; the duke made his bow.
+
+massimilla looked about her at the world that crowded round her; her
+mother took her to the pergola, to some ambassadors drawing-rooms, to
+the cascine--wherever handsome young men of fashion were to be met;
+she saw none to her mind, and determined to travel. then she lost her
+mother, inherited her property, assumed mourning, and made her way
+to venice. there she saw emilio, who, as he went past her opera box,
+exchanged with her a flash of inquiry.
+
+this was all. the venetian was thunderstruck, while a voice in the
+duchess ear called out: this is he!
+
+anywhere else two persons more prudent and less guileless would have
+studied and examined each other; but these two ignorances mingled like
+two masses of homogeneous matter, which, when they meet, form but one.
+massimilla was at once and thenceforth venetian. she bought the palazzo
+she had rented on the canareggio; and then, not knowing how to invest
+her wealth, she had purchased rivalta, the country-place where she was
+now staying.
+
+emilio, being introduced to the duchess by the signora vulpato, waited
+very respectfully on the lady in her box all through the winter. never
+was love more ardent in two souls, or more bashful in its advances. the
+two children were afraid of each other. massimilla was no coquette. she
+had no second string to her bow, no _secondo_, no _terzo_, no _patito_.
+satisfied with a smile and a word, she admired her venetian youth, with
+his pointed face, his long, thin nose, his black eyes, and noble brow;
+but, in spite of her artless encouragement, he never went to her house
+till they had spent three months in getting used to each other.
+
+then summer brought its eastern sky. the duchess lamented having to go
+alone to rivalta. emilio, at once happy and uneasy at the thought of
+being alone with her, had accompanied massimilla to her retreat. and now
+this pretty pair had been there for six months.
+
+massimilla, now twenty, had not sacrificed her religious principles to
+her passion without a struggle. still they had yielded, though tardily;
+and at this moment she would have been ready to consummate the love
+union for which her mother had prepared her, as emilio sat there holding
+her beautiful, aristocratic hand,--long, white, and sheeny, ending in
+fine, rosy nails, as if she had procured from asia some of the henna
+with which the sultans wives dye their fingertips.
+
+a misfortune, of which she was unconscious, but which was torture to
+emilio, kept up a singular barrier between them. massimilla, young as
+she was, had the majestic bearing which mythological tradition ascribes
+to juno, the only goddess to whom it does not give a lover; for diana,
+the chaste diana, loved! jupiter alone could hold his own with his
+divine better-half, on whom many english ladies model themselves.
+
+emilio set his mistress far too high ever to touch her. a year hence,
+perhaps, he might not be a victim to this noble error which attacks none
+but very young or very old men. but as the archer who shoots beyond the
+mark is as far from it as he whose arrow falls short of it, the duchess
+found herself between a husband who knew he was so far from reaching the
+target, that he had ceased to try for it, and a lover who was carried so
+much past it on the white wings of an angel, that he could not get back
+to it. massimilla could be happy with desire, not imagining its issue;
+but her lover, distressful in his happiness, would sometimes obtain from
+his beloved a promise that led her to the edge of what many women call
+the gulf, and thus found himself obliged to be satisfied with plucking
+the flowers at the edge, incapable of daring more than to pull off their
+petals, and smother his torture in his heart.
+
+they had wandered out together that morning, repeating such a hymn of
+love as the birds warbled in the branches. on their return, the youth,
+whose situation can only be described by comparing him to the cherubs
+represented by painters as having only a head and wings, had been so
+impassioned as to venture to hint a doubt as to the duchess entire
+devotion, so as to bring her to the point of saying: what proof do you
+need?
+
+the question had been asked with a royal air, and memmi had ardently
+kissed the beautiful and guileless hand. then he suddenly started up in
+a rage with himself, and left the duchess. massimilla remained in her
+indolent attitude on the sofa; but she wept, wondering how, young and
+handsome as she was, she could fail to please emilio. memmi, on the
+other hand, knocked his head against the tree-trunks like a hooded crow.
+
+but at this moment a servant came in pursuit of the young venetian to
+deliver a letter brought by express messenger.
+
+marco vendramini,--a name also pronounced vendramin, in the venetian
+dialect, which drops many final letters,--his only friend, wrote to tell
+him that facino cane, prince of varese, had died in a hospital in paris.
+proofs of his death had come to hand, and the cane-memmi were princes
+of varese. in the eyes of the two young men a title without wealth being
+worthless, vendramin also informed emilio, as a far more important fact,
+of the engagement at the _fenice_ of the famous tenor genovese, and the
+no less famous signora tinti.
+
+without waiting to finish the letter, which he crumpled up and put in
+his pocket, emilio ran to communicate this great news to the duchess,
+forgetting his heraldic honors.
+
+the duchess knew nothing of the strange story which made la tinti an
+object of curiosity in italy, and emilio briefly repeated it.
+
+this illustrious singer had been a mere inn-servant, whose wonderful
+voice had captivated a great sicilian nobleman on his travels. the
+girls beauty--she was then twelve years old--being worthy of her voice,
+the gentleman had had the moderation to have brought her up, as louis
+xv. had mademoiselle de romans educated. he had waited patiently till
+claras voice had been fully trained by a famous professor, and till she
+was sixteen, before taking toll of the treasure so carefully cultivated.
+
+la tinti had made her debut the year before, and had enchanted the three
+most fastidious capitals of italy.
+
+i am perfectly certain that her great nobleman is not my husband, said
+the duchess.
+
+the horses were ordered, and the duchess set out at once for venice, to
+be present at the opening of the winter season.
+
+so one fine evening in november, the new prince of varese was crossing
+the lagoon from mestre to venice, between the lines of stakes painted
+with austrian colors, which mark out the channel for gondolas as
+conceded by the custom-house. as he watched massimillas gondola,
+navigated by men in livery, and cutting through the water a few yards in
+front, poor emilio, with only an old gondolier who had been his fathers
+servant in the days when venice was still a living city, could not
+repress the bitter reflections suggested to him by the assumption of his
+title.
+
+what a mockery of fortune! a prince--with fifteen hundred francs a
+year! master of one of the finest palaces in the world, and unable to
+sell the statues, stairs, paintings, sculpture, which an austrian decree
+had made inalienable! to live on a foundation of piles of campeachy
+wood worth nearly a million of francs, and have no furniture! to own
+sumptuous galleries, and live in an attic above the topmost arabesque
+cornice constructed of marble brought from the morea--the land which a
+memmius had marched over as conqueror in the time of the romans! to see
+his ancestors in effigy on their tombs of precious marbles in one of the
+most splendid churches in venice, and in a chapel graced with pictures
+by titian and tintoretto, by palma, bellini, paul veronese--and to be
+prohibited from selling a marble memmi to the english for bread for
+the living prince varese! genovese, the famous tenor, could get in one
+season, by his warbling, the capital of an income on which this son of
+the memmi could live--this descendant of roman senators as venerable as
+caesar and sylla. genovese may smoke an eastern hookah, and the prince
+of varese cannot even have enough cigars!
+
+he tossed the end he was smoking into the sea. the prince of varese
+found cigars at the duchess cataneos; how gladly would he have laid the
+treasures of the world at her feet! she studied all his caprices, and
+was happy to gratify them. he made his only meal at her house--his
+supper; for all his money was spent in clothes and his place in the
+_fenice_. he had also to pay a hundred francs a year as wages to his
+fathers old gondolier; and he, to serve him for that sum, had to live
+exclusively on rice. also he kept enough to take a cup of black coffee
+every morning at florians to keep himself up till the evening in a
+state of nervous excitement, and this habit, carried to excess, he hoped
+would in due time kill him, as vendramin relied on opium.
+
+and i am a prince!
+
+as he spoke the words, emilio memmi tossed marco vendramins letter into
+the lagoon without even reading it to the end, and it floated away like
+a paper boat launched by a child.
+
+but emilio, he went on to himself, is but three and twenty. he is
+a better man than lord wellington with the gout, than the paralyzed
+regent, than the epileptic royal family of austria, than the king of
+france----
+
+but as he thought of the king of france emilios brow was knit, his
+ivory skin burned yellower, tears gathered in his black eyes and hung to
+his long lashes; he raised a hand worthy to be painted by titian to push
+back his thick brown hair, and gazed again at massimillas gondola.
+
+and this insolent mockery of fate is carried even into my love affair,
+ said he to himself. my heart and imagination are full of precious
+gifts; massimilla will have none of them; she is a florentine, and she
+will throw me over. i have to sit by her side like ice, while her voice
+and her looks fire me with heavenly sensations! as i watch her gondola a
+few hundred feet away from my own i feel as if a hot iron were set on
+my heart. an invisible fluid courses through my frame and scorches my
+nerves, a cloud dims my sight, the air seems to me to glow as it did at
+rivalta when the sunlight came through a red silk blind, and i, without
+her knowing it, could admire her lost in dreams, with her subtle smile
+like that of leonardos mona lisa. well, either my highness will end
+my days by a pistol-shot, or the heir of the cane will follow old
+carmagnolas advice; we will be sailors, pirates; and it will be amusing
+to see how long we can live without being hanged.
+
+the prince lighted another cigar, and watched the curls of smoke as the
+wind wafted them away, as though he saw in their arabesques an echo of
+this last thought.
+
+in the distance he could now perceive the mauresque pinnacles that
+crowned his palazzo, and he was sadder than ever. the duchess gondola
+had vanished in the canareggio.
+
+these fantastic pictures of a romantic and perilous existence, as the
+outcome of his love, went out with his cigar, and his ladys gondola
+no longer traced his path. then he saw the present in its real light:
+a palace without a soul, a soul that had no effect on the body, a
+principality without money, an empty body and a full heart--a thousand
+heartbreaking contradictions. the hapless youth mourned for venice as
+she had been,--as did vendramini, even more bitterly, for it was a great
+and common sorrow, a similar destiny, that had engendered such a warm
+friendship between these two young men, the wreckage of two illustrious
+families.
+
+emilio could not help dreaming of a time when the palazzo memmi poured
+out light from every window, and rang with music carried far away over
+the adriatic tide; when hundreds of gondolas might be seen tied up to
+its mooring-posts, while graceful masked figures and the magnates of the
+republic crowded up the steps kissed by the waters; when its halls and
+gallery were full of a throng of intriguers or their dupes; when
+the great banqueting-hall, filled with merry feasters, and the upper
+balconies furnished with musicians, seemed to harbor all venice coming
+and going on the great staircase that rang with laughter.
+
+the chisels of the greatest artists of many centuries had sculptured the
+bronze brackets supporting long-necked or pot-bellied chinese vases, and
+the candelabra for a thousand tapers. every country had furnished some
+contribution to the splendor that decked the walls and ceilings. but
+now the panels were stripped of the handsome hangings, the melancholy
+ceilings were speechless and sad. no turkey carpets, no lustres bright
+with flowers, no statues, no pictures, no more joy, no money--the great
+means to enjoyment! venice, the london of the middle ages, was falling
+stone by stone, man by man. the ominous green weed which the sea washes
+and kisses at the foot of every palace, was in the princes eyes, a
+black fringe hung by nature as an omen of death.
+
+and finally, a great english poet had rushed down on venice like a raven
+on a corpse, to croak out in lyric poetry--the first and last utterance
+of social man--the burden of a _de profundis_. english poetry! flung
+in the face of the city that had given birth to italian poetry! poor
+venice!
+
+conceive, then, of the young mans amazement when roused from such
+meditations by carmagnolas cry:
+
+serenissimo, the palazzo is on fire, or the old doges have risen from
+their tombs! there are lights in the windows of the upper floor!
+
+prince emilio fancied that his dream was realized by the touch of a
+magic wand. it was dusk, and the old gondolier could by tying up his
+gondola to the top step, help his young master to land without being
+seen by the bustling servants in the palazzo, some of whom were buzzing
+about the landing-place like bees at the door of a hive. emilio stole
+into the great hall, whence rose the finest flight of stairs in all
+venice, up which he lightly ran to investigate the cause of this strange
+bustle.
+
+a whole tribe of workmen were hurriedly completing the furnishing and
+redecoration of the palace. the first floor, worthy of the antique
+glories of venice, displayed to emilios waking eyes the magnificence of
+which he had just been dreaming, and the fairy had exercised admirable
+taste. splendor worthy of a parvenu sovereign was to be seen even in the
+smallest details. emilio wandered about without remark from anybody, and
+surprise followed on surprise.
+
+curious, then, to know what was going forward on the second floor,
+he went up, and found everything finished. the unknown laborers,
+commissioned by a wizard to revive the marvels of the arabian nights in
+behalf of an impoverished italian prince, were exchanging some inferior
+articles of furniture brought in for the nonce. prince emilio made his
+way into the bedroom, which smiled on him like a shell just deserted by
+venus. the room was so charmingly pretty, so daintily smart, so full of
+elegant contrivance, that he straightway seated himself in an armchair
+of gilt wood, in front of which a most appetizing cold supper stood
+ready, and, without more ado, proceeded to eat.
+
+in all the world there is no one but massimilla who would have thought
+of this surprise, thought he. she heard that i was now a prince; duke
+cataneo is perhaps dead, and has left her his fortune; she is twice as
+rich as she was; she will marry me----
+
+and he ate in a way that would have roused the envy of an invalid
+croesus, if he could have seen him; and he drank floods of capital port
+wine.
+
+now i understand the knowing little air she put on as she said, till
+this evening! perhaps she means to come and break the spell. what a
+fine bed! and in the bed-place such a pretty lamp! quite a florentine
+idea!
+
+there are some strongly blended natures on which extremes of joy or
+of grief have a soporific effect. now on a youth so compounded that he
+could idealize his mistress to the point of ceasing to think of her as
+a woman, this sudden incursion of wealth had the effect of a dose of
+opium. when the prince had drunk the whole of the bottle of port, eaten
+half a fish and some portion of a french pate, he felt an irresistible
+longing for bed. perhaps he was suffering from a double intoxication.
+so he pulled off the counterpane, opened the bed, undressed in a pretty
+dressing-room, and lay down to meditate on destiny.
+
+i forgot poor carmagnola, said he; but my cook and butler will have
+provided for him.
+
+at this juncture, a waiting-woman came in, lightly humming an air from
+the _barbiere_. she tossed a womans dress on a chair, a whole outfit
+for the night, and said as she did so:
+
+here they come!
+
+and in fact a few minutes later a young lady came in, dressed in the
+latest french style, who might have sat for some english fancy portrait
+engraved for a _forget-me-not_, a _belle assemblee_, or a _book of
+beauty_.
+
+the prince shivered with delight and with fear, for, as you know, he was
+in love with massimilla. but, in spite of this faith in love which fired
+his blood, and which of old inspired the painters of spain, which gave
+italy her madonnas, created michael angelos statues and ghilbertis
+doors of the baptistery,--desire had him in its toils, and agitated him
+without infusing into his heart that warm, ethereal glow which he felt
+at a look or a word from the duchess. his soul, his heart, his reason,
+every impulse of his will, revolted at the thought of an infidelity; and
+yet that brutal, unreasoning infidelity domineered over his spirit. but
+the woman was not alone.
+
+the prince saw one of those figures in which nobody believes when
+they are transferred from real life, where we wonder at them, to the
+imaginary existence of a more or less literary description. the dress of
+this stranger, like that of all neapolitans, displayed five colors,
+if the black of his hat may count for a color; his trousers were
+olive-brown, his red waistcoat shone with gilt buttons, his coat was
+greenish, and his linen was more yellow than white. this personage
+seemed to have made it his business to verify the neapolitan as
+represented by gerolamo on the stage of his puppet show. his eyes looked
+like glass beads. his nose, like the ace of clubs, was horribly long and
+bulbous; in fact, it did its best to conceal an opening which it would
+be an insult to the human countenance to call a mouth; within, three or
+four tusks were visible, endowed, as it seemed, with a proper motion and
+fitting into each other. his fleshy ears drooped by their own weight,
+giving the creature a whimsical resemblance to a dog.
+
+his complexion, tainted, no doubt, by various metallic infusions as
+prescribed by some hippocrates, verged on black. a pointed skull,
+scarcely covered by a few straight hairs like spun glass, crowned this
+forbidding face with red spots. finally, though the man was very thin
+and of medium height, he had long arms and broad shoulders.
+
+in spite of these hideous details, and though he looked fully seventy,
+he did not lack a certain cyclopean dignity; he had aristocratic manners
+and the confident demeanor of a rich man.
+
+any one who could have found courage enough to study him, would have
+seen his history written by base passions on this noble clay degraded to
+mud. here was the man of high birth, who, rich from his earliest
+youth, had given up his body to debauchery for the sake of extravagant
+enjoyment. and debauchery had destroyed the human being and made another
+after its own image. thousands of bottles of wine had disappeared under
+the purple archway of that preposterous nose, and left their dregs on
+his lips. long and slow digestion had destroyed his teeth. his eyes had
+grown dim under the lamps of the gaming table. the blood tainted with
+impurities had vitiated the nervous system. the expenditure of force in
+the task of digestion had undermined his intellect. finally, amours had
+thinned his hair. each vice, like a greedy heir, had stamped possession
+on some part of the living body.
+
+those who watch nature detect her in jests of the shrewdest irony. for
+instance, she places toads in the neighborhood of flowers, as she had
+placed this man by the side of this rose of love.
+
+will you play the violin this evening, my dear duke? asked the woman,
+as she unhooked a cord to let a handsome curtain fall over the door.
+
+play the violin! thought prince emilio. what can have happened to my
+palazzo? am i awake? here i am, in that womans bed, and she certainly
+thinks herself at home--she has taken off her cloak! have i, like
+vendramin, inhaled opium, and am i in the midst of one of those dreams
+in which he sees venice as it was three centuries ago?
+
+the unknown fair one, seated in front of a dressing-table blazing with
+wax lights, was unfastening her frippery with the utmost calmness.
+
+ring for giulia, said she; i want to get my dress off.
+
+at that instant, the duke noticed that the supper had been disturbed; he
+looked round the room, and discovered the princes trousers hanging over
+a chair at the foot of the bed.
+
+clarina, i will not ring! cried the duke, in a shrill voice of
+fury. i will not play the violin this evening, nor tomorrow, nor ever
+again--
+
+ta, ta, ta, ta! sang clarina, on the four octaves of the same note,
+leaping from one to the next with the ease of a nightingale.
+
+in spite of that voice, which would make your patron saint clara
+envious, you are really too impudent, you rascally hussy!
+
+you have not brought me up to listen to such abuse, said she, with
+some pride.
+
+have i brought you up to hide a man in your bed? you are unworthy alike
+of my generosity and of my hatred--
+
+a man in my bed! exclaimed clarina, hastily looking round.
+
+and after daring to eat our supper, as if he were at home, added the
+duke.
+
+but am i not at home? cried emilio. i am the prince of varese; this
+palace is mine.
+
+as he spoke, emilio sat up in bed, his handsome and noble venetian head
+framed in the flowing hangings.
+
+at first clarina laughed--one of those irrepressible fits of laughter
+which seize a girl when she meets with an adventure comic beyond all
+conception. but her laughter ceased as she saw the young man, who, as
+has been said, was remarkably handsome, though but lightly attired; the
+madness that possessed emilio seized her, too, and, as she had no one to
+adore, no sense of reason bridled her sudden fancy--a sicilian woman in
+love.
+
+although this is the palazzo memmi, i will thank your highness to
+quit, said the duke, assuming the cold irony of a polished gentleman.
+i am at home here.
+
+let me tell you, monsieur le duc, that you are in my room, not in your
+own, said clarina, rousing herself from her amazement. if you have any
+doubts of my virtue, at any rate give me the benefit of my crime--
+
+doubts! say proof positive, my lady!
+
+i swear to you that i am innocent, replied clarina.
+
+what, then, do i see in that bed? asked the duke.
+
+old ogre! cried clarina. if you believe your eyes rather than my
+assertion, you have ceased to love me. go, and do not weary my ears!
+do you hear? go, monsieur le duc. this young prince will repay you the
+million francs i have cost you, if you insist.
+
+i will repay nothing, said emilio in an undertone.
+
+there is nothing due! a million is cheap for clara tinti when a man
+is so ugly. now, go, said she to the duke. you dismissed me; now i
+dismiss you. we are quits.
+
+at a gesture on cataneos part, as he seemed inclined to dispute this
+order, which was given with an action worthy of semiramis,--the part in
+which la tinti had won her fame,--the prima donna flew at the old ape
+and put him out of the room.
+
+if you do not leave me in quiet this evening, we never meet again. and
+my _never_ counts for more than yours, she added.
+
+quiet! retorted the duke, with a bitter laugh. dear idol, it strikes
+me that i am leaving you _agitata_!
+
+the duke departed.
+
+his mean spirit was no surprise to emilio.
+
+every man who has accustomed himself to some particular taste, chosen
+from among the various effects of love, in harmony with his own nature,
+knows that no consideration can stop a man who has allowed his passions
+to become a habit.
+
+clarina bounded like a fawn from the door to the bed.
+
+a prince, and poor, young, and handsome! cried she. why, it is a
+fairy tale!
+
+the sicilian perched herself on the bed with the artless freedom of an
+animal, the yearning of a plant for the sun, the airy motion of a branch
+waltzing to the breeze. as she unbuttoned the wristbands of her sleeves,
+she began to sing, not in the pitch that won her the applause of an
+audience at the _fenice_, but in a warble tender with emotion. her song
+was a zephyr carrying the caresses of her love to the heart.
+
+she stole a glance at emilio, who was as much embarrassed as she; for
+this woman of the stage had lost all the boldness that had sparkled in
+her eyes and given decision to her voice and gestures when she dismissed
+the duke. she was as humble as a courtesan who has fallen in love.
+
+to picture la tinti you must recall one of our best french singers when
+she came out in _il fazzoletto_, an opera by garcia that was then being
+played by an italian company at the theatre in the rue lauvois. she was
+so beautiful that a naples guardsman, having failed to win a hearing,
+killed himself in despair. the prima donna of the _fenice_ had the same
+refinement of features, the same elegant figure, and was equally young;
+but she had in addition the warm blood of sicily that gave a glow to
+her loveliness. her voice was fuller and richer, and she had that air of
+native majesty that is characteristic of italian women.
+
+la tinti--whose name also resembled that which the french singer
+assumed--was now seventeen, and the poor prince three-and-twenty. what
+mocking hand had thought it sport to bring the match so near the powder?
+a fragrant room hung with rose-colored silk and brilliant with wax
+lights, a bed dressed in lace, a silent palace, and venice! two young
+and beautiful creatures! every ravishment at once.
+
+emilio snatched up his trousers, jumped out of bed, escaped into the
+dressing-room, put on his clothes, came back and hurried to the door.
+
+these were his thoughts while dressing:--
+
+massimilla, beloved daughter of the doni, in whom italian beauty is
+an hereditary prerogative, you who are worthy of the portrait of
+_margherita_, one of the few canvases painted entirely by raphael to his
+glory! my beautiful and saintly mistress, shall i not have deserved
+you if i fly from this abyss of flowers? should i be worthy of you if
+i profaned a heart that is wholly yours? no; i will not fall into the
+vulgar snare laid for me by my rebellious senses! this girl has her
+duke, mine be my duchess!
+
+as he lifted the curtain, he heard a moan. the heroic lover looked round
+and saw clarina on her knees, her face hidden in the bed, choking with
+sobs. is it to be believed? the singer was lovelier kneeling thus, her
+face invisible, than even in her confusion with a glowing countenance.
+her hair, which had fallen over her shoulders, her magdalen-like
+attitude, the disorder of her half-unfastened dress,--the whole picture
+had been composed by the devil, who, as is well known, is a fine
+colorist.
+
+the prince put his arm round the weeping girl, who slipped from him like
+a snake, and clung to one foot, pressing it to her beautiful bosom.
+
+will you explain to me, said he, shaking his foot to free it from
+her embrace, how you happen to be in my palazzo? how the impoverished
+emilio memmi--
+
+emilio memmi! cried tinti, rising. you said you were a prince.
+
+a prince since yesterday.
+
+you are in love with the duchess cataneo! said she, looking at him
+from head to foot.
+
+emilio stood mute, seeing that the prima dona was smiling at him through
+her tears.
+
+your highness does not know that the man who had me trained for the
+stage--that the duke--is cataneo himself. and your friend vendramini,
+thinking to do you a service, let him this palace for a thousand crowns,
+for the period of my season at the _fenice_. dear idol of my heart! she
+went on, taking his hand and drawing him towards her, why do you fly
+from one for whom many a man would run the risk of broken bones? love,
+you see, is always love. it is the same everywhere; it is the sun of our
+souls; we can warm ourselves whenever it shines, and here--now--it is
+full noonday. if to-morrow you are not satisfied, kill me! but i shall
+survive, for i am a real beauty!
+
+emilio decided on remaining. when he signified his consent by a nod the
+impulse of delight that sent a shiver through clarina seemed to him
+like a light from hell. love had never before appeared to him in so
+impressive a form.
+
+at that moment carmagnola whistled loudly.
+
+what can he want of me? said the prince.
+
+but bewildered by love, emilio paid no heed to the gondoliers repeated
+signals.
+
+if you have never traveled in switzerland you may perhaps read this
+description with pleasure; and if you have clambered among those
+mountains you will not be sorry to be reminded of the scenery.
+
+in that sublime land, in the heart of a mass of rock riven by a
+gorge,--a valley as wide as the avenue de neuilly in paris, but a
+hundred fathoms deep and broken into ravines,--flows a torrent coming
+from some tremendous height of the saint-gothard on the simplon, which
+has formed a pool, i know not how many yards deep or how many feet long
+and wide, hemmed in by splintered cliffs of granite on which meadows
+find a place, with fir-trees between them, and enormous elms, and where
+violets also grow, and strawberries. here and there stands a chalet and
+at the window you may see the rosy face of a yellow-haired swiss girl.
+according to the moods of the sky the water in this tarn is blue and
+green, but as a sapphire is blue, as an emerald is green. well, nothing
+in the world can give such an idea of depth, peace, immensity, heavenly
+love, and eternal happiness--to the most heedless traveler, the most
+hurried courier, the most commonplace tradesman--as this liquid diamond
+into which the snow, gathering from the highest alps, trickles through
+a natural channel hidden under the trees and eaten through the
+rock, escaping below through a gap without a sound. the watery sheet
+overhanging the fall glides so gently that no ripple is to be seen on
+the surface which mirrors the chaise as you drive past. the postboy
+smacks his whip; you turn past a crag; you cross a bridge: suddenly
+there is a terrific uproar of cascades tumbling together one upon
+another. the water, taking a mighty leap, is broken into a hundred
+falls, dashed to spray on the boulders; it sparkles in a myriad jets
+against a mass that has fallen from the heights that tower over the
+ravine exactly in the middle of the road that has been so irresistibly
+cut by the most formidable of active forces.
+
+if you have formed a clear idea of this landscape, you will see in those
+sleeping waters the image of emilios love for the duchess, and in the
+cascades leaping like a flock of sheep, an idea of his passion shared
+with la tinti. in the midst of his torrent of love a rock stood
+up against which the torrent broke. the prince, like sisyphus, was
+constantly under the stone.
+
+what on earth does the duke do with a violin? he wondered. do i owe
+this symphony to him?
+
+he asked clara tinti.
+
+my dear child,--for she saw that emilio was but a child,--dear
+child, said she, that man, who is a hundred and eighteen in the parish
+register of vice, and only forty-seven in the register of the church,
+has but one single joy left to him in life. yes, everything is
+broken, everything in him is ruin or rags; his soul, intellect, heart,
+nerves,--everything in man that can supply an impulse and remind him of
+heaven, either by desire or enjoyment, is bound up with music, or rather
+with one of the many effects produced by music, the perfect unison of
+two voices, or of a voice with the top string of his violin. the old
+ape sits on my knee, takes his instrument,--he plays fairly well,--he
+produces the notes, and i try to imitate them. then, when the
+long-sought-for moment comes when it is impossible to distinguish in the
+body of sound which is the note on the violin and which proceeds from
+my throat, the old man falls into an ecstasy, his dim eyes light up with
+their last remaining fires, he is quite happy and will roll on the floor
+like a drunken man.
+
+that is why he pays genovese such a price. genovese is the only tenor
+whose voice occasionally sounds in unison with mine. either we really do
+sing exactly together once or twice in an evening, or the duke imagines
+that we do; and for that imaginary pleasure he has bought genovese.
+genovese belongs to him. no theatrical manager can engage that tenor
+without me, nor have me to sing without him. the duke brought me up on
+purpose to gratify that whim; to him i owe my talent, my beauty,--my
+fortune, no doubt. he will die of an attack of perfect unison. the sense
+of hearing alone has survived the wreck of his faculties; that is the
+only thread by which he holds on to life. a vigorous shoot springs
+from that rotten stump. there are, i am told, many men in the same
+predicament. may madonna preserve them!
+
+you have not come to that! you can do all you want--all i want of you,
+i know.
+
+
+
+towards morning the prince stole away and found carmagnola lying asleep
+across the door.
+
+altezza, said the gondolier, the duchess ordered me to give you this
+note.
+
+he held out a dainty sheet of paper folded into a triangle. the prince
+felt dizzy; he went back into the room and dropped into a chair, for his
+sight was dim, and his hands shook as he read:--
+
+  dear emilio:--your gondola stopped at your palazzo. did you not
+  know that cataneo has taken it for la tinti? if you love me, go
+  to-night to vendramin, who tells me he has a room ready for you in
+  his house. what shall i do? can i remain in venice to see my
+  husband and his opera singer? shall we go back together to friuli?
+  write me one word, if only to tell me what the letter was you
+  tossed into the lagoon.
+
+                                              massimilla doni.
+
+
+the writing and the scent of the paper brought a thousand memories back
+to the young venetians mind. the sun of a single-minded passion
+threw its radiance on the blue depths come from so far, collected in
+a bottomless pool, and shining like a star. the noble youth could not
+restrain the tears that flowed freely from his eyes, for in the languid
+state produced by satiated senses he was disarmed by the thought of that
+purer divinity.
+
+even in her sleep clarina heard his weeping; she sat up in bed, saw her
+prince in a dejected attitude, and threw herself at his knees.
+
+they are still waiting for the answer, said carmagnola, putting the
+curtain aside.
+
+wretch, you have undone me! cried emilio, starting up and spurning
+clarina with his foot.
+
+she clutched it so lovingly, her look imploring some explanation,--the
+look of a tear-stained samaritan,--that emilio, enraged to find himself
+still in the toils of the passion that had wrought his fall, pushed away
+the singer with an unmanly kick.
+
+you told me to kill you,--then die, venomous reptile! he exclaimed.
+
+he left the palace, and sprang into his gondola.
+
+pull, said he to carmagnola.
+
+where? asked the old servant.
+
+where you will.
+
+the gondolier divined his masters wishes, and by many windings brought
+him at last into the canareggio, to the door of a wonderful palazzo,
+which you will admire when you see venice, for no traveler ever fails to
+stop in front of those windows, each of a different design, vying with
+each other in fantastic ornament, with balconies like lace-work; to
+study the corners finishing in tall and slender twisted columns, the
+string-courses wrought by so inventive a chisel that no two shapes are
+alike in the arabesques on the stones.
+
+how charming is that doorway! how mysterious the vaulted arcade leading
+to the stairs! who could fail to admire the steps on which ingenious art
+has laid a carpet that will last while venice stands,--a carpet as rich
+as if wrought in turkey, but composed of marbles in endless variety
+of shapes, inlaid in white marble. you will delight in the charming
+ornament of the colonnades of the upper story,--gilt like those of a
+ducal palace,--so that the marvels of art are both under your feet and
+above your head.
+
+what delicate shadows! how silent, how cool! but how solemn, too, was
+that old palace! where, to delight emilio and his friend vendramin, the
+duchess had collected antique venetian furniture, and employed skilled
+hands to restore the ceilings. there, old venice lived again. the
+splendor was not merely noble, it was instructive. the archaeologist
+would have found there such models of perfection as the middle ages
+produced, having taken example from venice. here were to be seen the
+original ceilings of woodwork covered with scrolls and flowers in gold
+on a colored ground, or in colors on gold, and ceilings of gilt plaster
+castings, with a picture of many figures in each corner, with a splendid
+fresco in the centre,--a style so costly that there are not two in the
+louvre, and that the extravagance of louis xiv. shrunk from such
+expense at versailles. on all sides marble, wood, and silk had served as
+materials for exquisite workmanship.
+
+emilio pushed open a carved oak door, made his way down the long,
+vaulted passage which runs from end to end on each floor of a venetian
+palazzo, and stopped before another door, so familiar that it made
+his heart beat. on seeing him, a lady companion came out of a vast
+drawing-room, and admitted him to a study where he found the duchess on
+her knees in front of a madonna.
+
+he had come to confess and ask forgiveness. massimilla, in prayer, had
+converted him. he and god; nothing else dwelt in that heart.
+
+the duchess rose very unaffectedly, and held out her hand. her lover did
+not take it.
+
+did not gianbattista see you, yesterday? she asked.
+
+no, he replied.
+
+that piece of ill-luck gave me a night of misery. i was so afraid lest
+you might meet the duke, whose perversity i know too well. what made
+vendramin let your palace to him?
+
+it was a good idea, milla, for your prince is poor enough.
+
+massimilla was so beautiful in her trust of him, and so wonderfully
+lovely, so happy in emilios presence, that at this moment the prince,
+wide awake, experienced the sensations of the horrible dream that
+torments persons of a lively imagination, in which after arriving in a
+ballroom full of women in full dress, the dreamer is suddenly aware
+that he is naked, without even a shirt; shame and terror possess him
+by turns, and only waking can relieve him from his misery. thus stood
+emilios soul in the presence of his mistress. hitherto that soul had
+known only the fairest flowers of feeling; a debauch had plunged it into
+dishonor. this none knew but he, for the beautiful florentine ascribed
+so many virtues to her lover that the man she adored could not but be
+incapable of any stain.
+
+as emilio had not taken her hand, the duchess pushed her fingers through
+his hair that the singer had kissed. then she perceived that emilios
+hand was clammy and his brow moist.
+
+what ails you? she asked, in a voice to which tenderness gave the
+sweetness of a flute.
+
+never till this moment have i known how much i love you, he replied.
+
+well, dear idol, what would you have? said she.
+
+what have i done to make her ask that? he wondered to himself.
+
+emilio, what letter was that which you threw into the lagoon?
+
+vendraminis. i had not read it to the end, or i should never have gone
+to my palazzo, and there have met the duke; for no doubt it told me all
+about it.
+
+massimilla turned pale, but a caress from emilio reassured her.
+
+stay with me all day; we will go to the opera together. we will not
+set out for friuli; your presence will no doubt enable me to endure
+cataneos, said massimilla.
+
+though this would be torment to her lovers soul, he consented with
+apparent joy.
+
+if anything can give us a foretaste of what the damned will suffer on
+finding themselves so unworthy of god, is it not the state of a young
+man, as yet unpolluted, in the presence of a mistress he reveres, while
+he still feels on his lips the taste of infidelity, and brings into
+the sanctuary of the divinity he worships the tainted atmosphere of the
+courtesan?
+
+baader, who in his lectures eliminated things divine by erotic imagery,
+had no doubt observed, like some catholic writers, the intimate
+resemblance between human and heavenly love.
+
+this distress of mind cast a hue of melancholy over the pleasure the
+young venetian felt in his mistress presence. a womans instinct has
+amazing aptitude for harmony of feeling; it assumes the hue, it vibrates
+to the note suggested by her lover. the pungent flavor of coquettish
+spice is far indeed from spurring affection so much as this gentle
+sympathy of tenderness. the smartness of a coquette too clearly marks
+opposition; however transient it is displeasing; but this intimate
+comprehension shows a perfect fusion of souls. the hapless emilio was
+touched by the unspoken divination which led the duchess to pity a fault
+unknown to her.
+
+massimilla, feeling that her strength lay in the absence of any sensual
+side to her love, could allow herself to be expansive; she boldly and
+confidently poured out her angelic spirit, she stripped it bare, just as
+during that diabolical night, la tinti had displayed the soft lines of
+her body, and her firm, elastic flesh. in emilios eyes there was as it
+were a conflict between the saintly love of this white soul and that of
+the vehement and muscular sicilian.
+
+the day was spent in long looks following on deep meditations. each of
+them gauged the depths of tender feeling, and found it bottomless; a
+conviction that brought fond words to their lips. modesty, the
+goddess who in a moment of forgetfulness with love, was the mother of
+coquettishness, need not have put her hand before her face as she looked
+at these lovers. as a crowning joy, an orgy of happiness, massimilla
+pillowed emilios head in her arms, and now and then ventured to press
+her lips to his; but only as a bird dips its beak into the clear waters
+of a spring, looking round lest it should be seen. their fancy worked
+upon this kiss, as a composer develops a subject by the endless
+resources of music, and it produced in them such tumultuous and
+vibrating echoes as fevered their blood.
+
+the idea must always be stronger than the fact, otherwise desire would
+be less perfect than satisfaction, and it is in fact the stronger,--it
+gives birth to wit. and, indeed, they were perfectly happy; for
+enjoyment must always take something off happiness. married in heaven
+alone, these two lovers admired each other in their purest aspect,--that
+of two souls incandescent, and united in celestial light, radiant to
+the eyes that faith has touched; and, above all, filled with the rapture
+which the brush of a raphael, a titian, a murillo, has depicted, and
+which those who have ever known it, taste again as they gaze at those
+paintings. do not such peerless spirits scorn the coarser joys lavished
+by the sicilian singer--the material expression of that angelic union?
+
+these noble thoughts were in the princes mind as he reposed in heavenly
+calm on massimillas cool, soft, white bosom, under the gentle radiance
+of her eyes veiled by long, bright lashes; and he gave himself up to
+this dream of an ideal orgy. at such a moment, massimilla was as one of
+the virgin visions seen in dreams, which vanish at cock-crow, but whom
+we recognize when we find them again in their realm of glory,--in the
+works of some great painters of heaven.
+
+in the evening the lovers went to the theatre. this is the way of
+italian life: love in the morning; music in the evening; the night for
+sleep. how far preferable is this existence to that of a country
+where every one expends his lungs and strength in politics, without
+contributing any more, single-minded, to the progress of affairs than a
+grain of sand can make a cloud of dust. liberty, in those strange lands,
+consists in the right to squabble over public concerns, to take care of
+oneself, to waste time in patriotic undertakings each more futile than
+the last, inasmuch as they all weaken that noble, holy self-concern
+which is the parent of all great human achievement. at venice, on
+the contrary, love and its myriad ties, the sweet business of real
+happiness, fills up all the time.
+
+in that country, love is so much a matter of course that the duchess was
+regarded as a wonder; for, in spite of her violent attachment to emilio,
+everybody was confident of her immaculate purity. and women gave their
+sincere pity to the poor young man, who was regarded as a victim to the
+virtue of his lady-love. at the same time, no one cared to blame the
+duchess, for in italy religion is a power as much respected as love.
+
+evening after evening massimillas box was the first object of every
+opera-glass, and each woman would say to her lover, as she studied the
+duchess and her adorer:
+
+how far have they got?
+
+the lover would examine emilio, seeking some evidence of success;
+would find no expression but that of a pure and dejected passion. and
+throughout the house, as they visited from box to box, the men would say
+to the ladies:
+
+la cataneo is not yet emilios.
+
+she is unwise, said the old women. she will tire him out.
+
+_forse!_ (perhaps) the young wives would reply, with the solemn
+accent that italians can infuse into that great word--the answer to many
+questions here below.
+
+some women were indignant, thought the whole thing ill-judged, and
+declared that it was a misapprehension of religion to allow it to
+smother love.
+
+my dear, love that poor emilio, said the signora vulpato to
+massimilla, as they met on the stairs in going out.
+
+i do love him with all my might, replied the duchess.
+
+then why does not he look happy?
+
+massimillas reply was a little shrug of her shoulders.
+
+we in france--france as the growing mania for english proprieties has
+made it--can form no idea of the serious interest taken in this affair
+by venetian society.
+
+vendramini alone knew emilios secret, which was carefully kept between
+two men who had, for private pleasure, combined their coats of arms with
+the motto _non amici, frates_.
+
+
+
+the opening night of the opera season is an event at venice, as in every
+capital in italy. the _fenice_ was crowded.
+
+the five hours of the night that are spent at the theatre fill so
+important a place in italian life that it is well to give an account of
+the customs that have risen from this manner of spending time.
+
+the boxes in italy are unlike those of any other country, inasmuch as
+that elsewhere the women go to be seen, and that italian ladies do not
+care to make a show of themselves. each box is long and narrow, sloping
+at an angle to the front and to the passage behind. on each side is a
+sofa, and at the end stand two armchairs, one for the mistress of the
+box, and the other for a lady friend when she brings one, which she
+rarely does. each lady is in fact too much engaged in her own box to
+call on others, or to wish to see them; also no one cares to introduce
+a rival. an italian woman almost always reigns alone in her box; the
+mothers are not the slaves of their daughters, the daughters have no
+mother on their hands; thus there are no children, no relations to watch
+and censure and bore, or cut into a conversation.
+
+in front every box is draped in the same way, with the same silk: from
+the cornice hang curtains, also all to match; and these remain drawn
+when the family to whom the box belongs is in mourning. with very few
+exceptions, and those only at milan, there is no light inside the box;
+they are illuminated only from the stage, and from a not very brilliant
+hanging lustre which, in spite of protests, has been introduced into
+the house in some towns; still, screened by the curtains, they are never
+very light, and their arrangement leaves the back of the box so dark
+that it is very difficult to see what is going on.
+
+the boxes, large enough to accommodate eight or ten persons, are
+decorated with handsome silks, the ceilings are painted and ornamented
+in light and pleasing colors; the woodwork is gilt. ices and sorbets are
+served there, and sweetmeats; for only the plebeian classes ever have a
+serious meal. each box is freehold property, and of considerable value;
+some are estimated at as much as thirty thousand lire; the litta family
+at milan own three adjoining. these facts sufficiently indicate the
+importance attributed to this incident of fashionable life.
+
+conversation reigns supreme in this little apartment, which stendhal,
+one of the most ingenious of modern writers, and a keen student of
+italian manners, has called a boudoir with a window opening on to a
+pit. the music and the spectacle are in fact purely accessory; the
+real interest of the evening is in the social meeting there, the
+all-important trivialities of love that are discussed, the assignations
+held, the anecdotes and gossip that creep in. the theatre is an
+inexpensive meeting-place for a whole society which is content and
+amused with studying itself.
+
+the men who are admitted take their seats on one of the sofas, in
+the order of their arrival. the first comer naturally is next to the
+mistress of the box, but when both seats are full, if another visitor
+comes in, the one who has sat longest rises, takes his leave and
+departs. all move up one place, and so each in turn is next the
+sovereign.
+
+this futile gossip, or serious colloquy, these elegant trivialities of
+italian life, inevitably imply some general intimacy. the lady may be in
+full dress or not, as she pleases. she is so completely at home that a
+stranger who has been received in her box may call on her next day at
+her residence. the foreign visitor cannot at first understand this life
+of idle wit, this _dolce far niente_ on a background of music. only long
+custom and keen observation can ever reveal to a foreigner the meaning
+of italian life, which is like the free sky of the south, and where a
+rich man will not endure a cloud. a man of rank cares little about
+the management of his fortune; he leaves the details to his stewards
+(ragionati), who rob and ruin him. he has no instinct for politics, and
+they would presently bore him; he lives exclusively for passion, which
+fills up all his time; hence the necessity felt by the lady and her
+lover for being constantly together; for the great feature of such a
+life is the lover, who for five hours is kept under the eye of a woman
+who has had him at her feet all day. thus italian habits allow of
+perpetual satisfaction, and necessitate a constant study of the means
+fitted to insure it, though hidden under apparent light-heartedness.
+
+it is a beautiful life, but a reckless one, and in no country in the
+world are men so often found worn out.
+
+the duchess box was on the pit tier--_pepiano_, as it is called in
+venice; she always sat where the light from the stage fell on her face,
+so that her handsome head, softly illuminated, stood out against the
+dark background. the florentine attracted every gaze by her broad, high
+brow, as white as snow, crowned with plaits of black hair that gave her
+a really royal look; by the refinement of her features, resembling the
+noble features of andrea del sartos heads; by the outline of her face,
+the setting of her eyes; and by those velvet eyes themselves, which
+spoke of the rapture of a woman dreaming of happiness, still pure though
+loving, at once attractive and dignified.
+
+instead of _mose_, in which la tinti was to have appeared with
+genovese, _il barbiere_ was given, and the tenor was to sing without the
+celebrated prima donna. the manager announced that he had been obliged
+to change the opera in consequence of la tintis being ill; and the duke
+was not to be seen in the theatre.
+
+was this a clever trick on the part of the management, to secure two
+full houses by bringing out genovese and tinti separately, or was
+clarinas indisposition genuine? while this was open to discussion by
+others, emilio might be better informed; and though the announcement
+caused him some remorse, as he remembered the singers beauty and
+vehemence, her absence and the dukes put both the prince and the
+duchess very much at their ease.
+
+and genovese sang in such a way as to drive out all memories of a night
+of illicit love, and to prolong the heavenly joys of this blissful day.
+happy to be alone to receive the applause of the house, the tenor
+did his best with the powers which have since achieved european fame.
+genovese, then but three-and-twenty, born at bergamo, a pupil of
+velutis and devoted to his art, a fine man, good-looking, clever in
+apprehending the spirit of a part, was already developing into the
+great artist destined to win fame and fortune. he had a wild success,--a
+phrase which is literally exact only in italy, where the applause of the
+house is absolutely frenzied when a singer procures it enjoyment.
+
+some of the princes friends came to congratulate him on coming into his
+title, and to discuss the news. only last evening la tinti, taken by the
+duke to the vulpatos, had sung there, apparently in health as sound
+as her voice was fine; hence her sudden disposition gave rise to
+much comment. it was rumored at the cafe florian that genovese was
+desperately in love with clarina; that she was only anxious to avoid his
+declarations, and that the manager had tried in vain to induce her to
+appear with him. the austrian general, on the other hand, asserted that
+it was the duke who was ill, that the prima donna was nursing him, and
+that genovese had been commanded to make amends to the public.
+
+the duchess owed this visit from the austrian general to the fact that a
+french physician had come to venice whom the general wished to introduce
+to her. the prince, seeing vendramin wandering about the _parterre_,
+went out for a few minutes of confidential talk with his friend, whom
+he had not seen for three months; and as they walked round the gangway
+which divides the seats in the pit from the lowest tier of boxes, he had
+an opportunity of observing massimillas reception of the foreigner.
+
+who is that frenchman? asked the prince.
+
+a physician sent for by cataneo, who wants to know how long he is
+likely to live, said vendramin. the frenchman is waiting for malfatti,
+with whom he is to hold a consultation.
+
+like every italian woman who is in love, the duchess kept her eyes fixed
+on emilio; for in that land a woman is so wholly wrapped up in her lover
+that it is difficult to detect an expressive glance directed at anybody
+else.
+
+caro, said the prince to his friend, remember i slept at your house
+last night.
+
+have you triumphed? said vendramin, putting his arm round emilios
+waist.
+
+no; but i hope i may some day be happy with massimilla.
+
+well, replied marco, then you will be the most envied man on earth.
+the duchess is the most perfect woman in italy. to me, seeing things as
+i do through the dazzling medium of opium, she seems the very highest
+expression of art; for nature, without knowing it, has made her a
+raphael picture. your passion gives no umbrage to cataneo, who has
+handed over to me a thousand crowns, which i am to give to you.
+
+well, added emilio, whatever you may hear said, i sleep every night
+at your house. come, for every minute spent away from her, when i might
+be with her, is torment.
+
+emilio took his seat at the back of the box and remained there in
+silence, listening to the duchess, enchanted by her wit and beauty. it
+was for him, and not out of vanity, that massimilla lavished the charms
+of her conversation bright with italian wit, in which sarcasm lashed
+things but not persons, laughter attacked nothing that was not
+laughable, mere trifles were seasoned with attic salt.
+
+anywhere else she might have been tiresome. the italians, an eminently
+intelligent race, have no fancy for displaying their talents where they
+are not in demand; their chat is perfectly simple and effortless, it
+never makes play, as in france, under the lead of a fencing master,
+each one flourishing his foil, or, if he has nothing to say, sitting
+humiliated.
+
+conversation sparkles with a delicate and subtle satire that plays
+gracefully with familiar facts; and instead of a compromising epigram an
+italian has a glance or a smile of unutterable meaning. they think--and
+they are right--that to be expected to understand ideas when they only
+seek enjoyment, is a bore.
+
+indeed, la vulpato had said to massimilla:
+
+if you loved him you would not talk so well.
+
+emilio took no part in the conversation; he listened and gazed. this
+reserve might have led foreigners to suppose that the prince was a man
+of no intelligence,--their impression very commonly of an italian
+in love,--whereas he was simply a lover up to his ears in rapture.
+vendramin sat down by emilio, opposite the frenchman, who, as the
+stranger, occupied the corner facing the duchess.
+
+is that gentleman drunk? said the physician in an undertone to
+massimilla, after looking at vendramin.
+
+yes, replied she, simply.
+
+in that land of passion, each passion bears its excuse in itself, and
+gracious indulgence is shown to every form of error. the duchess sighed
+deeply, and an expression of suppressed pain passed over her features.
+
+you will see strange things in our country, monsieur, she went on.
+vendramin lives on opium, as this one lives on love, and that one
+buries himself in learning; most young men have a passion for a dancer,
+as older men are miserly. we all create some happiness or some madness
+for ourselves.
+
+because you all want to divert your minds from some fixed idea, for
+which a revolution would be a radical cure, replied the physician. the
+genoese regrets his republic, the milanese pines for his independence,
+the piemontese longs for a constitutional government, the romagna cries
+for liberty--
+
+of which it knows nothing, interrupted the duchess. alas! there
+are men in italy so stupid as to long for your idiotic charter, which
+destroys the influence of woman. most of my fellow-countrywomen must
+need read your french books--useless rhodomontade--
+
+useless! cried the frenchman.
+
+why, monsieur, the duchess went on, what can you find in a book that
+is better than what we have in our hearts? italy is mad.
+
+i cannot see that a people is mad because it wishes to be its own
+master, said the physician.
+
+good heavens! exclaimed the duchess, eagerly, does not that mean
+paying with a great deal of bloodshed for the right of quarreling, as
+you do, over crazy ideas?
+
+then you approve of despotism? said the physician.
+
+why should i not approve of a system of government which, by depriving
+us of books and odious politics, leaves men entirely to us?
+
+i had thought that the italians were more patriotic, said the
+frenchman.
+
+massimilla laughed so slyly that her interlocutor could not distinguish
+mockery from serious meaning, nor her real opinion from ironical
+criticism.
+
+then you are not a liberal? said he.
+
+heaven preserve me! said she. i can imagine nothing in worse taste
+than such opinions in a woman. could you love a woman whose heart was
+occupied by all mankind?
+
+those who love are naturally aristocrats, the austrian general
+observed, with a smile.
+
+as i came into the theatre, the frenchman observed, you were the
+first person i saw; and i remarked to his excellency that if there was a
+woman who could personify a nation it was you. but i grieve to
+discover that, though you represent its divine beauty, you have not the
+constitutional spirit.
+
+are you not bound, said the duchess, pointing to the ballet now being
+danced, to find all our dancers detestable and our singers atrocious?
+paris and london rob us of all our leading stars. paris passes judgment
+on them, and london pays them. genovese and la tinti will not be left to
+us for six months--
+
+at this juncture, the austrian left the box. vendramin, the prince, and
+the other two italians exchanged a look and a smile, glancing at the
+french physician. he, for a moment, felt doubtful of himself,--a
+rare thing in a frenchman,--fancying he had said or done something
+incongruous; but the riddle was immediately solved.
+
+do you thing it would be judicious, said emilio, if we spoke our mind
+in the presence of our masters?
+
+you are in a land of slaves, said the duchess, in a tone and with
+a droop of the head which gave her at once the look for which the
+physician had sought in vain. vendramin, she went on, speaking so that
+only the stranger could hear her, took to smoking opium, a villainous
+idea suggested to him by an englishman who, for other reasons of his,
+craved an easy death--not death as men see it in the form of a skeleton,
+but death draped with the frippery you in france call a flag--a
+maiden form crowned with flowers or laurels; she appears in a cloud of
+gunpowder borne on the flight of a cannon-ball--or else stretched on a
+bed between two courtesans; or again, she rises in the steam of a bowl
+of punch, or the dazzling vapor of a diamond--but a diamond in the form
+of carbon.
+
+whenever vendramin chooses, for three austrian lire, he can be a
+venetian captain, he can sail in the galleys of the republic, and
+conquer the gilded domes of constantinople. then he can lounge on the
+divans in the seraglio among the sultans wives, while the grand signor
+himself is the slave of the venetian conqueror. he returns to restore
+his palazzo with the spoils of the ottoman empire. he can quit the women
+of the east for the doubly masked intrigues of his beloved venetians,
+and fancy that he dreads the jealousy which has ceased to exist.
+
+for three zwanziger he can transport himself into the council of ten,
+can wield there terrible power, and leave the doges palace to sleep
+under the watch of a pair of flashing eyes, or to climb a balcony from
+which a fair hand has hung a silken ladder. he can love a woman to whom
+opium lends such poetic grace as we women of flesh and blood could never
+show.
+
+presently he turns over, and he is face to face with the dreadful frown
+of the senator, who holds a dagger. he hears the blade plunged into his
+mistress heart. she dies smiling on him; for she has saved him.
+
+and she is a happy woman! added the duchess, looking at emilio.
+
+he escapes and flies to command the dalmatians, to conquer the illyrian
+coast for his beloved venice. his glory wins him forgiveness, and he
+enjoys a life of domestic happiness,--a home, a winter evening, a young
+wife and charming children, who pray to san marco under the care of an
+old nurse. yes, for three francs worth of opium he furnishes our empty
+arsenal, he watches convoys of merchandise coming in, going to the four
+quarters of the world. the forces of modern industry no longer reign in
+london, but in his own venice, where the hanging gardens of semiramis,
+the temple of jerusalem, the marvels of rome, live once more. he adds
+to the glories of the middle ages by the labors of steam, by new
+masterpieces of art under the protection of venice, who protected it of
+old. monuments and nations crowd into his little brain; there is room
+for them all. empires and cities and revolutions come and vanish in the
+course of a few hours, while venice alone expands and lives; for the
+venice of his dreams is the empress of the seas. she has two millions of
+inhabitants, the sceptre of italy, the mastery of the mediterranean and
+the indies!
+
+what an opera is the brain of man! what an unfathomed abyss!--even to
+those who, like gall, have mapped it out, cried the physician.
+
+dear duchess, said vendramin, do not omit the last service that my
+elixir will do me. after hearing ravishing voices and imbibing music
+through every pore, after experiencing the keenest pleasures and
+the fiercest delights of mahomets paradise, i see none but the most
+terrible images. i have visions of my beloved venice full of childrens
+faces, distorted, like those of the dying; of women covered with
+dreadful wounds, torn and wailing; of men mangled and crushed by the
+copper sides of crashing vessels. i begin to see venice as she is,
+shrouded in crape, stripped, robbed, destitute. pale phantoms wander
+through her streets!
+
+already the austrian soldiers are grinning over me, already my
+visionary life is drifting into real life; whereas six months ago real
+life was the bad dream, and the life of opium held love and bliss,
+important affairs and political interests. alas! to my grief, i see the
+dawn over my tomb, where truth and falsehood mingle in a dubious light,
+which is neither day nor darkness, but partakes of both.
+
+so you see that in this head there is too much patriotism, said
+the prince, laying his hand on the thick black curls that fell on
+vendramins brow.
+
+oh, if he loves us he will give up his dreadful opium! said
+massimilla.
+
+i will cure your friend, said the frenchman.
+
+achieve that, and we shall love you, said the duchess. but if on
+your return to france you do not calumniate us, we shall love you even
+better. the hapless italians are too much crushed by foreign dominion to
+be fairly judged--for we have known yours, she added, with a smile.
+
+it was more generous than austrias, said the physician, eagerly.
+
+austria squeezes and gives us nothing back, and you squeeze to enlarge
+and beautify our towns; you stimulated us by giving us an army. you
+thought you could keep italy, and they expect to lose it--there lies the
+difference.
+
+the austrians provide us with a sort of ease that is as stultifying and
+heavy as themselves, while you overwhelmed us by your devouring energy.
+but whether we die of tonics or of narcotics, what does it matter? it is
+death all the same, monsieur le docteur.
+
+unhappy italy! in my eyes she is like a beautiful woman whom france
+ought to protect by making her his mistress, exclaimed the frenchman.
+
+but you could not love us as we wish to be loved, said the duchess,
+smiling. we want to be free. but the liberty i crave is not your
+ignoble and middle-class liberalism, which would kill all art. i ask,
+ said she, in a tone that thrilled through the box,--that is to say, i
+would ask,--that each italian republic should be resuscitated, with its
+nobles, its citizens, its special privileges for each caste. i would
+have the old aristocratic republics once more with their intestine
+warfare and rivalry that gave birth to the noblest works of art, that
+created politics, that raised up the great princely houses. by extending
+the action of one government over a vast expanse of country it is
+frittered down. the italian republics were the glory of europe in
+the middle ages. why has italy succumbed when the swiss, who were her
+porters, have triumphed?
+
+the swiss republics, said the doctor, were worthy housewives, busy
+with their own little concerns, and neither having any cause for
+envying another. your republics were haughty queens, preferring to sell
+themselves rather than bow to a neighbor; they fell too low ever to rise
+again. the guelphs are triumphant.
+
+do not pity us too much, said the duchess, in a voice that made the
+two friends start. we are still supreme. even in the depths of her
+misfortune italy governs through the choicer spirits that abound in her
+cities.
+
+unfortunately the greater number of her geniuses learn to understand
+life so quickly that they lie sunk in poverty-stricken pleasure. as for
+those who are willing to play the melancholy game for immortality, they
+know how to get at your gold and to secure your praises. ay, in
+this land--pitied for its fallen state by traveled simpletons and
+hypocritical poets, while its character is traduced by politicians--in
+this land, which appears so languid, powerless, and ruinous, worn out
+rather than old, there are puissant brains in every branch of life,
+genius throwing out vigorous shoots as an old vine-stock throws out
+canes productive of delicious fruit. this race of ancient rulers
+still gives birth to kings--lagrange, volta, rasori, canova, rossini,
+bartolini, galvani, vigano, beccaria, cicognara, corvetto. these
+italians are masters of the scientific peaks on which they stand, or of
+the arts to which they devote themselves. to say nothing of the singers
+and executants who captivate europe by their amazing perfections:
+taglioni, paganini, and the rest. italy still rules the world which will
+always come to worship her.
+
+go to florians to-night; you will find in capraja one of our cleverest
+men, but in love with obscurity. no one but the duke, my master,
+understands music so thoroughly as he does; indeed he is known here as
+_il fanatico_.
+
+after sitting a few minutes listening to the eager war of words between
+the physician and the duchess, who showed much ingenious eloquence, the
+italians, one by one, took leave, and went off to tell the news in
+every box, that la cataneo, who was regarded as a woman of great wit and
+spirit, had, on the question of italy, defeated a famous french doctor.
+this was the talk of the evening.
+
+as soon as the frenchman found himself alone with the duchess and the
+prince, he understood that they were to be left together, and took
+leave. massimilla bowed with a bend of the neck that placed him at such
+a distance that this salute might have secured her the mans hatred, if
+he could have ignored the charm of her eloquence and beauty.
+
+thus at the end of the opera, emilio and massimilla were alone, and
+holding hands they listened together to the duet that finishes _il
+barbiere_.
+
+there is nothing but music to express love, said the duchess, moved by
+that song as of two rapturous nightingales.
+
+a tear twinkled in emilios eye; massimilla, sublime in such beauty as
+beams in raphaels saint-cecilia, pressed his hand, their knees touched,
+there was, as it seemed, the blossom of a kiss on her lips. the prince
+saw on her blushing face a glow of joy like that which on a summers day
+shines down on the golden harvest; his heart seemed bursting with
+the tide of blood that rushed to it. he fancied that he could hear an
+angelic chorus of voices, and he would have given his life to feel the
+fire of passion which at this hour last night had filled him for the
+odious clarina; but he was at the moment hardly conscious of having a
+body.
+
+massimilla, much distressed, ascribed this tear, in her guilelessness,
+to the remark she had made as to genoveses cavatina.
+
+but, _carino_, said she in emilios ear, are not you as far better
+than every expression of love, as cause is superior to effect?
+
+after handing the duchess to her gondola, emilio waited for vendramin to
+go to florians.
+
+
+
+the cafe florian at venice is a quite undefinable institution. merchants
+transact their business there, and lawyers meet to talk over their
+most difficult cases. florians is at once an exchange, a green-room, a
+newspaper office, a club, a confessional,--and it is so well adapted to
+the needs of the place that some venetian women never know what their
+husbands business may be, for, if they have a letter to write, they go
+to write it there.
+
+spies, of course, abound at florians; but their presence only sharpens
+venetian wits, which may here exercise the discretion once so famous.
+a great many persons spend the whole day at florians; in fact, to some
+men florians is so much a matter of necessity, that between the acts
+of an opera they leave the ladies in their boxes and take a turn to hear
+what is going on there.
+
+while the two friends were walking in the narrow streets of the merceria
+they did not speak, for there were too many people; but as they turned
+into the piazzi di san marco, the prince said:
+
+do not go at once to the cafe. let us walk about; i want to talk to
+you.
+
+he related his adventure with clarina and explained his position. to
+vendramin emilios despair seemed so nearly allied to madness that
+he promised to cure him completely if only he would give him _carte
+blanche_ to deal with massimilla. this ray of hope came just in time
+to save emilio from drowning himself that night; for, indeed, as he
+remembered the singer, he felt a horrible wish to go back to her.
+
+the two friends then went to an inner room at florians, where they
+listened to the conversation of some of the superior men of the town,
+who discoursed the subjects of the day. the most interesting of these
+were, in the first place, the eccentricities of lord byron, of whom the
+venetians made great sport; then cataneos attachment for la tinti, for
+which no reason could be assigned after twenty different causes had been
+suggested; then genoveses debut; finally, the tilting match between the
+duchess and the french doctor. just as the discussion became vehemently
+musical, duke cataneo made his appearance. he bowed very courteously to
+emilio, which seemed so natural that no one noticed it, and emilio bowed
+gravely in return. cataneo looked round to see if there was anybody he
+knew, recognized vendramin and greeted him, bowed to his banker, a
+rich patrician, and finally to the man who happened to be speaking,--a
+celebrated musical fanatic, a friend of the comtesse albrizzi. like
+some others who frequented florians, his mode of life was absolutely
+unknown, so carefully did he conceal it. nothing was known about him but
+what he chose to tell.
+
+this was capraja, the nobleman whom the duchess had mentioned to the
+french doctor. this venetian was one of a class of dreamers whose
+powerful minds divine everything. he was an eccentric theorist, and
+cared no more for celebrity than for a broken pipe.
+
+his life was in accordance with his ideas. capraja made his appearance
+at about ten every morning under the _procuratie_, without anyone
+knowing whence he came. he lounged about venice, smoking cigars. he
+regularly went to the fenice, sitting in the pit-stalls, and between the
+acts went round to florians, where he took three or four cups of coffee
+a day; and he ended the evening at the cafe, never leaving it till about
+two in the morning. twelve hundred francs a year paid all his expenses;
+he ate but one meal a day at an eating-house in the merceria, where the
+cook had his dinner ready for him at a fixed hour, on a little table at
+the back of the shop; the pastry-cooks daughter herself prepared his
+stuffed oysters, provided him with cigars, and took care of his money.
+by his advice, this girl, though she was very handsome, would never
+countenance a lover, lived very steadily, and still wore the old
+venetian costume. this purely-bred venetian girl was twelve years old
+when capraja first took an interest in her, and six-and-twenty when he
+died. she was very fond of him, though he had never even kissed her hand
+or her brow, and she knew nothing whatever of the poor old noblemans
+intentions with regard to her. the girl had at last as complete control
+of the old gentleman as a mother has of her child; she would tell him
+when he wanted clean linen; next day he would come without a shirt, and
+she would give him a clean one to put on in the morning.
+
+he never looked at a woman either in the theatre or out walking. though
+he was the descendant of an old patrician family he never thought his
+rank worth mentioning. but at night, after twelve, he awoke from his
+apathy, talked, and showed that he had seen and heard everything. this
+peaceful diogenes, quite incapable of explaining his tenets, half a
+turk, half a venetian, was thick-set, short, and fat; he had a doges
+sharp nose, an inquisitive, satirical eye, and a discreet though smiling
+mouth.
+
+when he died, it became known that he had lived in a little den near san
+benedetto. he had two million francs invested in the funds of various
+countries of europe, and had left the interest untouched ever since he
+had first bought the securities in 1814, so the sum was now enormous,
+alike from the increased value of the capital and the accumulated
+interest. all this money was left to the pastry-cooks daughter.
+
+genovese, he was saying, will do wonders. whether he really
+understands the great end of music, or acts only on instinct, i know
+not; but he is the first singer who ever satisfied me. i shall not die
+without hearing a _cadenza_ executed as i have heard them in my dreams,
+waking with a feeling as though the sounds were floating in the air. the
+clear _cadenza_ is the highest achievement of art; it is the arabesque,
+decorating the finest room in the house; a shade too little and it is
+nothing, a touch too much and all is confusion. its task is to awake in
+the soul a thousand dormant ideas; it flies up and sweeps through space,
+scattering seeds in the air to be taken in by our ears and blossom in
+our heart. believe me, in painting his saint-cecilia, raphael gave the
+preference to music over poetry. and he was right; music appeals to the
+heart, whereas writing is addressed to the intellect; it communicates
+ideas directly, like a perfume. the singers voice impinges not on the
+mind, not on the memory of happiness, but on the first principle of
+thought; it stirs the elements of sensation.
+
+it is a grievous thing that the populace should have compelled
+musicians to adapt their expression to words, to factitious emotions;
+but then they were not otherwise intelligible to the vulgar. thus
+the _cadenza_ is the only thing left to the lovers of pure music,
+the devotees of unfettered art. to-night, as i listened to that last
+_cavatina_, i felt as if i were beckoned by a fair creature whose look
+alone had made me young again. the enchantress placed a crown on
+my brow, and led me to the ivory door through which we pass to the
+mysterious land of day-dreams. i owe it to genovese that i escaped for
+a few minutes from this old husk--minutes, short no doubt by the clock,
+but very long by the record of sensation. for a brief spring-time,
+scented with roses, i was young again--and beloved!
+
+but you are mistaken, _caro_ capraja, said the duke. there is in
+music an effect yet more magical than that of the _cadenza_.
+
+what is that? asked capraja.
+
+the unison of two voices, or of a voice and a violin,--the instrument
+which has tones most nearly resembling those of the human voice,
+ replied cataneo. this perfect concord bears us on to the very heart of
+life, on the tide of elements which can resuscitate rapture and carry
+man up to the centre of the luminous sphere where his mind can command
+the whole universe. you still need a _thema_, capraja, but the pure
+element is enough for me. you need that the current should flow through
+the myriad canals of the machine to fall in dazzling cascades, while
+i am content with the pure tranquil pool. my eye gazes across a lake
+without a ripple. i can embrace the infinite.
+
+speak no more, cataneo, said capraja, haughtily. what! do you fail to
+see the fairy, who, in her swift rush through the sparkling atmosphere,
+collects and binds with the golden thread of harmony, the gems of melody
+she smilingly sheds on us? have you ever felt the touch of her wand, as
+she says to curiosity, awake! the divinity rises up radiant from the
+depths of the brain; she flies to her store of wonders and fingers them
+lightly as an organist touches the keys. suddenly, up starts memory,
+bringing us the roses of the past, divinely preserved and still fresh.
+the mistress of our youth revives, and strokes the young mans hair. our
+heart, too full, overflows; we see the flowery banks of the torrent of
+love. every burning bush we ever knew blazes afresh, and repeats the
+heavenly words we once heard and understood. the voice rolls on; it
+embraces in its rapid turns those fugitive horizons, and they shrink
+away; they vanish, eclipsed by newer and deeper joys--those of an
+unrevealed future, to which the fairy points as she returns to the blue
+heaven.
+
+and you, retorted cataneo, have you never seen the direct ray of a
+star opening the vistas above; have you never mounted on that beam which
+guides you to the sky, to the heart of the first causes which move the
+worlds?
+
+to their hearers, the duke and capraja were playing a game of which the
+premises were unknown.
+
+genoveses voice thrills through every fibre, said capraja.
+
+and la tintis fires the blood, replied the duke.
+
+what a paraphrase of happy love is that _cavatina_! capraja went on.
+ah! rossini was young when he wrote that interpretation of effervescent
+ecstasy. my heart filled with renewed blood, a thousand cravings tingled
+in my veins. never have sounds more angelic delivered me more completely
+from my earthly bonds! never did the fairy wave more beautiful arms,
+smile more invitingly, lift her tunic more cunningly to display an
+ankle, raising the curtain that hides my other life!
+
+to-morrow, my old friend, replied cataneo, you shall ride on the back
+of a dazzling, white swan, who will show you the loveliest land there
+is; you shall see the spring-time as children see it. your heart shall
+open to the radiance of a new sun; you shall sleep on crimson silk,
+under the gaze of a madonna; you shall feel like a happy lover gently
+kissed by a nymph whose bare feet you still may see, but who is about to
+vanish. that swan will be the voice of genovese, if he can unite it to
+its leda, the voice of clarina. to-morrow night we are to hear _mose_,
+the grandest opera produced by italys greatest genius.
+
+all present left the conversation to the duke and capraja, not wishing
+to be the victims of mystification. only vendramin and the french doctor
+listened to them for a few minutes. the opium-smoker understood these
+poetic flights; he had the key of the palace where those two sensuous
+imaginations were wandering. the doctor, too, tried to understand, and
+he understood, for he was one of the pleiades of genius belonging to the
+paris school of medicine, from which a true physician comes out as much
+a metaphysician as an accomplished analyst.
+
+do you understand them? said emilio to vendramin as they left the cafe
+at two in the morning.
+
+yes, my dear boy, said vendramin, taking emilio home with him. those
+two men are of the legion of unearthly spirits to whom it is given here
+below to escape from the wrappings of the flesh, who can fly on the
+shoulders of the queen of witchcraft up to the blue empyrean where the
+sublime marvels are wrought of the intellectual life; they, by the power
+of art, can soar whither your immense love carries you, whither opium
+transports me. then none can understand them but those who are like
+them.
+
+i, who can inspire my soul by such base means, who can pack a hundred
+years of life into a single night, i can understand those lofty spirits
+when they talk of that glorious land, deemed a realm of chimeras by
+some who think themselves wise; but the realm of reality to us whom
+they think mad. well, the duke and capraja, who were acquainted at
+naples,--where cataneo was born,--are mad about music.
+
+but what is that strange system that capraja was eager to explain to
+the duke? did you understand?
+
+yes, replied vendramin. caprajas great friend is a musician from
+cremona, lodging in the capello palace, who has a theory that sounds
+meet with an element in man, analogous to that which produces ideas.
+according to him, man has within him keys acted on by sound, and
+corresponding to his nerve-centres, where ideas and sensations take
+their rise. capraja, who regards the arts as an assemblage of means by
+which he can harmonize, in himself, all external nature with another
+mysterious nature that he calls the inner life, shares all ideas of this
+instrument-maker, who at this moment is composing an opera.
+
+conceive of a sublime creation, wherein the marvels of the visible
+universe are reproduced with immeasurable grandeur, lightness,
+swiftness, and extension; wherein sensation is infinite, and whither
+certain privileged natures, possessed of divine powers, are able to
+penetrate, and you will have some notion of the ecstatic joys of which
+cataneo and capraja were speaking; both poets, each for himself alone.
+only, in matters of the intellect, as soon as a man can rise above the
+sphere where plastic art is produced by a process of imitation, and
+enter into that transcendental sphere of abstractions where everything
+is understood as an elementary principle, and seen in the omnipotence of
+results, that man is no longer intelligible to ordinary minds.
+
+you have thus explained my love for massimilla, said emilio. there
+is in me, my friend, a force which awakes under the fire of her look, at
+her lightest touch, and wafts me to a world of light where effects are
+produced of which i dare not speak. it has seemed to me often that the
+delicate tissue of her skin has stamped flowers on mine as her hand
+lies on my hand. her words play on those inner keys in me, of which you
+spoke. desire excites my brain, stirring that invisible world, instead
+of exciting my passive flesh; the air seems red and sparkling, unknown
+perfumes of indescribable strength relax my sinews, roses wreathe my
+temples, and i feel as though my blood were escaping through opened
+arteries, so complete is my inanition.
+
+that is the effect on me of smoking opium, replied vendramin.
+
+then do you wish to die? cried emilio, in alarm.
+
+with venice! said vendramin, waving his hand in the direction of san
+marco. can you see a single pinnacle or spire that stands straight? do
+you not perceive that the sea is claiming its prey?
+
+the prince bent his head; he dared no more speak to his friend of love.
+
+to know what a free country means, you must have traveled in a conquered
+land.
+
+when they reached the palazzo vendramin, they saw a gondola moored at
+the water-gate. the prince put his arm round vendramin and clasped him
+affectionately, saying:
+
+good-night to you, my dear fellow!
+
+what! a woman? for me, whose only love is venice? exclaimed marco.
+
+at this instant the gondolier, who was leaning against a column,
+recognizing the man he was to look out for, murmured in emilios ear:
+
+the duchess, monseigneur.
+
+emilio sprang into the gondola, where he was seized in a pair of soft
+arms--an embrace of iron--and dragged down on to the cushions, where
+he felt the heaving bosom of an ardent woman. and then he was no
+more emilio, but clarinas lover; for his ideas and feelings were so
+bewildering that he yielded as if stupefied by her first kiss.
+
+forgive this trick, my beloved, said the sicilian. i shall die if you
+do not come with me.
+
+and the gondola flew over the secret water.
+
+
+
+at half-past seven on the following evening, the spectators were again
+in their places in the theatre, excepting that those in the pit always
+took their chances of where they might sit. old capraja was in cataneos
+box.
+
+before the overture the duke paid a call on the duchess; he made a point
+of standing behind her and leaving the front seat to emilio next the
+duchess. he made a few trivial remarks, without sarcasm or bitterness,
+and with as polite a manner as if he were visiting a stranger.
+
+but in spite of his efforts to seem amiable and natural, the prince
+could not control his expression, which was deeply anxious. bystanders
+would have ascribed such a change in his usually placid features to
+jealousy. the duchess no doubt shared emilios feelings; she looked
+gloomy and was evidently depressed. the duke, uncomfortable enough
+between two sulky people, took advantage of the french doctors entrance
+to slip away.
+
+monsieur, said cataneo to his physician before dropping the curtain
+over the entrance to the box, you will hear to-night a grand musical
+poem, not easy of comprehension at a first hearing. but in leaving you
+with the duchess i know that you can have no more competent interpreter,
+for she is my pupil.
+
+the doctor, like the duke, was struck by the expression stamped on the
+faces of the lovers, a look of pining despair.
+
+then does an italian opera need a guide to it? he asked massimilla,
+with a smile.
+
+recalled by this question to her duties as mistress of the box, the
+duchess tried to chase away the clouds that darkened her brow, and
+replied, with eager haste, to open a conversation in which she might
+vent her irritation:--
+
+this is not so much an opera, monsieur, said she, as an oratorio--a
+work which is in fact not unlike a most magnificent edifice, and i shall
+with pleasure be your guide. believe me, it will not be too much to give
+all your mind to our great rossini, for you need to be at once a poet
+and a musician to appreciate the whole bearing of such a work.
+
+you belong to a race whose language and genius are too practical for
+it to enter into music without an effort; but france is too intellectual
+not to learn to love it and cultivate it, and to succeed in that as in
+everything else. also, it must be acknowledged that music, as created
+by lulli, rameau, haydn, mozart, beethoven, cimarosa, paisiello, and
+rossini, and as it will be carried on by the great geniuses of the
+future, is a new art, unknown to former generations; they had indeed no
+such variety of instruments on which the flowers of melody now blossom
+as on some rich soil.
+
+so novel an art demands study in the public, study of a kind that
+may develop the feelings to which music appeals. that sentiment hardly
+exists as yet among you--a nation given up to philosophical theories, to
+analysis and discussion, and always torn by civil disturbances.
+modern music demands perfect peace; it is the language of loving and
+sentimental souls, inclined to lofty emotional aspiration.
+
+that language, a thousand times fuller than the language of words, is
+to speech and ideas what the thought is to its utterance; it arouses
+sensations and ideas in their primitive form, in that part of us where
+sensations and ideas have their birth, but leaves them as they are in
+each of us. that power over our inmost being is one of the grandest
+facts in music. all other arts present to the mind a definite creation;
+those of music are indefinite--infinite. we are compelled to accept the
+ideas of the poet, the painters picture, the sculptors statue; but
+music each one can interpret at the will of his sorrow or his gladness,
+his hope or his despair. while other arts restrict our mind by fixing it
+on a predestined object, music frees it to roam over all nature which
+it alone has the power of expressing. you shall hear how i interpret
+rossinis _mose_.
+
+she leaned across to the frenchman to speak to him, without being
+overheard.
+
+moses is the liberator of an enslaved race! said she. remember that,
+and you will see with what religious hope the whole house will listen
+to the prayer of the rescued hebrews, with what a thunder of applause it
+will respond!
+
+as the leader raised his bow, emilio flung himself into a back seat. the
+duchess pointed out the place he had left, for the physician to take
+it. but the frenchman was far more curious to know what had gone wrong
+between the lovers than to enter the halls of music built up by the man
+whom all italy was applauding--for it was the day of rossinis triumph
+in his own country. he was watching the duchess, and she was talking
+with a feverish excitement. she reminded him of the niobe he had admired
+at florence: the same dignity in woe, the same physical control; and yet
+her soul shone though, in the warm flush of her cheeks; and her eyes,
+where anxiety was disguised under a flash of pride, seemed to scorch the
+tears away by their fire. her suppressed grief seemed calmer when she
+looked at emilio, who never took his eyes off her; it was easy to see
+that she was trying to mollify some fierce despair. the state of her
+feelings gave a certain loftiness to her mind.
+
+like most women when under the stress of some unusual agitation, she
+overstepped her ordinary limitations and assumed something of the
+pythoness, though still remaining calm and beautiful; for it was the
+form of her thoughts that was wrung with desperation, not the features
+of her face. and perhaps she wanted to shine with all her wit to lend
+some charm to life and detain her lover from death.
+
+when the orchestra had given out the three chords in c major, placed
+at the opening by the composer to announce that the overture will be
+sung--for the real overture is the great movement beginning with this
+stern attack, and ending only when light appears at the command of
+moses--the duchess could not control a little spasmodic start, that
+showed how entirely the music was in accordance with her concealed
+distress.
+
+those three chords freeze the blood, said she. they announce trouble.
+listen attentively to this introduction; the terrible lament of a nation
+stricken by the hand of god. what wailing! the king, the queen, their
+first-born son, all the dignitaries of the kingdom are sighing; they are
+wounded in their pride, in their conquests; checked in their avarice.
+dear rossini! you have done well to throw this bone to gnaw to the
+_tedeschi_, who declared we had no harmony, no science!
+
+now you will hear the ominous melody the maestro has engrafted on to
+this profound harmonic composition, worthy to compare with the most
+elaborate structures of the germans, but never fatiguing or tiresome.
+
+you french, who carried through such a bloodthirsty revolution, who
+crushed your aristocracy under the paw of the lion mob, on the day when
+this oratorio is performed in your capital, you will understand this
+glorious dirge of the victims on whom god is avenging his chosen people.
+none but an italian could have written this pregnant and inexhaustible
+theme--truly dantesque. do you think that it is nothing to have such a
+dream of vengeance, even for a moment? handel, sebastian bach, all you
+old german masters, nay, even you, great beethoven, on your knees! here
+is the queen of arts, italy triumphant!
+
+the duchess had spoken while the curtain was being raised. and now the
+physician heard the sublime symphony with which the composer introduces
+the great biblical drama. it is to express the sufferings of a whole
+nation. suffering is uniform in its expression, especially physical
+suffering. thus, having instinctively felt, like all men of genius, that
+here there must be no variety of idea, the musician, having hit on his
+leading phrase, has worked it out in various keys, grouping the masses
+and the dramatis personae to take up the theme through modulations and
+cadences of admirable structure. in such simplicity is power.
+
+the effect of this strain, depicting the sensations of night and cold
+in a people accustomed to live in the bright rays of the sun, and sung
+by the people and their princes, is most impressive. there is something
+relentless in that slow phrase of music; it is cold and sinister, like
+an iron bar wielded by some celestial executioner, and dropping in
+regular rhythm on the limbs of all his victims. as we hear it passing
+from c minor into g minor, returning to c and again to the dominant g,
+starting afresh and _fortissimo_ on the tonic b flat, drifting into
+f major and back to c minor, and in each key in turn more ominously
+terrible, chill, and dark, we are compelled at last to enter into the
+impression intended by the composer.
+
+the frenchman was, in fact, deeply moved when all this united sorrow
+exploded in the cry:
+
+  o nume disrael,
+  se brami in liberta
+  il popol tuo fedel,
+  di lui di noi pieta!
+
+(o god of israel, if thou wouldst see thy faithful people free, have
+mercy on them, and on us.)
+
+never was a grander synthesis composed of natural effects or a more
+perfect idealization of nature. in a great national disaster, each one
+for a long time bewails himself alone; then, from out of the mass,
+rises up, here and there, a more emphatic and vehement cry of anguish;
+finally, when the misery has fallen on all, it bursts forth like a
+tempest.
+
+as soon as they all recognize a common grievance, the dull murmurs of
+the people become cries of impatience. rossini has proceeded on this
+hypothesis. after the outcry in c major, pharoah sings his grand
+recitative: _mano ultrice di un dio_ (avenging hand of god), after which
+the original subject is repeated with more vehement expression. all
+egypt appeals to moses for help.
+
+the duchess had taken advantage of the pause for the entrance of moses
+and aaron to give this interpretation of that fine introduction.
+
+let them weep! she added passionately. they have done much ill.
+expiate your sins, egyptians, expiate the crimes of your maddened court!
+with what amazing skill has this great painter made use of all the
+gloomy tones of music, of all that is saddest on the musical palette!
+what creepy darkness! what a mist! is not your very spirit in mourning?
+are you not convinced of the reality of the blackness that lies over
+the land? do you not feel that nature is wrapped in the deepest shades?
+there are no palm-trees, no egyptian palaces, no landscape. and what
+a healing to your soul will the deeply religious strain be of the
+heaven-sent healer who will stay this cruel plague! how skilfully is
+everything wrought up to end in that glorious invocation of moses to
+god.
+
+by a learned elaboration, which capraja could explain to you, this
+appeal to heaven is accompanied by brass instruments only; it is that
+which gives it such a solemn, religious cast. and not merely is the
+artifice fine in its place; note how fertile in resource is genius.
+rossini has derived fresh beauty from the difficulty he himself created.
+he has the strings in reserve to express daylight when it succeeds
+to the darkness, and thus produces one of the greatest effects ever
+achieved in music.
+
+till this inimitable genius showed the way never was such a result
+obtained with mere _recitative_. we have not, so far, had an air or a
+duet. the poet has relied on the strength of the idea, on the vividness
+of his imagery, and the realism of the declamatory passages. this scene
+of despair, this darkness that may be felt, these cries of anguish,--the
+whole musical picture is as fine as your great poussins _deluge_.
+
+moses waved his staff, and it was light.
+
+here, monsieur, does not the music vie with the sun, whose splendor
+it has borrowed, with nature, whose phenomena it expresses in every
+detail? the duchess went on, in an undertone. art here reaches its
+climax; no musician can get beyond this. do not you hear egypt waking up
+after its long torpor? joy comes in with the day. in what composition,
+ancient or modern, will you find so grand a passage? the greatest
+gladness in contrast to the deepest woe! what exclamations! what
+gleeful notes! the oppressed spirit breathes again. what delirium in the
+_tremolo_ of the orchestra! what a noble _tutti_! this is the rejoicing
+of a delivered nation. are you not thrilled with joy?
+
+the physician, startled by the contrast, was, in fact, clapping his
+hands, carried away by admiration for one of the finest compositions of
+modern music.
+
+_brava la doni!_ said vendramin, who had heard the duchess.
+
+now the introduction is ended, said she. you have gone through a
+great sensation, she added, turning to the frenchman. your heart is
+beating; in the depths of your imagination you have a splendid sunrise,
+flooding with light a whole country that before was cold and dark. now,
+would you know the means by which the musician has worked, so as to
+admire him to-morrow for the secrets of his craft after enjoying
+the results to-night? what do you suppose produces this effect of
+daylight--so sudden, so complicated, and so complete? it consists of a
+simple chord of c, constantly reiterated, varied only by the chord of
+4-6. this reveals the magic of his touch. to show you the glory of light
+he has worked by the same means that he used to represent darkness and
+sorrow.
+
+this dawn in imagery is, in fact, absolutely the same as the natural
+dawn; for light is one and the same thing everywhere, always alike in
+itself, the effects varying only with the objects it falls on. is it not
+so? well, the musician has taken for the fundamental basis of his music,
+for its sole _motif_, a simple chord in c. the sun first sheds its light
+on the mountain-tops and then in the valleys. in the same way the chord
+is first heard on the treble string of the violins with boreal mildness;
+it spreads through the orchestra, it awakes the instruments one by one,
+and flows among them. just as light glides from one thing to the next,
+giving them color, the music moves on, calling out each rill of harmony
+till all flow together in the _tutti_.
+
+the violins, silent until now, give the signal with their tender
+_tremolo_, softly _agitato_ like the first rays of morning. that light,
+cheerful movement, which caresses the soul, is cleverly supported by
+chords in the bass, and by a vague _fanfare_ on the trumpets, restricted
+to their lowest notes, so as to give a vivid idea of the last cool
+shadows that linger in the valleys while the first warm rays touch the
+heights. then all the wind is gradually added to strengthen the general
+harmony. the voices come in with sighs of delight and surprise. at
+last the brass breaks out, the trumpets sound. light, the source of all
+harmony, inundates all nature; every musical resource is produced with
+a turbulence, a splendor, to compare with that of the eastern sun. even
+the triangle, with its reiterated c, reminds us by its shrill accent and
+playful rhythm of the song of early birds.
+
+thus the same key, freshly treated by the masters hand, expresses the
+joy of all nature, while it soothes the grief it uttered before.
+
+there is the hall-mark of the great genius: unity. it is the same
+but different. in one and the same phrase we find a thousand various
+feelings of woe, the misery of a nation. in one and the same chord we
+have all the various incidents of awakening nature, every expression of
+the nations joy. these two tremendous passages are soldered into one by
+the prayer to an ever-living god, author of all things, of that woe
+and that gladness alike. now is not that introduction by itself a grand
+poem?
+
+it is, indeed, said the frenchman.
+
+next comes a quintette such as rossini can give us. if he was ever
+justified in giving vent to that flowery, voluptuous grace for which
+italian music is blamed, is it not in this charming movement in which
+each person expresses joy? the enslaved people are delivered, and yet
+a passion in peril is fain to moan. pharaohs son loves a hebrew woman,
+and she must leave him. what gives its ravishing charm to this quintette
+is the return to the homelier feelings of life after the grandiose
+picture of two stupendous and national emotions:--general misery,
+general joy, expressed with the magic force stamped on them by divine
+vengeance and with the miraculous atmosphere of the bible narrative.
+now, was not i right? added massimilla, as the noble _sretto_ came to a
+close.
+
+  voci di giubilo,
+  d inorno eccheggino,
+  di pace l iride
+  per noi spunto.
+
+(cries of joy sound about us. the rainbow of peace dawns upon us.)
+
+how ingeniously the composer has constructed this passage! she went
+on, after waiting for a reply. he begins with a solo on the horn, of
+divine sweetness, supported by _arpeggios_ on the harps; for the first
+voices to be heard in this grand concerted piece are those of moses and
+aaron returning thanks to the true god. their strain, soft and
+solemn, reverts to the sublime ideas of the invocation, and mingles,
+nevertheless, with the joy of the heathen people. this transition
+combines the heavenly and the earthly in a way which genius alone could
+invent, giving the _andante_ of this quintette a glow of color that i
+can only compare to the light thrown by titian on his divine persons.
+did you observe the exquisite interweaving of the voices? the clever
+entrances by which the composer has grouped them round the main idea
+given out by the orchestra? the learned progressions that prepare us for
+the festal _allegro_? did you not get a glimpse, as it were, of dancing
+groups, the dizzy round of a whole nation escaped from danger? and
+when the clarionet gives the signal for the _stretto_,--_voci di
+giubilo_,--so brilliant and gay, was not your soul filled with the
+sacred pyrrhic joy of which david speaks in the psalms, ascribing it to
+the hills?
+
+yes, it would make a delightful dance tune, said the doctor.
+
+french! french! always french! exclaimed the duchess, checked in her
+exultant mood by this sharp thrust. yes; you would be capable of taking
+that wonderful burst of noble and dainty rejoicing and turning it into
+a rigadoon. sublime poetry finds no mercy in your eyes. the highest
+genius,--saints, kings, disasters,--all that is most sacred must pass
+under the rods of caricature. and the vulgarizing of great music by
+turning it into a dance tune is to caricature it. with you, wit kills
+soul, as argument kills reason.
+
+they all sat in silence through the _recitative_ of osiride and membrea,
+who plot to annul the order given by pharaoh for the departure of the
+hebrews.
+
+have i vexed you? asked the physician to the duchess. i should be in
+despair. your words are like a magic wand. they unlock the pigeon-holes
+of my brain, and let out new ideas, vivified by this sublime music.
+
+no, replied she, you have praised our great composer after your own
+fashion. rossini will be a success with you, for the sake of his witty
+and sensual gifts. let us hope that he may find some noble souls,
+in love with the ideal--which must exist in your fruitful land,--to
+appreciate the sublimity, the loftiness, of such music. ah, now we have
+the famous duet, between elcia and osiride! she exclaimed, and she went
+on, taking advantage of the triple salvo of applause which hailed la
+tinti, as she made her first appearance on the stage.
+
+if la tinti has fully understood the part of elcia, you will hear
+the frenzied song of a woman torn by her love for her people, and
+her passion for one of their oppressors, while osiride, full of mad
+adoration for his beautiful vassal, tries to detain her. the opera is
+built up as much on that grand idea as on that of pharaohs resistance
+to the power of god and of liberty; you must enter into it thoroughly or
+you will not understand this stupendous work.
+
+notwithstanding the disfavor you show to the dramas invented by our
+_libretto_ writers, you must allow me to point out the skill with which
+this one is constructed. the antithesis required in every fine work, and
+eminently favorable to music, is well worked out. what can be finer than
+a whole nation demanding liberty, held in bondage by bad faith, upheld
+by god, and piling marvel on marvel to gain freedom? what more dramatic
+than the princes love for a hebrew woman, almost justifying treason to
+the oppressors power?
+
+and this is what is expressed in this bold and stupendous musical poem;
+rossini has stamped each nation with its fantastic individuality, for
+we have attributed to them a certain historic grandeur to which every
+imagination subscribes. the songs of the hebrews, and their trust in
+god, are perpetually contrasted with pharaohs shrieks of rage and vain
+efforts, represented with a strong hand.
+
+at this moment osiride, thinking only of love, hopes to detain his
+mistress by the memories of their joys as lovers; he wants to conquer
+the attractions of her feeling for her people. here, then, you will find
+delicious languor, the glowing sweetness, the voluptuous suggestions
+of oriental love, in the air _ah! se puoi cosi lasciarmi_, sung by
+osiride, and in elcias reply, _ma perche cosi straziarmi?_ no; two
+hearts in such melodious unison could never part, she went on, looking
+at the prince.
+
+but the lovers are suddenly interrupted by the exultant voice of the
+hebrew people in the distance, which recalls elcia. what a delightful
+and inspiriting _allegro_ is the theme of this march, as the israelites
+set out for the desert! no one but rossini can make wind instruments
+and trumpets say so much. and is not the art which can express in two
+phrases all that is meant by the native land certainly nearer to
+heaven than the others? this clarion-call always moves me so deeply that
+i cannot find words to tell you how cruel it is to an enslaved people to
+see those who are free march away!
+
+the duchess eyes filled with tears as she listened to the grand
+movement, which in fact crowns the opera.
+
+_dov e mai quel core amante_, she murmured in italian, as la tinti
+began the delightful _aria_ of the _stretto_ in which she implores pity
+for her grief. but what is the matter? the pit are dissatisfied--
+
+genovese is braying like a stage, replied the prince.
+
+in point of fact, this first duet with la tinti was spoilt by genoveses
+utter breakdown. his excellent method, recalling that of crescentini
+and veluti, seemed to desert him completely. a _sostenuto_ in the wrong
+place, an embellishment carried to excess, spoilt the effect; or again
+a loud climax with no due _crescendo_, an outburst of sound like water
+tumbling through a suddenly opened sluice, showed complete and wilful
+neglect of the laws of good taste.
+
+the pit was in the greatest excitement. the venetian public believed
+there was a deliberate plot between genovese and his friends. la tinti
+was recalled and applauded with frenzy while genovese had a hint or two
+warning him of the hostile feeling of the audience. during this scene,
+highly amusing to a frenchman, while la tinti was recalled eleven times
+to receive alone the frantic acclamations of the house,--genovese, who
+was all but hissed, not daring to offer her his hand,--the doctor made a
+remark to the duchess as to the _stretto_ of the duet.
+
+in this place, said he, rossini ought to have expressed the deepest
+grief, and i find on the contrary an airy movement, a tone of ill-timed
+cheerfulness.
+
+you are right, said she. this mistake is the result of a tyrannous
+custom which composers are expected to obey. he was thinking more of
+his prima donna than of elcia when he wrote that _stretto_. but this
+evening, even if la tinti had been more brilliant than ever, i could
+throw myself so completely into the situation, that the passage, lively
+as it is, is to me full of sadness.
+
+the physician looked attentively from the prince to the duchess, but
+could not guess the reason that held them apart, and that made this duet
+seem to them so heartrending.
+
+now comes a magnificent thing, the scheming of pharaoh against the
+hebrews. the great _aria a rispettarmi apprenda_ (learn to respect me)
+is a triumph for carthagenova, who will express superbly the offended
+pride and the duplicity of a sovereign. the throne will speak. he will
+withdraw the concessions that have been made, he arms himself in wrath.
+pharaoh rises to his feet to clutch the prey that is escaping.
+
+rossini never wrote anything grander in style, or stamped with more
+living and irresistible energy. it is a consummate work, supported by an
+accompaniment of marvelous orchestration, as indeed is every portion of
+this opera. the vigor of youth illumines the smallest details.
+
+the whole house applauded this noble movement, which was admirably
+rendered by the singer, and thoroughly appreciated by the venetians.
+
+in the _finale_, said the duchess, you hear a repetition of the
+march, expressive of the joy of deliverance and of faith in god, who
+allows his people to rush off gleefully to wander in the desert! what
+lungs but would be refreshed by the aspirations of a whole nation freed
+from slavery.
+
+oh, beloved and living melodies! glory to the great genius who has
+known how to give utterance to such feelings! there is something
+essentially warlike in that march, proclaiming that the god of armies
+is on the side of these people. how full of feeling are these strains
+of thanksgiving! the imagery of the bible rises up in our mind; this
+glorious musical _scena_ enables us to realize one of the grandest
+dramas of that ancient and solemn world. the religious form given to
+some of the voice parts, and the way in which they come in, one by
+one, to group with the others, express all we have ever imagined of the
+sacred marvels of that early age of humanity.
+
+and yet this fine concerted piece is no more than a development of
+the theme of the march into all its musical outcome. that theme is the
+inspiring element alike for the orchestra and the voices, for the air,
+and for the brilliant instrumentation that supports it.
+
+elcia now comes to join the crowd; and to give shade to the rejoicing
+spirit of this number, rossini has made her utter her regrets. listen
+to her _duettino_ with amenofi. did blighted love ever express itself
+in lovelier song? it is full of the grace of a _notturno_, of the secret
+grief of hopeless love. how sad! how sad! the desert will indeed be a
+desert to her!
+
+after this comes the fierce conflict of the egyptians and the hebrews.
+all their joy is spoiled, their march stopped by the arrival of the
+egyptians. pharaohs edict is proclaimed in a musical phrase, hollow and
+dread, which is the leading _motif_ of the _finale_; we could fancy that
+we hear the tramp of the great egyptian army, surrounding the sacred
+phalanx of the true god, curling round it, like a long african serpent
+enveloping its prey. but how beautiful is the lament of the duped and
+disappointed hebrews! though, in truth, it is more italian than hebrew.
+what a superb passage introduces pharaohs arrival, when his presence
+brings the two leaders face to face, and all the moving passions of the
+drama. the conflict of sentiments in that sublime _ottetto_, where the
+wrath of moses meets that of the two pharaohs, is admirable. what a
+medley of voices and of unchained furies!
+
+no grander subject was ever wrought out by a composer. the famous
+_finale_ of _don giovanni_, after all, only shows us a libertine at odds
+with his victims, who invoke the vengeance of heaven; while here earth
+and its dominions try to defeat god. two nations are here face to face.
+and rossini, having every means at his command, has made wonderful use
+of them. he has succeeded in expressing the turmoil of a tremendous
+storm as a background to the most terrible imprecations, without making
+it ridiculous. he has achieved it by the use of chords repeated in
+triple time--a monotonous rhythm of gloomy musical emphasis--and so
+persistent as to be quite overpowering. the horror of the egyptians at
+the torrent of fire, the cries of vengeance from the hebrews, needed a
+delicate balance of masses; so note how he has made the development of
+the orchestral parts follow that of the chorus. the _allegro assai_ in c
+minor is terrible in the midst of that deluge of fire.
+
+confess now, said massimilla, at the moment when moses, lifting his
+rod, brings down the rain of fire, and when the composer puts forth all
+his powers in the orchestra and on the stage, that no music ever more
+perfectly expressed the idea of distress and confusion.
+
+they have spread to the pit, remarked the frenchman.
+
+what is it now? the pit is certainly in great excitement, said the
+duchess.
+
+in the _finale_, genovese, his eyes fixed on la tinti, had launched
+into such preposterous flourishes, that the pit, indignant at this
+interference with their enjoyment, were at a height of uproar. nothing
+could be more exasperating to italian ears than this contrast of good
+and bad singing. the manager went so far as to appear on the stage, to
+say that in reply to his remarks to his leading singer, signor genovese
+had replied that he knew not how or by what offence he had lost the
+countenance of the public, at the very moment when he was endeavoring to
+achieve perfection in his art.
+
+let him be as bad as he was yesterday--that was good enough for us!
+ roared capraja, in a rage.
+
+this suggestion put the house into a good humor again.
+
+contrary to italian custom, the ballet was not much attended to. in
+every box the only subject of conversation was genoveses strange
+behavior, and the luckless managers speech. those who were admitted
+behind the scenes went off at once to inquire into the mystery of this
+performance, and it was presently rumored that la tinti had treated her
+colleague genovese to a dreadful scene, in which she had accused the
+tenor of being jealous of her success, of having hindered it by his
+ridiculous behavior, and even of trying to spoil her performance by
+acting passionate devotion. the lady was shedding bitter tears over this
+catastrophe. she had been hoping, she said, to charm her lover, who was
+somewhere in the house, though she had failed to discover him.
+
+without knowing the peaceful course of daily life in venice at the
+present day, so devoid of incident that a slight altercation between two
+lovers, or the transient huskiness of a singers voice becomes a subject
+of discussion, regarded of as much importance as politics in england,
+it is impossible to conceive of the excitement in the theatre and at the
+cafe florian. la tinti was in love; la tinti had been hindered in her
+performance; genovese was mad or purposely malignant, inspired by the
+artists jealousy so familiar to italians! what a mine of matter for
+eager discussion!
+
+the whole pit was talking as men talk at the bourse, and the result was
+such a clamor as could not fail to amaze a frenchman accustomed to the
+quiet of the paris theatres. the boxes were in a ferment like the stir
+of swarming bees.
+
+one man alone remained passive in the turmoil. emilio memmi, with his
+back to the stage and his eyes fixed on massimilla with a melancholy
+expression, seemed to live in her gaze; he had not once looked round at
+the prima donna.
+
+i need not ask you, _caro carino_, what was the result of my
+negotiation, said vendramin to emilio. your pure and pious massimilla
+has been supremely kind--in short, she has been la tinti?
+
+the princes reply was a shake of his head, full of the deepest
+melancholy.
+
+your love has not descended from the ethereal spaces where you soar,
+ said vendramin, excited by opium. it is not yet materialized. this
+morning, as every day for six months--you felt flowers opening their
+scented cups under the dome of your skull that had expanded to vast
+proportions. all your blood moved to your swelling heart that rose to
+choke your throat. there, in there,--and he laid his hand on emilios
+breast,--you felt rapturous emotions. massimillas voice fell on your
+soul in waves of light; her touch released a thousand imprisoned joys
+which emerged from the convolutions of your brain to gather about you in
+clouds, to waft your etherealized body through the blue air to a purple
+glow far above the snowy heights, to where the pure love of angels
+dwells. the smile, the kisses of her lips wrapped you in a poisoned robe
+which burnt up the last vestiges of your earthly nature. her eyes were
+twin stars that turned you into shadowless light. you knelt together
+on the palm-branches of heaven, waiting for the gates of paradise to be
+opened; but they turned heavily on their hinges, and in your impatience
+you struck at them, but could not reach them. your hand touched nothing
+but clouds more nimble than your desires. your radiant companion,
+crowned with white roses like a bride of heaven, wept at your anguish.
+perhaps she was murmuring melodious litanies to the virgin, while the
+demoniacal cravings of the flesh were haunting you with their shameless
+clamor, and you disdained the divine fruits of that ecstasy in which i
+live, though shortening my life.
+
+your exaltation, my dear vendramin, replied emilio, calmly, is still
+beneath reality. who can describe that purely physical exhaustion in
+which we are left by the abuse of a dream of pleasure, leaving the
+soul still eternally craving, and the spirit in clear possession of its
+faculties?
+
+but i am weary of this torment, which is that of tantalus. this is my
+last night on earth. after one final effort, our mother shall have her
+child again--the adriatic will silence my last sigh--
+
+are you idiotic? cried vendramin. no; you are mad; for madness, the
+crisis we despise, is the memory of an antecedent condition acting on
+our present state of being. the genius of my dreams has taught me that,
+and much else! you want to make one of the duchess and la tinti; nay,
+dear emilio, take them separately; it will be far wiser. raphael alone
+ever united form and idea. you want to be the raphael of love; but
+chance cannot be commanded. raphael was a fluke of gods creation,
+for he foreordained that form and idea should be antagonistic; otherwise
+nothing could live. when the first cause is more potent than the
+outcome, nothing comes of it. we must live either on earth or in the
+skies. remain in the skies; it is always too soon to come down to
+earth.
+
+i will take the duchess home, said the prince, and make a last
+attempt--afterwards?
+
+afterwards, cried vendramin, anxiously, promise to call for me at
+florians.
+
+i will.
+
+this dialogue, in modern greek, with which vendramin and emilio were
+familiar, as many venetians are, was unintelligible to the duchess and
+to the frenchman. although he was quite outside the little circle
+that held the duchess, emilio and vendramin together--for these three
+understood each other by means of italian glances, by turns arch and
+keen, or veiled and sidelong--the physician at last discerned part of
+the truth. an earnest entreaty from the duchess had prompted vendramins
+suggestion to emilio, for massimilla had begun to suspect the misery
+endured by her lover in that cold empyrean where he was wandering,
+though she had no suspicions of la tinti.
+
+these two young men are mad! said the doctor.
+
+as to the prince, said the duchess, trust me to cure him. as to
+vendramin, if he cannot understand this sublime music, he is perhaps
+incurable.
+
+if you would but tell me the cause of their madness, i could cure
+them, said the frenchman.
+
+and since when have great physicians ceased to read mens minds? said
+she, jestingly.
+
+the ballet was long since ended; the second act of _mose_ was beginning.
+the pit was perfectly attentive. a rumor had got abroad that duke
+cataneo had lectured genovese, representing to him what injury he was
+doing to clarina, the _diva_ of the day. the second act would certainly
+be magnificent.
+
+the egyptian prince and his father are on the stage, said the duchess.
+they have yielded once more, though insulting the hebrews, but they
+are trembling with rage. the father congratulates himself on his sons
+approaching marriage, and the son is in despair at this fresh obstacle,
+though it only increases his love, to which everything is opposed.
+genovese and carthagenova are singing admirably. as you see, the tenor
+is making his peace with the house. how well he brings out the beauty of
+the music! the phrase given out by the son on the tonic, and repeated by
+the father on the dominant, is all in character with the simple, serious
+scheme which prevails throughout the score; the sobriety of it makes the
+endless variety of the music all the more wonderful. all egypt is there.
+
+i do not believe that there is in modern music a composition more
+perfectly noble. the solemn and majestic paternity of a king is fully
+expressed in that magnificent theme, in harmony with the grand style
+that stamps the opera throughout. the idea of a pharaohs son pouring
+out his sorrows on his fathers bosom could surely not be more admirably
+represented than in this grand imagery. do you not feel a sense of the
+splendor we are wont to attribute to that monarch of antiquity?
+
+it is indeed sublime music, said the frenchman.
+
+the air _pace mia smarrita_, which the queen will now sing, is one of
+those _bravura_ songs which every composer is compelled to introduce,
+though they mar the general scheme of the work; but an opera would as
+often as not never see the light, if the prima donnas vanity were not
+duly flattered. still, this musical sop is so fine in itself that it
+is performed as written, on every stage; it is so brilliant that the
+leading lady does not substitute her favorite show piece, as is very
+commonly done in operas.
+
+and now comes the most striking movement in the score: the duet between
+osiride and elcia in the subterranean chamber where he has hidden her to
+keep her from the departing israelites, and to fly with her himself from
+egypt. the lovers are then intruded on by aaron, who has been to warn
+amalthea, and we get the grandest of all quartettes: _mi manca la voce,
+mi sento morire_. this is one of those masterpieces that will survive
+in spite of time, that destroyer of fashion in music, for it speaks the
+language of the soul which can never change. mozart holds his own by
+the famous _finale_ to _don giovanni_; marcello, by his psalm, _coeli
+enarrant gloriam dei_; cimarosa, by the air _pria che spunti_; beethoven
+by his c minor symphony; pergolesi, by his _stabat mater_; rossini will
+live by _mi manca la voce_. what is most to be admired in rossini is his
+command of variety to form; to produce the effect here required, he has
+had recourse to the old structure of the canon in unison, to bring
+the voices in, and merge them in the same melody. as the form of these
+sublime melodies was new, he set them in an old frame; and to give it
+the more relief he has silenced the orchestra, accompanying the voices
+with the harps alone. it is impossible to show greater ingenuity of
+detail, or to produce a grander general effect.--dear me! again an
+outbreak! said the duchess.
+
+genovese, who had sung his duet with carthagenova so well, was
+caricaturing himself now that la tinti was on the stage. from a great
+singer he sank to the level of the most worthless chorus singer.
+
+the most formidable uproar arose that had ever echoed to the roof of the
+_fenice_. the commotion only yielded to clarina, and she, furious at the
+difficulties raised by genoveses obstinacy, sang _mi manca la voce_ as
+it will never be sung again. the enthusiasm was tremendous; the audience
+forgot their indignation and rage in pleasure that was really acute.
+
+she floods my soul with purple glow! said capraja, waving his hand in
+benediction at la _diva_ tinti.
+
+heaven send all its blessings on your head! cried a gondolier.
+
+pharaoh will now revoke his commands, said the duchess, while the
+commotion in the pit was calming down. moses will overwhelm him, even
+on his throne, by declaring the death of every first-born son in egypt,
+singing that strain of vengeance which augurs thunders from heaven,
+while above it the hebrew clarions ring out. but you must clearly
+understand that this air is by pacini; carthagenova introduces it
+instead of that by rossini. this air, _paventa_, will no doubt hold
+its place in the score; it gives a bass too good an opportunity for
+displaying the quality of his voice, and expression here will carry the
+day rather than science. however, the air is full of magnificent menace,
+and it is possible that we may not be long allowed to hear it.
+
+a thunder of clapping and _bravos_ hailed the song, followed by deep and
+cautious silence; nothing could be more significant or more thoroughly
+venetian than the outbreak and its sudden suppression.
+
+i need say nothing of the coronation march announcing the enthronement
+of osiride, intended by the king as a challenge to moses; to hear it
+is enough. their famous beethoven has written nothing grander. and this
+march, full of earthly pomp, contrasts finely with the march of the
+israelites. compare them, and you will see that the music is full of
+purpose.
+
+elcia declares her love in the presence of the two hebrew leaders, and
+then renounces it in the fine _aria_, _porge la destra amata_. (place
+your beloved hand.) ah! what anguish! only look at the house!
+
+the pit was shouting _bravo_, when genovese left the stage.
+
+now, free from her deplorable lover, we shall hear tinti sing,
+_o desolata elcia_--the tremendous _cavatina_ expressive of love
+disapproved by god.
+
+where art thou, rossini? cried cataneo. if he could but hear the
+music created by his genius so magnificently performed, he went on.
+is not clarina worthy of him? he asked capraja. to give life to those
+notes by such gusts of flame, starting from the lungs and feeding in
+the air on some unknown matter which our ears inhale, and which bears us
+heavenwards in a rapture of love, she must be divine!
+
+she is like the gorgeous indian plant, which deserting the earth
+absorbs invisible nourishment from the atmosphere, and sheds from
+its spiral white blossom such fragrant vapors as fill the brain with
+dreams, replied capraja.
+
+on being recalled, la tinti appeared alone. she was received with a
+storm of applause; a thousand kisses were blown to her from finger-tips;
+she was pelted with roses, and a wreath was made of the flowers snatched
+from the ladies caps, almost all sent out from paris.
+
+the _cavatina_ was encored.
+
+how eagerly capraja, with his passion for embellishments, must have
+looked forward to this air, which derives all its value from execution,
+ remarked massimilla. here rossini has, so to speak, given the
+reins over to the singers fancy. her _cadenzas_ and her feeling
+are everything. with a poor voice or inferior execution, it would be
+nothing--the throat is responsible for the effects of this _aria_.
+
+the singer has to express the most intense anguish,--that of a woman
+who sees her lover dying before her very eyes. la tinti makes the house
+ring with her highest notes; and rossini, to leave pure singing free to
+do its utmost, has written it in the simplest, clearest style. then,
+as a crowning effort, he has composed those heartrending musical cries:
+_tormenti! affanni! smanie!_ what grief, what anguish, in those runs.
+and la tinti, you see, has quite carried the house off its feet.
+
+the frenchman, bewildered by this adoring admiration throughout a vast
+theatre for the source of its delight, here had a glimpse of genuine
+italian nature. but neither the duchess nor the two young men paid any
+attention to the ovation. clarina began again.
+
+the duchess feared that she was seeing her emilio for the last time. as
+to the prince: in the presence of the duchess, the sovereign divinity
+who lifted him to the skies, he had forgotten where he was, he no longer
+heard the voice of the woman who had initiated him into the mysteries of
+earthly pleasure, for deep dejection made his ears tingle with a chorus
+of plaintive voices, half-drowned in a rushing noise as of pouring rain.
+
+vendramin saw himself in an ancient venetian costume, looking on at the
+ceremony of the _bucentaur_. the frenchman, who plainly discerned
+that some strange and painful mystery stood between the prince and the
+duchess, was racking his brain with shrewd conjecture to discover what
+it could be.
+
+the scene had changed. in front of a fine picture, representing
+the desert and the red sea, the egyptians and hebrews marched and
+countermarched without any effect on the feelings of the four persons
+in the duchess box. but when the first chords on the harps preluded
+the hymn of the delivered israelites, the prince and vendramin rose and
+stood leaning against the opposite sides of the box, and the duchess,
+resting her elbow on the velvet ledge, supported her head on her left
+hand.
+
+the frenchman, understanding from this little stir, how important this
+justly famous chorus was in the opinion of the house, listened with
+devout attention.
+
+the audience, with one accord, shouted for its repetition.
+
+i feel as if i were celebrating the liberation of italy, thought a
+milanese.
+
+such music lifts up bowed heads, and revives hope in the most torpid,
+ said a man from the romagna.
+
+in this scene, said massimilla, whose emotion was evident, science is
+set aside. inspiration, alone, dictated this masterpiece; it rose from
+the composers soul like a cry of love! as to the accompaniment, it
+consists of the harps; the orchestra appears only at the last repetition
+of that heavenly strain. rossini can never rise higher than in this
+prayer; he will do as good work, no doubt, but never better: the sublime
+is always equal to itself; but this hymn is one of the things that will
+always be sublime. the only match for such a conception might be found
+in the psalms of the great marcello, a noble venetian, who was to music
+what giotto was to painting. the majesty of the phrase, unfolding itself
+with episodes of inexhaustible melody, is comparable with the finest
+things ever invented by religious writers.
+
+how simple is the structure! moses opens the attack in g minor, ending
+in a cadenza in b flat which allows the chorus to come in, _pianissimo_
+at first, in b flat, returning by modulations to g minor. this splendid
+treatment of the voices, recurring three times, ends in the last strophe
+with a _stretto_ in g major of absolutely overpowering effect. we feel
+as though this hymn of a nation released from slavery, as it mounts to
+heaven, were met by kindred strains falling from the higher spheres. the
+stars respond with joy to the ecstasy of liberated mortals. the rounded
+fulness of the rhythm, the deliberate dignity of the graduations leading
+up to the outbursts of thanksgiving, and its slow return raise heavenly
+images in the soul. could you not fancy that you saw heaven open, angels
+holding sistrums of gold, prostrate seraphs swinging their fragrant
+censers, and the archangels leaning on the flaming swords with which
+they have vanquished the heathen?
+
+the secret of this music and its refreshing effect on the soul is, i
+believe, that of a very few works of human genius: it carries us for
+the moment into the infinite; we feel it within us; we see it, in
+those melodies as boundless as the hymns sung round the throne of god.
+rossinis genius carries us up to prodigious heights, whence we look
+down on a promised land, and our eyes, charmed by heavenly light, gaze
+into limitless space. elcias last strain, having almost recovered from
+her grief, brings a feeling of earth-born passions into this hymn of
+thanksgiving. this, again, is a touch of genius.
+
+ay, sing! exclaimed the duchess, as she listened to the last stanza
+with the same gloomy enthusiasm as the singers threw into it. sing! you
+are free!
+
+the words were spoken in a voice that startled the physician. to
+divert massimilla from her bitter reflections, while the excitement
+of recalling la tinti was at its height, he engaged her in one of the
+arguments in which the french excel.
+
+madame, said he, in explaining this grand work--which i shall come to
+hear again to-morrow with a fuller comprehension, thanks to you, of its
+structure and its effect--you have frequently spoken of the color of the
+music, and of the ideas it depicts; now i, as an analyst, a materialist,
+must confess that i have always rebelled against the affectation of
+certain enthusiasts, who try to make us believe that music paints with
+tones. would it not be the same thing if raphaels admirers spoke of his
+singing with colors?
+
+in the language of musicians, replied the duchess, _painting_ is
+arousing certain associations in our souls, or certain images in our
+brain; and these memories and images have a color of their own; they are
+sad or cheerful. you are battling for a word, that is all. according
+to capraja, each instrument has its task, its mission, and appeals to
+certain feelings in our souls. does a pattern in gold on a blue ground
+produce the same sensations in you as a red pattern on black or green?
+in these, as in music, there are no figures, no expression of
+feeling; they are purely artistic, and yet no one looks at them with
+indifference. has not the oboe the peculiar tone that we associate
+with the open country, in common with most wind instruments? the brass
+suggests martial ideas, and rouses us to vehement or even somewhat
+furious feelings. the strings, for which the material is derived from
+the organic world, seem to appeal to the subtlest fibres of our nature;
+they go to the very depths of the heart. when i spoke of the gloomy hue,
+and the coldness of the tones in the introduction to _mose_, was i
+not fully as much justified as your critics are when they speak of the
+color in a writers language? do you not acknowledge that there is a
+nervous style, a pallid style, a lively, and a highly-colored style? art
+can paint with words, sounds, colors, lines, form; the means are many;
+the result is one.
+
+an italian architect might give us the same sensation that is produced
+in us by the introduction to _mose_, by constructing a walk through
+dark, damp avenues of tall, thick trees, and bringing us out suddenly
+in a valley full of streams, flowers, and mills, and basking in the
+sunshine. in their greatest moments the arts are but the expression of
+the grand scenes of nature.
+
+i am not learned enough to enlarge on the philosophy of music; go and
+talk to capraja; you will be amazed at what he can tell you. he will say
+that every instrument that depends on the touch or breath of man for its
+expression and length of note, is superior as a vehicle of expression
+to color, which remains fixed, or speech, which has its limits. the
+language of music is infinite; it includes everything; it can express
+all things.
+
+now do you see wherein lies the pre-eminence of the work you have just
+heard? i can explain it in a few words. there are two kinds of music:
+one, petty, poor, second-rate, always the same, based on a hundred or
+so of phrases which every musician has at his command, a more or less
+agreeable form of babble which most composers live in. we listen to
+their strains, their would-be melodies, with more or less satisfaction,
+but absolutely nothing is left in our mind; by the end of the century
+they are forgotten. but the nations, from the beginning of time till
+our own day, have cherished as a precious treasure certain strains which
+epitomize their instincts and habits; i might almost say their history.
+listen to one of these primitive tones,--the gregorian chant,
+for instance, is, in sacred song, the inheritance of the earliest
+peoples,--and you will lose yourself in deep dreaming. strange and
+immense conceptions will unfold within you, in spite of the extreme
+simplicity of these rudimentary relics. and once or twice in a
+century--not oftener, there arises a homer of music, to whom god grants
+the gift of being ahead of his age; men who can compact melodies full of
+accomplished facts, pregnant with mighty poetry. think of this; remember
+it. the thought, repeated by you, will prove fruitful; it is melody, not
+harmony, that can survive the shocks of time.
+
+the music of this oratorio contains a whole world of great and sacred
+things. a work which begins with that introduction and ends with that
+prayer is immortal--as immortal as the easter hymn, _o filii et filioe_,
+as the _dies iroe_ of the dead, as all the songs which in every land
+have outlived its splendor, its happiness, and its ruined prosperity.
+
+the tears the duchess wiped away as she quitted her box showed plainly
+that she was thinking of the venice that is no more; and vendramin
+kissed her hand.
+
+the performance ended with the most extraordinary chaos of noises: abuse
+and hisses hurled at genovese and a fit of frenzy in praise of la tinti.
+it was a long time since the venetians had had so lively an evening.
+they were warmed and revived by that antagonism which is never lacking
+in italy, where the smallest towns always throve on the antagonistic
+interests of two factions: the geulphs and ghibellines everywhere; the
+capulets and the montagues at verona; the geremei and the lomelli at
+bologna; the fieschi and the doria at genoa; the patricians and the
+populace, the senate and tribunes of the roman republic; the pazzi and
+the medici at florence; the sforza and the visconti at milan; the orsini
+and the colonna at rome,--in short, everywhere and on every occasion
+there has been the same impulse.
+
+out in the streets there were already _genovists_ and _tintists_.
+
+the prince escorted the duchess, more depressed than ever by the loves
+of osiride; she feared some similar disaster to her own, and could only
+cling to emilio, as if to keep him next her heart.
+
+remember your promise, said vendramin. i will wait for you in the
+square.
+
+
+
+vendramin took the frenchmans arm, proposing that they should walk
+together on the piazza san marco while awaiting the prince.
+
+i shall be only too glad if he should not come, he added.
+
+this was the text for a conversation between the two, vendramin
+regarding it as a favorable opportunity for consulting the physician,
+and telling him the singular position emilio had placed himself in.
+
+the frenchman did as every frenchman does on all occasions: he laughed.
+vendramin, who took the matter very seriously, was angry; but he was
+mollified when the disciple of majendie, of cuvier, of dupuytren, and
+of brossais assured him that he believed he could cure the prince of his
+high-flown raptures, and dispel the heavenly poetry in which he shrouded
+massimilla as in a cloud.
+
+a happy form of misfortune! said he. the ancients, who were not such
+fools as might be inferred from their crystal heaven and their ideas on
+physics, symbolized in the fable of ixion the power which nullifies the
+body and makes the spirit lord of all.
+
+vendramin and the doctor presently met genovese, and with him the
+fantastic capraja. the melomaniac was anxious to learn the real cause
+of the tenors _fiasco_. genovese, the question being put to him, talked
+fast, like all men who can intoxicate themselves by the ebullition of
+ideas suggested to them by a passion.
+
+yes, signori, i love her, i worship her with a frenzy of which i never
+believed myself capable, now that i am tired of women. women play the
+mischief with art. pleasure and work cannot be carried on together.
+clara fancies that i was jealous of her success, that i wanted to
+hinder her triumph at venice; but i was clapping in the side-scenes, and
+shouted _diva_ louder than any one in the house.
+
+but even that, said cataneo, joining them, does not explain why, from
+being a divine singer, you should have become one of the most execrable
+performers who ever piped air through his larynx, giving none of the
+charm even which enchants and bewitches us.
+
+i! said the singer. i a bad singer! i who am the equal of the
+greatest performers!
+
+by this time, the doctor and vendramin, capraja, cataneo, and genovese
+had made their way to the piazzetta. it was midnight. the glittering
+bay, outlined by the churches of san giorgio and san paulo at the end
+of the giudecca, and the beginning of the grand canal, that opens so
+mysteriously under the _dogana_ and the church of santa maria della
+salute, lay glorious and still. the moon shone on the barques along the
+riva de schiavoni. the waters of venice, where there is no tide, looked
+as if they were alive, dancing with a myriad spangles. never had a
+singer a more splendid stage.
+
+genovese, with an emphatic flourish, seemed to call heaven and earth to
+witness; and then, with no accompaniment but the lapping waves, he sang
+_ombra adorata_, crescentinis great air. the song, rising up between
+the statues of san teodoro and san giorgio, in the heart of sleeping
+venice lighted by the moon, the words, in such strange harmony with the
+scene, and the melancholy passion of the singer, held the italians and
+the frenchman spellbound.
+
+at the very first notes, vendramins face was wet with tears. capraja
+stood as motionless as one of the statues in the ducal palace. cataneo
+seemed moved to some feeling. the frenchman, taken by surprise, was
+meditative, like a man of science in the presence of a phenomenon that
+upsets all his fundamental axioms. these four minds, all so different,
+whose hopes were so small, who believed in nothing for themselves
+or after themselves, who regarded their own existence as that of a
+transient and a fortuitous being,--like the little life of a plant or a
+beetle,--had a glimpse of heaven. never did music more truly merit the
+epithet divine. the consoling notes, as they were poured out, enveloped
+their souls in soft and soothing airs. on these vapors, almost visible,
+as it seemed to the listeners, like the marble shapes about them in the
+silver moonlight, angels sat whose wings, devoutly waving, expressed
+adoration and love. the simple, artless melody penetrated to the soul as
+with a beam of light. it was a holy passion!
+
+but the singers vanity roused them from their emotion with a terrible
+shock.
+
+now, am i a bad singer? he exclaimed, as he ended.
+
+his audience only regretted that the instrument was not a thing of
+heaven. this angelic song was then no more than the outcome of a mans
+offended vanity! the singer felt nothing, thought nothing, of the pious
+sentiments and divine images he could create in others,--no more, in
+fact, than paganinis violin knows what the player makes it utter. what
+they had seen in fancy was venice lifting its shroud and singing--and it
+was merely the result of a tenors _fiasco_!
+
+can you guess the meaning of such a phenomenon? the frenchman asked of
+capraja, wishing to make him talk, as the duchess had spoken of him as a
+profound thinker.
+
+what phenomenon? said capraja.
+
+genovese--who is admirable in the absence of la tinti, and when he
+sings with her is a braying ass.
+
+he obeys an occult law of which one of your chemists might perhaps give
+you the mathematical formula, and which the next century will no doubt
+express in a statement full of _x_, _a_, and _b_, mixed up with little
+algebraic signs, bars, and quirks that give me the colic; for the finest
+conceptions of mathematics do not add much to the sum total of our
+enjoyment.
+
+when an artist is so unfortunate as to be full of the passion he wishes
+to express, he cannot depict it because he is the thing itself instead
+of its image. art is the work of the brain, not of the heart. when you
+are possessed by a subject you are a slave, not a master; you are like a
+king besieged by his people. too keen a feeling, at the moment when you
+want to represent that feeling, causes an insurrection of the senses
+against the governing faculty.
+
+might we not convince ourselves of this by some further experiment?
+ said the doctor.
+
+cataneo, you might bring your tenor and the prima donna together
+again, said capraja to his friend.
+
+well, gentlemen, said the duke, come to sup with me. we ought to
+reconcile the tenor and la clarina; otherwise the season will be ruined
+in venice.
+
+the invitation was accepted.
+
+gondoliers! called cataneo.
+
+one minute, said vendramin. memmi is waiting for me at florians; i
+cannot leave him to himself. we must make him tipsy to-night, or he will
+kill himself to-morrow.
+
+_corpo santo!_ exclaimed the duke. i must keep that young fellow
+alive, for the happiness and future prospects of my race. i will invite
+him, too.
+
+they all went back to florians, where the assembled crowd were holding
+an eager and stormy discussion to which the tenors arrival put an end.
+in one corner, near a window looking out on the colonnade, gloomy, with
+a fixed gaze and rigid attitude, emilio was a dismal image of despair.
+
+that crazy fellow, said the physician, in french, to vendramin, does
+not know what he wants. here is a man who can make of a massimilla doni
+a being apart from the rest of creation, possessing her in heaven, amid
+ideal splendor such as no power on earth can make real. he can behold
+his mistress for ever sublime and pure, can always hear within him what
+we have just heard on the seashore; can always live in the light of
+a pair of eyes which create for him the warm and golden glow that
+surrounds the virgin in titians assumption,--after raphael had invented
+it or had it revealed to him for the transfiguration,--and this man only
+longs to smirch the poem.
+
+by my advice he must needs combine his sensual joys and his heavenly
+adoration in one woman. in short, like all the rest of us, he will have
+a mistress. he had a divinity, and the wretched creature insists on her
+being a female! i assure you, monsieur, he is resigning heaven. i will
+not answer for it that he may not ultimately die of despair.
+
+o ye womens faces, delicately outlined in a pure and radiant oval,
+reminding us of those creations of art where it has most successfully
+competed with nature! divine feet that cannot walk, slender forms
+that an earthly breeze would break, shapes too frail ever to conceive,
+virgins that we dreamed of as we grew out of childhood, admired in
+secret, and adored without hope, veiled in the beams of some unwearying
+desire,--maids whom we may never see again, but whose smile remains
+supreme in our life, what hog of epicurus could insist on dragging you
+down to the mire of this earth!
+
+the sun, monsieur, gives light and heat to the world, only because it
+is at a distance of thirty-three millions of leagues. get nearer to
+it, and science warns you that it is not really hot or luminous,--for
+science is of some use, he added, looking at capraja.
+
+not so bad for a frenchman and a doctor, said capraja, patting the
+foreigner on the shoulder. you have in those words explained the
+thing which europeans least understand in all dante: his beatrice. yes,
+beatrice, that ideal figure, the queen of the poets fancies, chosen
+above all the elect, consecrated with tears, deified by memory, and for
+ever young in the presence of ineffectual desire!
+
+prince, said the duke to emilio, come and sup with me. you cannot
+refuse the poor neapolitan whom you have robbed both of his wife and of
+his mistress.
+
+this broad neapolitan jest, spoken with an aristocratic good manner,
+made emilio smile; he allowed the duke to take his arm and lead him
+away.
+
+cataneo had already sent a messenger to his house from the cafe.
+
+as the palazzo memmi was on the grand canal, not far from santa maria
+della salute, the way thither on foot was round by the rialto, or it
+could be reached in a gondola. the four guests would not separate and
+preferred to walk; the dukes infirmities obliged him to get into his
+gondola.
+
+at about two in the morning anybody passing the memmi palace would have
+seen light pouring out of every window across the grand canal, and have
+heard the delightful overture to _semiramide_ performed at the foot of
+the steps by the orchestra of the _fenice_, as a serenade to la tinti.
+
+the company were at supper in the second floor gallery. from the balcony
+la tinti in return sang almavidas _buona sera_ from _il barbiere_,
+while the dukes steward distributed payment from his master to the
+poor artists and bid them to dinner the next day, such civilities as are
+expected of grand signors who protect singers, and of fine ladies who
+protect tenors and basses. in these cases there is nothing for it but to
+marry all the _corps de theatre_.
+
+cataneo did things handsomely; he was the managers banker, and this
+season was costing him two thousand crowns.
+
+he had had all the palace furnished, had imported a french cook, and
+wines of all lands. so the supper was a regal entertainment.
+
+the prince, seated next la tinti, was keenly alive, all through the
+meal, to what poets in every language call the darts of love. the
+transcendental vision of massimilla was eclipsed, just as the idea
+of god is sometimes hidden by clouds of doubt in the consciousness of
+solitary thinkers. clarina thought herself the happiest woman in
+the world as she perceived emilio was in love with her. confident of
+retaining him, her joy was reflected in her features, her beauty was so
+dazzling that the men, as they lifted their glasses, could not resist
+bowing to her with instinctive admiration.
+
+the duchess is not to compare with la tinti, said the frenchman,
+forgetting his theory under the fire of the sicilians eyes.
+
+the tenor ate and drank languidly; he seemed to care only to identify
+himself with the prima donnas life, and had lost the hearty sense of
+enjoyment which is characteristic of italian men singers.
+
+come, signorina, said the duke, with an imploring glance at clarina,
+and you, _caro prima uomo_, he added to genovese, unite your voices
+in one perfect sound. let us have the c of _qual portento_, when light
+appears in the oratorio we have just heard, to convince my old friend
+capraja of the superiority of unison to any embellishment.
+
+i will carry her off from that prince she is in love with; for she
+adores him--it stares me in the face! said genovese to himself.
+
+what was the amazement of the guests who had heard genovese out of
+doors, when he began to bray, to coo, mew, squeal, gargle, bellow,
+thunder, bark, shriek, even produce sounds which could only be described
+as a hoarse rattle,--in short, go through an incomprehensible farce,
+while his face was transfigured with rapturous expression like that of
+a martyr, as painted by zurbaran or murillo, titian or raphael. the
+general shout of laughter changed to almost tragical gravity when they
+saw that genovese was in utter earnest. la tinti understood that her
+companion was in love with her, and had spoken the truth on the stage,
+the land of falsehood.
+
+_poverino!_ she murmured, stroking the princes hand under the table.
+
+by all that is holy! cried capraja, will you tell me what score you
+are reading at this moment--murdering rossini? pray inform us what you
+are thinking about, what demon is struggling in your throat.
+
+a demon! cried genovese, say rather the god of music. my eyes,
+like those of saint-cecilia, can see angels, who, pointing with their
+fingers, guide me along the lines of the score which is written in
+notes of fire, and i am trying to keep up with them. per dio! do you not
+understand? the feeling that inspires me has passed into my being; it
+fills my heart and my lungs; my soul and throat have but one life.
+
+have you never, in a dream, listened to the most glorious strains, the
+ideas of unknown composers who have made use of pure sound as nature
+has hidden it in all things,--sound which we call forth, more or less
+perfectly, by the instruments we employ to produce masses of various
+color; but which in those dream-concerts are heard free from the
+imperfections of the performers who cannot be all feeling, all soul? and
+i, i give you that perfection, and you abuse me!
+
+you are as mad at the pit of the _fenice_, who hissed me! i scorned the
+vulgar crowd for not being able to mount with me to the heights whence
+we reign over art, and i appeal to men of mark, to a frenchman--why, he
+is gone!
+
+half an hour ago, said vendramin.
+
+that is a pity. he, perhaps, would have understood me, since italians,
+lovers of art, do not--
+
+on you go! said capraja, with a smile, and tapping lightly on the
+tenors head. ride off on the divine ariostos hippogriff; hunt down
+your radiant chimera, musical visionary as you are!
+
+in point of fact, all the others, believing that genovese was drunk, let
+him talk without listening to him. capraja alone had understood the case
+put by the french physician.
+
+
+
+while the wine of cyprus was loosening every tongue, and each one was
+prancing on his favorite hobby, the doctor, in a gondola, was waiting
+for the duchess, having sent her a note written by vendramin. massimilla
+appeared in her night wrapper, so much had she been alarmed by the tone
+of the princes farewell, and so startled by the hopes held out by the
+letter.
+
+madame, said the frenchman, as he placed her in a seat and desired the
+gondoliers to start, at this moment prince emilios life is in danger,
+and you alone can save him.
+
+what is to be done? she asked.
+
+ah! can you resign yourself to play a degrading part--in spite of the
+noblest face to be seen in italy? can you drop from the blue sky where
+you dwell, into the bed of a courtesan? in short, can you, an angel of
+refinement, of pure and spotless beauty, condescend to imagine what the
+love must be of a tinti--in her room, and so effectually as to deceive
+the ardor of emilio, who is indeed too drunk to be very clear-sighted?
+
+is that all? said she, with a smile that betrayed to the frenchman a
+side he had not as yet perceived of the delightful nature of an italian
+woman in love. i will out-do la tinti, if need be, to save my friends
+life.
+
+and you will thus fuse into one two kinds of love, which he sees as
+distinct--divided by a mountain of poetic fancy, that will melt away
+like the snow on a glacier under the beams of the midsummer sun.
+
+i shall be eternally your debtor, said the duchess, gravely.
+
+when the french doctor returned to the gallery, where the orgy had
+by this time assumed the stamp of venetian frenzy, he had a look of
+satisfaction which the prince, absorbed by la tinti, failed to observe;
+he was promising himself a repetition of the intoxicating delights he
+had known. la tinti, a true sicilian, was floating on the tide of a
+fantastic passion on the point of being gratified.
+
+the doctor whispered a few words to vendramin, and la tinti was uneasy.
+
+what are you plotting? she inquired of the princes friend.
+
+are you kind-hearted? said the doctor in her ear, with the sternness
+of an operator.
+
+the words pierced to her comprehension like a dagger-thrust to her
+heart.
+
+it is to save emilios life, added vendramin.
+
+come here, said the doctor to clarina.
+
+the hapless singer rose and went to the other end of the table where,
+between vendramin and the frenchman, she looked like a criminal between
+the confessor and the executioner.
+
+she struggled for a long time, but yielded at last for love of emilio.
+
+the doctors last words were:
+
+and you must cure genovese!
+
+she spoke a word to the tenor as she went round the table. she returned
+to the prince, put her arm round his neck and kissed his hair with an
+expression of despair which struck vendramin and the frenchman, the
+only two who had their wits about them, then she vanished into her room.
+emilio, seeing genovese leave the table, while cataneo and capraja were
+absorbed in a long musical discussion, stole to the door of the bedroom,
+lifted the curtain, and slipped in, like an eel into the mud.
+
+but you see, cataneo, said capraja, you have exacted the last drop
+of physical enjoyment, and there you are, hanging on a wire like a
+cardboard harlequin, patterned with scars, and never moving unless the
+string is pulled of a perfect unison.
+
+and you, capraja, who have squeezed ideas dry, are not you in the same
+predicament? do you not live riding the hobby of a _cadenza_?
+
+i? i possess the whole world! cried capraja, with a sovereign gesture
+of his hand.
+
+and i have devoured it! replied the duke.
+
+they observed that the physician and vendramin were gone, and that they
+were alone.
+
+
+
+next morning, after a night of perfect happiness, the princes sleep
+was disturbed by a dream. he felt on his heart the trickle of pearls,
+dropped there by an angel; he woke, and found himself bathed in the
+tears of massimilla doni. he was lying in her arms, and she gazed at him
+as he slept.
+
+that evening, at the _fenice_,--though la tinti had not allowed him to
+rise till two in the afternoon, which is said to be very bad for a
+tenor voice,--genovese sang divinely in his part in _semiramide_. he was
+recalled with la tinti, fresh crowns were given, the pit was wild with
+delight; the tenor no longer attempted to charm the prima donna by
+angelic methods.
+
+vendramin was the only person whom the doctor could not cure. love for
+a country that has ceased to be is a love beyond curing. the young
+venetian, by dint of living in his thirteenth century republic, and
+in the arms of that pernicious courtesan called opium, when he
+found himself in the work-a-day world to which reaction brought him,
+succumbed, pitied and regretted by his friends.
+
+no, how shall the end of this adventure be told--for it is too
+disastrously domestic. a word will be enough for the worshipers of the
+ideal.
+
+the duchess was expecting an infant.
+
+the peris, the naiads, the fairies, the sylphs of ancient legend, the
+muses of greece, the marble virgins of the certosa at pavia, the day and
+night of michael angelo, the little angels which bellini was the first
+to put at the foot of his church pictures, and which raphael painted so
+divinely in his virgin with the donor, and the madonna who shivers at
+dresden, the lovely maidens by orcagna in the church of san-michele,
+at florence, the celestial choir round the tomb in saint-sebaldus, at
+nuremberg, the virgins of the duomo, at milan, the whole population of a
+hundred gothic cathedrals, all the race of beings who burst their
+mould to visit you, great imaginative artists--all these angelic and
+disembodied maidens gathered round massimillas bed, and wept!
+
+
+paris, may 25th, 1839.
+
+
+
+
+addendum
+
+the following personages appear in other stories of the human comedy.
+
+     cane, marco-facino
+       facino cane
+
+     tinti, clarina
+       albert savarus
+
+     varese, emilio memmi, prince of
+       gambara
+
+     varese, princess of
+       gambara
+
+     vendramini, marco
+       facino cane
+
+     victorine
+       lost illusions
+       letters of two brides
+       gaudissart ii
+
+
+
+
+
+
+end of the project gutenberg ebook of massimilla doni, by honore de balzac
+
+*** end of this project gutenberg ebook massimilla doni ***
+
+***** this file should be named 1811-0.txt or 1811-0.zip *****
+this and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/8/1/1811/
+
+produced by john bickers, and dagny
+
+updated editions will replace the previous one--the old editions
+will be renamed.
+
+creating the works from public domain print editions means that no
+one owns a united states copyright in these works, so the foundation
+(and you!) can copy and distribute it in the united states without
+permission and without paying copyright royalties.  special rules,
+set forth in the general terms of use part of this license, apply to
+copying and distributing project gutenberg-tm electronic works to
+protect the project gutenberg-tm concept and trademark.  project
+gutenberg is a registered trademark, and may not be used if you
+charge for the ebooks, unless you receive specific permission.  if you
+do not charge anything for copies of this ebook, complying with the
+rules is very easy.  you may use this ebook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  they may be modified and printed and given away--you may do
+practically anything with public domain ebooks.  redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** start: full license ***
+
+the full project gutenberg license
+please read this before you distribute or use this work
+
+to protect the project gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase project
+gutenberg), you agree to comply with all the terms of the full project
+gutenberg-tm license (available with this file or online at
+http://gutenberg.org/license).
+
+
+section 1.  general terms of use and redistributing project gutenberg-tm
+electronic works
+
+1.a.  by reading or using any part of this project gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  if you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of project gutenberg-tm electronic works in your possession.
+if you paid a fee for obtaining a copy of or access to a project
+gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.e.8.
+
+1.b.  project gutenberg is a registered trademark.  it may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  there are a few
+things that you can do with most project gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  see
+paragraph 1.c below.  there are a lot of things you can do with project
+gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to project gutenberg-tm electronic
+works.  see paragraph 1.e below.
+
+1.c.  the project gutenberg literary archive foundation (the foundation
+ or pglaf), owns a compilation copyright in the collection of project
+gutenberg-tm electronic works.  nearly all the individual works in the
+collection are in the public domain in the united states.  if an
+individual work is in the public domain in the united states and you are
+located in the united states, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to project gutenberg
+are removed.  of course, we hope that you will support the project
+gutenberg-tm mission of promoting free access to electronic works by
+freely sharing project gutenberg-tm works in compliance with the terms of
+this agreement for keeping the project gutenberg-tm name associated with
+the work.  you can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full project
+gutenberg-tm license when you share it without charge with others.
+
+1.d.  the copyright laws of the place where you are located also govern
+what you can do with this work.  copyright laws in most countries are in
+a constant state of change.  if you are outside the united states, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other project
+gutenberg-tm work.  the foundation makes no representations concerning
+the copyright status of any work in any country outside the united
+states.
+
+1.e.  unless you have removed all references to project gutenberg:
+
+1.e.1.  the following sentence, with active links to, or other immediate
+access to, the full project gutenberg-tm license must appear prominently
+whenever any copy of a project gutenberg-tm work (any work on which the
+phrase project gutenberg appears, or with which the phrase project
+gutenberg is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+this ebook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  you may copy it, give it away or
+re-use it under the terms of the project gutenberg license included
+with this ebook or online at www.gutenberg.org
+
+1.e.2.  if an individual project gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the united states without paying any fees
+or charges.  if you are redistributing or providing access to a work
+with the phrase project gutenberg associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.e.1
+through 1.e.7 or obtain permission for the use of the work and the
+project gutenberg-tm trademark as set forth in paragraphs 1.e.8 or
+1.e.9.
+
+1.e.3.  if an individual project gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.e.1 through 1.e.7 and any additional
+terms imposed by the copyright holder.  additional terms will be linked
+to the project gutenberg-tm license for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.e.4.  do not unlink or detach or remove the full project gutenberg-tm
+license terms from this work, or any files containing a part of this
+work or any other work associated with project gutenberg-tm.
+
+1.e.5.  do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.e.1 with
+active links or immediate access to the full terms of the project
+gutenberg-tm license.
+
+1.e.6.  you may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  however, if you provide access to or
+distribute copies of a project gutenberg-tm work in a format other than
+plain vanilla ascii or other format used in the official version
+posted on the official project gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original plain vanilla ascii or other
+form.  any alternate format must include the full project gutenberg-tm
+license as specified in paragraph 1.e.1.
+
+1.e.7.  do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any project gutenberg-tm works
+unless you comply with paragraph 1.e.8 or 1.e.9.
+
+1.e.8.  you may charge a reasonable fee for copies of or providing
+access to or distributing project gutenberg-tm electronic works provided
+that
+
+- you pay a royalty fee of 20% of the gross profits you derive from
+     the use of project gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  the fee is
+     owed to the owner of the project gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     project gutenberg literary archive foundation.  royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  royalty payments should be clearly marked as such and
+     sent to the project gutenberg literary archive foundation at the
+     address specified in section 4, information about donations to
+     the project gutenberg literary archive foundation.
+
+- you provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full project gutenberg-tm
+     license.  you must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     project gutenberg-tm works.
+
+- you provide, in accordance with paragraph 1.f.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- you comply with all other terms of this agreement for free
+     distribution of project gutenberg-tm works.
+
+1.e.9.  if you wish to charge a fee or distribute a project gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the project gutenberg literary archive foundation and michael
+hart, the owner of the project gutenberg-tm trademark.  contact the
+foundation as set forth in section 3 below.
+
+1.f.
+
+1.f.1.  project gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the project gutenberg-tm
+collection.  despite these efforts, project gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+defects, such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.f.2.  limited warranty, disclaimer of damages - except for the right
+of replacement or refund described in paragraph 1.f.3, the project
+gutenberg literary archive foundation, the owner of the project
+gutenberg-tm trademark, and any other party distributing a project
+gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  you agree that you have no remedies for negligence, strict
+liability, breach of warranty or breach of contract except those
+provided in paragraph f3.  you agree that the foundation, the
+trademark owner, and any distributor under this agreement will not be
+liable to you for actual, direct, indirect, consequential, punitive or
+incidental damages even if you give notice of the possibility of such
+damage.
+
+1.f.3.  limited right of replacement or refund - if you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  if you
+received the work on a physical medium, you must return the medium with
+your written explanation.  the person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  if you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  if the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.f.4.  except for the limited right of replacement or refund set forth
+in paragraph 1.f.3, this work is provided to you as-is with no other
+warranties of any kind, express or implied, including but not limited to
+warranties of merchantibility or fitness for any purpose.
+
+1.f.5.  some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+if any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  the invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.f.6.  indemnity - you agree to indemnify and hold the foundation, the
+trademark owner, any agent or employee of the foundation, anyone
+providing copies of project gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of project gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any project gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+project gutenberg-tm work, and (c) any defect you cause.
+
+
+section  2.  information about the mission of project gutenberg-tm
+
+project gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  it exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching project gutenberg-tms
+goals and ensuring that the project gutenberg-tm collection will
+remain freely available for generations to come.  in 2001, the project
+gutenberg literary archive foundation was created to provide a secure
+and permanent future for project gutenberg-tm and future generations.
+to learn more about the project gutenberg literary archive foundation
+and how your efforts and donations can help, see sections 3 and 4
+and the foundation web page at http://www.pglaf.org.
+
+
+section 3.  information about the project gutenberg literary archive
+foundation
+
+the project gutenberg literary archive foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of mississippi and granted tax exempt status by the internal
+revenue service.  the foundations ein or federal tax identification
+number is 64-6221541.  its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  contributions to the project gutenberg
+literary archive foundation are tax deductible to the full extent
+permitted by u.s. federal laws and your states laws.
+
+the foundations principal office is located at 4557 melan dr. s.
+fairbanks, ak, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  its business office is located at
+809 north 1500 west, salt lake city, ut 84116, (801) 596-1887, email
+business@pglaf.org.  email contact links and up to date contact
+information can be found at the foundations web site and official
+page at http://pglaf.org
+
+for additional contact information:
+     dr. gregory b. newby
+     chief executive and director
+     gbnewby@pglaf.org
+
+
+section 4.  information about donations to the project gutenberg
+literary archive foundation
+
+project gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the irs.
+
+the foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the united
+states.  compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  we do not solicit donations in locations
+where we have not received written confirmation of compliance.  to
+send donations or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+while we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+international donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the united states.  u.s. laws alone swamp our small staff.
+
+please check the project gutenberg web pages for current donation
+methods and addresses.  donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+to donate, please visit: http://pglaf.org/donate
+
+
+section 5.  general information about project gutenberg-tm electronic
+works.
+
+professor michael s. hart is the originator of the project gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  for thirty years, he produced and distributed project
+gutenberg-tm ebooks with only a loose network of volunteer support.
+
+
+project gutenberg-tm ebooks are often created from several printed
+editions, all of which are confirmed as public domain in the u.s.
+unless a copyright notice is included.  thus, we do not necessarily
+keep ebooks in compliance with any particular paper edition.
+
+
+most people start at our web site which has the main pg search facility:
+
+     http://www.gutenberg.org
+
+this web site includes information about project gutenberg-tm,
+including how to make donations to the project gutenberg literary
+archive foundation, how to help produce our new ebooks, and how to
+subscribe to our email newsletter to hear about new ebooks.

@@ -1,0 +1,5875 @@
+the project gutenberg ebook, the duchess of padua, by oscar wilde
+
+
+this ebook is for the use of anyone anywhere in the united states and most
+other parts of the world at no cost and with almost no restrictions 
+whatsoever.  you may copy it, give it away or re-use it under the terms of
+the project gutenberg license included with this ebook or online at 
+www.gutenberg.org.  if you are not located in the united states, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+
+title: the duchess of padua
+       a play
+
+
+author: oscar wilde
+
+
+
+release date: october 26, 2014  [ebook #875]
+[this file was first posted on april 9, 1997]
+
+language: english
+
+character set encoding: utf-8
+
+
+***start of the project gutenberg ebook the duchess of padua***
+
+
+transcribed from the 1916 methuen and co. edition by david price, email
+ccx074@pglaf.org
+
+
+
+
+
+                                   the
+                             duchess of padua
+
+
+                                  a play
+
+                                    by
+                               oscar wilde
+
+                                * * * * *
+
+                            methuen & co. ltd.
+                           36 essex street w.c.
+                                  london
+
+                             _fifth edition_
+
+
+
+
+the persons of the play
+
+
+simone gesso, duke of padua
+
+beatrice, his wife
+
+andreas pollajuolo, cardinal of padua
+
+maffio petrucci, jeppo vitellozzo, taddeo bardi } gentlemen of the dukes
+household
+
+guido ferranti, a young man
+
+ascanio cristofano, his friend
+
+count moranzone, an old man
+
+bernardo cavalcanti, lord justice of padua
+
+hugo, the headsman
+
+lucy, a tire woman
+
+servants, citizens, soldiers, monks, falconers with their hawks and dogs,
+etc.
+
+                                * * * * *
+
+place: _padua_
+
+time: _the latter half of the sixteenth century_
+
+
+
+
+the scenes of the play
+
+act i.        _the market place of padua_ (25 _minutes_).
+act ii.       _room in the dukes palace_ (36 _minutes_).
+act iii.      _corridor in the dukes palace_ (29
+              _minutes_).
+act iv.       _the hall of justice_ (31 _minutes_).
+act v.        _the dungeon_ (25 _minutes_).
+
+         _style of architecture_: italian, gothic and romanesque.
+
+
+
+
+act i
+
+
+                                  scene
+
+_the market place of padua at noon_; _in the background is the great
+cathedral of padua_; _the architecture is romanesque_, _and wrought in
+black and white marbles_; _a flight of marble steps leads up to the
+cathedral door_; _at the foot of the steps are two large stone lions_;
+_the houses on each aide of the stage have coloured awnings from their
+windows_, _and are flanked by stone arcades_; _on the right of the stage
+is the public fountain_, _with a triton in green bronze blowing from a
+conch_; _around the fountain is a stone seat_; _the bell of the cathedral
+is ringing_, _and the citizens_, _men_, _women and children_, _are
+passing into the cathedral_.
+
+[_enter_ guido ferranti _and_ ascanio cristofano.]
+
+   now by my life, guido, i will go no farther; for if i walk another
+   step i will have no life left to swear by; this wild-goose errand of
+   yours!
+
+                                [_sits down on the step of the fountain_.]
+
+guido
+
+   i think it must be here.  [_goes up to passer-by and doffs his cap_.]
+   pray, sir, is this the market place, and that the church of santa
+   croce?  [_citizen bows_.]  i thank you, sir.
+
+ascanio
+
+   well?
+
+guido
+
+   ay! it is here.
+
+ascanio
+
+   i would it were somewhere else, for i see no wine-shop.
+
+guido
+
+   [_taking a letter from his pocket and reading it_.]  the hour noon;
+   the city, padua; the place, the market; and the day, saint philips
+   day.
+
+ascanio
+
+   and what of the man, how shall we know him?
+
+guido [_reading still_]
+
+   i will wear a violet cloak with a silver falcon broidered on the
+   shoulder.  a brave attire, ascanio.
+
+ascanio
+
+   id sooner have my leathern jerkin.  and you think he will tell you of
+   your father?
+
+guido
+
+   why, yes!  it is a month ago now, you remember; i was in the vineyard,
+   just at the corner nearest the road, where the goats used to get in, a
+   man rode up and asked me was my name guido, and gave me this letter,
+   signed your fathers friend, bidding me be here to-day if i would
+   know the secret of my birth, and telling me how to recognise the
+   writer!  i had always thought old pedro was my uncle, but he told me
+   that he was not, but that i had been left a child in his charge by
+   some one he had never since seen.
+
+ascanio
+
+   and you dont know who your father is?
+
+guido
+
+   no.
+
+ascanio
+
+   no recollection of him even?
+
+guido
+
+   none, ascanio, none.
+
+ascanio [_laughing_]
+
+   then he could never have boxed your ears so often as my father did
+   mine.
+
+guido [_smiling_]
+
+   i am sure you never deserved it.
+
+ascanio
+
+   never; and that made it worse.  i hadnt the consciousness of guilt to
+   buoy me up.  what hour did you say he fixed?
+
+guido
+
+   noon.
+
+                                       [_clock in the cathedral strikes_.]
+
+ascanio
+
+   it is that now, and your man has not come.  i dont believe in him,
+   guido.  i think it is some wench who has set her eye at you; and, as i
+   have followed you from perugia to padua, i swear you shall follow me
+   to the nearest tavern.  [_rises_.]  by the great gods of eating,
+   guido, i am as hungry as a widow is for a husband, as tired as a young
+   maid is of good advice, and as dry as a monks sermon.  come, guido,
+   you stand there looking at nothing, like the fool who tried to look
+   into his own mind; your man will not come.
+
+guido
+
+   well, i suppose you are right.  ah!  [_just as he is leaving the stage
+   with_ ascanio, _enter_ lord moranzone _in a violet cloak_, _with a
+   silver falcon broidered on the shoulder_; _he passes across to the
+   cathedral_, _and just as he is going in_ guido _runs up and touches
+   him_.]
+
+moranzone
+
+   guido ferranti, thou hast come in time.
+
+guido
+
+   what!  does my father live?
+
+moranzone
+
+   ay! lives in thee.
+   thou art the same in mould and lineament,
+   carriage and form, and outward semblances;
+   i trust thou art in noble mind the same.
+
+guido
+
+   oh, tell me of my father; i have lived
+   but for this moment.
+
+moranzone
+
+   we must be alone.
+
+guido
+
+   this is my dearest friend, who out of love
+   has followed me to padua; as two brothers,
+   there is no secret which we do not share.
+
+moranzone
+
+   there is one secret which ye shall not share;
+   bid him go hence.
+
+guido [_to_ ascanio]
+
+   come back within the hour.
+   he does not know that nothing in this world
+   can dim the perfect mirror of our love.
+   within the hour come.
+
+ascanio
+
+   speak not to him,
+   there is a dreadful terror in his look.
+
+guido [_laughing_]
+
+   nay, nay, i doubt not that he has come to tell
+   that i am some great lord of italy,
+   and we will have long days of joy together.
+   within the hour, dear ascanio.
+
+                                                         [_exit_ ascanio.]
+
+   now tell me of my father?  [_sits down on a stone seat_.]
+   stood he tall?
+   i warrant he looked tall upon his horse.
+   his hair was black? or perhaps a reddish gold,
+   like a red fire of gold?  was his voice low?
+   the very bravest men have voices sometimes
+   full of low music; or a clarion was it
+   that brake with terror all his enemies?
+   did he ride singly? or with many squires
+   and valiant gentlemen to serve his state?
+   for oftentimes methinks i feel my veins
+   beat with the blood of kings.  was he a king?
+
+moranzone
+
+   ay, of all men he was the kingliest.
+
+guido [_proudly_]
+
+   then when you saw my noble father last
+   he was set high above the heads of men?
+
+moranzone
+
+   ay, he was high above the heads of men,
+
+[_walks over to_ guido _and puts his hand upon his shoulder_.]
+
+   on a red scaffold, with a butchers block
+   set for his neck.
+
+guido [_leaping up_]
+
+   what dreadful man art thou,
+   that like a raven, or the midnight owl,
+   comst with this awful message from the grave?
+
+moranzone
+
+   i am known here as the count moranzone,
+   lord of a barren castle on a rock,
+   with a few acres of unkindly land
+   and six not thrifty servants.  but i was one
+   of parmas noblest princes; more than that,
+   i was your fathers friend.
+
+guido [_clasping his hand_]
+
+   tell me of him.
+
+moranzone
+
+   you are the son of that great duke lorenzo,
+   he was the prince of parma, and the duke
+   of all the fair domains of lombardy
+   down to the gates of florence; nay, florence even
+   was wont to pay him tribute
+
+guido
+
+   come to his death.
+
+moranzone
+
+   you will hear that soon enough.  being at war
+   o noble lion of war, that would not suffer
+   injustice done in italy!he led
+   the very flower of chivalry against
+   that foul adulterous lord of rimini,
+   giovanni malatestawhom god curse!
+   and was by him in treacherous ambush taken,
+   and like a villain, or a low-born knave,
+   was by him on the public scaffold murdered.
+
+guido [_clutching his dagger_]
+
+   doth malatesta live?
+
+moranzone
+
+   no, he is dead.
+
+guido
+
+   did you say dead?  o too swift runner, death,
+   couldst thou not wait for me a little space,
+   and i had done thy bidding!
+
+moranzone [_clutching his wrist_]
+
+   thou canst do it!
+   the man who sold thy father is alive.
+
+guido
+
+   sold! was my father sold?
+
+moranzone
+
+   ay! trafficked for,
+   like a vile chattel, for a price betrayed,
+   bartered and bargained for in privy market
+   by one whom he had held his perfect friend,
+   one he had trusted, one he had well loved,
+   one whom by ties of kindness he had bound
+
+guido
+
+   and he lives
+   who sold my father?
+
+moranzone
+
+   i will bring you to him.
+
+guido
+
+   so, judas, thou art living! well, i will make
+   this world thy field of blood, so buy it straight-way,
+   for thou must hang there.
+
+moranzone
+
+   judas said you, boy?
+   yes, judas in his treachery, but still
+   he was more wise than judas was, and held
+   those thirty silver pieces not enough.
+
+guido
+
+   what got he for my fathers blood?
+
+moranzone
+
+   what got he?
+   why cities, fiefs, and principalities,
+   vineyards, and lands.
+
+guido
+
+   of which he shall but keep
+   six feet of ground to rot in.  where is he,
+   this damned villain, this foul devil? where?
+   show me the man, and come he cased in steel,
+   in complete panoply and pride of war,
+   ay, guarded by a thousand men-at-arms,
+   yet i shall reach him through their spears, and feel
+   the last black drop of blood from his black heart
+   crawl down my blade.  show me the man, i say,
+   and i will kill him.
+
+moranzone [_coldly_]
+
+   fool, what revenge is there?
+   death is the common heritage of all,
+   and death comes best when it comes suddenly.
+
+                                               [_goes up close to_ guido.]
+
+   your father was betrayed, there is your cue;
+   for you shall sell the seller in his turn.
+   i will make you of his household, you shall sit
+   at the same board with him, eat of his bread
+
+guido
+
+   o bitter bread!
+
+moranzone
+
+   thy palate is too nice,
+   revenge will make it sweet.  thou shalt o nights
+   pledge him in wine, drink from his cup, and be
+   his intimate, so he will fawn on thee,
+   love thee, and trust thee in all secret things.
+   if he bid thee be merry thou must laugh,
+   and if it be his humour to be sad
+   thou shalt don sables.  then when the time is ripe
+
+                                             [guido _clutches his sword_.]
+
+   nay, nay, i trust thee not; your hot young blood,
+   undisciplined nature, and too violent rage
+   will never tarry for this great revenge,
+   but wreck itself on passion.
+
+guido
+
+   thou knowest me not.
+   tell me the man, and i in everything
+   will do thy bidding.
+
+moranzone
+
+   well, when the time is ripe,
+   the victim trusting and the occasion sure,
+   i will by sudden secret messenger
+   send thee a sign.
+
+guido
+
+   how shall i kill him, tell me?
+
+moranzone
+
+   that night thou shalt creep into his private chamber;
+   but if he sleep see that thou wake him first,
+   and hold thy hand upon his throat, ay! that way,
+   then having told him of what blood thou art,
+   sprung from what father, and for what revenge,
+   bid him to pray for mercy; when he prays,
+   bid him to set a price upon his life,
+   and when he strips himself of all his gold
+   tell him thou needest not gold, and hast not mercy,
+   and do thy business straight away.  swear to me
+   thou wilt not kill him till i bid thee do it,
+   or else i go to mine own house, and leave
+   thee ignorant, and thy father unavenged.
+
+guido
+
+   now by my fathers sword
+
+moranzone
+
+   the common hangman
+   brake that in sunder in the public square.
+
+guido
+
+   then by my fathers grave
+
+moranzone
+
+   what grave? what grave?
+   your noble father lieth in no grave,
+   i saw his dust strewn on the air, his ashes
+   whirled through the windy streets like common straws
+   to plague a beggars eyesight, and his head,
+   that gentle head, set on the prison spike,
+   for the vile rabble in their insolence
+   to shoot their tongues at.
+
+guido
+
+   was it so indeed?
+   then by my fathers spotless memory,
+   and by the shameful manner of his death,
+   and by the base betrayal by his friend,
+   for these at least remain, by these i swear
+   i will not lay my hand upon his life
+   until you bid me, thengod help his soul,
+   for he shall die as never dog died yet.
+   and now, the sign, what is it?
+
+moranzone
+
+   this dagger, boy;
+   it was your fathers.
+
+guido
+
+   oh, let me look at it!
+   i do remember now my reputed uncle,
+   that good old husbandman i left at home,
+   told me a cloak wrapped round me when a babe
+   bare too such yellow leopards wrought in gold;
+   i like them best in steel, as they are here,
+   they suit my purpose better.  tell me, sir,
+   have you no message from my father to me?
+
+moranzone
+
+   poor boy, you never saw that noble father,
+   for when by his false friend he had been sold,
+   alone of all his gentlemen i escaped
+   to bear the news to parma to the duchess.
+
+guido
+
+   speak to me of my mother.
+
+moranzone
+
+   when thy mother
+   heard my black news, she fell into a swoon,
+   and, being with untimely travail seized
+   bare thee into the world before thy time,
+   and then her soul went heavenward, to wait
+   thy father, at the gates of paradise.
+
+guido
+
+   a mother dead, a father sold and bartered!
+   i seem to stand on some beleaguered wall,
+   and messenger comes after messenger
+   with a new tale of terror; give me breath,
+   mine ears are tired.
+
+moranzone
+
+   when thy mother died,
+   fearing our enemies, i gave it out
+   thou wert dead also, and then privily
+   conveyed thee to an ancient servitor,
+   who by perugia lived; the rest thou knowest.
+
+guido
+
+   saw you my father afterwards?
+
+moranzone
+
+   ay! once;
+   in mean attire, like a vineyard dresser,
+   i stole to rimini.
+
+guido [_taking his hand_]
+
+   o generous heart!
+
+moranzone
+
+   one can buy everything in rimini,
+   and so i bought the gaolers! when your father
+   heard that a man child had been born to him,
+   his noble face lit up beneath his helm
+   like a great fire seen far out at sea,
+   and taking my two hands, he bade me, guido,
+   to rear you worthy of him; so i have reared you
+   to revenge his death upon the friend who sold him.
+
+guido
+
+   thou hast done well; i for my father thank thee.
+   and now his name?
+
+moranzone
+
+   how you remind me of him,
+   you have each gesture that your father had.
+
+guido
+
+   the traitors name?
+
+moranzone
+
+   thou wilt hear that anon;
+   the duke and other nobles at the court
+   are coming hither.
+
+guido
+
+   what of that? his name?
+
+moranzone
+
+   do they not seem a valiant company
+   of honourable, honest gentlemen?
+
+guido
+
+   his name, milord?
+
+[_enter the_ duke of padua _with_ count bardi, maffio, petrucci, _and
+other gentlemen of his court_.]
+
+moranzone [_quickly_]
+
+   the man to whom i kneel
+   is he who sold your father! mark me well.
+
+guido [_clutches hit dagger_]
+
+   the duke!
+
+moranzone
+
+   leave off that fingering of thy knife.
+   hast thou so soon forgotten?  [_kneels to the_ duke.]
+   my noble lord.
+
+duke
+
+   welcome, count moranzone; tis some time
+   since we have seen you here in padua.
+   we hunted near your castle yesterday
+   call you it castle? that bleak house of yours
+   wherein you sit a-mumbling oer your beads,
+   telling your vices like a good old man.
+
+                             [_catches sight of_ guido _and starts back_.]
+
+   who is that?
+
+moranzone
+
+   my sisters son, your grace,
+   who being now of age to carry arms,
+   would for a season tarry at your court
+
+duke [_still looking at_ guido]
+
+   what is his name?
+
+moranzone
+
+   guido ferranti, sir.
+
+duke
+
+   his city?
+
+moranzone
+
+   he is mantuan by birth.
+
+duke [_advancing towards_ guido]
+
+   you have the eyes of one i used to know,
+   but he died childless.  are you honest, boy?
+   then be not spendthrift of your honesty,
+   but keep it to yourself; in padua
+   men think that honesty is ostentatious, so
+   it is not of the fashion.  look at these lords.
+
+count bardi [_aside_]
+
+   here is some bitter arrow for us, sure.
+
+duke
+
+   why, every man among them has his price,
+   although, to do them justice, some of them
+   are quite expensive.
+
+count bardi [_aside_]
+
+   there it comes indeed.
+
+duke
+
+   so be not honest; eccentricity
+   is not a thing should ever be encouraged,
+   although, in this dull stupid age of ours,
+   the most eccentric thing a man can do
+   is to have brains, then the mob mocks at him;
+   and for the mob, despise it as i do,
+   i hold its bubble praise and windy favours
+   in such account, that popularity
+   is the one insult i have never suffered.
+
+maffio [_aside_]
+
+   he has enough of hate, if he needs that.
+
+duke
+
+   have prudence; in your dealings with the world
+   be not too hasty; act on the second thought,
+   first impulses are generally good.
+
+guido [_aside_]
+
+   surely a toad sits on his lips, and spills its venom there.
+
+duke
+
+   see thou hast enemies,
+   else will the world think very little of thee;
+   it is its test of power; yet see thou showst
+   a smiling mask of friendship to all men,
+   until thou hast them safely in thy grip,
+   then thou canst crush them.
+
+guido [_aside_]
+
+   o wise philosopher!
+   that for thyself dost dig so deep a grave.
+
+moranzone [_to him_]
+
+   dost thou mark his words?
+
+guido
+
+   oh, be thou sure i do.
+
+duke
+
+   and be not over-scrupulous; clean hands
+   with nothing in them make a sorry show.
+   if you would have the lions share of life
+   you must wear the foxs skin.  oh, it will fit you;
+   it is a coat which fitteth every man.
+
+guido
+
+   your grace, i shall remember.
+
+duke
+
+   that is well, boy, well.
+   i would not have about me shallow fools,
+   who with mean scruples weigh the gold of life,
+   and faltering, paltering, end by failure; failure,
+   the only crime which i have not committed:
+   i would have _men_ about me.  as for conscience,
+   conscience is but the name which cowardice
+   fleeing from battle scrawls upon its shield.
+   you understand me, boy?
+
+guido
+
+   i do, your grace,
+   and will in all things carry out the creed
+   which you have taught me.
+
+maffio
+
+   i never heard your grace
+   so much in the vein for preaching; let the cardinal
+   look to his laurels, sir.
+
+duke
+
+   the cardinal!
+   men follow my creed, and they gabble his.
+   i do not think much of the cardinal;
+   although he is a holy churchman, and
+   i quite admit his dulness.  well, sir, from now
+   we count you of our household
+
+[_he holds out his hand for_ guido _to kiss_.  guido _starts back in
+horror_, _but at a gesture from_ count moranzone, _kneels and kisses
+it_.]
+
+   we will see
+   that you are furnished with such equipage
+   as doth befit your honour and our state.
+
+guido
+
+   i thank your grace most heartily.
+
+duke
+
+   tell me again
+   what is your name?
+
+guido
+
+   guido ferranti, sir.
+
+duke
+
+   and you are mantuan?  look to your wives, my lords,
+   when such a gallant comes to padua.
+   thou dost well to laugh, count bardi; i have noted
+   how merry is that husband by whose hearth
+   sits an uncomely wife.
+
+maffio
+
+   may it please your grace,
+   the wives of padua are above suspicion.
+
+duke
+
+   what, are they so ill-favoured!  let us go,
+   this cardinal detains our pious duchess;
+   his sermon and his beard want cutting both:
+   will you come with us, sir, and hear a text
+   from holy jerome?
+
+moranzone [_bowing_]
+
+   my liege, there are some matters
+
+duke [_interrupting_]
+
+   thou needst make no excuse for missing mass.
+   come, gentlemen.
+
+                                   [_exit with his suite into cathedral_.]
+
+guido [_after a pause_]
+
+   so the duke sold my father;
+   i kissed his hand.
+
+moranzone
+
+   thou shalt do that many times.
+
+guido
+
+   must it be so?
+
+moranzone
+
+   ay! thou hast sworn an oath.
+
+guido
+
+   that oath shall make me marble.
+
+moranzone
+
+   farewell, boy,
+   thou wilt not see me till the time is ripe.
+
+guido
+
+   i pray thou comest quickly.
+
+moranzone
+
+   i will come
+   when it is time; be ready.
+
+guido
+
+   fear me not.
+
+moranzone
+
+   here is your friend; see that you banish him
+   both from your heart and padua.
+
+guido
+
+   from padua,
+   not from my heart.
+
+moranzone
+
+   nay, from thy heart as well,
+   i will not leave thee till i see thee do it.
+
+guido
+
+   can i have no friend?
+
+moranzone
+
+   revenge shall be thy friend;
+   thou needst no other.
+
+guido
+
+   well, then be it so.
+
+                                             [_enter_ ascanio cristofano.]
+
+ascanio
+
+   come, guido, i have been beforehand with you in everything, for i have
+   drunk a flagon of wine, eaten a pasty, and kissed the maid who served
+   it.  why, you look as melancholy as a schoolboy who cannot buy apples,
+   or a politician who cannot sell his vote.  what news, guido, what
+   news?
+
+guido
+
+   why, that we two must part, ascanio.
+
+ascanio
+
+   that would be news indeed, but it is not true.
+
+guido
+
+   too true it is, you must get hence, ascanio,
+   and never look upon my face again.
+
+ascanio
+
+   no, no; indeed you do not know me, guido;
+   tis true i am a common yeomans son,
+   nor versed in fashions of much courtesy;
+   but, if you are nobly born, cannot i be
+   your serving man?  i will tend you with more love
+   than any hired servant.
+
+guido [_clasping his hand_]
+
+   ascanio!
+
+     [_sees_ moranzone _looking at him and drops_ ascanios _hand_.]
+
+   it cannot be.
+
+ascanio
+
+   what, is it so with you?
+   i thought the friendship of the antique world
+   was not yet dead, but that the roman type
+   might even in this poor and common age
+   find counterparts of love; then by this love
+   which beats between us like a summer sea,
+   whatever lot has fallen to your hand
+   may i not share it?
+
+guido
+
+   share it?
+
+ascanio
+
+   ay!
+
+guido
+
+   no, no.
+
+ascanio
+
+   have you then come to some inheritance
+   of lordly castle, or of stored-up gold?
+
+guido [_bitterly_]
+
+   ay! i have come to my inheritance.
+   o bloody legacy! and o murderous dole!
+   which, like the thrifty miser, must i hoard,
+   and to my own self keep; and so, i pray you,
+   let us part here.
+
+ascanio
+
+   what, shall we never more
+   sit hand in hand, as we were wont to sit,
+   over some book of ancient chivalry
+   stealing a truant holiday from school,
+   follow the huntsmen through the autumn woods,
+   and watch the falcons burst their tasselled jesses,
+   when the hare breaks from covert.
+
+guido
+
+   never more.
+
+ascanio
+
+   must i go hence without a word of love?
+
+guido
+
+   you must go hence, and may love go with you.
+
+ascanio
+
+   you are unknightly, and ungenerous.
+
+guido
+
+   unknightly and ungenerous if you will.
+   why should we waste more words about the matter
+   let us part now.
+
+ascanio
+
+   have you no message, guido?
+
+guido
+
+   none; my whole past was but a schoolboys dream;
+   to-day my life begins.  farewell.
+
+ascanio
+
+   farewell [_exit slowly_.]
+
+guido
+
+   now are you satisfied?  have you not seen
+   my dearest friend, and my most loved companion,
+   thrust from me like a common kitchen knave!
+   oh, that i did it!  are you not satisfied?
+
+moranzone
+
+   ay! i am satisfied.  now i go hence,
+   do not forget the sign, your fathers dagger,
+   and do the business when i send it to you.
+
+guido
+
+   be sure i shall.  [_exit_ lord moranzone.]
+
+guido
+
+   o thou eternal heaven!
+   if there is aught of nature in my soul,
+   of gentle pity, or fond kindliness,
+   wither it up, blast it, bring it to nothing,
+   or if thou wilt not, then will i myself
+   cut pity with a sharp knife from my heart
+   and strangle mercy in her sleep at night
+   lest she speak to me.  vengeance there i have it.
+   be thou my comrade and my bedfellow,
+   sit by my side, ride to the chase with me,
+   when i am weary sing me pretty songs,
+   when i am light o heart, make jest with me,
+   and when i dream, whisper into my ear
+   the dreadful secret of a fathers murder
+   did i say murder?  [_draws his dagger_.]
+   listen, thou terrible god!
+   thou god that punishest all broken oaths,
+   and bid some angel write this oath in fire,
+   that from this hour, till my dear fathers murder
+   in blood i have revenged, i do forswear
+   the noble ties of honourable friendship,
+   the noble joys of dear companionship,
+   affections bonds, and loyal gratitude,
+   ay, more, from this same hour i do forswear
+   all love of women, and the barren thing
+   which men call beauty
+
+[_the organ peals in the cathedral_, _and under a canopy of cloth of
+silver tissue_, _borne by four pages in scarlet_, _the_ duchess of padua
+_comes down the steps_; _as she passes across their eyes meet for a
+moment_, _and as she leaves the stage she looks back at_ guido, _and the
+dagger falls from his hand_.]
+
+   oh! who is that?
+
+a citizen
+
+   the duchess of padua!
+
+                                * * * * *
+
+                              end of act i.
+
+                                * * * * *
+
+
+
+
+act ii
+
+
+                                  scene
+
+_a state room in the ducal palace_, _hung with tapestries representing
+the masque of venus_; _a large door in the centre opens into a corridor
+of red marble_, _through which one can see a view of padua_; _a large
+canopy is set_ (_r.c._) _with three thrones_, _one a little lower than
+the others_; _the ceiling is made of long gilded beams_; _furniture of
+the period_, _chairs covered with gilt leather_, _and buffets set with
+gold and silver plate_, _and chests painted with mythological scenes_.
+_a number of the courtiers is out on the corridor looking from it down
+into the street below_; _from the street comes the roar of a mob and
+cries of_ _death to the duke_: _after a little interval enter the duke
+very calmly_; _he is leaning on the arm of guido ferranti_; _with him
+enters also the lord cardinal_; _the mob still shouting_.
+
+duke
+
+   no, my lord cardinal, i weary of her!
+   why, she is worse than ugly, she is good.
+
+maffio [_excitedly_]
+
+   your grace, there are two thousand people there
+   who every moment grow more clamorous.
+
+duke
+
+   tut, man, they waste their strength upon their lungs!
+   people who shout so loud, my lords, do nothing;
+   the only men i fear are silent men.
+
+                                               [_a yell from the people_.]
+
+   you see, lord cardinal, how my people love me.
+
+                                                         [_another yell_.]
+
+   go, petrucci,
+   and tell the captain of the guard below
+   to clear the square.  do you not hear me, sir?
+   do what i bid you.
+
+                                                        [_exit_ petrucci.]
+
+cardinal
+
+   i beseech your grace
+   to listen to their grievances.
+
+duke [_sitting on his throne_]
+
+   ay! the peaches
+   are not so big this year as they were last.
+   i crave your pardon, my lord cardinal,
+   i thought you spake of peaches.
+
+                                              [_a cheer from the people_.]
+
+   what is that?
+
+guido [_rushes to the window_]
+
+   the duchess has gone forth into the square,
+   and stands between the people and the guard,
+   and will not let them shoot.
+
+duke
+
+   the devil take her!
+
+guido [_still at the window_]
+
+   and followed by a dozen of the citizens
+   has come into the palace.
+
+duke [_starting up_]
+
+   by saint james,
+   our duchess waxes bold!
+
+bardi
+
+   here comes the duchess.
+
+duke
+
+   shut that door there; this morning air is cold.
+
+                                  [_they close the door on the corridor_.]
+
+[_enter the duchess followed by a crowd of meanly dressed citizens_.]
+
+duchess [_flinging herself upon her knees_]
+
+   i do beseech your grace to give us audience.
+
+duke
+
+   what are these grievances?
+
+duchess
+
+   alas, my lord,
+   such common things as neither you nor i,
+   nor any of these noble gentlemen,
+   have ever need at all to think about;
+   they say the bread, the very bread they eat,
+   is made of sorry chaff.
+
+first citizen
+
+   ay! so it is,
+   nothing but chaff.
+
+duke
+
+   and very good food too,
+   i give it to my horses.
+
+duchess [_restraining herself_]
+
+   they say the water,
+   set in the public cisterns for their use,
+   [has, through the breaking of the aqueduct,]
+   to stagnant pools and muddy puddles turned.
+
+duke
+
+   they should drink wine; water is quite unwholesome.
+
+second citizen
+
+   alack, your grace, the taxes which the customs
+   take at the city gate are grown so high
+   we cannot buy wine.
+
+duke
+
+   then you should bless the taxes
+
+   which make you temperate.
+
+duchess
+
+   think, while we sit
+   in gorgeous pomp and state, gaunt poverty
+   creeps through their sunless lanes, and with sharp knives
+   cuts the warm throats of children stealthily
+   and no word said.
+
+third citizen
+
+   ay! marry, that is true,
+   my little son died yesternight from hunger;
+   he was but six years old; i am so poor,
+   i cannot bury him.
+
+duke
+
+   if you are poor,
+   are you not blessed in that?  why, poverty
+   is one of the christian virtues,
+
+                                                [_turns to the_ cardinal.]
+
+   is it not?
+   i know, lord cardinal, you have great revenues,
+   rich abbey-lands, and tithes, and large estates
+   for preaching voluntary poverty.
+
+duchess
+
+   nay but, my lord the duke, be generous;
+   while we sit here within a noble house
+   [with shaded porticoes against the sun,
+   and walls and roofs to keep the winter out],
+   there are many citizens of padua
+   who in vile tenements live so full of holes,
+   that the chill rain, the snow, and the rude blast,
+   are tenants also with them; others sleep
+   under the arches of the public bridges
+   all through the autumn nights, till the wet mist
+   stiffens their limbs, and fevers come, and so
+
+duke
+
+   and so they go to abrahams bosom, madam.
+   they should thank me for sending them to heaven,
+   if they are wretched here. [_to the_ cardinal.]
+   is it not said
+   somewhere in holy writ, that every man
+   should be contented with that state of life
+   god calls him to?  why should i change their state,
+   or meddle with an all-wise providence,
+   which has apportioned that some men should starve,
+   and others surfeit?  i did not make the world.
+
+first citizen
+
+   he hath a hard heart.
+
+second citizen
+
+   nay, be silent, neighbour;
+   i think the cardinal will speak for us.
+
+cardinal
+
+   true, it is christian to bear misery,
+   yet it is christian also to be kind,
+   and there seem many evils in this town,
+   which in your wisdom might your grace reform.
+
+first citizen
+
+   what is that word reform?  what does it mean?
+
+second citizen
+
+   marry, it means leaving things as they are; i like it not.
+
+duke
+
+   reform lord cardinal, did _you_ say reform?
+   there is a man in germany called luther,
+   who would reform the holy catholic church.
+   have you not made him heretic, and uttered
+   anathema, maranatha, against him?
+
+cardinal [_rising from his seat_]
+
+   he would have led the sheep out of the fold,
+   we do but ask of you to feed the sheep.
+
+duke
+
+   when i have shorn their fleeces i may feed them.
+   as for these rebels  [duchess _entreats him_.]
+
+first citizen
+
+   that is a kind word,
+   he means to give us something.
+
+second citizen
+
+   is that so?
+
+duke
+
+   these ragged knaves who come before us here,
+   with mouths chock-full of treason.
+
+third citizen
+
+   good my lord,
+   fill up our mouths with bread; well hold our tongues.
+
+duke
+
+   ye shall hold your tongues, whether you starve or not.
+   my lords, this age is so familiar grown,
+   that the low peasant hardly doffs his hat,
+   unless you beat him; and the raw mechanic
+   elbows the noble in the public streets.
+
+                                                      [_to the citizens_.]
+
+   still as our gentle duchess has so prayed us,
+   and to refuse so beautiful a beggar
+   were to lack both courtesy and love,
+   touching your grievances, i promise this
+
+first citizen
+
+   marry, he will lighten the taxes!
+
+second citizen
+
+   or a dole of bread, think you, for each man?
+
+duke
+
+   that, on next sunday, the lord cardinal
+   shall, after holy mass, preach you a sermon
+   upon the beauty of obedience.
+
+                                                      [_citizens murmur_.]
+
+first citizen
+
+   i faith, that will not fill our stomachs!
+
+second citizen
+
+   a sermon is but a sorry sauce, when
+   you have nothing to eat with it.
+
+duchess
+
+   poor people,
+   you see i have no power with the duke,
+   but if you go into the court without,
+   my almoner shall from my private purse,
+   divide a hundred ducats mongst you all.
+
+first citizen
+
+   god save the duchess, say i.
+
+second citizen
+
+   god save her.
+
+duchess
+
+   and every monday morn shall bread be set
+   for those who lack it.
+
+                                          [_citizens applaud and go out_.]
+
+first citizen [_going out_]
+
+   why, god save the duchess again!
+
+duke [_calling him back_]
+
+   come hither, fellow! what is your name?
+
+first citizen
+
+   dominick, sir.
+
+duke
+
+   a good name!  why were you called dominick?
+
+first citizen [_scratching his head_]
+
+   marry, because i was born on st. georges day.
+
+duke
+
+   a good reason! here is a ducat for you!
+   will you not cry for me god save the duke?
+
+first citizen [_feebly_]
+
+   god save the duke.
+
+duke
+
+   nay! louder, fellow, louder.
+
+first citizen [_a little louder_]
+
+   god save the duke!
+
+duke
+
+   more lustily, fellow, put more heart in it!
+   here is another ducat for you.
+
+first citizen [_enthusiastically_]
+
+   god save the duke!
+
+duke [_mockingly_]
+
+   why, gentlemen, this simple fellows love
+   touches me much.  [_to the citizen_, _harshly_.]
+   go!  [_exit citizen_, _bowing_.]
+   this is the way, my lords,
+   you can buy popularity nowadays.
+   oh, we are nothing if not democratic!
+
+                                                       [_to the_ duchess.]
+
+   well, madam,
+   you spread rebellion midst our citizens.
+
+duchess
+
+   my lord, the poor have rights you cannot touch,
+   the right to pity, and the right to mercy.
+
+duke
+
+   so, so, you argue with me?  this is she,
+   the gentle duchess for whose hand i yielded
+   three of the fairest towns in italy,
+   pisa, and genoa, and orvieto.
+
+duchess
+
+   promised, my lord, not yielded: in that matter
+   brake you your word as ever.
+
+duke
+
+   you wrong us, madam,
+   there were state reasons.
+
+duchess
+
+   what state reasons are there
+   for breaking holy promises to a state?
+
+duke
+
+   there are wild boars at pisa in a forest
+   close to the city: when i promised pisa
+   unto your noble and most trusting father,
+   i had forgotten there was hunting there.
+   at genoa they say,
+   indeed i doubt them not, that the red mullet
+   runs larger in the harbour of that town
+   than anywhere in italy.
+
+                                          [_turning to one of the court_.]
+
+   you, my lord,
+   whose gluttonous appetite is your only god,
+   could satisfy our duchess on that point.
+
+duchess
+
+   and orvieto?
+
+duke [_yawning_]
+
+   i cannot now recall
+   why i did not surrender orvieto
+   according to the word of my contract.
+   maybe it was because i did not choose.
+
+                                             [_goes over to the_ duchess.]
+
+   why look you, madam, you are here alone;
+   tis many a dusty league to your grey france,
+   and even there your father barely keeps
+   a hundred ragged squires for his court.
+   what hope have you, i say?  which of these lords
+   and noble gentlemen of padua
+   stands by your side.
+
+duchess
+
+   there is not one.
+
+                                [guido _starts_, _but restrains himself_.]
+
+duke
+
+   nor shall be,
+   while i am duke in padua: listen, madam,
+   being mine own, you shall do as i will,
+   and if it be my will you keep the house,
+   why then, this palace shall your prison be;
+   and if it be my will you walk abroad,
+   why, you shall take the air from morn to night.
+
+duchess
+
+   sir, by what right?
+
+duke
+
+   madam, my second duchess
+   asked the same question once: her monument
+   lies in the chapel of bartholomew,
+   wrought in red marble; very beautiful.
+   guido, your arm.  come, gentlemen, let us go
+   and spur our falcons for the mid-day chase.
+   bethink you, madam, you are here alone.
+
+         [_exit the_ duke _leaning on_ guido, _with his court_.]
+
+duchess [_looking after them_]
+
+   the duke said rightly that i was alone;
+   deserted, and dishonoured, and defamed,
+   stood ever woman so alone indeed?
+   men when they woo us call us pretty children,
+   tell us we have not wit to make our lives,
+   and so they mar them for us.  did i say woo?
+   we are their chattels, and their common slaves,
+   less dear than the poor hound that licks their hand,
+   less fondled than the hawk upon their wrist.
+   woo, did i say? bought rather, sold and bartered,
+   our very bodies being merchandise.
+   i know it is the general lot of women,
+   each miserably mated to some man
+   wrecks her own life upon his selfishness:
+   that it is general makes it not less bitter.
+   i think i never heard a woman laugh,
+   laugh for pure merriment, except one woman,
+   that was at night time, in the public streets.
+   poor soul, she walked with painted lips, and wore
+   the mask of pleasure: i would not laugh like her;
+   no, death were better.
+
+[_enter_ guido _behind unobserved_; _the_ duchess _flings herself down
+before a picture of the madonna_.]
+
+   o mary mother, with your sweet pale face
+   bending between the little angel heads
+   that hover round you, have you no help for me?
+   mother of god, have you no help for me?
+
+guido
+
+   i can endure no longer.
+   this is my love, and i will speak to her.
+   lady, am i a stranger to your prayers?
+
+duchess [_rising_]
+
+   none but the wretched needs my prayers, my lord.
+
+guido
+
+   then must i need them, lady.
+
+duchess
+
+   how is that?
+   does not the duke show thee sufficient honour?
+
+guido
+
+   your grace, i lack no favours from the duke,
+   whom my soul loathes as i loathe wickedness,
+   but come to proffer on my bended knees,
+   my loyal service to thee unto death.
+
+duchess
+
+   alas!  i am so fallen in estate
+   i can but give thee a poor meed of thanks.
+
+guido [_seizing her hand_]
+
+   hast thou no love to give me?
+
+        [_the_ duchess _starts_, _and_ guido _falls at her feet_.]
+
+   o dear saint,
+   if i have been too daring, pardon me!
+   thy beauty sets my boyish blood aflame,
+   and, when my reverent lips touch thy white hand,
+   each little nerve with such wild passion thrills
+   that there is nothing which i would not do
+   to gain thy love.  [_leaps up_.]
+   bid me reach forth and pluck
+   perilous honour from the lions jaws,
+   and i will wrestle with the nemean beast
+   on the bare desert!  fling to the cave of war
+   a gaud, a ribbon, a dead flower, something
+   that once has touched thee, and ill bring it back
+   though all the hosts of christendom were there,
+   inviolate again! ay, more than this,
+   set me to scale the pallid white-faced cliffs
+   of mighty england, and from that arrogant shield
+   will i raze out the lilies of your france
+   which england, that sea-lion of the sea,
+   hath taken from her!
+   o dear beatrice,
+   drive me not from thy presence! without thee
+   the heavy minutes crawl with feet of lead,
+   but, while i look upon thy loveliness,
+   the hours fly like winged mercuries
+   and leave existence golden.
+
+duchess
+
+   i did not think
+   i should be ever loved: do you indeed
+   love me so much as now you say you do?
+
+guido
+
+   ask of the sea-bird if it loves the sea,
+   ask of the roses if they love the rain,
+   ask of the little lark, that will not sing
+   till day break, if it loves to see the day:
+   and yet, these are but empty images,
+   mere shadows of my love, which is a fire
+   so great that all the waters of the main
+   can not avail to quench it.  will you not speak?
+
+duchess
+
+   i hardly know what i should say to you.
+
+guido
+
+   will you not say you love me?
+
+duchess
+
+   is that my lesson?
+   must i say all at once?  twere a good lesson
+   if i did love you, sir; but, if i do not,
+   what shall i say then?
+
+guido
+
+   if you do not love me,
+   say, none the less, you do, for on your tongue
+   falsehood for very shame would turn to truth.
+
+duchess
+
+   what if i do not speak at all?  they say
+   lovers are happiest when they are in doubt
+
+guido
+
+   nay, doubt would kill me, and if i must die,
+   why, let me die for joy and not for doubt.
+   oh, tell me may i stay, or must i go?
+
+duchess
+
+   i would not have you either stay or go;
+   for if you stay you steal my love from me,
+   and if you go you take my love away.
+   guido, though all the morning stars could sing
+   they could not tell the measure of my love.
+   i love you, guido.
+
+guido [_stretching out his hands_]
+
+   oh, do not cease at all;
+   i thought the nightingale sang but at night;
+   or if thou needst must cease, then let my lips
+   touch the sweet lips that can such music make.
+
+duchess
+
+   to touch my lips is not to touch my heart.
+
+guido
+
+   do you close that against me?
+
+duchess
+
+   alas! my lord,
+   i have it not: the first day that i saw you
+   i let you take my heart away from me;
+   unwilling thief, that without meaning it
+   did break into my fenced treasury
+   and filch my jewel from it!  o strange theft,
+   which made you richer though you knew it not,
+   and left me poorer, and yet glad of it!
+
+guido [_clasping her in his arms_]
+
+   o love, love, love!  nay, sweet, lift up your head,
+   let me unlock those little scarlet doors
+   that shut in music, let me dive for coral
+   in your red lips, and ill bear back a prize
+   richer than all the gold the gryphon guards
+   in rude armenia.
+
+duchess
+
+   you are my lord,
+   and what i have is yours, and what i have not
+   your fancy lends me, like a prodigal
+   spending its wealth on what is nothing worth.
+
+                                                           [_kisses him_.]
+
+guido
+
+   methinks i am bold to look upon you thus:
+   the gentle violet hides beneath its leaf
+   and is afraid to look at the great sun
+   for fear of too much splendour, but my eyes,
+   o daring eyes! are grown so venturous
+   that like fixed stars they stand, gazing at you,
+   and surfeit sense with beauty.
+
+duchess
+
+   dear love, i would
+   you could look upon me ever, for your eyes
+   are polished mirrors, and when i peer
+   into those mirrors i can see myself,
+   and so i know my image lives in you.
+
+guido [_taking her in his arms_]
+
+   stand still, thou hurrying orb in the high heavens,
+   and make this hour immortal!  [_a pause_.]
+
+duchess
+
+   sit down here,
+   a little lower than me: yes, just so, sweet,
+   that i may run my fingers through your hair,
+   and see your face turn upwards like a flower
+   to meet my kiss.
+   have you not sometimes noted,
+   when we unlock some long-disused room
+   with heavy dust and soiling mildew filled,
+   where never foot of man has come for years,
+   and from the windows take the rusty bar,
+   and fling the broken shutters to the air,
+   and let the bright sun in, how the good sun
+   turns every grimy particle of dust
+   into a little thing of dancing gold?
+   guido, my heart is that long-empty room,
+   but you have let love in, and with its gold
+   gilded all life.  do you not think that love
+   fills up the sum of life?
+
+guido
+
+   ay! without love
+   life is no better than the unhewn stone
+   which in the quarry lies, before the sculptor
+   has set the god within it.  without love
+   life is as silent as the common reeds
+   that through the marshes or by rivers grow,
+   and have no music in them.
+
+duchess
+
+   yet out of these
+   the singer, who is love, will make a pipe
+   and from them he draws music; so i think
+   love will bring music out of any life.
+   is that not true?
+
+guido
+
+   sweet, women make it true.
+   there are men who paint pictures, and carve statues,
+   paul of verona and the dyers son,
+   or their great rival, who, by the sea at venice,
+   has set gods little maid upon the stair,
+   white as her own white lily, and as tall,
+   or raphael, whose madonnas are divine
+   because they are mothers merely; yet i think
+   women are the best artists of the world,
+   for they can take the common lives of men
+   soiled with the money-getting of our age,
+   and with love make them beautiful.
+
+duchess
+
+   ah, dear,
+   i wish that you and i were very poor;
+   the poor, who love each other, are so rich.
+
+guido
+
+   tell me again you love me, beatrice.
+
+duchess [_fingering his collar_]
+
+   how well this collar lies about your throat.
+
+   [lord moranzone _looks through the door from the corridor outside_.]
+
+guido
+
+   nay, tell me that you love me.
+
+duchess
+
+   i remember,
+   that when i was a child in my dear france,
+   being at court at fontainebleau, the king
+   wore such a collar.
+
+guido
+
+   will you not say you love me?
+
+duchess [_smiling_]
+
+   he was a very royal man, king francis,
+   yet he was not royal as you are.
+   why need i tell you, guido, that i love you?
+
+      [_takes his head in her hands and turns his face up to her_.]
+
+   do you not know that i am yours for ever,
+   body and soul?
+
+ [_kisses him_, _and then suddenly catches sight of_ moranzone _and leaps
+                                  up_.]
+
+   oh, what is that?  [moranzone _disappears_.]
+
+guido
+
+   what, love?
+
+duchess
+
+   methought i saw a face with eyes of flame
+   look at us through the doorway.
+
+guido
+
+   nay, twas nothing:
+   the passing shadow of the man on guard.
+
+          [_the_ duchess _still stands looking at the window_.]
+
+   twas nothing, sweet.
+
+duchess
+
+   ay! what can harm us now,
+   who are in loves hand?  i do not think id care
+   though the vile world should with its lackey slander
+   trample and tread upon my life; why should i?
+   they say the common field-flowers of the field
+   have sweeter scent when they are trodden on
+   than when they bloom alone, and that some herbs
+   which have no perfume, on being bruised die
+   with all arabia round them; so it is
+   with the young lives this dull world seeks to crush,
+   it does but bring the sweetness out of them,
+   and makes them lovelier often.  and besides,
+   while we have love we have the best of life:
+   is it not so?
+
+guido
+
+   dear, shall we play or sing?
+   i think that i could sing now.
+
+duchess
+
+   do not speak,
+   for there are times when all existences
+   seem narrowed to one single ecstasy,
+   and passion sets a seal upon the lips.
+
+guido
+
+   oh, with mine own lips let me break that seal!
+   you love me, beatrice?
+
+duchess
+
+   ay! is it not strange
+   i should so love mine enemy?
+
+guido
+
+   who is he?
+
+duchess
+
+   why, you: that with your shaft did pierce my heart!
+   poor heart, that lived its little lonely life
+   until it met your arrow.
+
+guido
+
+   ah, dear love,
+   i am so wounded by that bolt myself
+   that with untended wounds i lie a-dying,
+   unless you cure me, dear physician.
+
+duchess
+
+   i would not have you cured; for i am sick
+   with the same malady.
+
+guido
+
+   oh, how i love you!
+   see, i must steal the cuckoos voice, and tell
+   the one tale over.
+
+duchess
+
+   tell no other tale!
+   for, if that is the little cuckoos song,
+   the nightingale is hoarse, and the loud lark
+   has lost its music.
+
+guido
+
+   kiss me, beatrice!
+
+[_she takes his face in her hands and bends down and kisses him_; _a loud
+knocking then comes at the door_, _and_ guido _leaps up_; _enter a
+servant_.]
+
+servant
+
+   a package for you, sir.
+
+guido [_carelessly_]
+
+   ah! give it to me.
+
+   [_servant hands package wrapped in vermilion silk_, _and exit_; _as_
+   guido _is about to open it the_ duchess _comes up behind_, _and in
+   sport takes it from him_.]
+
+duchess [_laughing_]
+
+   now i will wager it is from some girl
+   who would have you wear her favour; i am so jealous
+   i will not give up the least part in you,
+   but like a miser keep you to myself,
+   and spoil you perhaps in keeping.
+
+guido
+
+   it is nothing.
+
+duchess
+
+   nay, it is from some girl.
+
+guido
+
+   you know tis not.
+
+duchess [_turns her back and opens it_]
+
+   now, traitor, tell me what does this sign mean,
+   a dagger with two leopards wrought in steel?
+
+guido [_taking it from her_]
+
+   o god!
+
+duchess
+
+   ill from the window look, and try
+   if i cant see the porters livery
+   who left it at the gate!  i will not rest
+   till i have learned your secret.
+
+                                      [_runs laughing into the corridor_.]
+
+guido
+
+   oh, horrible!
+   had i so soon forgot my fathers death,
+   did i so soon let love into my heart,
+   and must i banish love, and let in murder
+   that beats and clamours at the outer gate?
+   ay, that i must!  have i not sworn an oath?
+   yet not to-night; nay, it must be to-night.
+   farewell then all the joy and light of life,
+   all dear recorded memories, farewell,
+   farewell all love!  could i with bloody hands
+   fondle and paddle with her innocent hands?
+   could i with lips fresh from this butchery
+   play with her lips?  could i with murderous eyes
+   look in those violet eyes, whose purity
+   would strike men blind, and make each eyeball reel
+   in night perpetual?  no, murder has set
+   a barrier between us far too high
+   for us to kiss across it.
+
+duchess
+
+   guido!
+
+guido
+
+   beatrice,
+   you must forget that name, and banish me
+   out of your life for ever.
+
+duchess [_going towards him_]
+
+   o dear love!
+
+guido [_stepping back_]
+
+   there lies a barrier between us two
+   we dare not pass.
+
+duchess
+
+   i dare do anything
+   so that you are beside me.
+
+guido
+
+   ah!  there it is,
+   i cannot be beside you, cannot breathe
+   the air you breathe; i cannot any more
+   stand face to face with beauty, which unnerves
+   my shaking heart, and makes my desperate hand
+   fail of its purpose.  let me go hence, i pray;
+   forget you ever looked upon me.
+
+duchess
+
+   what!
+   with your hot kisses fresh upon my lips
+   forget the vows of love you made to me?
+
+guido
+
+   i take them back.
+
+duchess
+
+   alas, you cannot, guido,
+   for they are part of nature now; the air
+   is tremulous with their music, and outside
+   the little birds sing sweeter for those vows.
+
+guido
+
+   there lies a barrier between us now,
+   which then i knew not, or i had forgot.
+
+duchess
+
+   there is no barrier, guido; why, i will go
+   in poor attire, and will follow you
+   over the world.
+
+guido [_wildly_]
+
+   the worlds not wide enough
+   to hold us two!  farewell, farewell for ever.
+
+duchess [_calm_, _and controlling her passion_]
+
+   why did you come into my life at all, then,
+   or in the desolate garden of my heart
+   sow that white flower of love?
+
+guido
+
+   o beatrice!
+
+duchess
+
+   which now you would dig up, uproot, tear out,
+   though each small fibre doth so hold my heart
+   that if you break one, my heart breaks with it?
+   why did you come into my life?  why open
+   the secret wells of love i had sealed up?
+   why did you open them?
+
+guido
+
+   o god!
+
+duchess [_clenching her hand_]
+
+   and let
+   the floodgates of my passion swell and burst
+   till, like the wave when rivers overflow
+   that sweeps the forest and the farm away,
+   love in the splendid avalanche of its might
+   swept my life with it?  must i drop by drop
+   gather these waters back and seal them up?
+   alas!  each drop will be a tear, and so
+   will with its saltness make life very bitter.
+
+guido
+
+   i pray you speak no more, for i must go
+   forth from your life and love, and make a way
+   on which you cannot follow.
+
+duchess
+
+   i have heard
+   that sailors dying of thirst upon a raft,
+   poor castaways upon a lonely sea,
+   dream of green fields and pleasant water-courses,
+   and then wake up with red thirst in their throats,
+   and die more miserably because sleep
+   has cheated them: so they die cursing sleep
+   for having sent them dreams: i will not curse you
+   though i am cast away upon the sea
+   which men call desolation.
+
+guido
+
+   o god, god!
+
+duchess
+
+   but you will stay: listen, i love you, guido.
+
+                                                   [_she waits a little_.]
+
+   is echo dead, that when i say i love you
+   there is no answer?
+
+guido
+
+   everything is dead,
+   save one thing only, which shall die to-night!
+
+duchess
+
+   if you are going, touch me not, but go.
+
+                                                           [_exit_ guido.]
+
+   barrier!  barrier!
+   why did he say there was a barrier?
+   there is no barrier between us two.
+   he lied to me, and shall i for that reason
+   loathe what i love, and what i worshipped, hate?
+   i think we women do not love like that.
+   for if i cut his image from my heart,
+   my heart would, like a bleeding pilgrim, follow
+   that image through the world, and call it back
+   with little cries of love.
+
+  [_enter_ duke _equipped for the chase_, _with falconers and hounds_.]
+
+duke
+
+   madam, you keep us waiting;
+   you keep my dogs waiting.
+
+duchess
+
+   i will not ride to-day.
+
+duke
+
+   how now, whats this?
+
+duchess
+
+   my lord, i cannot go.
+
+duke
+
+   what, pale face, do you dare to stand against me?
+   why, i could set you on a sorry jade
+   and lead you through the town, till the low rabble
+   you feed toss up their hats and mock at you.
+
+duchess
+
+   have you no word of kindness ever for me?
+
+duke
+
+   i hold you in the hollow of my hand
+   and have no need on you to waste kind words.
+
+duchess
+
+   well, i will go.
+
+duke [_slapping his boot with his whip_]
+
+   no, i have changed my mind,
+   you will stay here, and like a faithful wife
+   watch from the window for our coming back.
+   were it not dreadful if some accident
+   by chance should happen to your loving lord?
+   come, gentlemen, my hounds begin to chafe,
+   and i chafe too, having a patient wife.
+   where is young guido?
+
+maffio
+
+   my liege, i have not seen him
+   for a full hour past.
+
+duke
+
+   it matters not,
+   i dare say i shall see him soon enough.
+   well, madam, you will sit at home and spin.
+   i do protest, sirs, the domestic virtues
+   are often very beautiful in others.
+
+                                           [_exit_ duke _with his court_.]
+
+duchess
+
+   the stars have fought against me, that is all,
+   and thus to-night when my lord lieth asleep,
+   will i fall upon my dagger, and so cease.
+   my heart is such a stone nothing can reach it
+   except the daggers edge: let it go there,
+   to find what name it carries: ay! to-night
+   death will divorce the duke; and yet to-night
+   he may die also, he is very old.
+   why should he not die?  yesterday his hand
+   shook with a palsy: men have died from palsy,
+   and why not he?  are there not fevers also,
+   agues and chills, and other maladies
+   most incident to old age?
+   no, no, he will not die, he is too sinful;
+   honest men die before their proper time.
+   good men will die: men by whose side the duke
+   in all the sick pollution of his life
+   seems like a leper: women and children die,
+   but the duke will not die, he is too sinful.
+   oh, can it be
+   there is some immortality in sin,
+   which virtue has not?  and does the wicked man
+   draw life from what to other men were death,
+   like poisonous plants that on corruption live?
+   no, no, i think god would not suffer that:
+   yet the duke will not die: he is too sinful.
+   but i will die alone, and on this night
+   grim death shall be my bridegroom, and the tomb
+   my secret house of pleasure: well, what of that?
+   the worlds a graveyard, and we each, like coffins,
+   within us bear a skeleton.
+
+[_enter_ lord moranzone _all in black_; _he passes across the back of the
+                     stage looking anxiously about_.]
+
+moranzone
+
+   where is guido?
+   i cannot find him anywhere.
+
+duchess [_catches sight of him_]
+
+   o god!
+   twas thou who took my love away from me.
+
+moranzone [_with a look of joy_]
+
+   what, has he left you?
+
+duchess
+
+   nay, you know he has.
+   oh, give him back to me, give him back, i say,
+   or i will tear your body limb from limb,
+   and to the common gibbet nail your head
+   until the carrion crows have stripped it bare.
+   better you had crossed a hungry lioness
+   before you came between me and my love.
+
+                                                     [_with more pathos_.]
+
+   nay, give him back, you know not how i love him.
+   here by this chair he knelt a half hour since;
+   twas there he stood, and there he looked at me;
+   this is the hand he kissed, and these the ears
+   into whose open portals he did pour
+   a tale of love so musical that all
+   the birds stopped singing!  oh, give him back to me.
+
+moranzone
+
+   he does not love you, madam.
+
+duchess
+
+   may the plague
+   wither the tongue that says so!  give him back.
+
+moranzone
+
+   madam, i tell you you will never see him,
+   neither to-night, nor any other night.
+
+duchess
+
+   what is your name?
+
+moranzone
+
+   my name?  revenge!
+
+                                                                 [_exit_.]
+
+duchess
+
+   revenge!
+   i think i never harmed a little child.
+   what should revenge do coming to my door?
+   it matters not, for death is there already,
+   waiting with his dim torch to light my way.
+   tis true men hate thee, death, and yet i think
+   thou wilt be kinder to me than my lover,
+   and so dispatch the messengers at once,
+   harry the lazy steeds of lingering day,
+   and let the night, thy sister, come instead,
+   and drape the world in mourning; let the owl,
+   who is thy minister, scream from his tower
+   and wake the toad with hooting, and the bat,
+   that is the slave of dim persephone,
+   wheel through the sombre air on wandering wing!
+   tear up the shrieking mandrakes from the earth
+   and bid them make us music, and tell the mole
+   to dig deep down thy cold and narrow bed,
+   for i shall lie within thine arms to-night.
+
+                               end of act ii.
+
+                                * * * * *
+
+
+
+
+act iii
+
+
+                                  scene
+
+_a large corridor in the ducal palace_: _a window_ (_l.c._) _looks out on
+a view of padua by moonlight_: _a staircase_ (_r.c._) _leads up to a door
+with a portiere of crimson velvet_, _with the dukes arms embroidered in
+gold on it_: _on the lowest step of the staircase a figure draped in
+black is sitting_: _the hall is lit by an iron cresset filled with
+burning tow_: _thunder and lightning outside_: _the time is night_.
+
+                  [_enter_ guido _through the window_.]
+
+guido
+
+   the wind is rising: how my ladder shook!
+   i thought that every gust would break the cords!
+
+                                                [_looks out at the city_.]
+
+   christ!  what a night:
+   great thunder in the heavens, and wild lightnings
+   striking from pinnacle to pinnacle
+   across the city, till the dim houses seem
+   to shudder and to shake as each new glare
+   dashes adown the street.
+
+                         [_passes across the stage to foot of staircase_.]
+
+   ah! who art thou
+   that sittest on the stair, like unto death
+   waiting a guilty soul?  [_a pause_.]
+   canst thou not speak?
+   or has this storm laid palsy on thy tongue,
+   and chilled thy utterance?
+
+                              [_the figure rises and takes off his mask_.]
+
+moranzone
+
+   guido ferranti,
+   thy murdered father laughs for joy to-night.
+
+guido [_confusedly_]
+
+   what, art thou here?
+
+moranzone
+
+   ay, waiting for your coming.
+
+guido [_looking away from him_]
+
+   i did not think to see you, but am glad,
+   that you may know the thing i mean to do.
+
+moranzone
+
+   first, i would have you know my well-laid plans;
+   listen: i have set horses at the gate
+   which leads to parma: when you have done your business
+   we will ride hence, and by to-morrow night
+
+guido
+
+   it cannot be.
+
+moranzone
+
+   nay, but it shall.
+
+guido
+
+   listen, lord moranzone,
+   i am resolved not to kill this man.
+
+moranzone
+
+   surely my ears are traitors, speak again:
+   it cannot be but age has dulled my powers,
+   i am an old man now: what did you say?
+   you said that with that dagger in your belt
+   you would avenge your fathers bloody murder;
+   did you not say that?
+
+guido
+
+   no, my lord, i said
+   i was resolved not to kill the duke.
+
+moranzone
+
+   you said not that; it is my senses mock me;
+   or else this midnight air oercharged with storm
+   alters your message in the giving it.
+
+guido
+
+   nay, you heard rightly; ill not kill this man.
+
+moranzone
+
+   what of thine oath, thou traitor, what of thine oath?
+
+guido
+
+   i am resolved not to keep that oath.
+
+moranzone
+
+   what of thy murdered father?
+
+guido
+
+   dost thou think
+   my father would be glad to see me coming,
+   this old mans blood still hot upon mine hands?
+
+moranzone
+
+   ay! he would laugh for joy.
+
+guido
+
+   i do not think so,
+   there is better knowledge in the other world;
+   vengeance is gods, let god himself revenge.
+
+moranzone
+
+   thou art gods minister of vengeance.
+
+guido
+
+   no!
+   god hath no minister but his own hand.
+   i will not kill this man.
+
+moranzone
+
+   why are you here,
+   if not to kill him, then?
+
+guido
+
+   lord moranzone,
+   i purpose to ascend to the dukes chamber,
+   and as he lies asleep lay on his breast
+   the dagger and this writing; when he awakes
+   then he will know who held him in his power
+   and slew him not: this is the noblest vengeance
+   which i can take.
+
+moranzone
+
+   you will not slay him?
+
+guido
+
+   no.
+
+moranzone
+
+   ignoble son of a noble father,
+   who sufferest this man who sold that father
+   to live an hour.
+
+guido
+
+   twas thou that hindered me;
+   i would have killed him in the open square,
+   the day i saw him first.
+
+moranzone
+
+   it was not yet time;
+   now it is time, and, like some green-faced girl,
+   thou pratest of forgiveness.
+
+guido
+
+   no! revenge:
+   the right revenge my fathers son should take.
+
+moranzone
+
+   you are a coward,
+   take out the knife, get to the dukes chamber,
+   and bring me back his heart upon the blade.
+   when he is dead, then you can talk to me
+   of noble vengeances.
+
+guido
+
+   upon thine honour,
+   and by the love thou bearest my fathers name,
+   dost thou think my father, that great gentleman,
+   that generous soldier, that most chivalrous lord,
+   would have crept at night-time, like a common thief,
+   and stabbed an old man sleeping in his bed,
+   however he had wronged him: tell me that.
+
+moranzone
+
+[after some hesitation]
+
+   you have sworn an oath, see that you keep that oath.
+   boy, do you think i do not know your secret,
+   your traffic with the duchess?
+
+guido
+
+   silence, liar!
+   the very moon in heaven is not more chaste.
+   nor the white stars so pure.
+
+moranzone
+
+   and yet, you love her;
+   weak fool, to let love in upon your life,
+   save as a plaything.
+
+guido
+
+   you do well to talk:
+   within your veins, old man, the pulse of youth
+   throbs with no ardour.  your eyes full of rheum
+   have against beauty closed their filmy doors,
+   and your clogged ears, losing their natural sense,
+   have shut you from the music of the world.
+   you talk of love!  you know not what it is.
+
+moranzone
+
+   oh, in my time, boy, have i walked i the moon,
+   swore i would live on kisses and on blisses,
+   swore i would die for love, and did not die,
+   wrote love bad verses; ay, and sung them badly,
+   like all true lovers: oh, i have done the tricks!
+   i know the partings and the chamberings;
+   we are all animals at best, and love
+   is merely passion with a holy name.
+
+guido
+
+   now then i know you have not loved at all.
+   love is the sacrament of life; it sets
+   virtue where virtue was not; cleanses men
+   of all the vile pollutions of this world;
+   it is the fire which purges gold from dross,
+   it is the fan which winnows wheat from chaff,
+   it is the spring which in some wintry soil
+   makes innocence to blossom like a rose.
+   the days are over when god walked with men,
+   but love, which is his image, holds his place.
+   when a man loves a woman, then he knows
+   gods secret, and the secret of the world.
+   there is no house so lowly or so mean,
+   which, if their hearts be pure who live in it,
+   love will not enter; but if bloody murder
+   knock at the palace gate and is let in,
+   love like a wounded thing creeps out and dies.
+   this is the punishment god sets on sin.
+   the wicked cannot love.
+
+               [_a groan comes from the_ dukes _chamber_.]
+
+   ah!  what is that?
+   do you not hear?  twas nothing.
+   so i think
+   that it is womans mission by their love
+   to save the souls of men: and loving her,
+   my lady, my white beatrice, i begin
+   to see a nobler and a holier vengeance
+   in letting this man live, than doth reside
+   in bloody deeds o night, stabs in the dark,
+   and young hands clutching at a palsied throat.
+   it was, i think, for loves sake that lord christ,
+   who was indeed himself incarnate love,
+   bade every man forgive his enemy.
+
+moranzone [_sneeringly_]
+
+   that was in palestine, not padua;
+   and said for saints: i have to do with men.
+
+guido
+
+   it was for all time said.
+
+moranzone
+
+   and your white duchess,
+   what will she do to thank you?
+
+guido
+
+   alas, i will not see her face again.
+   tis but twelve hours since i parted from her,
+   so suddenly, and with such violent passion,
+   that she has shut her heart against me now:
+   no, i will never see her.
+
+moranzone
+
+   what will you do?
+
+guido
+
+   after that i have laid the dagger there,
+   get hence to-night from padua.
+
+moranzone
+
+   and then?
+
+guido
+
+   i will take service with the doge at venice,
+   and bid him pack me straightway to the wars,
+   and there i will, being now sick of life,
+   throw that poor life against some desperate spear.
+
+                              [_a groan from the_ dukes _chamber again_.]
+
+   did you not hear a voice?
+
+moranzone
+
+   i always hear,
+   from the dim confines of some sepulchre,
+   a voice that cries for vengeance.  we waste time,
+   it will be morning soon; are you resolved
+   you will not kill the duke?
+
+guido
+
+   i am resolved.
+
+moranzone
+
+   o wretched father, lying unavenged.
+
+guido
+
+   more wretched, were thy son a murderer.
+
+moranzone
+
+   why, what is life?
+
+guido
+
+   i do not know, my lord,
+   i did not give it, and i dare not take it.
+
+moranzone
+
+   i do not thank god often; but i think
+   i thank him now that i have got no son!
+   and you, what bastard blood flows in your veins
+   that when you have your enemy in your grasp
+   you let him go!  i would that i had left you
+   with the dull hinds that reared you.
+
+guido
+
+   better perhaps
+   that you had done so!  may be better still
+   id not been born to this distressful world.
+
+moranzone
+
+   farewell!
+
+guido
+
+   farewell!  some day, lord moranzone,
+   you will understand my vengeance.
+
+moranzone
+
+   never, boy.
+
+                           [_gets out of window and exit by rope ladder_.]
+
+guido
+
+   father, i think thou knowest my resolve,
+   and with this nobler vengeance art content.
+   father, i think in letting this man live
+   that i am doing what thou wouldst have done.
+   father, i know not if a human voice
+   can pierce the iron gateway of the dead,
+   or if the dead are set in ignorance
+   of what we do, or do not, for their sakes.
+   and yet i feel a presence in the air,
+   there is a shadow standing at my side,
+   and ghostly kisses seem to touch my lips,
+   and leave them holier.  [_kneels down_.]
+   o father, if tis thou,
+   canst thou not burst through the decrees of death,
+   and if corporeal semblance show thyself,
+   that i may touch thy hand!
+   no, there is nothing.  [_rises_.]
+   tis the night that cheats us with its phantoms,
+   and, like a puppet-master, makes us think
+   that things are real which are not.  it grows late.
+   now must i to my business.
+
+                     [_pulls out a letter from his doublet and reads it_.]
+
+   when he wakes,
+   and sees this letter, and the dagger with it,
+   will he not have some loathing for his life,
+   repent, perchance, and lead a better life,
+   or will he mock because a young man spared
+   his natural enemy?  i do not care.
+   father, it is thy bidding that i do,
+   thy bidding, and the bidding of my love
+   which teaches me to know thee as thou art.
+
+[_ascends staircase stealthily_, _and just as he reaches out his hand to
+draw back the curtain the duchess appears all in white_.  guido _starts
+back_.]
+
+duchess
+
+   guido! what do you here so late?
+
+guido
+
+   o white and spotless angel of my life,
+   sure thou hast come from heaven with a message
+   that mercy is more noble than revenge?
+
+duchess
+
+   there is no barrier between us now.
+
+guido
+
+   none, love, nor shall be.
+
+duchess
+
+   i have seen to that.
+
+guido
+
+   tarry here for me.
+
+duchess
+
+   no, you are not going?
+   you will not leave me as you did before?
+
+guido
+
+   i will return within a moments space,
+   but first i must repair to the dukes chamber,
+   and leave this letter and this dagger there,
+   that when he wakes
+
+duchess
+
+   when who wakes?
+
+guido
+
+   why, the duke.
+
+duchess
+
+   he will not wake again.
+
+guido
+
+   what, is he dead?
+
+duchess
+
+   ay! he is dead.
+
+guido
+
+   o god! how wonderful
+   are all thy secret ways!  who would have said
+   that on this very night, when i had yielded
+   into thy hands the vengeance that is thine,
+   thou with thy finger wouldst have touched the man,
+   and bade him come before thy judgment seat.
+
+duchess
+
+   i have just killed him.
+
+guido [_in horror_]
+
+   oh!
+
+duchess
+
+   he was asleep;
+   come closer, love, and i will tell you all.
+   i had resolved to kill myself to-night.
+   about an hour ago i waked from sleep,
+   and took my dagger from beneath my pillow,
+   where i had hidden it to serve my need,
+   and drew it from the sheath, and felt the edge,
+   and thought of you, and how i loved you, guido,
+   and turned to fall upon it, when i marked
+   the old man sleeping, full of years and sin;
+   there lay he muttering curses in his sleep,
+   and as i looked upon his evil face
+   suddenly like a flame there flashed across me,
+   there is the barrier which guido spoke of:
+   you said there lay a barrier between us,
+   what barrier but he?
+   i hardly know
+   what happened, but a steaming mist of blood
+   rose up between us two.
+
+guido
+
+   oh, horrible!
+
+duchess
+
+   and then he groaned,
+   and then he groaned no more!  i only heard
+   the dripping of the blood upon the floor.
+
+guido
+
+   enough, enough.
+
+duchess
+
+   will you not kiss me now?
+   do you remember saying that womens love
+   turns men to angels? well, the love of man
+   turns women into martyrs; for its sake
+   we do or suffer anything.
+
+guido
+
+   o god!
+
+duchess
+
+   will you not speak?
+
+guido
+
+   i cannot speak at all.
+
+duchess
+
+   let as not talk of this!  let us go hence:
+   is not the barrier broken down between us?
+   what would you more?  come, it is almost morning.
+
+                                             [_puts her hand on_ guidos.]
+
+guido [_breaking from her_]
+
+   o damned saint!  o angel fresh from hell!
+   what bloody devil tempted thee to this!
+   that thou hast killed thy husband, that is nothing
+   hell was already gaping for his soul
+   but thou hast murdered love, and in its place
+   hast set a horrible and bloodstained thing,
+   whose very breath breeds pestilence and plague,
+   and strangles love.
+
+duchess [_in amazed wonder_]
+
+   i did it all for you.
+   i would not have you do it, had you willed it,
+   for i would keep you without blot or stain,
+   a thing unblemished, unassailed, untarnished.
+   men do not know what women do for love.
+   have i not wrecked my soul for your dear sake,
+   here and hereafter?
+
+guido
+
+   no, do not touch me,
+   between us lies a thin red stream of blood;
+   i dare not look across it: when you stabbed him
+   you stabbed love with a sharp knife to the heart.
+   we cannot meet again.
+
+duchess [_wringing her hands_]
+
+   for you!  for you!
+   i did it all for you: have you forgotten?
+   you said there was a barrier between us;
+   that barrier lies now i the upper chamber
+   upset, overthrown, beaten, and battered down,
+   and will not part us ever.
+
+guido
+
+   no, you mistook:
+   sin was the barrier, you have raised it up;
+   crime was the barrier, you have set it there.
+   the barrier was murder, and your hand
+   has builded it so high it shuts out heaven,
+   it shuts out god.
+
+duchess
+
+   i did it all for you;
+   you dare not leave me now: nay, guido, listen.
+   get horses ready, we will fly to-night.
+   the past is a bad dream, we will forget it:
+   before us lies the future: shall we not have
+   sweet days of love beneath our vines and laugh?
+   no, no, we will not laugh, but, when we weep,
+   well, we will weep together; i will serve you;
+   i will be very meek and very gentle:
+   you do not know me.
+
+guido
+
+   nay, i know you now;
+   get hence, i say, out of my sight.
+
+duchess [_pacing up and down_]
+
+   o god,
+   how i have loved this man!
+
+guido
+
+   you never loved me.
+   had it been so, love would have stayed your hand.
+   how could we sit together at loves table?
+   you have poured poison in the sacred wine,
+   and murder dips his fingers in the sop.
+
+duchess [_throws herself on her knees_]
+
+   then slay me now!  i have spilt blood to-night,
+   you shall spill more, so we go hand in hand
+   to heaven or to hell.  draw your sword, guido.
+   quick, let your soul go chambering in my heart,
+   it will but find its masters image there.
+   nay, if you will not slay me with your sword,
+   bid me to fall upon this reeking knife,
+   and i will do it.
+
+guido [_wresting knife from her_]
+
+   give it to me, i say.
+   o god, your very hands are wet with blood!
+   this place is hell, i cannot tarry here.
+   i pray you let me see your face no more.
+
+duchess
+
+   better for me i had not seen your face.
+
+                  [guido _recoils_: _she seizes his hands as she kneels_.]
+
+   nay, guido, listen for a while:
+   until you came to padua i lived
+   wretched indeed, but with no murderous thought,
+   very submissive to a cruel lord,
+   very obedient to unjust commands,
+   as pure i think as any gentle girl
+   who now would turn in horror from my hands
+
+                                                            [_stands up_.]
+
+   you came: ah!  guido, the first kindly words
+   i ever heard since i had come from france
+   were from your lips: well, well, that is no matter.
+   you came, and in the passion of your eyes
+   i read loves meaning; everything you said
+   touched my dumb soul to music, so i loved you.
+   and yet i did not tell you of my love.
+   twas you who sought me out, knelt at my feet
+   as i kneel now at yours, and with sweet vows,
+
+                                                               [_kneels_.]
+
+   whose music seems to linger in my ears,
+   swore that you loved me, and i trusted you.
+   i think there are many women in the world
+   who would have tempted you to kill the man.
+   i did not.
+   yet i know that had i done so,
+   i had not been thus humbled in the dust,
+
+                                                            [_stands up_.]
+
+   but you had loved me very faithfully.
+
+                                 [_after a pause approaches him timidly_.]
+
+   i do not think you understand me, guido:
+   it was for your sake that i wrought this deed
+   whose horror now chills my young blood to ice,
+   for your sake only.  [_stretching out her arm_.]
+   will you not speak to me?
+   love me a little: in my girlish life
+   i have been starved for love, and kindliness
+   has passed me by.
+
+guido
+
+   i dare not look at you:
+   you come to me with too pronounced a favour;
+   get to your tirewomen.
+
+duchess
+
+   ay, there it is!
+   there speaks the man! yet had you come to me
+   with any heavy sin upon your soul,
+   some murder done for hire, not for love,
+   why, i had sat and watched at your bedside
+   all through the night-time, lest remorse might come
+   and pour his poisons in your ear, and so
+   keep you from sleeping!  sure it is the guilty,
+   who, being very wretched, need love most.
+
+guido
+
+   there is no love where there is any guilt.
+
+duchess
+
+   no love where there is any guilt!  o god,
+   how differently do we love from men!
+   there is many a woman here in padua,
+   some workmans wife, or ruder artisans,
+   whose husband spends the wages of the week
+   in a coarse revel, or a tavern brawl,
+   and reeling home late on the saturday night,
+   finds his wife sitting by a fireless hearth,
+   trying to hush the child who cries for hunger,
+   and then sets to and beats his wife because
+   the child is hungry, and the fire black.
+   yet the wife loves him! and will rise next day
+   with some red bruise across a careworn face,
+   and sweep the house, and do the common service,
+   and try and smile, and only be too glad
+   if he does not beat her a second time
+   before her child!that is how women love.
+
+                                        [_a pause_: guido _says nothing_.]
+
+   i think you will not drive me from your side.
+   where have i got to go if you reject me?
+   you for whose sake this hand has murdered life,
+   you for whose sake my soul has wrecked itself
+   beyond all hope of pardon.
+
+guido
+
+   get thee gone:
+   the dead man is a ghost, and our love too,
+   flits like a ghost about its desolate tomb,
+   and wanders through this charnel house, and weeps
+   that when you slew your lord you slew it also.
+   do you not see?
+
+duchess
+
+   i see when men love women
+   they give them but a little of their lives,
+   but women when they love give everything;
+   i see that, guido, now.
+
+guido
+
+   away, away,
+   and come not back till you have waked your dead.
+
+duchess
+
+   i would to god that i could wake the dead,
+   put vision in the glazed eves, and give
+   the tongue its natural utterance, and bid
+   the heart to beat again: that cannot be:
+   for what is done, is done: and what is dead
+   is dead for ever: the fire cannot warm him:
+   the winter cannot hurt him with its snows;
+   something has gone from him; if you call him now,
+   he will not answer; if you mock him now,
+   he will not laugh; and if you stab him now
+   he will not bleed.
+   i would that i could wake him!
+   o god, put back the sun a little space,
+   and from the roll of time blot out to-night,
+   and bid it not have been!  put back the sun,
+   and make me what i was an hour ago!
+   no, no, time will not stop for anything,
+   nor the sun stay its courses, though repentance
+   calling it back grow hoarse; but you, my love,
+   have you no word of pity even for me?
+   o guido, guido, will you not kiss me once?
+   drive me not to some desperate resolve:
+   women grow mad when they are treated thus:
+   will you not kiss me once?
+
+guido [_holding up knife_]
+
+   i will not kiss you
+   until the blood grows dry upon this knife,
+   [_wildly_]  back to your dead!
+
+duchess [_going up the stairs_]
+
+   why, then i will be gone! and may you find
+   more mercy than you showed to me to-night!
+
+guido
+
+   let me find mercy when i go at night
+   and do foul murder.
+
+duchess [_coming down a few steps_.]
+
+   murder did you say?
+   murder is hungry, and still cries for more,
+   and death, his brother, is not satisfied,
+   but walks the house, and will not go away,
+   unless he has a comrade!  tarry, death,
+   for i will give thee a most faithful lackey
+   to travel with thee!  murder, call no more,
+   for thou shalt eat thy fill.
+   there is a storm
+   will break upon this house before the morning,
+   so horrible, that the white moon already
+   turns grey and sick with terror, the low wind
+   goes moaning round the house, and the high stars
+   run madly through the vaulted firmament,
+   as though the night wept tears of liquid fire
+   for what the day shall look upon.  oh, weep,
+   thou lamentable heaven!  weep thy fill!
+   though sorrow like a cataract drench the fields,
+   and make the earth one bitter lake of tears,
+   it would not be enough.  [_a peal of thunder_.]
+   do you not hear,
+   there is artillery in the heaven to-night.
+   vengeance is wakened up, and has unloosed
+   his dogs upon the world, and in this matter
+   which lies between us two, let him who draws
+   the thunder on his head beware the ruin
+   which the forked flame brings after.
+
+         [_a flash of lightning followed by a peal of thunder_.]
+
+guido
+
+   away! away!
+
+[_exit the_ duchess, _who as she lifts the crimson curtain looks back for
+a moment at_ guido, _but he makes no sign_.  _more thunder_.]
+
+   now is life fallen in ashes at my feet
+   and noble love self-slain; and in its place
+   crept murder with its silent bloody feet.
+   and she who wrought itoh! and yet she loved me,
+   and for my sake did do this dreadful thing.
+   i have been cruel to her: beatrice!
+   beatrice, i say, come back.
+
+  [_begins to ascend staircase_, _when the noise of soldiers is heard_.]
+
+   ah! what is that?
+   torches ablaze, and noise of hurrying feet.
+   pray god they have not seized her.
+
+                                                   [_noise grows louder_.]
+
+   beatrice!
+   there is yet time to escape.  come down, come out!
+
+                 [_the voice of the_ duchess _outside_.]
+
+   this way went he, the man who slew my lord.
+
+[_down the staircase comes hurrying a confused body of soldiers_; guido
+_is not seen at first_, _till the_ duchess _surrounded by servants
+carrying torches appears at the top of the staircase_, _and points to_
+guido, _who is seized at once_, _one of the soldiers dragging the knife
+from his hand and showing it to the captain of the guard in sight of the
+audience_.  _tableau_.]
+
+                               end of act iii.
+
+                                  * * * * *
+
+
+
+
+act iv
+
+
+                                  scene
+
+_the court of justice_: _the walls are hung with stamped grey velvet_:
+_above the hangings the wall is red_, _and gilt symbolical figures bear
+up the roof_, _which is made of red beams with grey soffits and
+moulding_: _a canopy of white satin flowered with gold is set for the
+duchess_: _below it a long bench with red cloth for the judges_: _below
+that a table for the clerks of the court.  two soldiers stand on each
+side of the canopy_, _and two soldiers guard the door_; _the citizens
+have some of them collected in the court_; _others are coming in greeting
+one another_; _two tipstaffs in violet keep order with long white wands_.
+
+first citizen
+
+   good morrow, neighbour anthony.
+
+second citizen
+
+   good morrow, neighbour dominick.
+
+first citizen
+
+   this is a strange day for padua, is it not?the duke being dead.
+
+second citizen
+
+   i tell you, neighbour dominick, i have not known such a day since the
+   last duke died.
+
+first citizen
+
+   they will try him first, and sentence him afterwards, will they not,
+   neighbour anthony?
+
+second citizen
+
+   nay, for he might scape his punishment then; but they will condemn
+   him first so that he gets his deserts, and give him trial afterwards
+   so that no injustice is done.
+
+first citizen
+
+   well, well, it will go hard with him i doubt not.
+
+second citizen
+
+   surely it is a grievous thing to shed a dukes blood.
+
+third citizen
+
+   they say a duke has blue blood.
+
+second citizen
+
+   i think our dukes blood was black like his soul.
+
+first citizen
+
+   have a watch, neighbour anthony, the officer is looking at thee.
+
+second citizen
+
+   i care not if he does but look at me; he cannot whip me with the
+   lashes of his eye.
+
+third citizen
+
+   what think you of this young man who stuck the knife into the duke?
+
+second citizen
+
+   why, that he is a well-behaved, and a well-meaning, and a
+   well-favoured lad, and yet wicked in that he killed the duke.
+
+third citizen
+
+   twas the first time he did it: may be the law will not be hard on
+   him, as he did not do it before.
+
+second citizen
+
+   true.
+
+tipstaff
+
+   silence, knave.
+
+second citizen
+
+   am i thy looking-glass, master tipstaff, that thou callest me knave?
+
+first citizen
+
+   here be one of the household coming.  well, dame lucy, thou art of the
+   court, how does thy poor mistress the duchess, with her sweet face?
+
+mistress lucy
+
+   o well-a-day!  o miserable day!  o day!  o misery!  why it is just
+   nineteen years last june, at michaelmas, since i was married to my
+   husband, and it is august now, and here is the duke murdered; there is
+   a coincidence for you!
+
+second citizen
+
+   why, if it is a coincidence, they may not kill the young man: there is
+   no law against coincidences.
+
+first citizen
+
+   but how does the duchess?
+
+mistress lucy
+
+   well well, i knew some harm would happen to the house: six weeks ago
+   the cakes were all burned on one side, and last saint martin even as
+   ever was, there flew into the candle a big moth that had wings, and
+   amost scared me.
+
+first citizen
+
+   but come to the duchess, good gossip: what of her?
+
+mistress lucy
+
+   marry, it is time you should ask after her, poor lady; she is
+   distraught almost.  why, she has not slept, but paced the chamber all
+   night long.  i prayed her to have a posset, or some aqua-vit, and to
+   get to bed and sleep a little for her healths sake, but she answered
+   me she was afraid she might dream.  that was a strange answer, was it
+   not?
+
+second citizen
+
+   these great folk have not much sense, so providence makes it up to
+   them in fine clothes.
+
+mistress lucy
+
+   well, well, god keep murder from us, i say, as long as we are alive.
+
+                                     [_enter_ lord moranzone _hurriedly_.]
+
+moranzone
+
+   is the duke dead?
+
+second citizen
+
+   he has a knife in his heart, which they say is not healthy for any
+   man.
+
+moranzone
+
+   who is accused of having killed him?
+
+second citizen
+
+   why, the prisoner, sir.
+
+moranzone
+
+   but who is the prisoner?
+
+second citizen
+
+   why, he that is accused of the dukes murder.
+
+moranzone
+
+   i mean, what is his name?
+
+second citizen
+
+   faith, the same which his godfathers gave him: what else should it be?
+
+tipstaff
+
+   guido ferranti is his name, my lord.
+
+moranzone
+
+   i almost knew thine answer ere you gave it.
+
+                                                                [_aside_.]
+
+   yet it is strange he should have killed the duke,
+   seeing he left me in such different mood.
+   it is most likely when he saw the man,
+   this devil who had sold his fathers life,
+   that passion from their seat within his heart
+   thrust all his boyish theories of love,
+   and in their place set vengeance; yet i marvel
+   that he escaped not.
+
+                                           [_turning again to the crowd_.]
+
+   how was he taken?  tell me.
+
+third citizen
+
+   marry, sir, he was taken by the heels.
+
+moranzone
+
+   but who seized him?
+
+third citizen
+
+   why, those that did lay hold of him.
+
+moranzone
+
+   how was the alarm given?
+
+third citizen
+
+   that i cannot tell you, sir.
+
+mistress lucy
+
+   it was the duchess herself who pointed him out.
+
+moranzone [_aside_]
+
+   the duchess!  there is something strange in this.
+
+mistress lucy
+
+   ay! and the dagger was in his handthe duchesss own dagger.
+
+moranzone
+
+   what did you say?
+
+mistress lucy
+
+   why, marry, that it was with the duchesss dagger that the duke was
+   killed.
+
+moranzone [_aside_]
+
+   there is some mystery about this: i cannot understand it.
+
+second citizen
+
+   they be very long a-coming,
+
+first citizen
+
+   i warrant they will come soon enough for the prisoner.
+
+tipstaff
+
+   silence in the court!
+
+first citizen
+
+   thou dost break silence in bidding us keep it, master tipstaff.
+
+                        [_enter the_ lord justice _and the other judges_.]
+
+second citizen
+
+   who is he in scarlet?  is he the headsman?
+
+third citizen
+
+   nay, he is the lord justice.
+
+                                                [_enter_ guido _guarded_.]
+
+second citizen
+
+   there be the prisoner surely.
+
+third citizen
+
+   he looks honest.
+
+first citizen
+
+   that be his villany: knaves nowadays do look so honest that honest
+   folk are forced to look like knaves so as to be different.
+
+                [_enter the headman_, _who takes his stand behind_ guido.]
+
+second citizen
+
+   yon be the headsman then!  o lord!  is the axe sharp, think you?
+
+first citizen
+
+   ay! sharper than thy wits are; but the edge is not towards him, mark
+   you.
+
+second citizen [_scratching his neck_]
+
+   i faith, i like it not so near.
+
+first citizen
+
+   tut, thou needst not be afraid; they never cut the heads of common
+   folk: they do but hang us.
+
+                                                     [_trumpets outside_.]
+
+third citizen
+
+   what are the trumpets for?  is the trial over?
+
+first citizen
+
+   nay, tis for the duchess.
+
+[_enter the_ duchess _in black velvet_; _her train of flowered black
+velvet is carried by two pages in violet_; _with her is the_ cardinal _in
+scarlet_, _and the gentlemen of the court in black_; _she takes her seat
+on the throne above the judges_, _who rise and take their caps off as she
+enters_; _the_ cardinal _sits next to her a little lower_; _the courtiers
+group themselves about the throne_.]
+
+second citizen
+
+   o poor lady, how pale she is!  will she sit there?
+
+first citizen
+
+   ay! she is in the dukes place now.
+
+second citizen
+
+   that is a good thing for padua; the duchess is a very kind and
+   merciful duchess; why, she cured my child of the ague once.
+
+third citizen
+
+   ay, and has given us bread: do not forget the bread.
+
+a soldier
+
+   stand back, good people.
+
+second citizen
+
+   if we be good, why should we stand back?
+
+tipstaff
+
+   silence in the court!
+
+lord justice
+
+   may it please your grace,
+   is it your pleasure we proceed to trial
+   of the dukes murder?  [duchess _bows_.]
+   set the prisoner forth.
+   what is thy name?
+
+guido
+
+   it matters not, my lord.
+
+lord justice
+
+   guido ferranti is thy name in padua.
+
+guido
+
+   a man may die as well under that name as any other.
+
+lord justice
+
+   thou art not ignorant
+   what dreadful charge men lay against thee here,
+   namely, the treacherous murder of thy lord,
+   simone gesso, duke of padua;
+   what dost thou say in answer?
+
+guido
+
+   i say nothing.
+
+lord justice [_rising_]
+
+   guido ferranti
+
+moranzone [_stepping from the crowd_]
+
+   tarry, my lord justice.
+
+lord justice
+
+   who art thou that bidst justice tarry, sir?
+
+moranzone
+
+   so be it justice it can go its way;
+   but if it be not justice
+
+lord justice
+
+   who is this?
+
+count bardi
+
+   a very noble gentleman, and well known
+   to the late duke.
+
+lord justice
+
+   sir, thou art come in time
+   to see the murder of the duke avenged.
+   there stands the man who did this heinous thing.
+
+moranzone
+
+   my lord,
+   i ask again what proof have ye?
+
+lord justice [_holding up the dagger_]
+
+   this dagger,
+   which from his blood-stained hands, itself all blood,
+   last night the soldiers seized: what further proof
+   need we indeed?
+
+moranzone [_takes the danger and approaches the_ duchess]
+
+   saw i not such a dagger
+   hang from your graces girdle yesterday?
+
+             [_the_ duchess _shudders and makes no answer_.]
+
+   ah! my lord justice, may i speak a moment
+   with this young man, who in such peril stands?
+
+lord justice
+
+   ay, willingly, my lord, and may you turn him
+   to make a full avowal of his guilt.
+
+[lord moranzone _goes over to_ guido, _who stands r. and clutches him by
+the hand_.]
+
+moranzone [_in a low voice_]
+
+   she did it!  nay, i saw it in her eyes.
+   boy, dost thou think ill let thy fathers son
+   be by this woman butchered to his death?
+   her husband sold your father, and the wife
+   would sell the son in turn.
+
+guido
+
+   lord moranzone,
+   i alone did this thing: be satisfied,
+   my father is avenged.
+
+lord justice
+
+   doth he confess?
+
+guido
+
+   my lord, i do confess
+   that foul unnatural murder has been done.
+
+first citizen
+
+   why, look at that: he has a pitiful heart, and does not like murder;
+   they will let him go for that.
+
+lord justice
+
+   say you no more?
+
+guido
+
+   my lord, i say this also,
+   that to spill human blood is deadly sin.
+
+second citizen
+
+   marry, he should tell that to the headsman: tis a good sentiment.
+
+guido
+
+   lastly, my lord, i do entreat the court
+   to give me leave to utter openly
+   the dreadful secret of this mystery,
+   and to point out the very guilty one
+   who with this dagger last night slew the duke.
+
+lord justice
+
+   thou hast leave to speak.
+
+duchess [_rising_]
+
+   i say he shall not speak:
+   what need have we of further evidence?
+   was he not taken in the house at night
+   in guilts own bloody livery?
+
+lord justice [_showing her the statute_]
+
+   your grace
+   can read the law.
+
+duchess [_waiving book aside_]
+
+   bethink you, my lord justice,
+   is it not very like that such a one
+   may, in the presence of the people here,
+   utter some slanderous word against my lord,
+   against the city, or the citys honour,
+   perchance against myself.
+
+lord justice
+
+   my liege, the law.
+
+duchess
+
+   he shall not speak, but, with gags in his mouth,
+   shall climb the ladder to the bloody block.
+
+lord justice
+
+   the law, my liege.
+
+duchess
+
+   we are not bound by law,
+   but with it we bind others.
+
+moranzone
+
+   my lord justice,
+   thou wilt not suffer this injustice here.
+
+lord justice
+
+   the court needs not thy voice, lord moranzone.
+   madam, it were a precedent most evil
+   to wrest the law from its appointed course,
+   for, though the cause be just, yet anarchy
+   might on this licence touch these golden scales
+   and unjust causes unjust victories gain.
+
+count bardi
+
+   i do not think your grace can stay the law.
+
+duchess
+
+   ay, it is well to preach and prate of law:
+   methinks, my haughty lords of padua,
+   if ye are hurt in pocket or estate,
+   so much as makes your monstrous revenues
+   less by the value of one ferry toll,
+   ye do not wait the tedious laws delay
+   with such sweet patience as ye counsel me.
+
+count bardi
+
+   madam, i think you wrong our nobles here.
+
+duchess
+
+   i think i wrong them not.  which of you all
+   finding a thief within his house at night,
+   with some poor chattel thrust into his rags,
+   will stop and parley with him? do ye not
+   give him unto the officer and his hook
+   to be dragged gaolwards straightway?
+   and so now,
+   had ye been men, finding this fellow here,
+   with my lords life still hot upon his hands,
+   ye would have haled him out into the court,
+   and struck his head off with an axe.
+
+guido
+
+   o god!
+
+duchess
+
+   speak, my lord justice.
+
+lord justice
+
+   your grace, it cannot be:
+   the laws of padua are most certain here:
+   and by those laws the common murderer even
+   may with his own lips plead, and make defence.
+
+duchess
+
+   this is no common murderer, lord justice,
+   but a great outlaw, and a most vile traitor,
+   taken in open arms against the state.
+   for he who slays the man who rules a state
+   slays the state also, widows every wife,
+   and makes each child an orphan, and no less
+   is to be held a public enemy,
+   than if he came with mighty ordonnance,
+   and all the spears of venice at his back,
+   to beat and batter at our city gates
+   nay, is more dangerous to our commonwealth,
+   for walls and gates, bastions and forts, and things
+   whose common elements are wood and stone
+   may be raised up, but who can raise again
+   the ruined body of my murdered lord,
+   and bid it live and laugh?
+
+maffio
+
+   now by saint paul
+   i do not think that they will let him speak.
+
+jeppo vitellozzo
+
+   there is much in this, listen.
+
+duchess
+
+   wherefore now,
+   throw ashes on the head of padua,
+   with sable banners hang each silent street,
+   let every man be clad in solemn black;
+   but ere we turn to these sad rites of mourning
+   let us bethink us of the desperate hand
+   which wrought and brought this ruin on our state,
+   and straightway pack him to that narrow house,
+   where no voice is, but with a little dust
+   death fills right up the lying mouths of men.
+
+guido
+
+   unhand me, knaves!  i tell thee, my lord justice,
+   thou mightst as well bid the untrammelled ocean,
+   the winter whirlwind, or the alpine storm,
+   not roar their will, as bid me hold my peace!
+   ay! though ye put your knives into my throat,
+   each grim and gaping wound shall find a tongue,
+   and cry against you.
+
+lord justice
+
+   sir, this violence
+   avails you nothing; for save the tribunal
+   give thee a lawful right to open speech,
+   naught that thou sayest can be credited.
+
+     [_the_ duchess _smiles and_ guido _falls back with a gesture of
+                                despair_.]
+
+   madam, myself, and these wise justices,
+   will with your graces sanction now retire
+   into another chamber, to decide
+   upon this difficult matter of the law,
+   and search the statutes and the precedents.
+
+duchess
+
+   go, my lord justice, search the statutes well,
+   nor let this brawling traitor have his way.
+
+moranzone
+
+   go, my lord justice, search thy conscience well,
+   nor let a man be sent to death unheard.
+
+                               [_exit the_ lord justice _and the judges_.]
+
+duchess
+
+   silence, thou evil genius of my life!
+   thou comst between us two a second time;
+   this time, my lord, i think the turn is mine.
+
+guido
+
+   i shall not die till i have uttered voice.
+
+duchess
+
+   thou shalt die silent, and thy secret with thee.
+
+guido
+
+   art thou that beatrice, duchess of padua?
+
+duchess
+
+   i am what thou hast made me; look at me well,
+   i am thy handiwork.
+
+maffio
+
+   see, is she not
+   like that white tigress which we saw at venice,
+   sent by some indian soldan to the doge?
+
+jeppo
+
+   hush! she may hear thy chatter.
+
+headsman
+
+   my young fellow,
+   i do not know why thou shouldst care to speak,
+   seeing my axe is close upon thy neck,
+   and words of thine will never blunt its edge.
+   but if thou art so bent upon it, why
+   thou mightest plead unto the churchman yonder:
+   the common people call him kindly here,
+   indeed i know he has a kindly soul.
+
+guido
+
+   this man, whose trade is death, hath courtesies
+   more than the others.
+
+headsman
+
+   why, god love you, sir,
+   ill do you your last service on this earth.
+
+guido
+
+   my good lord cardinal, in a christian land,
+   with lord christs face of mercy looking down
+   from the high seat of judgment, shall a man
+   die unabsolved, unshrived?  and if not so,
+   may i not tell this dreadful tale of sin,
+   if any sin there be upon my soul?
+
+duchess
+
+   thou dost but waste thy time.
+
+cardinal
+
+   alack, my son,
+   i have no power with the secular arm.
+   my task begins when justice has been done,
+   to urge the wavering sinner to repent
+   and to confess to holy churchs ear
+   the dreadful secrets of a sinful mind.
+
+duchess
+
+   thou mayest speak to the confessional
+   until thy lips grow weary of their tale,
+   but here thou shalt not speak.
+
+guido
+
+   my reverend father,
+   you bring me but cold comfort.
+
+cardinal
+
+   nay, my son,
+   for the great power of our mother church,
+   ends not with this poor bubble of a world,
+   of which we are but dust, as jerome saith,
+   for if the sinner doth repentant die,
+   our prayers and holy masses much avail
+   to bring the guilty soul from purgatory.
+
+duchess
+
+   and when in purgatory thou seest my lord
+   with that red star of blood upon his heart,
+   tell him i sent thee hither.
+
+guido
+
+   o dear god!
+
+moranzone
+
+   this is the woman, is it, whom you loved?
+
+cardinal
+
+   your grace is very cruel to this man.
+
+duchess
+
+   no more than he was cruel to her grace.
+
+cardinal
+
+   yet mercy is the sovereign right of princes.
+
+duchess
+
+   i got no mercy, and i give it not.
+   he hath changed my heart into a heart of stone,
+   he hath sown rank nettles in a goodly field,
+   he hath poisoned the wells of pity in my breast,
+   he hath withered up all kindness at the root;
+   my life is as some famine murdered land,
+   whence all good things have perished utterly:
+   i am what he hath made me.
+
+                                                  [_the_ duchess _weeps_.]
+
+jeppo
+
+   is it not strange
+   that she should so have loved the wicked duke?
+
+maffio
+
+   it is most strange when women love their lords,
+   and when they love them not it is most strange.
+
+jeppo
+
+   what a philosopher thou art, petrucci!
+
+maffio
+
+   ay!  i can bear the ills of other men,
+   which is philosophy.
+
+duchess
+
+   they tarry long,
+   these greybeards and their council; bid them come;
+   bid them come quickly, else i think my heart
+   will beat itself to bursting: not indeed,
+   that i here care to live; god knows my life
+   is not so full of joy, yet, for all that,
+   i would not die companionless, or go
+   lonely to hell.
+   look, my lord cardinal,
+   canst thou not see across my forehead here,
+   in scarlet letters writ, the word revenge?
+   fetch me some water, i will wash it off:
+   twas branded there last night, but in the day-time
+   i need not wear it, need i, my lord cardinal?
+   oh, how it sears and burns into my brain:
+   give me a knife; not that one, but another,
+   and i will cut it out.
+
+cardinal
+
+   it is most natural
+   to be incensed against the murderous hand
+   that treacherously stabbed your sleeping lord.
+
+duchess
+
+   i would, old cardinal, i could burn that hand;
+   but it will burn hereafter.
+
+cardinal
+
+   nay, the church
+   ordains us to forgive our enemies.
+
+duchess
+
+   forgiveness? what is that?  i never got it.
+   they come at last: well, my lord justice, well.
+
+                                               [_enter the_ lord justice.]
+
+lord justice
+
+   most gracious lady, and our sovereign liege,
+   we have long pondered on the point at issue,
+   and much considered of your graces wisdom,
+   and never wisdom spake from fairer lips
+
+duchess
+
+   proceed, sir, without compliment.
+
+lord justice
+
+   we find,
+   as your own grace did rightly signify,
+   that any citizen, who by force or craft
+   conspires against the person of the liege,
+   is _ipso facto_ outlaw, void of rights
+   such as pertain to other citizens,
+   is traitor, and a public enemy,
+   who may by any casual sword be slain
+   without the slayers danger; nay, if brought
+   into the presence of the tribunal,
+   must with dumb lips and silence reverent
+   listen unto his well-deserved doom,
+   nor has the privilege of open speech.
+
+duchess
+
+   i thank thee, my lord justice, heartily;
+   i like your law: and now i pray dispatch
+   this public outlaw to his righteous doom;
+   what is there more?
+
+lord justice
+
+   ay, there is more, your grace.
+   this man being alien born, not paduan,
+   nor by allegiance bound unto the duke,
+   save such as common nature doth lay down,
+   hath, though accused of treasons manifold,
+   whose slightest penalty is certain death,
+   yet still the right of public utterance
+   before the people and the open court;
+   nay, shall be much entreated by the court,
+   to make some formal pleading for his life,
+   lest his own city, righteously incensed,
+   should with an unjust trial tax our state,
+   and wars spring up against the commonwealth:
+   so merciful are the laws of padua
+   unto the stranger living in her gates.
+
+duchess
+
+   being of my lords household, is he stranger here?
+
+lord justice
+
+   ay, until seven years of service spent
+   he cannot be a paduan citizen.
+
+guido
+
+   i thank thee, my lord justice, heartily;
+   i like your law.
+
+second citizen
+
+   i like no law at all:
+   were there no law thered be no law-breakers,
+   so all men would be virtuous.
+
+first citizen
+
+   so they would;
+   tis a wise saying that, and brings you far.
+
+tipstaff
+
+   ay! to the gallows, knave.
+
+duchess
+
+   is this the law?
+
+lord justice
+
+   it is the law most certainly, my liege.
+
+duchess
+
+   show me the book: tis written in blood-red.
+
+jeppo
+
+   look at the duchess.
+
+duchess
+
+   thou accursed law,
+   i would that i could tear thee from the state
+   as easy as i tear thee from this book.
+
+                                                   [_tears out the page_.]
+
+   come here, count bardi: are you honourable?
+   get a horse ready for me at my house,
+   for i must ride to venice instantly.
+
+bardi
+
+   to venice, madam?
+
+duchess
+
+   not a word of this,
+   go, go at once.  [_exit_ count bardi.]
+   a moment, my lord justice.
+   if, as thou sayest it, this is the law
+   nay, nay, i doubt not that thou sayest right,
+   though right be wrong in such a case as this
+   may i not by the virtue of mine office
+   adjourn this court until another day?
+
+lord justice
+
+   madam, you cannot stay a trial for blood.
+
+duchess
+
+   i will not tarry then to hear this man
+   rail with rude tongue against our sacred person.
+   come, gentlemen.
+
+lord justice
+
+   my liege,
+   you cannot leave this court until the prisoner
+   be purged or guilty of this dread offence.
+
+duchess
+
+   cannot, lord justice?  by what right do you
+   set barriers in my path where i should go?
+   am i not duchess here in padua,
+   and the states regent?
+
+lord justice
+
+   for that reason, madam,
+   being the fountain-head of life and death
+   whence, like a mighty river, justice flows,
+   without thy presence justice is dried up
+   and fails of purpose: thou must tarry here.
+
+duchess
+
+   what, wilt thou keep me here against my will?
+
+lord justice
+
+   we pray thy will be not against the law.
+
+duchess
+
+   what if i force my way out of the court?
+
+lord justice
+
+   thou canst not force the court to give thee way.
+
+duchess
+
+   i will not tarry.  [_rises from her seat_.]
+
+lord justice
+
+   is the usher here?
+   let him stand forth.  [_usher comes forward_.]
+   thou knowest thy business, sir.
+
+[_the usher closes the doors of the court_, _which are l._, _and when
+the_ duchess _and her retinue approach_, _kneels down_.]
+
+usher
+
+   in all humility i beseech your grace
+   turn not my duty to discourtesy,
+   nor make my unwelcome office an offence.
+
+duchess
+
+   is there no gentleman amongst you all
+   to prick this prating fellow from our way?
+
+maffio [_drawing his sword_]
+
+   ay! that will i.
+
+lord justice
+
+   count maffio, have a care,
+   and you, sir.  [_to_ jeppo.]
+   the first man who draws his sword
+   upon the meanest officer of this court,
+   dies before nightfall.
+
+duchess
+
+   sirs, put up your swords:
+   it is most meet that i should hear this man.
+
+                                                  [_goes back to throne_.]
+
+moranzone
+
+   now hast thou got thy enemy in thy hand.
+
+lord justice [_taking the time-glass up_]
+
+   guido ferranti, while the crumbling sand
+   falls through this time-glass, thou hast leave to speak.
+   this and no more.
+
+guido
+
+   it is enough, my lord.
+
+lord justice
+
+   thou standest on the extreme verge of death;
+   see that thou speakest nothing but the truth,
+   naught else will serve thee.
+
+guido
+
+   if i speak it not,
+   then give my body to the headsman there.
+
+lord justice [_turns the time-glass_]
+
+   let there be silence while the prisoner speaks.
+
+tipstaff
+
+   silence in the court there.
+
+guido
+
+   my lords justices,
+   and reverent judges of this worthy court,
+   i hardly know where to begin my tale,
+   so strangely dreadful is this history.
+   first, let me tell you of what birth i am.
+   i am the son of that good duke lorenzo
+   who was with damned treachery done to death
+   by a most wicked villain, lately duke
+   of this good town of padua.
+
+lord justice
+
+   have a care,
+   it will avail thee nought to mock this prince
+   who now lies in his coffin.
+
+maffio
+
+   by saint james,
+   this is the duke of parmas rightful heir.
+
+jeppo
+
+   i always thought him noble.
+
+guido
+
+   i confess
+   that with the purport of a just revenge,
+   a most just vengeance on a man of blood,
+   i entered the dukes household, served his will,
+   sat at his board, drank of his wine, and was
+   his intimate: so much i will confess,
+   and this too, that i waited till he grew
+   to give the fondest secrets of his life
+   into my keeping, till he fawned on me,
+   and trusted me in every private matter
+   even as my noble father trusted him;
+   that for this thing i waited.
+
+                                                      [_to the headsman_.]
+
+   thou man of blood!
+   turn not thine axe on me before the time:
+   who knows if it be time for me to die?
+   is there no other neck in court but mine?
+
+lord justice
+
+   the sand within the time-glass flows apace.
+   come quickly to the murder of the duke.
+
+guido
+
+   i will be brief: last night at twelve o the clock,
+   by a strong rope i scaled the palace wall,
+   with purport to revenge my fathers murder
+   ay! with that purport i confess, my lord.
+   this much i will acknowledge, and this also,
+   that as with stealthy feet i climbed the stair
+   which led unto the chamber of the duke,
+   and reached my hand out for the scarlet cloth
+   which shook and shivered in the gusty door,
+   lo! the white moon that sailed in the great heaven
+   flooded with silver light the darkened room,
+   night lit her candles for me, and i saw
+   the man i hated, cursing in his sleep;
+   and thinking of a most dear father murdered,
+   sold to the scaffold, bartered to the block,
+   i smote the treacherous villain to the heart
+   with this same dagger, which by chance i found
+   within the chamber.
+
+duchess [_rising from her seat_]
+
+   oh!
+
+guido [_hurriedly_]
+
+   i killed the duke.
+   now, my lord justice, if i may crave a boon,
+   suffer me not to see another sun
+   light up the misery of this loathsome world.
+
+lord justice
+
+   thy boon is granted, thou shalt die to-night.
+   lead him away.  come, madam
+
+[guido _is led off_; _as he goes the_ duchess _stretches out her arms and
+rushes down the stage_.]
+
+duchess
+
+   guido!  guido!
+
+                                                               [_faints_.]
+
+                                _tableau_
+
+                               end of act iv.
+
+                                  * * * * *
+
+
+
+
+act v
+
+
+                                  scene
+
+_a dungeon in the public prison of padua_; _guido lies asleep on a
+pallet_ (_l.c._); _a table with a goblet on it is set_ (_l.c._); _five
+soldiers are drinking and playing dice in the corner on a stone table_;
+_one of them has a lantern hung to his halbert_; _a torch is set in the
+wall over guidos head_.  _two grated windows behind_, _one on each side
+of the door which is_ (_c._), _look out into the passage_; _the stage is
+rather dark_.
+
+first soldier [_throws dice_]
+
+   sixes again! good pietro.
+
+second soldier
+
+   i faith, lieutenant, i will play with thee no more.  i will lose
+   everything.
+
+third soldier
+
+   except thy wits; thou art safe there!
+
+second soldier
+
+   ay, ay, he cannot take them from me.
+
+third soldier
+
+   no; for thou hast no wits to give him.
+
+the soldiers [_loudly_]
+
+   ha! ha! ha!
+
+first soldier
+
+   silence!  you will wake the prisoner; he is asleep.
+
+second soldier
+
+   what matter?  he will get sleep enough when he is buried.  i warrant
+   hed be glad if we could wake him when hes in the grave.
+
+third soldier
+
+   nay! for when he wakes there it will be judgment day.
+
+second soldier
+
+   ay, and he has done a grievous thing; for, look you, to murder one of
+   us who are but flesh and blood is a sin, and to kill a duke goes being
+   near against the law.
+
+first soldier
+
+   well, well, he was a wicked duke.
+
+second soldier
+
+   and so he should not have touched him; if one meddles with wicked
+   people, one is like to be tainted with their wickedness.
+
+third soldier
+
+   ay, that is true.  how old is the prisoner?
+
+second soldier
+
+   old enough to do wrong, and not old enough to be wise.
+
+first soldier
+
+   why, then, he might be any age.
+
+second soldier
+
+   they say the duchess wanted to pardon him.
+
+first soldier
+
+   is that so?
+
+second soldier
+
+   ay, and did much entreat the lord justice, but he would not.
+
+first soldier
+
+   i had thought, pietro, that the duchess was omnipotent.
+
+second soldier
+
+   true, she is well-favoured; i know none so comely.
+
+the soldiers
+
+   ha! ha! ha!
+
+first soldier
+
+   i meant i had thought our duchess could do anything.
+
+second soldier
+
+   nay, for he is now given over to the justices, and they will see that
+   justice be done; they and stout hugh the headsman; but when his head
+   is off, why then the duchess can pardon him if she likes; there is no
+   law against that.
+
+first soldier
+
+   i do not think that stout hugh, as you call him, will do the business
+   for him after all.  this guido is of gentle birth, and so by the law
+   can drink poison first, if it so be his pleasure.
+
+third soldier
+
+   and if he does not drink it?
+
+first soldier
+
+   why, then, they will kill him.
+
+                                           [_knocking comes at the door_.]
+
+first soldier
+
+   see who that is.
+
+        [_third soldier goes over and looks through the wicket_.]
+
+third soldier
+
+   it is a woman, sir.
+
+first soldier
+
+   is she pretty?
+
+third soldier
+
+   i cant tell.  she is masked, lieutenant.
+
+first soldier
+
+   it is only very ugly or very beautiful women who ever hide their
+   faces.  let her in.
+
+     [_soldier opens the door_, _and the_ duchess _masked and cloaked
+                                enters_.]
+
+duchess [_to third soldier_]
+
+   are you the officer on guard?
+
+first soldier [_coming forward_]
+
+   i am, madam.
+
+duchess
+
+   i must see the prisoner alone.
+
+first soldier
+
+   i am afraid that is impossible.  [_the_ duchess _hands him a ring_,
+   _he looks at and returns it to her with a bow and makes a sign to the
+   soldiers_.]  stand without there.
+
+                                                  [_exeunt the soldiers_.]
+
+duchess
+
+   officer, your men are somewhat rough.
+
+first soldier
+
+   they mean no harm.
+
+duchess
+
+   i shall be going back in a few minutes.  as i pass through the
+   corridor do not let them try and lift my mask.
+
+first soldier
+
+   you need not be afraid, madam.
+
+duchess
+
+   i have a particular reason for wishing my face not to be seen.
+
+first soldier
+
+   madam, with this ring you can go in and out as you please; it is the
+   duchesss own ring.
+
+duchess
+
+   leave us.  [_the soldier turns to go out_.]  a moment, sir.  for what
+   hour is . . .
+
+first soldier
+
+   at twelve oclock, madam, we have orders to lead him out; but i dare
+   say he wont wait for us; hes more like to take a drink out of that
+   poison yonder.  men are afraid of the headsman.
+
+duchess
+
+   is that poison?
+
+first soldier
+
+   ay, madam, and very sure poison too.
+
+duchess
+
+   you may go, sir.
+
+first soldier
+
+   by saint james, a pretty hand!  i wonder who she is.  some woman who
+   loved him, perhaps.
+
+                                                                 [_exit_.]
+
+duchess [_taking her mark off_]
+
+   at last!
+   he can escape now in this cloak and vizard,
+   we are of a height almost: they will not know him;
+   as for myself what matter?
+   so that he does not curse me as he goes,
+   i care but little: i wonder will he curse me.
+   he has the right.  it is eleven now;
+   they will not come till twelve.
+
+                                               [_goes over to the table_.]
+
+   so this is poison.
+   is it not strange that in this liquor here
+   there lies the key to all philosophies?
+
+                                                     [_takes the cup up_.]
+
+   it smells of poppies.  i remember well
+   that, when i was a child in sicily,
+   i took the scarlet poppies from the corn,
+   and made a little wreath, and my grave uncle,
+   don john of naples, laughed: i did not know
+   that they had power to stay the springs of life,
+   to make the pulse cease beating, and to chill
+   the blood in its own vessels, till men come
+   and with a hook hale the poor body out,
+   and throw it in a ditch: the body, ay,
+   what of the soul? that goes to heaven or hell.
+   where will mine go?
+
+      [_takes the torch from the wall_, _and goes over to the bed_.]
+
+   how peacefully here he sleeps,
+   like a young schoolboy tired out with play:
+   i would that i could sleep so peacefully,
+   but i have dreams.  [_bending over him_.]
+   poor boy: what if i kissed him?
+   no, no, my lips would burn him like a fire.
+   he has had enough of love.  still that white neck
+   will scape the headsman: i have seen to that:
+   he will get hence from padua to-night,
+   and that is well.  you are very wise, lord justices,
+   and yet you are not half so wise as i am,
+   and that is well.
+   o god! how i have loved you,
+   and what a bloody flower did love bear!
+
+                                              [_comes back to the table_.]
+
+   what if i drank these juices, and so ceased?
+   were it not better than to wait till death
+   come to my bed with all his serving men,
+   remorse, disease, old age, and misery?
+   i wonder does one suffer much: i think
+   that i am very young to die like this,
+   but so it must be.  why, why should i die?
+   he will escape to-night, and so his blood
+   will not be on my head.  no, i must die;
+   i have been guilty, therefore i must die;
+   he loves me not, and therefore i must die:
+   i would die happier if he would kiss me,
+   but he will not do that.  i did not know him.
+   i thought he meant to sell me to the judge;
+   that is not strange; we women never know
+   our lovers till they leave us.
+
+                                                  [_bell begins to toll_.]
+
+   thou vile bell,
+   that like a bloodhound from thy brazen throat
+   callst for this mans life, cease! thou shalt not get it.
+   he stirsi must be quick:  [_takes up cup_.]
+   o love, love, love,
+   i did not think that i would pledge thee thus!
+
+[_drinks poison_, _and sets the cup down on the table behind her_: _the
+noise wakens_ guido, _who starts up_, _and does not see what she has
+done_.  _there is silence for a minute_, _each looking at the other_.]
+
+   i do not come to ask your pardon now,
+   seeing i know i stand beyond all pardon;
+   enough of that: i have already, sir,
+   confessed my sin to the lords justices;
+   they would not listen to me: and some said
+   i did invent a tale to save your life;
+   you have trafficked with me; others said
+   that women played with pity as with men;
+   others that grief for my slain lord and husband
+   had robbed me of my wits: they would not hear me,
+   and, when i sware it on the holy book,
+   they bade the doctor cure me.  they are ten,
+   ten against one, and they possess your life.
+   they call me duchess here in padua.
+   i do not know, sir; if i be the duchess,
+   i wrote your pardon, and they would not take it;
+   they call it treason, say i taught them that;
+   maybe i did.  within an hour, guido,
+   they will be here, and drag you from the cell,
+   and bind your hands behind your back, and bid you
+   kneel at the block: i am before them there;
+   here is the signet ring of padua,
+   twill bring you safely through the men on guard;
+   there is my cloak and vizard; they have orders
+   not to be curious: when you pass the gate
+   turn to the left, and at the second bridge
+   you will find horses waiting: by to-morrow
+   you will be at venice, safe.  [_a pause_.]
+   do you not speak?
+   will you not even curse me ere you go?
+   you have the right.  [_a pause_.]
+   you do not understand
+   there lies between you and the headsmans axe
+   hardly so much sand in the hour-glass
+   as a childs palm could carry: here is the ring:
+   i have washed my hand: there is no blood upon it:
+   you need not fear.  will you not take the ring?
+
+guido [_takes ring and kisses it_]
+
+   ay! gladly, madam.
+
+duchess
+
+   and leave padua.
+
+guido
+
+   leave padua.
+
+duchess
+
+   but it must be to-night.
+
+guido
+
+   to-night it shall be.
+
+duchess
+
+   oh, thank god for that!
+
+guido
+
+   so i can live; life never seemed so sweet
+   as at this moment.
+
+duchess
+
+   do not tarry, guido,
+   there is my cloak: the horse is at the bridge,
+   the second bridge below the ferry house:
+   why do you tarry?  can your ears not hear
+   this dreadful bell, whose every ringing stroke
+   robs one brief minute from your boyish life.
+   go quickly.
+
+guido
+
+   ay! he will come soon enough.
+
+duchess
+
+   who?
+
+guido [_calmly_]
+
+   why, the headsman.
+
+duchess
+
+   no, no.
+
+guido
+
+   only he
+   can bring me out of padua.
+
+duchess
+
+   you dare not!
+   you dare not burden my oerburdened soul
+   with two dead men!  i think one is enough.
+   for when i stand before god, face to face,
+   i would not have you, with a scarlet thread
+   around your white throat, coming up behind
+   to say i did it.
+
+guido
+
+   madam, i wait.
+
+duchess
+
+   no, no, you cannot: you do not understand,
+   i have less power in padua to-night
+   than any common woman; they will kill you.
+   i saw the scaffold as i crossed the square,
+   already the low rabble throng about it
+   with fearful jests, and horrid merriment,
+   as though it were a morris-dancers platform,
+   and not deaths sable throne.  o guido, guido,
+   you must escape!
+
+guido
+
+   madam, i tarry here.
+
+duchess
+
+   guido, you shall not: it would be a thing
+   so terrible that the amazed stars
+   would fall from heaven, and the palsied moon
+   be in her sphere eclipsed, and the great sun
+   refuse to shine upon the unjust earth
+   which saw thee die.
+
+guido
+
+   be sure i shall not stir.
+
+duchess [_wringing her hands_]
+
+   is one sin not enough, but must it breed
+   a second sin more horrible again
+   than was the one that bare it?  o god, god,
+   seal up sins teeming womb, and make it barren,
+   i will not have more blood upon my hand
+   than i have now.
+
+guido [_seizing her hand_]
+
+   what! am i fallen so low
+   that i may not have leave to die for you?
+
+duchess [_tearing her hand away_]
+
+   die for me?no, my life is a vile thing,
+   thrown to the miry highways of this world;
+   you shall not die for me, you shall not, guido;
+   i am a guilty woman.
+
+guido
+
+   guilty?let those
+   who know what a thing temptation is,
+   let those who have not walked as we have done,
+   in the red fire of passion, those whose lives
+   are dull and colourless, in a word let those,
+   if any such there be, who have not loved,
+   cast stones against you.  as for me
+
+duchess
+
+   alas!
+
+guido [_falling at her feet_]
+
+   you are my lady, and you are my love!
+   o hair of gold, o crimson lips, o face
+   made for the luring and the love of man!
+   incarnate image of pure loveliness!
+   worshipping thee i do forget the past,
+   worshipping thee my soul comes close to thine,
+   worshipping thee i seem to be a god,
+   and though they give my body to the block,
+   yet is my love eternal!
+
+    [duchess _puts her hands over her face_: guido _draws them down_.]
+
+   sweet, lift up
+   the trailing curtains that overhang your eyes
+   that i may look into those eyes, and tell you
+   i love you, never more than now when death
+   thrusts his cold lips between us: beatrice,
+   i love you: have you no word left to say?
+   oh, i can bear the executioner,
+   but not this silence: will you not say you love me?
+   speak but that word and death shall lose his sting,
+   but speak it not, and fifty thousand deaths
+   are, in comparison, mercy.  oh, you are cruel,
+   and do not love me.
+
+duchess
+
+   alas!  i have no right
+   for i have stained the innocent hands of love
+   with spilt-out blood: there is blood on the ground;
+   i set it there.
+
+guido
+
+   sweet, it was not yourself,
+   it was some devil tempted you.
+
+duchess [_rising suddenly_]
+
+   no, no,
+   we are each our own devil, and we make
+   this world our hell.
+
+guido
+
+   then let high paradise
+   fall into tartarus! for i shall make
+   this world my heaven for a little space.
+   the sin was mine, if any sin there was.
+   twas i who nurtured murder in my heart,
+   sweetened my meats, seasoned my wine with it,
+   and in my fancy slew the accursed duke
+   a hundred times a day.  why, had this man
+   died half so often as i wished him to,
+   death had been stalking ever through the house,
+   and murder had not slept.
+   but you, fond heart,
+   whose little eyes grew tender over a whipt hound,
+   you whom the little children laughed to see
+   because you brought the sunlight where you passed,
+   you the white angel of gods purity,
+   this which men call your sin, what was it?
+
+duchess
+
+   ay!
+   what was it?  there are times it seems a dream,
+   an evil dream sent by an evil god,
+   and then i see the dead face in the coffin
+   and know it is no dream, but that my hand
+   is red with blood, and that my desperate soul
+   striving to find some haven for its love
+   from the wild tempest of this raging world,
+   has wrecked its bark upon the rocks of sin.
+   what was it, said you?murder merely?  nothing
+   but murder, horrible murder.
+
+guido
+
+   nay, nay, nay,
+   twas but the passion-flower of your love
+   that in one moment leapt to terrible life,
+   and in one moment bare this gory fruit,
+   which i had plucked in thought a thousand times.
+   my soul was murderous, but my hand refused;
+   your hand wrought murder, but your soul was pure.
+   and so i love you, beatrice, and let him
+   who has no mercy for your stricken head,
+   lack mercy up in heaven!  kiss me, sweet.
+
+                                                    [_tries to kiss her_.]
+
+duchess
+
+   no, no, your lips are pure, and mine are soiled,
+   for guilt has been my paramour, and sin
+   lain in my bed: o guido, if you love me
+   get hence, for every moment is a worm
+   which gnaws your life away: nay, sweet, get hence,
+   and if in after time you think of me,
+   think of me as of one who loved you more
+   than anything on earth; think of me, guido,
+   as of a woman merely, one who tried
+   to make her life a sacrifice to love,
+   and slew love in the trial: oh, what is that?
+   the bell has stopped from ringing, and i hear
+   the feet of armed men upon the stair.
+
+guido [_aside_]
+
+   that is the signal for the guard to come.
+
+duchess
+
+   why has the bell stopped ringing?
+
+guido
+
+   if you must know,
+   that stops my life on this side of the grave,
+   but on the other we shall meet again.
+
+duchess
+
+   no, no, tis not too late: you must get hence;
+   the horse is by the bridge, there is still time.
+   away, away, you must not tarry here!
+
+                                     [_noise of soldiers in the passage_.]
+
+a voice outside
+
+   room for the lord justice of padua!
+
+[_the_ lord justice _is seen through the grated window passing down the
+corridor preceded by men bearing torches_.]
+
+duchess
+
+   it is too late.
+
+a voice outside
+
+   room for the headsman.
+
+duchess [_sinks down_]
+
+   oh!
+
+[_the headsman with his axe on his shoulder is seen passing the
+corridor_, _followed by monks bearing candles_.]
+
+guido
+
+   farewell, dear love, for i must drink this poison.
+   i do not fear the headsman, but i would die
+   not on the lonely scaffold.
+   but here,
+   here in thine arms, kissing thy mouth: farewell!
+
+                            [_goes to the table and takes the goblet up_.]
+
+   what, art thou empty?
+
+                                              [_throws it to the ground_.]
+
+   o thou churlish gaoler,
+   even of poisons niggard!
+
+duchess [_faintly_]
+
+   blame him not.
+
+guido
+
+   o god! you have not drunk it, beatrice?
+   tell me you have not?
+
+duchess
+
+   were i to deny it,
+   there is a fire eating at my heart
+   which would find utterance.
+
+guido
+
+   o treacherous love,
+   why have you not left a drop for me?
+
+duchess
+
+   no, no, it held but death enough for one.
+
+guido
+
+   is there no poison still upon your lips,
+   that i may draw it from them?
+
+duchess
+
+   why should you die?
+   you have not spilt blood, and so need not die:
+   i have spilt blood, and therefore i must die.
+   was it not said blood should be spilt for blood?
+   who said that?  i forget.
+
+guido
+
+   tarry for me,
+   our souls will go together.
+
+duchess
+
+   nay, you must live.
+   there are many other women in the world
+   who will love you, and not murder for your sake.
+
+guido
+
+   i love you only.
+
+duchess
+
+   you need not die for that.
+
+guido
+
+   ah, if we die together, love, why then
+   can we not lie together in one grave?
+
+duchess
+
+   a grave is but a narrow wedding-bed.
+
+guido
+
+   it is enough for us
+
+duchess
+
+   and they will strew it
+   with a stark winding-sheet, and bitter herbs:
+   i think there are no roses in the grave,
+   or if there are, they all are withered now
+   since my lord went there.
+
+guido
+
+   ah! dear beatrice,
+   your lips are roses that death cannot wither.
+
+duchess
+
+   nay, if we lie together, will not my lips
+   fall into dust, and your enamoured eyes
+   shrivel to sightless sockets, and the worms,
+   which are our groomsmen, eat away your heart?
+
+guido
+
+   i do not care: death has no power on love.
+   and so by loves immortal sovereignty
+   i will die with you.
+
+duchess
+
+   but the grave is black,
+   and the pit black, so i must go before
+   to light the candles for your coming hither.
+   no, no, i will not die, i will not die.
+   love, you are strong, and young, and very brave;
+   stand between me and the angel of death,
+   and wrestle with him for me.
+
+    [_thrusts_ guido _in front of her with his back to the audience_.]
+
+   i will kiss you,
+   when you have thrown him.  oh, have you no cordial,
+   to stay the workings of this poison in me?
+   are there no rivers left in italy
+   that you will not fetch me one cup of water
+   to quench this fire?
+
+guido
+
+   o god!
+
+duchess
+
+   you did not tell me
+   there was a drought in italy, and no water:
+   nothing but fire.
+
+guido
+
+   o love!
+
+duchess
+
+   send for a leech,
+   not him who stanched my husband, but another
+   we have no time: send for a leech, i say:
+   there is an antidote against each poison,
+   and he will sell it if we give him money.
+   tell him that i will give him padua,
+   for one short hour of life: i will not die.
+   oh, i am sick to death; no, do not touch me,
+   this poison gnaws my heart: i did not know
+   it was such pain to die: i thought that life
+   had taken all the agonies to itself;
+   it seems it is not so.
+
+guido
+
+   o damned stars
+   quench your vile cresset-lights in tears, and bid
+   the moon, your mistress, shine no more to-night.
+
+duchess
+
+   guido, why are we here?  i think this room
+   is poorly furnished for a marriage chamber.
+   let us get hence at once.  where are the horses?
+   we should be on our way to venice now.
+   how cold the night is!  we must ride faster.
+
+                                     [_the monks begin to chant outside_.]
+
+   music!  it should be merrier; but grief
+   is of the fashion nowi know not why.
+   you must not weep: do we not love each other?
+   that is enough.  death, what do you here?
+   you were not bidden to this table, sir;
+   away, we have no need of you: i tell you
+   it was in wine i pledged you, not in poison.
+   they lied who told you that i drank your poison.
+   it was spilt upon the ground, like my lords blood;
+   you came too late.
+
+guido
+
+   sweet, there is nothing there:
+   these things are only unreal shadows.
+
+duchess
+
+   death,
+   why do you tarry, get to the upper chamber;
+   the cold meats of my husbands funeral feast
+   are set for you; this is a wedding feast.
+   you are out of place, sir; and, besides, tis summer.
+   we do not need these heavy fires now,
+   you scorch us.
+   oh, i am burned up,
+   can you do nothing?  water, give me water,
+   or else more poison.  no: i feel no pain
+   is it not curious i should feel no pain?
+   and death has gone away, i am glad of that.
+   i thought he meant to part us.  tell me, guido,
+   are you not sorry that you ever saw me?
+
+guido
+
+   i swear i would not have lived otherwise.
+   why, in this dull and common world of ours
+   men have died looking for such moments as this
+   and have not found them.
+
+duchess
+
+   then you are not sorry?
+   how strange that seems.
+
+guido
+
+   what, beatrice, have i not
+   stood face to face with beauty?  that is enough
+   for one mans life.  why, love, i could be merry;
+   i have been often sadder at a feast,
+   but who were sad at such a feast as this
+   when love and death are both our cup-bearers?
+   we love and die together.
+
+duchess
+
+   oh, i have been
+   guilty beyond all women, and indeed
+   beyond all women punished.  do you think
+   no, that could not beoh, do you think that love
+   can wipe the bloody stain from off my hands,
+   pour balm into my wounds, heal up my hurts,
+   and wash my scarlet sins as white as snow?
+   for i have sinned.
+
+guido
+
+   they do not sin at all
+   who sin for love.
+
+duchess
+
+   no, i have sinned, and yet
+   perchance my sin will be forgiven me.
+   i have loved much
+
+[_they kiss each other now for the first time in this act_, _when
+suddenly the_ duchess _leaps up in the dreadful spasm of death_, _tears
+in agony at her dress_, _and finally_, _with face twisted and distorted
+with pain_, _falls back dead in a chair_.  guido _seizing her dagger from
+her belt_, _kills himself_; _and_, _as he falls across her knees_,
+_clutches at the cloak which is on the back of the chair_, _and throws it
+entirely over her_.  _there is a little pause_.  _then down the passage
+comes the tramp of soldiers_; _the door is opened_, _and the_ lord
+justice, _the headsman_, _and the guard enter and see this figure
+shrouded in black_, _and_ guido _lying dead across her_.  _the_ lord
+justice _rushes forward and drags the cloak off the_ duchess, _whose face
+is now the marble image of peace_, _the sign of gods forgiveness_.]
+
+                                _tableau_
+
+                                 curtain
+
+                                * * * * *
+
+         printed by t. and a. constable, printers to his majesty
+                    at the edinburgh university press
+
+                                * * * * *
+
+
+
+
+***end of the project gutenberg ebook the duchess of padua***
+
+
+******* this file should be named 875-0.txt or 875-0.zip *******
+
+
+this and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/8/7/875
+
+
+updated editions will replace the previous one--the old editions will
+be renamed.
+
+creating the works from print editions not protected by u.s. copyright
+law means that no one owns a united states copyright in these works,
+so the foundation (and you!) can copy and distribute it in the united
+states without permission and without paying copyright
+royalties. special rules, set forth in the general terms of use part
+of this license, apply to copying and distributing project
+gutenberg-tm electronic works to protect the project gutenberg-tm
+concept and trademark. project gutenberg is a registered trademark,
+and may not be used if you charge for the ebooks, unless you receive
+specific permission. if you do not charge anything for copies of this
+ebook, complying with the rules is very easy. you may use this ebook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. they may be modified and printed and given
+away--you may do practically anything in the united states with ebooks
+not protected by u.s. copyright law. redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+start: full license
+
+the full project gutenberg license
+please read this before you distribute or use this work
+
+to protect the project gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "project
+gutenberg"), you agree to comply with all the terms of the full
+project gutenberg-tm license available with this file or online at
+www.gutenberg.org/license.
+
+section 1. general terms of use and redistributing project
+gutenberg-tm electronic works
+
+1.a. by reading or using any part of this project gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. if you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of project gutenberg-tm electronic works in your
+possession. if you paid a fee for obtaining a copy of or access to a
+project gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.e.8.
+
+1.b. "project gutenberg" is a registered trademark. it may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. there are a few
+things that you can do with most project gutenberg-tm electronic works
+even without complying with the full terms of this agreement. see
+paragraph 1.c below. there are a lot of things you can do with project
+gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to project gutenberg-tm
+electronic works. see paragraph 1.e below.
+
+1.c. the project gutenberg literary archive foundation ("the
+foundation" or pglaf), owns a compilation copyright in the collection
+of project gutenberg-tm electronic works. nearly all the individual
+works in the collection are in the public domain in the united
+states. if an individual work is unprotected by copyright law in the
+united states and you are located in the united states, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to project gutenberg are removed. of course, we hope
+that you will support the project gutenberg-tm mission of promoting
+free access to electronic works by freely sharing project gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+project gutenberg-tm name associated with the work. you can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full project gutenberg-tm license when
+you share it without charge with others.
+
+1.d. the copyright laws of the place where you are located also govern
+what you can do with this work. copyright laws in most countries are
+in a constant state of change. if you are outside the united states,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other project gutenberg-tm work. the foundation makes no
+representations concerning the copyright status of any work in any
+country outside the united states.
+
+1.e. unless you have removed all references to project gutenberg:
+
+1.e.1. the following sentence, with active links to, or other
+immediate access to, the full project gutenberg-tm license must appear
+prominently whenever any copy of a project gutenberg-tm work (any work
+on which the phrase "project gutenberg" appears, or with which the
+phrase "project gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  this ebook is for the use of anyone anywhere in the united states and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. you may copy it, give it away or re-use it
+  under the terms of the project gutenberg license included with this
+  ebook or online at www.gutenberg.org. if you are not located in the
+  united states, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.e.2. if an individual project gutenberg-tm electronic work is
+derived from texts not protected by u.s. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the united states without paying any fees or charges. if you are
+redistributing or providing access to a work with the phrase "project
+gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.e.1 through 1.e.7 or
+obtain permission for the use of the work and the project gutenberg-tm
+trademark as set forth in paragraphs 1.e.8 or 1.e.9.
+
+1.e.3. if an individual project gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.e.1 through 1.e.7 and any
+additional terms imposed by the copyright holder. additional terms
+will be linked to the project gutenberg-tm license for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.e.4. do not unlink or detach or remove the full project gutenberg-tm
+license terms from this work, or any files containing a part of this
+work or any other work associated with project gutenberg-tm.
+
+1.e.5. do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.e.1 with
+active links or immediate access to the full terms of the project
+gutenberg-tm license.
+
+1.e.6. you may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. however, if you provide access
+to or distribute copies of a project gutenberg-tm work in a format
+other than "plain vanilla ascii" or other format used in the official
+version posted on the official project gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "plain
+vanilla ascii" or other form. any alternate format must include the
+full project gutenberg-tm license as specified in paragraph 1.e.1.
+
+1.e.7. do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any project gutenberg-tm works
+unless you comply with paragraph 1.e.8 or 1.e.9.
+
+1.e.8. you may charge a reasonable fee for copies of or providing
+access to or distributing project gutenberg-tm electronic works
+provided that
+
+* you pay a royalty fee of 20% of the gross profits you derive from
+  the use of project gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. the fee is owed
+  to the owner of the project gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the project
+  gutenberg literary archive foundation. royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. royalty
+  payments should be clearly marked as such and sent to the project
+  gutenberg literary archive foundation at the address specified in
+  section 4, "information about donations to the project gutenberg
+  literary archive foundation."
+
+* you provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full project gutenberg-tm
+  license. you must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of project gutenberg-tm
+  works.
+
+* you provide, in accordance with paragraph 1.f.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* you comply with all other terms of this agreement for free
+  distribution of project gutenberg-tm works.
+
+1.e.9. if you wish to charge a fee or distribute a project
+gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the project gutenberg literary archive foundation and the
+project gutenberg trademark llc, the owner of the project gutenberg-tm
+trademark. contact the foundation as set forth in section 3 below.
+
+1.f.
+
+1.f.1. project gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by u.s. copyright law in creating the project
+gutenberg-tm collection. despite these efforts, project gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.f.2. limited warranty, disclaimer of damages - except for the "right
+of replacement or refund" described in paragraph 1.f.3, the project
+gutenberg literary archive foundation, the owner of the project
+gutenberg-tm trademark, and any other party distributing a project
+gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. you agree that you have no remedies for negligence, strict
+liability, breach of warranty or breach of contract except those
+provided in paragraph 1.f.3. you agree that the foundation, the
+trademark owner, and any distributor under this agreement will not be
+liable to you for actual, direct, indirect, consequential, punitive or
+incidental damages even if you give notice of the possibility of such
+damage.
+
+1.f.3. limited right of replacement or refund - if you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. if you
+received the work on a physical medium, you must return the medium
+with your written explanation. the person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. if you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. if
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.f.4. except for the limited right of replacement or refund set forth
+in paragraph 1.f.3, this work is provided to you 'as-is', with no
+other warranties of any kind, express or implied, including but not
+limited to warranties of merchantability or fitness for any purpose.
+
+1.f.5. some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. if any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. the invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.f.6. indemnity - you agree to indemnify and hold the foundation, the
+trademark owner, any agent or employee of the foundation, anyone
+providing copies of project gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of project gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any project gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any project gutenberg-tm work, and (c) any
+defect you cause.
+
+section 2. information about the mission of project gutenberg-tm
+
+project gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. it
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching project gutenberg-tm's
+goals and ensuring that the project gutenberg-tm collection will
+remain freely available for generations to come. in 2001, the project
+gutenberg literary archive foundation was created to provide a secure
+and permanent future for project gutenberg-tm and future
+generations. to learn more about the project gutenberg literary
+archive foundation and how your efforts and donations can help, see
+sections 3 and 4 and the foundation information page at
+www.gutenberg.org 
+
+section 3. information about the project gutenberg literary 
+archive foundation
+
+the project gutenberg literary archive foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of mississippi and granted tax exempt status by the internal
+revenue service. the foundation's ein or federal tax identification
+number is 64-6221541. contributions to the project gutenberg literary
+archive foundation are tax deductible to the full extent permitted by
+u.s. federal laws and your state's laws.
+
+the foundation's principal office is in fairbanks, alaska, with the
+mailing address: po box 750175, fairbanks, ak 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. its business office is located at 809 north 1500 west, salt
+lake city, ut 84116, (801) 596-1887. email contact links and up to
+date contact information can be found at the foundation's web site and
+official page at www.gutenberg.org/contact
+
+for additional contact information:
+
+    dr. gregory b. newby
+    chief executive and director
+    gbnewby@pglaf.org
+
+section 4. information about donations to the project gutenberg
+literary archive foundation
+
+project gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the irs.
+
+the foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the united
+states. compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. we do not solicit donations in locations
+where we have not received written confirmation of compliance. to send
+donations or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+while we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+international donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the united states. u.s. laws alone swamp our small staff.
+
+please check the project gutenberg web pages for current donation
+methods and addresses. donations are accepted in a number of other
+ways including checks, online payments and credit card donations. to
+donate, please visit: www.gutenberg.org/donate
+
+section 5. general information about project gutenberg-tm electronic works.
+
+professor michael s. hart was the originator of the project
+gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. for forty years, he produced and
+distributed project gutenberg-tm ebooks with only a loose network of
+volunteer support.
+
+project gutenberg-tm ebooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the u.s. unless a copyright notice is included. thus, we do not
+necessarily keep ebooks in compliance with any particular paper
+edition.
+
+most people start at our web site which has the main pg search
+facility: www.gutenberg.org
+
+this web site includes information about project gutenberg-tm,
+including how to make donations to the project gutenberg literary
+archive foundation, how to help produce our new ebooks, and how to
+subscribe to our email newsletter to hear about new ebooks.
+

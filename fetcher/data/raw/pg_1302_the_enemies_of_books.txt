@@ -1,0 +1,3124 @@
+the project gutenberg ebook of the enemies of books
+    
+this ebook is for the use of anyone anywhere in the united states and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. you may copy it, give it away or re-use it under the terms
+of the project gutenberg license included with this ebook or online
+at www.gutenberg.org. if you are not located in the united states,
+you will have to check the laws of the country where you are located
+before using this ebook.
+
+title: the enemies of books
+
+
+author: william blades
+
+release date: may 1, 1998 [ebook #1302]
+                most recently updated: august 26, 2008
+
+language: english
+
+
+
+*** start of the project gutenberg ebook the enemies of books ***
+
+
+
+produced by charles keller
+
+
+
+
+
+the enemies of books
+
+by william blades
+
+
+_revised and enlarged by the author_
+
+second edition
+
+london elliot stock, 62 paternoster row
+
+1888
+
+
+transcriber's note:
+
+  ae, l, e, <_:>, oe, <_/_>, '0, and n  "larsen" encodes.
+  es = superscripted e (16th cent. english on p9 needs proofed!)
+  <oe > denotes words in 'olde englishe font'
+  "emphasis" _italics_ have a * mark.
+  footnotes [#] have not been re-numbered, they are moved to eoparagraph.
+  greek letters are encoded in <gr > brackets, and the letters are
+  based on adobe's symbol font.
+
+
+
+
+contents.
+
+  chapter i.
+
+  fire.
+
+  libraries destroyed by fire.--alexandrian.--st. paul's destruction
+  of mss., value of.--christian books destroyed by heathens.--heathen
+  books destroyed by christians.--hebrew books burnt at cremona.--arabic
+  books at grenada.--monastic libraries.--colton library.--birmingham
+  riots.--dr. priestley's library.--lord mansfield's books.--cowper.
+  --strasbourg library bombarded.--offor collection burnt.--dutch
+  church library damaged.--library of corporation of london.
+
+  chapter ii.
+
+  water.
+
+  heer hudde's library lost at sea.--pinelli's library captured
+  by corsairs.--mss. destroyed by mohammed ii--books damaged by
+  rain.--woffenbuttel.--vapour and mould.--brown stains.--dr.
+  dibdin.--hot water pipes.--asbestos fire.--glass doors to bookcases.
+
+  chapter iii.
+
+  gas and heat.
+
+  effects of gas on leather.--necessitates re-binding.--bookbinders.--electric
+  light.--british museum.--treatment of books.--legend of friars and
+  their books.
+
+  chapter iv.
+
+  dust and neglect.
+
+  books should have gilt tops.--old libraries were neglected.--instance
+  of a college library.--clothes brushed in it.--abuses in french
+  libraries.--derome's account of them.--boccaccio's story of
+  library at the convent of mount cassin.
+
+  chapter v.
+
+  ignorance and bigotry.
+
+  destruction of books at the reformation.--mazarin library.--caxton
+  used to light the fire.--library at french protestant church,
+  st. martin's-le-grand.--books stolen.--story of books from thonock
+  hall.--boke of st. albans.--recollet monks of antwerp.--shakespearian
+  "find."--black-letter books used in w.c.--gesta romanorum.--lansdowne
+  collection.--warburton.--tradesman and rare book.--parish register.--story
+  of bigotry by m. muller.--clergymen destroy books.--patent office sell
+  books for waste.
+
+  chapter vi.
+
+  the bookworm.
+
+  doraston.--not so destructive as of yore.--worm won't eat
+  parchment.--pierre petit's poem.--hooke's account and image.--its
+  natural history neglected.--various sorts--attempts to breed
+  bookworms.--greek worm.--havoc made by worms.--bodleian and dr.
+  bandinel.--"dermestes."--worm won't eat modern paper.--america
+  comparatively free.--worm-hole at philadelphia.
+
+  chapter vii.
+
+  other vermin.
+
+  black-beetle in american libraries.--germanica.--bug bible.--lepisma.
+  --codfish.--skeletons of rats in abbey library, westminster.--niptus
+  hololeucos.--tomicus typographicus.--house flies injure books.
+
+  chapter viii.
+
+  bookbinders.
+
+  a good binding gives pleasure.--deadly effects of the "plough" as used
+  by binders.--not confined to bye-gone times.--instances of injury.--de
+  rome, a good binder but a great cropper.--books "hacked."--bad
+  lettering--treasures in book-covers.--books washed, sized, and
+  mended.--"cases" often preferable to re-binding.
+
+  chapter ix.
+
+  collectors.
+
+  bagford the biblioclast.--illustrations torn from mss.--title-pages
+  torn from books.--rubens, his engraved titles.--colophons torn out of
+  books.--lincoln cathedral--dr. dibdin's nosegay.--theurdanck.--fragments
+  of mss.--some libraries almost useless.--pepysian.--teylerian.--sir
+  thomas phillipps.
+
+  chapter x.
+
+  servants and children.
+
+  library invaded for the purpose of dusting.--spring clean.---dust to be
+  got rid of.--ways of doing so.--carefulness praised.--bad nature of
+  certain books--metal clasps and rivets.--how to dust.--children
+  often injure books.--examples.--story of boys in a country library.
+
+  postscriptum.
+
+  anecdote of book-sale in derbyshire.
+
+  conclusion.
+
+  the care that should be taken of books.--enjoyment derived from them.
+
+
+illustrations.
+
+  servant using a "caxton" to light the fire --- _frontispiece_,
+
+  pirates throwing library over-board ---------- page 19
+
+  friars and their ass-load -------------------- 35
+
+  brushing clothes in a college library -------- 45
+
+  bookworms ------------------------------------ 73
+
+  rats destroying books ------------------------ 99
+
+  household fly-damage ------------------------- 102
+
+  boys rampant in library ---------------------- 141
+
+
+
+
+
+the enemies of books.
+
+
+
+chapter i. fire.
+
+there are many of the forces of nature which tend to injure books; but
+among them all not one has been half so destructive as fire. it would
+be tedious to write out a bare list only of the numerous libraries and
+bibliographical treasures which, in one way or another, have been
+seized by the fire-king as his own. chance conflagrations, fanatic
+incendiarism, judicial bonfires, and even household stoves have, time
+after time, thinned the treasures as well as the rubbish of past ages,
+until, probably, not one thousandth part of the books that have been are
+still extant. this destruction cannot, however, be reckoned as all loss;
+for had not the "cleansing fires" removed mountains of rubbish from our
+midst, strong destructive measures would have become a necessity from
+sheer want of space in which to store so many volumes.
+
+before the invention of printing, books were comparatively scarce; and,
+knowing as we do, how very difficult it is, even after the steam-press
+has been working for half a century, to make a collection of half a
+million books, we are forced to receive with great incredulity the
+accounts in old writers of the wonderful extent of ancient libraries.
+
+the historian gibbon, very incredulous in many things, accepts without
+questioning the fables told upon this subject. no doubt the libraries
+of mss. collected generation after generation by the egyptian ptolemies
+became, in the course of time, the most extensive ever then known;
+and were famous throughout the world for the costliness of their
+ornamentation, and importance of their untold contents. two of these
+were at alexandria, the larger of which was in the quarter called
+bruchium. these volumes, like all manuscripts of those early ages, were
+written on sheets of parchment, having a wooden roller at each end
+so that the reader needed only to unroll a portion at a time. during
+caesar's alexandrian war, b.c. 48, the larger collection was consumed
+by fire and again burnt by the saracens in a.d. 640. an immense loss was
+inflicted upon mankind thereby; but when we are told of 700,000, or even
+500,000 of such volumes being destroyed we instinctively feel that such
+numbers must be a great exaggeration. equally incredulous must we be
+when we read of half a million volumes being burnt at carthage some
+centuries later, and other similar accounts.
+
+among the earliest records of the wholesale destruction of books is that
+narrated by st. luke, when, after the preaching of paul, many of the
+ephesians "which used curious arts brought their books together, and
+burned them before all men: and they counted the price of them, and
+found it 50,000 pieces of silver" (acts xix, 19). doubtless these books
+of idolatrous divination and alchemy, of enchantments and witchcraft,
+were righteously destroyed by those to whom they had been and might
+again be spiritually injurious; and doubtless had they escaped the fire
+then, not one of them would have survived to the present time, no ms. of
+that age being now extant. nevertheless, i must confess to a certain
+amount of mental disquietude and uneasiness when i think of books worth
+50,000 denarii--or, speaking roughly, say l18,750,[1] of our modern
+money being made into bonfires. what curious illustrations of early
+heathenism, of devil worship, of serpent worship, of sun worship, and
+other archaic forms of religion; of early astrological and chemical
+lore, derived from the egyptians, the persians, the greeks; what
+abundance of superstitious observances and what is now termed
+"folklore"; what riches, too, for the philological student, did those
+many books contain, and how famous would the library now be that could
+boast of possessing but a few of them.
+
+
+[1] the received opinion is that the "pieces of silver" here mentioned
+were roman denarii, which were the silver pieces then commonly used in
+ephesus. if now we weigh a denarius against modern silver, it is exactly
+equal to ninepence, and fifty thousand times ninepence gives l1,875.
+it is always a difficult matter to arrive at a just estimate of the
+relative value of the same coin in different ages; but reckoning that
+money then had at least ten times the purchasing value of money now, we
+arrive at what was probably about the value of the magical books burnt,
+viz.: l18,750.
+
+the ruins of ephesus bear unimpeachable evidence that the city was very
+extensive and had magnificent buildings. it was one of the free cities,
+governing itself. its trade in shrines and idols was very extensive,
+being spread through all known lands. there the magical arts were
+remarkably prevalent, and notwithstanding the numerous converts made by
+the early christians, the <gr 'efesia grammata>, or little scrolls upon
+which magic sentences were written, formed an extensive trade up to
+the fourth century. these "writings" were used for divination, as a
+protection against the "evil eye," and generally as charms against all
+evil. they were carried about the person, so that probably thousands of
+them were thrown into the flames by st. paul's hearers when his glowing
+words convinced them of their superstition.
+
+imagine an open space near the grand temple of diana, with fine
+buildings around. slightly raised above the crowd, the apostle,
+preaching with great power and persuasion concerning superstition, holds
+in thrall the assembled multitude. on the outskirts of the crowd are
+numerous bonfires, upon which jew and gentile are throwing into
+the flames bundle upon bundle of scrolls, while an asiarch with his
+peace-officers looks on with the conventional stolidity of policemen
+in all ages and all nations. it must have been an impressive scene, and
+many a worse subject has been chosen for the walls of the royal academy.
+
+books in those early times, whether orthodox or heterodox, appear to
+have had a precarious existence. the heathens at each fresh outbreak of
+persecution burnt all the christian writings they could find, and the
+christians, when they got the upper hand, retaliated with interest upon
+the pagan literature. the mohammedan reason for destroying books--"if
+they contain what is in the koran they are superfluous, and if they
+contain anything opposed to it they are immoral," seems, indeed,
+_mutatis mutandis_, to have been the general rule for all such
+devastators.
+
+the invention of printing made the entire destruction of any author's
+works much more difficult, so quickly and so extensively did books
+spread through all lands. on the other hand, as books multiplied, so did
+destruction go hand in hand with production, and soon were printed books
+doomed to suffer in the same penal fires, that up to then had been fed
+on mss. only.
+
+at cremona, in 1569, 12,000 books printed in hebrew were publicly burnt
+as heretical, simply on account of their language; and cardinal ximenes,
+at the capture of granada, treated 5,000 copies of the koran in the same
+way.
+
+at the time of the reformation in england a great destruction of books
+took place. the antiquarian bale, writing in 1587, thus speaks of the
+shameful fate of the monastic libraries:--
+
+
+"a greate nombre of them whyche purchased those superstycyouse mansyons
+(_monasteries_) reserved of those librarye bookes some to serve their
+jakes, some to scoure theyr candelstyckes, and some to rubbe theyr
+bootes. some they solde to the grossers and sope sellers, and some they
+sent over see to yes booke bynders, not in small nombre, but at tymes
+whole shyppes full, to yes, wonderynge of foren nacyons. yea yes.
+universytees of thys realme are not alle clere in thys detestable fact.
+but cursed is that bellye whyche seketh to be fedde with suche ungodlye
+gaynes, and so depelye shameth hys natural conterye. i knowe a merchant
+manne, whych shall at thys tyme be namelesse, that boughte yes contentes
+of two noble lybraryes for forty shyllynges pryce: a shame it is to be
+spoken. thys stuffe hathe heoccupyed in yes stede of greye paper, by
+yes, space of more than these ten yeares, and yet he bathe store ynoughe
+for as manye years to come. a prodygyous example is thys, and to be
+abhorred of all men whyche love theyr nacyon as they shoulde do. the
+monkes kepte them undre dust, yes, ydle-headed prestes regarded them
+not, theyr latter owners have most shamefully abused them, and yes
+covetouse merchantes have solde them away into foren nacyons for
+moneye."
+
+
+how the imagination recoils at the idea of caxton's translation of the
+metamorphoses of ovid, or perhaps his "lyf of therle of oxenforde,"
+together with many another book from our first presses, not a fragment
+of which do we now possess, being used for baking "pyes."
+
+at the great fire of london in 1666, the number of books burnt was
+enormous. not only in private houses and corporate and church libraries
+were priceless collections reduced to cinders, but an immense stock
+of books removed from paternoster row by the stationers for safety was
+burnt to ashes in the vaults of st. paul's cathedral.
+
+coming nearer to our own day, how thankful we ought to be for the
+preservation of the cotton library. great was the consternation in the
+literary world of 1731 when they heard of the fire at ashburnham house,
+westminster, where, at that time, the cotton mss. were deposited. by
+great exertions the fire was conquered, but not before many mss. had
+been quite destroyed and many others injured. much skill was shown
+in the partial restoration of these books, charred almost beyond
+recognition; they were carefully separated leaf by leaf, soaked in a
+chemical solution, and then pressed flat between sheets of transparent
+paper. a curious heap of scorched leaves, previous to any treatment, and
+looking like a monster wasps' nest, may be seen in a glass case in the
+ms. department of the british museum, showing the condition to which
+many other volumes had been reduced.
+
+just a hundred years ago the mob, in the "birmingham riots," burnt the
+valuable library of dr. priestley, and in the "gordon riots" were burnt
+the literary and other collections of lord mansfield, the celebrated
+judge, he who had the courage first to decide that the slave who reached
+the english shore was thenceforward a free man. the loss of the latter
+library drew from the poet cowper two short and weak poems. the poet
+first deplores the destruction of the valuable printed books, and then
+the irretrievable loss to history by the burning of his lordship's many
+personal manuscripts and contemporary documents.
+
+      "their pages mangled, burnt and torn,
+          the loss was his alone;
+      but ages yet to come shall mourn
+          the burning of his own."
+
+
+the second poem commences with the following doggerel:--
+
+      "when wit and genius meet their doom
+          in all-devouring flame,
+      they tell us of the fate of rome
+          and bid us fear the same."
+
+
+the much finer and more extensive library of dr. priestley was left
+unnoticed and unlamented by the orthodox poet, who probably felt a
+complacent satisfaction at the destruction of heterodox books, the owner
+being an unitarian minister.
+
+the magnificent library of strasbourg was burnt by the shells of the
+german army in 1870. then disappeared for ever, together with other
+unique documents, the original records of the famous law-suits between
+gutenberg, one of the first printers, and his partners, upon the right
+understanding of which depends the claim of gutenberg to the invention
+of the art. the flames raged between high brick walls, roaring louder
+than a blast furnace. seldom, indeed, have mars and pluto had so dainty
+a sacrifice offered at their shrines; for over all the din of battle,
+and the reverberation of monster artillery, the burning leaves of the
+first printed bible and many another priceless volume were wafted into
+the sky, the ashes floating for miles on the heated air, and carrying
+to the astonished countryman the first news of the devastation of his
+capital.
+
+when the offor collection was put to the hammer by messrs sotheby and
+wilkinson, the well-known auctioneers of wellington street, and when
+about three days of the sale had been gone through, a fire occurred in
+the adjoining house, and, gaining possession of the sale rooms, made a
+speedy end of the unique bunyan and other rarities then on show. i was
+allowed to see the ruins on the following day, and by means of a ladder
+and some scrambling managed to enter the sale room where parts of the
+floor still remained. it was a fearful sight those scorched rows of
+volumes still on the shelves; and curious was it to notice how the
+flames, burning off the backs of the books first, had then run up behind
+the shelves, and so attacked the fore-edge of the volumes standing upon
+them, leaving the majority with a perfectly untouched oval centre of
+white paper and plain print, while the whole surrounding parts were but
+a mass of black cinders. the salvage was sold in one lot for a small
+sum, and the purchaser, after a good deal of sorting and mending and
+binding placed about 1,000 volumes for sale at messrs. puttick and
+simpson's in the following year.
+
+so, too, when the curious old library which was in a gallery of the
+dutch church, austin friars, was nearly destroyed in the fire which
+devastated the church in 1862, the books which escaped were sadly
+injured. not long before i had spent some hours there hunting for
+english fifteenth-century books, and shall never forget the state of
+dirt in which i came away. without anyone to care for them, the books
+had remained untouched for many a decade-damp dust, half an inch thick,
+having settled upon them! then came the fire, and while the roof was
+all ablaze streams of hot water, like a boiling deluge, washed down upon
+them. the wonder was they were not turned into a muddy pulp. after all
+was over, the whole of the library, no portion of which could legally be
+given away, was _lent for ever_ to the corporation of london. scorched
+and sodden, the salvage came into the hands of mr. overall, their
+indefatigable librarian. in a hired attic, he hung up the volumes that
+would bear it over strings like clothes, to dry, and there for weeks and
+weeks were the stained, distorted volumes, often without covers, often
+in single leaves, carefully tended and dry-nursed. washing, sizing,
+pressing, and binding effected wonders, and no one who to-day looks
+upon the attractive little alcove in the guildhall library labelled
+<oe "bibliotheca ecclesiae londonino-belgiae"> and sees the rows of
+handsomely-lettered backs, could imagine that not long ago this, the
+most curious portion of the city's literary collections, was in a state
+when a five-pound note would have seemed more than full value for the
+lot.
+
+
+
+chapter ii. water.
+
+next to fire we must rank water in its two forms, liquid and vapour, as
+the greatest destroyer of books. thousands of volumes have been actually
+drowned at sea, and no more heard of them than of the sailors to whose
+charge they were committed. d'israeli narrates that, about the year
+1700, heer hudde, an opulent burgomaster of middleburgh, travelled for
+30 years disguised as a mandarin, throughout the length and breadth of
+the celestial empire. everywhere he collected books, and his extensive
+literary treasures were at length safely shipped for transmission to
+europe, but, to the irreparable loss of his native country, they never
+reached their destination, the vessel having foundered in a storm.
+
+in 1785 died the famous maffei pinelli, whose library was celebrated
+throughout the world. it had been collected by the pinelli family for
+many generations and comprised an extraordinary number of greek, latin,
+and italian works, many of them first editions, beautifully illuminated,
+together with numerous mss. dating from the 11th to the 16th century.
+the whole library was sold by the executors to mr. edwards, bookseller,
+of pall mall, who placed the volumes in three vessels for transport from
+venice to london. pursued by corsairs, one of the vessels was captured,
+but the pirate, disgusted at not finding any treasure, threw all the
+books into the sea. the other two vessels escaped and delivered
+their freight safely, and in 1789-90 the books which had been so near
+destruction were sold at the great room in conduit street, for more than
+l9,000.
+
+these pirates were more excusable than mohammed ii who, upon the capture
+of constantinople in the 15th century, after giving up the devoted city
+to be sacked by his licentious soldiers, ordered the books in all
+the churches as well as the great library of the emperor constantine,
+containing 120,000 manuscripts, to be thrown into the sea.
+
+in the shape of rain, water has frequently caused irreparable injury.
+positive wet is fortunately of rare occurrence in a library, but is very
+destructive when it does come, and, if long continued, the substance of
+the paper succumbs to the unhealthy influence and rots and rots until
+all fibre disappears, and the paper is reduced to a white decay which
+crumbles into powder when handled.
+
+few old libraries in england are now so thoroughly neglected as they
+were thirty years ago. the state of many of our collegiate and cathedral
+libraries was at that time simply appalling. i could mention many
+instances, one especially, where a window having been left broken for
+a long time, the ivy had pushed through and crept over a row of books,
+each of which was worth hundreds of pounds. in rainy weather the water
+was conducted, as by a pipe, along the tops of the books and soaked
+through the whole.
+
+in another and smaller collection, the rain came straight on to a
+book-case through a sky-light, saturating continually the top shelf
+containing caxtons and other early english books, one of which, although
+rotten, was sold soon after by permission of the charity commissioners
+for l200.
+
+germany, too, the very birth-place of printing, allows similar
+destruction to go on unchecked, if the following letter, which appeared
+about a year ago (1879) in the _academy_ has any truth in it:--
+
+
+"for some time past the condition of the library at wolfenbuttel has
+been most disgraceful. the building is in so unsafe a condition
+that portions of the walls and ceilings have fallen in, and the many
+treasures in books and mss. contained in it are exposed to damp and
+decay. an appeal has been issued that this valuable collection may not
+be allowed to perish for want of funds, and that it may also be now at
+length removed to brunswick, since wolfenbuttel is entirely deserted as
+an intellectual centre. no false sentimentality regarding the memory of
+its former custodians, leibnitz and lessing, should hinder this project.
+lessing himself would have been the first to urge that the library and
+its utility should be considered above all things."
+
+
+the collection of books at wolfenbuttel is simply magnificent, and i
+cannot but hope the above report was exaggerated. were these books to
+be injured for the want of a small sum spent on the roof, it would be a
+lasting disgrace to the nation. there are so many genuine book-lovers
+in fatherland that the commission of such a crime would seem incredible,
+did not bibliographical history teem with similar desecrations.[1]
+
+
+[1] this was written in 1879, since which time a new building has been
+erected.
+
+
+water in the form of vapour is a great enemy of books, the damp
+attacking both outside and inside. outside it fosters the growth of a
+white mould or fungus which vegetates upon the edges of the leaves, upon
+the sides and in the joints of the binding. it is easily wiped off, but
+not without leaving a plain mark, where the mould-spots have been. under
+the microscope a mould-spot is seen to be a miniature forest of lovely
+trees, covered with a beautiful white foliage, upas trees whose roots
+are embedded in the leather and destroy its texture.
+
+inside the book, damp encourages the growth of those ugly brown spots
+which so often disfigure prints and "livres de luxe." especially
+it attacks books printed in the early part of this century, when
+paper-makers had just discovered that they could bleach their rags,
+and perfectly white paper, well pressed after printing, had become the
+fashion. this paper from the inefficient means used to neutralise the
+bleach, carried the seeds of decay in itself, and when exposed to any
+damp soon became discoloured with brown stains. dr. dibdin's extravagant
+bibliographical works are mostly so injured; and although the doctor's
+bibliography is very incorrect, and his spun-out inanities and
+wearisome affectations often annoy one, yet his books are so beautifully
+illustrated, and he is so full of personal anecdote and chit chat, that
+it grieves the heart to see "foxey" stains common in his most superb
+works.
+
+in a perfectly dry and warm library these spots would probably remain
+undeveloped, but many endowed as well as private libraries are not in
+daily use, and are often injured from a false idea that a hard frost and
+prolonged cold do no injury to a library so long as the weather is dry.
+the fact is that books should never be allowed to get really cold, for
+when a thaw comes and the weather sets in warm, the air, laden with
+damp, penetrates the inmost recesses, and working its way between the
+volumes and even between the leaves, deposits upon their cold surface
+its moisture. the best preventative of this is a warm atmosphere during
+the frost, sudden heating when the frost has gone being useless.
+
+our worst enemies are sometimes our real friends, and perhaps the best
+way of keeping libraries entirely free from damp is to circulate our
+enemy in the shape of hot water through pipes laid under the floor. the
+facilities now offered for heating such pipes from the outside are so
+great, the expense comparatively so small, and the direct gain in the
+expulsion of damp so decided, that where it can be accomplished without
+much trouble it is well worth the doing.
+
+at the same time no system of heating should be allowed to supersede the
+open grate, which supplies a ventilation to the room as useful to the
+health of the books as to the health of the occupier. a coal fire is
+objectionable on many grounds. it is dangerous, dirty and dusty. on the
+other hand an asbestos fire, where the lumps are judiciously laid,
+gives all the warmth and ventilation of a common fire without any of its
+annoyances; and to any one who loves to be independent of servants, and
+to know that, however deeply he may sleep over his "copy," his fire will
+not fail to keep awake, an asbestos stove is invaluable.
+
+it is a mistake also to imagine that keeping the best bound volumes in
+a glass doored book-case is a preservative. the damp air will certainly
+penetrate, and as the absence of ventilation will assist the formation
+of mould, the books will be worse off than if they had been placed in
+open shelves. if security be desirable, by all means abolish the glass
+and place ornamental brass wire-work in its stead. like the writers of
+old cookery books who stamped special receipts with the testimony of
+personal experience, i can say "probatum est."
+
+
+
+chapter iii. gas and heat.
+
+what a valuable servant is gas, and how dreadfully we should cry out
+were it to be banished from our homes; and yet no one who loves his
+books should allow a single jet in his library, unless, indeed he can
+afford a "sun light," which is the form in which it is used in some
+public libraries, where the whole of the fumes are carried at once into
+the open air.
+
+unfortunately, i can speak from experience of the dire effect of gas
+in a confined space. some years ago when placing the shelves round the
+small room, which, by a euphemism, is called my library, i took the
+precaution of making two self-acting ventilators which communicated
+directly with the outer air just under the ceiling. for economy of space
+as well as of temper (for lamps of all kinds are sore trials), i had a
+gasalier of three lights over the table. the effect was to cause great
+heat in the upper regions, and in the course of a year or two the
+leather valance which hung from the window, as well as the fringe which
+dropped half-an-inch from each shelf to keep out the dust, was just like
+tinder, and in some parts actually fell to the ground by its own weight;
+while the backs of the books upon the top shelves were perished, and
+crumbled away when touched, being reduced to the consistency of scotch
+snuff. this was, of course, due to the sulphur in the gas fumes. i
+remember having a book some years ago from the top shelf in the library
+of the london institution, where gas is used, and the whole of the back
+fell off in my hands, although the volume in other respects seemed quite
+uninjured. thousands more were in a similar plight.
+
+as the paper of the volumes is uninjured, it might be objected that,
+after all, gas is not so much the enemy of the book itself as of its
+covering; but then, re-binding always leaves a book smaller, and often
+deprives it of leaves at the beginning or end, which the binder's wisdom
+has thought useless. oh! the havoc i have seen committed by binders.
+you may assume your most impressive aspect--you may write down your
+instructions as if you were making your last will and testament--you may
+swear you will not pay if your books are ploughed--'tis all in vain--the
+creed of a binder is very short, and comprised in a single article, and
+that article is the one vile word "shavings." but not now will i follow
+this depressing subject; binders, as enemies of books, deserve, and
+shall have, a whole chapter to themselves.
+
+it is much easier to decry gas than to find a remedy. sun lights require
+especial arrangements, and are very expensive on account of the quantity
+of gas consumed. the library illumination of the future promises to be
+the electric light. if only steady and moderate in price, it would be a
+great boon to public libraries, and perhaps the day is not far distant
+when it will replace gas, even in private houses. that will, indeed, be
+a day of jubilee to the literary labourer. the injury done by gas is so
+generally acknowledged by the heads of our national libraries, that
+it is strictly excluded from their domains, although the danger from
+explosion and fire, even if the results of combustion were innocuous,
+would be sufficient cause for its banishment.
+
+the electric light has been in use for some months in the reading room
+of the british museum, and is a great boon to the readers. the light is
+not quite equally diffused, and you must choose particular positions
+if you want to work happily. there is a great objection, too, in the
+humming fizz which accompanies the action of the electricity. there is a
+still greater objection when small pieces of hot chalk fall on your
+bald head, an annoyance which has been lately (1880) entirely removed
+by placing a receptacle beneath each burner. you require also to become
+accustomed to the whiteness of the light before you can altogether
+forget it. but with all its faults it confers a great boon upon
+students, enabling them not only to work three hours longer in the
+winter-time, but restoring to them the use of foggy and dark days, in
+which formerly no book-work at all could be pursued.[1]
+
+
+[1] 1887. the system in use is still "siemens," but, owing to long
+experience and improvements, is not now open to the above objections.
+
+heat alone, without any noxious fumes, is, if continuous, very injurious
+to books, and, without gas, bindings may be utterly destroyed by
+desiccation, the leather losing all its natural oils by long exposure
+to much heat. it is, therefore, a great pity to place books high up in
+a room where heat of any kind is as it must rise to the top, and if
+sufficient to be of comfort to the readers below, is certain to be hot
+enough above to injure the bindings.
+
+the surest way to preserve your books in health is to treat them as
+you would your own children, who are sure to sicken if confined in an
+atmosphere which is impure, too hot, too cold, too damp, or too dry. it
+is just the same with the progeny of literature.
+
+if any credence may be given to monkish legends, books have sometimes
+been preserved in this world, only to meet a desiccating fate in the
+world to come. the story is probably an invention of the enemy to throw
+discredit on the learning and ability of the preaching friars, an order
+which was at constant war with the illiterate secular clergy. it runs
+thus:--"in the year 1439, two minorite friars who had all their lives
+collected books, died. in accordance with popular belief, they were at
+once conducted before the heavenly tribunal to hear their doom, taking
+with them two asses laden with books. at heaven's gate the porter
+demanded, 'whence came ye?' the minorites replied 'from a monastery of
+st. francis.' 'oh!' said the porter, 'then st. francis shall be your
+judge.' so that saint was summoned, and at sight of the friars and their
+burden demanded who they were, and why they had brought so many books
+with them. 'we are minorites,' they humbly replied, 'and we have brought
+these few books with us as a solatium in the new jerusalem.' 'and you,
+when on earth, practised the good they teach?' sternly demanded the
+saint, who read their characters at a glance. their faltering reply
+was sufficient, and the blessed saint at once passed judgment as
+follows:--'insomuch as, seduced by a foolish vanity, and against your
+vows of poverty, you have amassed this multitude of books and thereby
+and therefor have neglected the duties and broken the rules of your
+order, you are now sentenced to read your books for ever and ever in
+the fires of hell.' immediately, a roaring noise filled the air, and a
+flaming chasm opened in which friars, and asses and books were suddenly
+engulphed."
+
+
+
+chapter iv. dust and neglect.
+
+dust upon books to any extent points to neglect, and neglect means more
+or less slow decay.
+
+a well-gilt top to a book is a great preventive against damage by dust,
+while to leave books with rough tops and unprotected is sure to produce
+stains and dirty margins.
+
+in olden times, when few persons had private collections of books, the
+collegiate and corporate libraries were of great use to students.
+the librarians' duties were then no sinecure, and there was little
+opportunity for dust to find a resting-place. the nineteenth century
+and the steam press ushered in a new era. by degrees the libraries which
+were unendowed fell behind the age, and were consequently neglected.
+no new works found their way in, and the obsolete old books were left
+uncared for and unvisited. i have seen many old libraries, the doors of
+which remained unopened from week's end to week's end; where you inhaled
+the dust of paper-decay with every breath, and could not take up a book
+without sneezing; where old boxes, full of older literature, served as
+preserves for the bookworm, without even an autumn "battue" to thin the
+breed. occasionally these libraries were (i speak of thirty years ago)
+put even to vile uses, such as would have shocked all ideas of propriety
+could our ancestors have foreseen their fate.
+
+i recall vividly a bright summer morning many years ago, when, in search
+of caxtons, i entered the inner quadrangle of a certain wealthy college
+in one of our learned universities. the buildings around were charming
+in their grey tones and shady nooks. they had a noble history, too, and
+their scholarly sons were (and are) not unworthy successors of their
+ancestral renown. the sun shone warmly, and most of the casements were
+open. from one came curling a whiff of tobacco; from another the hum
+of conversation; from a third the tones of a piano. a couple of
+undergraduates sauntered on the shady side, arm in arm, with broken caps
+and torn gowns--proud insignia of their last term. the grey stone walls
+were covered with ivy, except where an old dial with its antiquated
+latin inscription kept count of the sun's ascent. the chapel on one
+side, only distinguishable from the "rooms" by the shape of its windows,
+seemed to keep watch over the morality of the foundation, just as the
+dining-hall opposite, from whence issued a white-aproned cook, did
+of its worldly prosperity. as you trod the level pavement, you passed
+comfortable--nay, dainty--apartments, where lace curtains at the
+windows, antimacassars on the chairs, the silver biscuit-box and the
+thin-stemmed wine-glass moderated academic toils. gilt-backed books on
+gilded shelf or table caught the eye, and as you turned your glance from
+the luxurious interiors to the well-shorn lawn in the quad., with its
+classic fountain also gilded by sunbeams, the mental vision saw plainly
+written over the whole "the union of luxury and learning."
+
+surely here, thought i, if anywhere, the old world literature will be
+valued and nursed with gracious care; so with a pleasing sense of the
+general congruity of all around me, i enquired for the rooms of the
+librarian. nobody seemed to be quite sure of his name, or upon whom the
+bibliographical mantle had descended. his post, it seemed, was honorary
+and a sinecure, being imposed, as a rule, upon the youngest "fellow."
+no one cared for the appointment, and as a matter of course the keys
+of office had but distant acquaintance with the lock. at last i was
+rewarded with success, and politely, but mutely, conducted by the
+librarian into his kingdom of dust and silence. the dark portraits of
+past benefactors looked after us from their dusty old frames in dim
+astonishment as we passed, evidently wondering whether we meant "work";
+book-decay--that peculiar flavour which haunts certain libraries--was
+heavy in the air, the floor was dusty, making the sunbeams as we passed
+bright with atoms; the shelves were dusty, the "stands" in the middle
+were thick with dust, the old leather table in the bow window, and
+the chairs on either side, were very dusty. replying to a question,
+my conductor thought there was a manuscript catalogue of the library
+somewhere, but thought, also, that it was not easy to find any books
+by it, and he knew not at the minute where to put his hand upon it. the
+library, he said, was of little use now, as the fellows had their own
+books and very seldom required 17th and 18th century editions, and no
+new books had been added to the collection for a long time.
+
+we passed down a few steps into an inner library where piles of early
+folios were wasting away on the ground. beneath an old ebony table were
+two long carved oak chests. i lifted the lid of one, and at the top
+was a once-white surplice covered with dust, and beneath was a mass of
+tracts--commonwealth quartos, unbound--a prey to worms and decay. all
+was neglect. the outer door of this room, which was open, was nearly on
+a level with the quadrangle; some coats, and trousers, and boots were
+upon the ebony table, and a "gyp" was brushing away at them just within
+the door--in wet weather he performed these functions entirely within
+the library--as innocent of the incongruity of his position as my guide
+himself. oh! richard of bury, i sighed, for a sharp stone from your
+sling to pierce with indignant sarcasm the mental armour of these
+college dullards.
+
+happily, things are altered now, and the disgrace of such neglect no
+longer hangs on the college. let us hope, in these days of revived
+respect for antiquity, no other college library is in a similar plight.
+
+not englishmen alone are guilty, however, of such unloving treatment
+of their bibliographical treasures. the following is translated from an
+interesting work just published in paris,[1] and shows how, even at this
+very time, and in the centre of the literary activity of france, books
+meet their fate.
+
+
+[1] le luxe des livres par l. derome. 8vo, paris, 1879.
+
+m. derome loquitur:--
+
+
+"let us now enter the communal library of some large provincial town.
+the interior has a lamentable appearance; dust and disorder have made it
+their home. it has a librarian, but he has the consideration of a porter
+only, and goes but once a week to see the state of the books committed
+to his care; they are in a bad state, piled in heaps and perishing in
+corners for want of attention and binding. at this present time (1879)
+more than one public library in paris could be mentioned in which
+thousands of books are received annually, all of which will have
+disappeared in the course of 50 years or so for want of binding; there
+are rare books, impossible to replace, falling to pieces because no care
+is given to them, that is to say, they are left unbound, a prey to dust
+and the worm, and cannot be touched without dismemberment."
+
+"all history shows that this neglect belongs not to any particular age or
+nation. i extract the following story from edmond werdet's histoire du
+livre."[1]
+
+
+[1] "histoire du livre en france," par e. werdet. 8vo, paris, 1851.
+
+
+"the poet boccaccio, when travelling in apulia, was anxious to visit the
+celebrated convent of mount cassin, especially to see its library, of
+which he had heard much. he accosted, with great courtesy, one of
+the monks whose countenance attracted him, and begged him to have the
+kindness to show him the library. 'see for yourself,' said the monk,
+brusquely, pointing at the same time to an old stone staircase, broken
+with age. boccaccio hastily mounted in great joy at the prospect of a
+grand bibliographical treat. soon he reached the room, which was
+without key or even door as protection to its treasures. what was his
+astonishment to see that the grass growing in the window-sills actually
+darkened the room, and that all the books and seats were an inch thick
+in dust. in utter astonishment he lifted one book after another.
+all were manuscripts of extreme antiquity, but all were dreadfully
+dilapidated. many had lost whole sections which had been violently
+extracted, and in many all the blank margins of the vellum had been cut
+away. in fact, the mutilation was thorough.
+
+"grieved at seeing the work and the wisdom of so many illustrious men
+fallen into the hands of custodians so unworthy, boccaccio descended
+with tears in his eyes. in the cloisters he met another monk, and
+enquired of him how the mss. had become so mutilated. 'oh!' he replied,
+'we are obliged, you know, to earn a few sous for our needs, so we cut
+away the blank margins of the manuscripts for writing upon, and make of
+them small books of devotion, which we sell to women and children."
+
+as a postscript to this story, mr. timmins, of birmingham, informs me
+that the treasures of the monte cassino library are better cared for now
+than in boccaccio's days, the worthy prior being proud of his valuable
+mss. and very willing to show them. it will interest many readers to
+know that there is now a complete printing office, lithographic as well
+as typographic, at full work in one large room of the monastery, where
+their wonderful ms. of dante has been already reprinted, and where other
+fac-simile works are now in progress.
+
+
+
+chapter v. ignorance and bigotry.
+
+ignorance, though not in the same category as fire and water, is a great
+destroyer of books. at the reformation so strong was the antagonism of
+the people generally to anything like the old idolatry of the romish
+church, that they destroyed by thousands books, secular as well as
+sacred, if they contained but illuminated letters. unable to read, they
+saw no difference between romance and a psalter, between king arthur
+and king david; and so the paper books with all their artistic ornaments
+went to the bakers to heat their ovens, and the parchment manuscripts,
+however beautifully illuminated, to the binders and boot makers.
+
+there is another kind of ignorance which has often worked destruction,
+as shown by the following anecdote, which is extracted from a
+letter written in 1862 by m. philarete chasles to mr. b. beedham, of
+kimbolton:--
+
+
+"ten years ago, when turning out an old closet in the mazarin library,
+of which i am librarian, i discovered at the bottom, under a lot of old
+rags and rubbish, a large volume. it had no cover nor title-page, and
+had been used to light the fires of the librarians. this shows how great
+was the negligence towards our literary treasure before the revolution;
+for the pariah volume, which, 60 years before, had been placed in the
+invalides, and which had certainly formed part of the original mazarin
+collections, turned out to be a fine and genuine caxton."
+
+
+i saw this identical volume in the mazarin library in april, 1880. it is
+a noble copy of the first edition of the "golden legend," 1483, but of
+course very imperfect.
+
+among the millions of events in this world which cross and re-cross one
+another, remarkable coincidences must often occur; and a case exactly
+similar to that at the mazarin library, happened about the same time
+in london, at the french protestant church, st. martin's-le-grand. many
+years ago i discovered there, in a dirty pigeon hole close to the grate
+in the vestry, a fearfully mutilated copy of caxton's edition of the
+canterbury tales, with woodcuts. like the book at paris, it had long
+been used, leaf by leaf, in utter ignorance of its value, to light the
+vestry fire. originally worth at least l800, it was then worth half,
+and, of course, i energetically drew the attention of the minister in
+charge to it, as well as to another grand folio by rood and hunte, 1480.
+some years elapsed, and then the ecclesiastical commissioners took the
+foundation in hand, but when at last trustees were appointed, and the
+valuable library was re-arranged and catalogued, this "caxton," together
+with the fine copy of "latterbury" from the first oxford press, had
+disappeared entirely. whatever ignorance may have been displayed in the
+mutilation, quite another word should be applied to the disappearance.
+
+the following anecdote is so _apropos_, that although it has lately
+appeared in no. 1 of _the antiquary_, i cannot resist the temptation of
+re-printing it, as a warning to inheritors of old libraries. the account
+was copied by me years ago from a letter written in 1847, by the rev. c.
+f. newmarsh, rector of pelham, to the rev. s. r. maitland, librarian to
+the archbishop of canterbury, and is as follows:--
+
+
+"in june, 1844, a pedlar called at a cottage in blyton and asked an old
+widow, named naylor, whether she had any rags to sell. she answered, no!
+but offered him some old paper, and took from a shelf the 'boke of st.
+albans' and others, weighing 9 lbs., for which she received 9_d_. the
+pedlar carried them through gainsborough tied up in string, past a
+chemist's shop, who, being used to buy old paper to wrap his drugs in,
+called the man in, and, struck by the appearance of the 'boke,' gave him
+3_s_. for the lot. not being able to read the colophon, he took it to an
+equally ignorant stationer, and offered it to him for a guinea, at which
+price he declined it, but proposed that it should be exposed in his
+window as a means of eliciting some information about it. it was
+accordingly placed there with this label, 'very old curious work.'
+a collector of books went in and offered half-a-crown for it, which
+excited the suspicion of the vendor. soon after mr. bird, vicar of
+gainsborough, went in and asked the price, wishing to possess a very
+early specimen of printing, but not knowing the value of the book. while
+he was examining it, stark, a very intelligent bookseller, came in, to
+whom mr. bird at once ceded the right of pre-emption. stark betrayed
+such visible anxiety that the vendor, smith, declined setting a price.
+soon after sir c. anderson, of lea (author of ancient models), came in
+and took away the book to collate, but brought it back in the morning
+having found it imperfect in the middle, and offered l5 for it. sir
+charles had no book of reference to guide him to its value. but in the
+meantime, stark had employed a friend to obtain for him the refusal of
+it, and had undertaken to give for it a little more than any sum sir
+charles might offer. on finding that at least l5 could be got for it,
+smith went to the chemist and gave him two guineas, and then sold it to
+stark's agent for seven guineas. stark took it to london, and sold it at
+once to the rt. hon. thos. grenville for seventy pounds or guineas.
+
+"i have now shortly to state how it came that a book without covers of
+such extreme age was preserved. about fifty years since, the library
+of thonock hall, in the parish of gainsborough, the seat of the hickman
+family, underwent great repairs, the books being sorted over by a most
+ignorant person, whose selection seems to have been determined by
+the coat. all books without covers were thrown into a great heap, and
+condemned to all the purposes which leland laments in the sack of the
+conventual libraries by the visitors. but they found favour in the eyes
+of a literate gardener, who begged leave to take what he liked home.
+he selected a large quantity of sermons preached before the house of
+commons, local pamphlets, tracts from 1680 to 1710, opera books, etc.
+he made a list of them, which i found afterwards in the cottage. in
+the list, no. 43 was 'cotarmouris,' or the boke of st. albans. the old
+fellow was something of a herald, and drew in his books what he held
+to be his coat. after his death, all that could be stuffed into a large
+chest were put away in a garret; but a few favourites, and the 'boke'
+among them remained on the kitchen shelves for years, till his son's
+widow grew so 'stalled' of dusting them that she determined to sell
+them. had she been in poverty, i should have urged the buyer, stark, the
+duty of giving her a small sum out of his great gains."
+
+such chances as this do not fall to a man's lot twice; but edmond werdet
+relates a story very similar indeed, and where also the "plums" fell
+into the lap of a london dealer.
+
+in 1775, the recollet monks of antwerp, wishing to make a reform,
+examined their library, and determined to get rid of about 1,500
+volumes--some manuscript and some printed, but all of which they
+considered as old rubbish of no value.
+
+at first they were thrown into the gardener's rooms; but, after some
+months, they decided in their wisdom to give the whole refuse to the
+gardener as a recognition of his long services.
+
+this man, wiser in his generation than these simple fathers, took the
+lot to m. vanderberg, an amateur and man of education. m. vanderberg
+took a cursory view, and then offered to buy them by weight at sixpence
+per pound. the bargain was at once concluded, and m. vanderberg had the
+books.
+
+shortly after, mr. stark, a well-known london bookseller, being in
+antwerp, called on m. vanderberg, and was shown the books. he at once
+offered 14,000 francs for them, which was accepted. imagine the surprise
+and chagrin of the poor monks when they heard of it! they knew they had
+no remedy, and so dumbfounded were they by their own ignorance, that
+they humbly requested m. vanderberg to relieve their minds by returning
+some portion of his large gains. he gave them 1,200 francs.
+
+the great shakespearian and other discoveries, which were found in a
+garret at lamport hall in 1867 by mr. edmonds, are too well-known and
+too recent to need description. in this case mere chance seems to have
+led to the preservation of works, the very existence of which set the
+ears of all lovers of shakespeare a-tingling.
+
+in the summer of 1877, a gentleman with whom i was well acquainted took
+lodgings in preston street, brighton. the morning after his arrival,
+he found in the w.c. some leaves of an old black-letter book. he asked
+permission to retain them, and enquired if there were any more where
+they came from. two or three other fragments were found, and the
+landlady stated that her father, who was fond of antiquities, had at one
+time a chest full of old black-letter books; that, upon his death, they
+were preserved till she was tired of seeing them, and then, supposing
+them of no value, she had used them for waste; that for two years and
+a-half they had served for various household purposes, but she had
+just come to the end of them. the fragments preserved, and now in my
+possession, are a goodly portion of one of the most rare books from the
+press of wynkyn de worde, caxton's successor. the title is a curious
+woodcut with the words "gesta romanorum" engraved in an odd-shaped black
+letter. it has also numerous rude wood-cuts throughout. it was from this
+very work that shakespeare in all probability derived the story of the
+three caskets which in "the merchant of venice" forms so integral a
+portion of the plot. only think of that cloaca being supplied daily with
+such dainty bibliographical treasures!
+
+in the lansdowne collection at the british museum is a volume containing
+three manuscript dramas of queen elizabeth's time, and on a fly-leaf
+is a list of fifty-eight plays, with this note at the foot, in the
+handwriting of the well-known antiquary, warburton:
+
+
+"after i had been many years collecting these manuscript playes, through
+my own carelessness and the ignorance of my servant, they was unluckely
+burned or put under pye bottoms."
+
+
+some of these "playes" are preserved in print, but others are quite
+unknown and perished for ever when used as "pye-bottoms."
+
+mr. w. b. rye, late keeper of the printed books at our great national
+library, thus writes:--
+
+
+"on the subject of ignorance you should some day, when at the british
+museum, look at lydgate's translation of boccaccio's 'fall of princes,'
+printed by pynson in 1494. it is 'liber rarissimus.' this copy when
+perfect had been very fine and quite uncut. on one fine summer afternoon
+in 1874 it was brought to me by a tradesman living at lamberhurst. many
+of the leaves had been cut into squares, and the whole had been rescued
+from a tobacconist's shop, where the pieces were being used to wrap up
+tobacco and snuff. the owner wanted to buy a new silk gown for his wife,
+and was delighted with three guineas for this purpose. you will notice
+how cleverly the british museum binder has joined the leaves, making it,
+although still imperfect, a fine book."
+
+
+referring to the carelessness exhibited by some custodians of parish
+registers,
+
+mr. noble, who has had great experience in such matters, writes:--
+
+
+"a few months ago i wanted a search made of the time of charles i in
+one of the most interesting registers in a large town (which shall be
+nameless) in england. i wrote to the custodian of it, and asked him
+kindly to do the search for me, and if he was unable to read the names
+to get some one who understood the writing of that date to decipher the
+entries for me. i did not have a reply for a fortnight, but one morning
+the postman brought me a very large unregistered book-packet, which i
+found to be the original parish registers! he, however, addressed a note
+with it stating that he thought it best to send me the document itself
+to look at, and begged me to be good enough to return the register to
+him as soon as done with. he evidently wished to serve me--his ignorance
+of responsibility without doubt proving his kindly disposition, and on
+that account alone i forbear to name him; but i can assure you i was
+heartily glad to have a letter from him in due time announcing that
+the precious documents were once more locked up in the parish chest.
+certainly, i think such as he to be 'enemies of books.' don't you?"
+
+
+bigotry has also many sins to answer for. the late m. muller, of
+amsterdam, a bookseller of european fame, wrote to me as follows a few
+weeks before his death:--
+
+
+"of course, we also, in holland, have many enemies of books, and if i
+were happy enough to have your spirit and style i would try and write
+a companion volume to yours. now i think the best thing i can do is
+to give you somewhat of my experience. you say that the discovery of
+printing has made the destruction of anybody's books difficult. at this
+i am bound to say that the inquisition did succeed most successfully, by
+burning heretical books, in destroying numerous volumes invaluable for
+their wholesome contents. indeed, i beg to state to you the amazing fact
+that here in holland exists an ultramontane society called 'old
+paper,' which is under the sanction of the six catholic bishops of the
+netherlands, and is spread over the whole kingdom. the openly-avowed
+object of this society is to buy up and to destroy as waste paper all
+the protestant and liberal catholic newspapers, pamphlets and books,
+the price of which is offered to the pope as 'deniers de st. pierre.'
+of course, this society is very little known among protestants, and
+many have denied even its existence; but i have been fortunate enough
+to obtain a printed circular issued by one of the bishops containing
+statistics of the astounding mass of paper thus collected, producing in
+one district alone the sum of l1,200 in three months. i need not tell
+you that this work is strongly promoted by the catholic clergy. you can
+have no idea of the difficulty we now have in procuring certain books
+published but 30, 40, or 50 years ago of an ephemeral character.
+historical and theological books are very rare; novels and poetry of
+that period are absolutely not to be found; medical and law books are
+more common. i am bound to say that in no country have more books been
+printed and more destroyed than in holland. w. muller."
+
+the policy of buying up all objectionable literature seems to me, i
+confess, very short-sighted, and in most cases would lead to a greatly
+increased reprint; it certainly would in these latitudes.
+
+from the church of rome to the church of england is no great leap, and
+mr. smith, the brighton bookseller, gives evidence thus:--
+
+
+"it may be worth your while to note that the clergy of the last two
+centuries ought to be included in your list (of biblioclasts). i have
+had painful experience of the fact in the following manner. numbers of
+volumes in their libraries have had a few leaves removed, and in many
+others whole sections torn out. i suppose it served their purpose thus
+to use the wisdom of greater men and that they thus economised their own
+time by tearing out portions to suit their purpose. the hardship to the
+trade is this: their books are purchased in good faith as perfect, and
+when resold the buyer is quick to claim damage if found defective, while
+the seller has no redress."
+
+
+among the careless destroyers of books still at work should be classed
+government officials. cart-loads of interesting documents, bound and
+unbound, have been sold at various times as waste-paper,[1] when modern
+red-tape thought them but rubbish. some of them have been rescued and
+resold at high prices, but some have been lost for ever.
+
+
+[1] nell gwyn's private housekeeping book was among them, containing
+most curious particulars of what was necessary in the time of charles i
+for a princely household. fortunately it was among the rescued, and is
+now in a private library.
+
+
+in 1854 a very interesting series of blue books was commenced by the
+authorities of the patent office, of course paid for out of the national
+purse. beginning with the year 1617 the particulars of every important
+patent were printed from the original specifications and fac-simile
+drawings made, where necessary, for the elucidation of the text. a
+very moderate price was charged for each, only indeed the prime cost
+of production. the general public, of course, cared little for such
+literature, but those interested in the origin and progress of any
+particular art, cared much, and many sets of patents were purchased by
+those engaged in research. but the great bulk of the stock was, to some
+extent, inconvenient, and so when a removal to other offices, in 1879,
+became necessary, the question arose as to what could be done with them.
+these blue-books, which had cost the nation many thousands of pounds,
+were positively sold to the paper mills as wastepaper, and nearly 100
+tons weight were carted away at about l3 per ton. it is difficult to
+believe, although positively true, that so great an act of vandalism
+could have been perpetrated, even in a government office. it is true
+that no demand existed for some of them, but it is equally true that
+in numerous cases, especially in the early specifications of the
+steam engine and printing machine, the want of them has caused great
+disappointment. to add a climax to the story, many of the "pulped"
+specifications have had to be reprinted more than once since their
+destruction.
+
+
+
+chapter vi. the bookworm.
+
+      there is a sort of busy worm
+      that will the fairest books deform,
+          by gnawing holes throughout them;
+      alike, through every leaf they go,
+      yet of its merits naught they know,
+          nor care they aught about them.
+
+      their tasteless tooth will tear and taint
+      the poet, patriot, sage or saint,
+          not sparing wit nor learning.
+      now, if you'd know the reason why,
+      the best of reasons i'll supply;
+          'tis bread to the poor vermin.
+
+      of pepper, snuff, or 'bacca smoke,
+      and russia-calf they make a joke.
+          yet, why should sons of science
+      these puny rankling reptiles dread?
+      'tis but to let their books be read,
+          and bid the worms defiance."
+                              j. doraston.
+
+a most destructive enemy of books has been the bookworm. i say "has
+been," because, fortunately, his ravages in all civilised countries have
+been greatly restricted during the last fifty years. this is due partly
+to the increased reverence for antiquity which has been universally
+developed--more still to the feeling of cupidity, which has caused
+all owners to take care of volumes which year by year have become more
+valuable--and, to some considerable extent, to the falling off in the
+production of edible books.
+
+the monks, who were the chief makers as well as the custodians of books,
+through the long ages we call "dark," because so little is known of
+them, had no fear of the bookworm before their eyes, for, ravenous as
+he is and was, he loves not parchment, and at that time paper was not.
+whether at a still earlier period he attacked the papyrus, the paper of
+the egyptians, i know not--probably he did, as it was a purely vegetable
+substance; and if so, it is quite possible that the worm of to-day, in
+such evil repute with us, is the lineal descendant of ravenous ancestors
+who plagued the sacred priests of on in the time of joseph's pharaoh, by
+destroying their title deeds and their books of science.
+
+rare things and precious, as manuscripts were before the invention of
+typography, are well preserved, but when the printing press was invented
+and paper books were multiplied in the earth; when libraries increased
+and readers were many, then familiarity bred contempt; books were packed
+in out-of-the-way places and neglected, and the oft-quoted, though
+seldom seen, bookworm became an acknowledged tenant of the library, and
+the mortal enemy of the bibliophile.
+
+anathemas have been hurled against this pest in nearly every european
+language, old and new, and classical scholars of bye-gone centuries have
+thrown their spondees and dactyls at him. pierre petit, in 1683, devoted
+a long latin poem to his dis-praise, and parnell's charming ode is well
+known. hear the poet lament:--
+
+ "pene tu mihi passerem catulli,
+ pene tu mihi lesbiam abstulisti."
+
+and then--
+
+ "quid dicam innumeros bene eruditos
+ quorum tu monumenta tu labores
+     isti pessimo ventre devorasti?"
+
+while petit, who was evidently moved by strong personal feelings against
+the "invisum pecus," as he calls him, addresses his little enemy as
+"bestia audax" and "pestis chartarum."
+
+but, as a portrait commonly precedes a biography, the curious reader
+may wish to be told what this "bestia audax," who so greatly ruffles
+the tempers of our eclectics, is like. here, at starting, is a serious
+chameleon-like difficulty, for the bookworm offers to us, if we are
+guided by their words, as many varieties of size and shape as there are
+beholders.
+
+sylvester, in his "laws of verse," with more words than wit, described
+him as "a microscopic creature wriggling on the learned page, which,
+when discovered, stiffens out into the resemblance of a streak of dirt."
+
+the earliest notice is in "micrographia," by r. hooke, folio, london,
+1665. this work, which was printed at the expense of the royal society
+of london, is an account of innumerable things examined by the author
+under the microscope, and is most interesting for the frequent accuracy
+of the author's observations, and most amusing for his equally frequent
+blunders.
+
+in his account of the bookworm, his remarks, which are rather long
+and very minute, are absurdly blundering. he calls it "a small white
+silver-shining worm or moth, which i found much conversant among books
+and papers, and is supposed to be that which corrodes and eats holes
+thro' the leaves and covers. its head appears bigg and blunt, and its
+body tapers from it towards the tail, smaller and smaller, being
+shap'd almost like a carret.... it has two long horns before, which are
+streight, and tapering towards the top, curiously ring'd or knobb'd and
+brisled much like the marsh weed called horses tail.... the hinder part
+is terminated with three tails, in every particular resembling the two
+longer horns that grow out of the head. the legs are scal'd and hair'd.
+this animal probably feeds upon the paper and covers of books, and
+perforates in them several small round holes, finding perhaps a
+convenient nourishment in those husks of hemp and flax, which have
+passed through so many scourings, washings, dressings, and dryings as
+the parts of old paper necessarily have suffer'd. and, indeed, when i
+consider what a heap of sawdust or chips this little creature (which is
+one of the teeth of time) conveys into its intrals, i cannot chuse but
+remember and admire the excellent contrivance of nature in placing in
+animals such a fire, as is continually nourished and supply'd by the
+materials convey'd into the stomach and fomented by the bellows of the
+lungs." the picture or "image," which accompanies this description, is
+wonderful to behold. certainly r. hooke, fellow of the royal society,
+drew somewhat upon his imagination here, having apparently evolved both
+engraving and description from his inner consciousness.[1]
+
+
+[1] not so! several correspondents have drawn my attention to the
+fact that hooke is evidently describing the "lepisma," which, if not
+positively injurious, is often found in the warm places of old houses,
+especially if a little damp. he mistook this for the bookworm.
+
+
+entomologists even do not appear to have paid much attention to the
+natural history of the "worm." kirby, speaking of it, says, "the
+larvae of crambus pinguinalis spins a robe which it covers with its own
+excrement, and does no little injury." again, "i have often observed the
+caterpillar of a little moth that takes its station in damp old books,
+and there commits great ravages, and many a black-letter rarity, which
+in these days of bibliomania would have been valued at its weight in
+gold, has been snatched by these devastators," etc., etc.
+
+as already quoted, doraston's description is very vague. to him he is
+in one verse "a sort of busy worm," and in another "a puny rankling
+reptile." hannett, in his work on book-binding, gives "aglossa
+pinguinalis" as the real name, and mrs. gatty, in her parables,
+christens it "hypothenemus cruditus."
+
+the, rev. f. t. havergal, who many years ago had much trouble with
+bookworms in the cathedral library of hereford, says they are a kind of
+death-watch, with a "hard outer skin, and are dark brown," another sort
+"having white bodies with brown spots on their heads." mr. holme, in
+"notes and queries" for 1870, states that the "anobium paniceum" has
+done considerable injury to the arabic manuscripts brought from cairo,
+by burckhardt, and now in the university library, cambridge. other
+writers say "acarus eruditus" or "anobium pertinax" are the correct
+scientific names.
+
+personally, i have come across but few specimens; nevertheless, from
+what i have been told by librarians, and judging from analogy, i imagine
+the following to be about the truth:--
+
+there are several kinds of caterpillar and grub, which eat into books,
+those with legs are the larvae of moths; those without legs, or rather
+with rudimentary legs, are grubs and turn to beetles.
+
+it is not known whether any species of caterpillar or grub can live
+generation after generation upon books alone, but several sorts of
+wood-borers, and others which live upon vegetable refuse, will attack
+paper, especially if attracted in the first place by the real wooden
+boards in which it was the custom of the old book-binders to clothe
+their volumes. in this belief, some country librarians object to opening
+the library windows lest the enemy should fly in from the neighbouring
+woods, and rear a brood of worms. anyone, indeed, who has seen a hole
+in a filbert, or a piece of wood riddled by dry rot, will recognize a
+similarity of appearance in the channels made by these insect enemies.
+
+among the paper-eating species are:--
+
+1. the "anobium." of this beetle there are varieties, viz.: "a.
+pertinax," "a. eruditus," and "a. paniceum." in the larval state they
+are grubs, just like those found, in nuts; in this stage they are too
+much alike to be distinguished from one another. they feed on old dry
+wood, and often infest bookcases and shelves. they eat the wooden boards
+of old books, and so pass into the paper where they make long holes
+quite round, except when they work in a slanting direction, when the
+holes appear to be oblong. they will thus pierce through several volumes
+in succession, peignot, the well-known bibliographer, having found
+27 volumes so pierced in a straight line by one worm, a miracle of
+gluttony, the story of which, for myself, i receive "_cum grano salis_."
+after a certain time the larva changes into a pupa, and then emerges as
+a small brown beetle.
+
+2. "oecophora."--this larva is similar in size to that of anobium, but
+can be distinguished at once by having legs. it is a caterpillar, with
+six legs upon its thorax and eight sucker-like protuberances on its
+body, like a silk-worm. it changes into a chrysalis, and then assumes
+its perfect shape as a small brown moth. the species that attacks books
+is the oecophora pseudospretella. it loves damp and warmth, and eats any
+fibrous material. this caterpillar is quite unlike any garden species,
+and, excepting the legs, is very similar in appearance and size to the
+anobium. it is about half-inch long, with a horny head and strong jaws.
+to printers' ink or writing ink he appears to have no great dislike,
+though i imagine that the former often disagrees with his health, unless
+he is very robust, as in books where the print is pierced a majority of
+the worm-holes i have seen are too short in extent to have provided food
+enough for the development of the grub. but, although the ink may be
+unwholesome, many grubs survive, and, eating day and night in silence
+and darkness, work out their destiny leaving, according to the strength
+of their constitutions, a longer or shorter tunnel in the volume.
+
+in december, 1879, mr. birdsall, a well-known book-binder of
+northampton, kindly sent me by post a fat little worm, which had been
+found by one of his workmen in an old book while being bound. he bore
+his journey extremely well, being very lively when turned out. i placed
+him in a box in warmth and quiet, with some small fragments of paper
+from a boethius, printed by caxton, and a leaf of a seventeenth century
+book. he ate a small piece of the leaf, but either from too much fresh
+air, from unaccustomed liberty, or from change of food, he gradually
+weakened, and died in about three weeks. i was sorry to lose him, as i
+wished to verify his name in his perfect state. mr. waterhouse, of the
+entomological department of the british museum, very kindly examined him
+before death, and was of opinion he was oecophora pseudospretella.
+
+in july, 1885, dr. garnett, of the british museum, gave me two worms
+which had been found in an old hebrew commentary just received from
+athens. they had doubtless had a good shaking on the journey, and one
+was moribund when i took charge, and joined his defunct kindred in a
+few days. the other seemed hearty and lived with me for nearly eighteen
+months. i treated him as well as i knew how; placed him in a small box
+with the choice of three sorts of old paper to eat, and very seldom
+disturbed him. he evidently resented his confinement, ate very little,
+moved very little, and changed in appearance very little, even when
+dead. this greek worm, filled with hebrew lore, differed in many
+respects from any other i have seen. he was longer, thinner, and more
+delicate looking than any of his english congeners. he was transparent,
+like thin ivory, and had a dark line through his body, which i took
+to be the intestinal canal. he resigned his life with extreme
+procrastination, and died "deeply lamented" by his keeper, who had long
+looked forward to his final development.
+
+the difficulty of breeding these worms is probably due to their
+formation. when in a state of nature they can by expansion and
+contraction of the body working upon the sides of their holes, push
+their horny jaws against the opposing mass of paper. but when freed from
+the restraint, which indeed to them is life, they cannot eat although
+surrounded with food, for they have no legs to keep them steady, and
+their natural, leverage is wanting.
+
+considering the numerous old books contained in the british museum, the
+library there is wonderfully free from the worm. mr. rye, lately
+the keeper of the printed books there, writes me "two or three were
+discovered in my time, but they were weakly creatures. one, i remember,
+was conveyed into the natural history department, and was taken into
+custody by mr. adam white who pronounced it to be anobium pertinax. i
+never heard of it after."
+
+the reader, who has not had an opportunity of examining old libraries,
+can have no idea of the dreadful havoc which these pests are capable of
+making.
+
+i have now before me a fine folio volume, printed on very good
+unbleached paper, as thick as stout cartridge, in the year 1477, by
+peter schoeffer, of mentz. unfortunately, after a period of neglect in
+which it suffered severely from the "worm," it was about fifty years ago
+considered worth a new cover, and so again suffered severely, this time
+at the hands of the binder. thus the original state of the boards is
+unknown, but the damage done to the leaves can be accurately described.
+
+the "worms" have attacked each end. on the first leaf are 212 distinct
+holes, varying in size from a common pin hole to that which a stout
+knitting-needle would make, say, <1/16> to <1/23> inch. these holes run
+mostly in lines more or less at right angles with the covers, a very few
+being channels along the paper affecting three or four sheets only. the
+varied energy of these little pests is thus represented:--
+
+    on folio 1 are 212 holes.  on folio 61 are 4 holes.
+        "   11  "   57   "         "    71  "  2   "
+        "   21  "   48   "         "    81  "  2   "
+        "   31  "   31   "         "    87  "  1   "
+        "   41  "   18   "         "    90  "  0   "
+        "   51  "    6   "
+
+
+these 90 leaves being stout, are about the thickness of 1 inch. the
+volume has 250 leaves, and turning to the end, we find on the last leaf
+81 holes, made by a breed of worms not so ravenous. thus,
+
+      from end                |         from end.
+ on folio 1 are 81 holes.     |    on folio 66 is 1 hole.
+     "   11 "   40   "        |         "   69   "   0   "
+
+
+it is curious to notice how the holes, rapidly at first, and then slowly
+and more slowly, disappear. you trace the same hole leaf after leaf,
+until suddenly the size becomes in one leaf reduced to half its normal
+diameter, and a close examination will show a small abrasion of the
+paper in the next leaf exactly where the hole would have come if
+continued. in the book quoted it is just as if there had been a race. in
+the first ten leaves the weak worms are left behind; in the second ten
+there are still forty-eight eaters; these are reduced to thirty-one in
+the third ten, and to only eighteen in the fourth ten. on folio 51 only
+six worms hold on, and before folio 61 two of them have given in.
+before reaching folio 7, it is a neck and neck race between two sturdy
+gourmands, each making a fine large hole, one of them being oval in
+shape. at folio 71 they are still neck and neck, and at folio 81 the
+same. at folio 87 the oval worm gives in, the round one eating three
+more leaves and part way through the fourth. the leaves of the book are
+then untouched until we reach the sixty-ninth from the end, upon which
+is one worm hole. after this they go on multiplying to the end of the
+book.
+
+i have quoted this instance because i have it handy, but many worms
+eat much longer holes than any in this volume; some i have seen
+running quite through a couple of thick volumes, covers and all. in the
+"schoeffer" book the holes are probably the work of anobium pertinax,
+because the centre is spared and both ends attacked. originally, real
+wooden boards were the covers of the volume, and here, doubtless, the
+attack was commenced, which was carried through each board into the
+paper of the book.
+
+i remember well my first visit to the bodleian library, in the year
+1858, dr. bandinel being then the librarian. he was very kind, and
+afforded me every facility for examining the fine collection of
+"caxtons," which was the object of my journey. in looking over a parcel
+of black-letter fragments, which had been in a drawer for a long time, i
+came across a small grub, which, without a thought, i threw on the floor
+and trod under foot. soon after i found another, a fat, glossy fellow,
+so long ---, which i carefully preserved in a little paper box,
+intending to observe his habits and development. seeing dr. bandinel
+near, i asked him to look at my curiosity. hardly, however, had i turned
+the wriggling little victim out upon the leather-covered table, when
+down came the doctor's great thumb-nail upon him, and an inch-long smear
+proved the tomb of all my hopes, while the great bibliographer, wiping
+his thumb on his coat sleeve, passed on with the remark, "oh, yes! they
+have black heads sometimes." that was something to know--another fact
+for the entomologist; for my little gentleman had a hard, shiny, white
+head, and i never heard of a black-headed bookworm before or since.
+perhaps the great abundance of black-letter books in the bodleian may
+account for the variety. at any rate he was an anobium.
+
+i have been unmercifully "chaffed" for the absurd idea that a
+paper-eating worm could be kept a prisoner in a paper box. oh, these
+critics! your bookworm is a shy, lazy beast, and takes a day or two to
+recover his appetite after being "evicted." moreover, he knew his own
+dignity better than to eat the "loaded" glazed shoddy note paper in
+which he was incarcerated.
+
+in the case of caxton's "lyf of oure ladye," already referred to, not
+only are there numerous small holes, but some very large channels at the
+bottom of the pages. this is a most unusual occurrence, and is probably
+the work of the larva of "dermestes vulpinus," a garden beetle, which is
+very voracious, and eats any kind of dry ligneous rubbish.
+
+the scarcity of edible books of the present century has been mentioned.
+one result of the extensive adulteration of modern paper is that the
+worm will not touch it. his instinct forbids him to eat the china clay,
+the bleaches, the plaster of paris, the sulphate of barytes, the scores
+of adulterants now used to mix with the fibre, and, so far, the wise
+pages of the old literature are, in the race against time with the
+modern rubbish, heavily handicapped. thanks to the general interest
+taken in old books now-a-days, the worm has hard times of it, and
+but slight chance of that quiet neglect which is necessary to his,
+existence. so much greater is the reason why some patient entomologist
+should, while there is the chance, take upon himself to study the habits
+of the creature, as sir john lubbock has those of the ant.
+
+i have now before me some leaves of a book, which, being waste, were
+used by our economical first printer, caxton, to make boards, by pasting
+them together. whether the old paste was an attraction, or whatever the
+reason may have been, the worm, when he got in there, did not, as usual,
+eat straight through everything into the middle of the book, but worked
+his way longitudinally, eating great furrows along the leaves without
+passing out of the binding; and so furrowed are these few leaves by long
+channels that it is difficult to raise one of them without its falling
+to pieces.
+
+this is bad enough, but we may be very thankful that in these temperate
+climes we have no such enemies as are found in very hot countries, where
+a whole library, books, bookshelves, table, chairs, and all, may be
+destroyed in one night by a countless army of ants.
+
+our cousins in the united states, so fortunate in many things, seem very
+fortunate in this--their books are not attacked by the "worm"--at any
+rate, american writers say so. true it is that all their black-letter
+comes from europe, and, having cost many dollars, is well looked after;
+but there they have thousands of seventeenth and eighteenth century
+books, in roman type, printed in the states on genuine and wholesome
+paper, and the worm is not particular, at least in this country, about
+the type he eats through, if the paper is good.
+
+probably, therefore, the custodians of their old libraries could tell
+a different tale, which makes it all the more amusing to find in
+the excellent "encyclopaedia of printing,"[1] edited and printed by
+ringwalt, at philadelphia, not only that the bookworm is a stranger
+there, for personally he is unknown to most of us, but that his
+slightest ravages are looked upon as both curious and rare. after
+quoting dibdin, with the addition of a few flights of imagination of his
+own, ringwalt states that this "paper-eating moth is supposed to have
+been introduced into england in hogsleather binding from holland." he
+then ends with what, to anyone who has seen the ravages of the worm in
+hundreds of books, must be charming in its native simplicity. "there is
+now," he states, evidently quoting it as a great curiosity, "there is
+now, in a private library in philadelphia, a book perforated by this
+insect." oh! lucky philadelphians! who can boast of possessing the
+oldest library in the states, but must ask leave of a private collector
+if they wish to see the one wormhole in the whole city!
+
+
+[1] "american encyclopaedia of printing": by luther ringwalt. 8vo.
+philadelphia, 1871.
+
+
+
+chapter vii. other vermin.
+
+besides the worm i do not think there is any insect enemy of books worth
+description. the domestic black-beetle, or cockroach, is far too modern
+an introduction to our country to have done much harm, though he will
+sometimes nibble the binding of books, especially if they rest upon the
+floor.
+
+not so fortunate, however, are our american cousins, for in the "library
+journal" for september, 1879, mr. weston flint gives an account of a
+dreadful little pest which commits great havoc upon the cloth bindings
+of the new york libraries. it is a small black-beetle or cockroach,
+called by scientists "blatta germanica" and by others the "croton
+bug." unlike our household pest, whose home is the kitchen, and whose
+bashfulness loves secrecy and the dark hours, this misgrown flat
+species, of which it would take two to make a medium-sized english
+specimen, has gained in impudence what it has lost in size, fearing
+neither light nor noise, neither man nor beast. in the old english bible
+of 1551, we read in psalm xci, 5, "thou shalt not nede to be afraied
+for eny bugges by night." this verse falls unheeded on the ear of the
+western librarian who fears his "bugs" both night and day, for they
+crawl over everything in broad sunlight, infesting and infecting each
+corner and cranny of the bookshelves they choose as their home. there
+is a remedy in the powder known as insecticide, which, however, is very
+disagreeable upon books and shelves. it is, nevertheless, very fatal to
+these pests, and affords some consolation in the fact that so soon as
+a "bug" shows any signs of illness, he is devoured at once by his
+voracious brethren with the same relish as if he were made of fresh
+paste.
+
+there is, too, a small silvery insect (lepisma) which i have often
+seen in the backs of neglected books, but his ravages are not of much
+importance.
+
+nor can we reckon the codfish as very dangerous to literature,
+unless, indeed, he be of the roman obedience, like that wonderful
+ichthiobibliophage (pardon me, professor owen) who, in the year 1626,
+swallowed three puritanical treatises of john frith, the protestant
+martyr. no wonder, after such a meal, he was soon caught, and became
+famous in the annals of literature. the following is the title of a
+little book issued upon the occasion: "vox piscis, or the book-fish
+containing three treatises, which were found in the belly of a cod-fish
+in cambridge market on midsummer eve, ad 1626." lowndes says (see
+under "tracey,") "great was the consternation at cambridge upon the
+publication of this work."
+
+rats and mice, however, are occasionally very destructive, as the
+following anecdote will show: two centuries ago, the library of the dean
+and chapter of westminster was kept in the chapter house, and repairs
+having become necessary in that building, a scaffolding was erected
+inside, the books being left on their shelves. one of the holes made in
+the wall for a scaffold-pole was selected by a pair of rats for their
+family residence. here they formed a nest for their young ones by
+descending to the library shelves and biting away the leaves of various
+books. snug and comfortable was the little household, until, one day,
+the builder's men having finished, the poles were removed, and--alas!
+for the rats--the hole was closed up with bricks and cement. buried
+alive, the father and mother, with five or six of their offspring, met
+with a speedy death, and not until a few years ago, when a restoration
+of the chapter house was effected, was the rat grave opened again for a
+scaffold pole, and all their skeletons and their nest discovered. their
+bones and paper fragments of the nest may now be seen in a glass case in
+the chapter house, some of the fragments being attributed to books from
+the press of caxton. this is not the case, although there are pieces of
+very early black-letter books not now to be found in the abbey library,
+including little bits of the famous queen elizabeth's prayer book, with
+woodcuts, 1568.
+
+a friend sends me the following incident: "a few years since, some rats
+made nests in the trees surrounding my house; from thence they jumped on
+to some flat roofing, and so made their way down a chimney into a
+room where i kept books. a number of these, with parchment backs, they
+entirely destroyed, as well as some half-dozen books whole bound in
+parchment."
+
+another friend informs me that in the natural history museum of the
+devon and exeter institution is a specimen of "another little pest,
+which has a great affection for bindings in calf and roan. its
+scientific name is niptus hololeucos." he adds, "are you aware that
+there was a terrible creature allied to these, rejoicing in the name
+of tomicus typographus, which committed sad ravages in germany in
+the seventeenth century, and in the old liturgies of that country is
+formally mentioned under its vulgar name, 'the turk'?" (see kirby and
+spence, seventh edition, 1858, p. 123.) this is curious, and i did not
+know it, although i know well that typographus tomicus, or the "cutting
+printer," is a sad enemy of (good) books. upon this part of our subject,
+however, i am debarred entering.
+
+the following is from w. j. westbrook, mus. doe., cantab., and
+represents ravages with which i am personally unacquainted:
+
+
+"dear blades,--i send you an example of the 'enemy'-mosity of an
+ordinary housefly. it hid behind the paper, emitted some caustic fluid,
+and then departed this life. i have often caught them in such holes.'
+30/12/83." the damage is an oblong hole, surrounded by a white fluffy
+glaze (fungoid?), difficult to represent in a woodcut. the size here
+given is exact.
+
+
+
+chapter viii. bookbinders.
+
+in the first chapter i mentioned bookbinders among the enemies of books,
+and i tremble to think what a stinging retort might be made if some
+irate bibliopegist were to turn the scales on the printer, and place him
+in the same category. on the sins of printers, and the unnatural neglect
+which has often shortened the lives of their typographical progeny, it
+is not for me to dilate. there is an old proverb, "'tis an ill bird
+that befouls its own nest"; a curious chapter thereupon, with many
+modern examples, might nevertheless be written. this i will leave, and
+will now only place on record some of the cruelties perpetrated upon
+books by the ignorance or carelessness of binders.
+
+like men, books have a soul and body. with the soul, or literary
+portion, we have nothing to do at present; the body, which is the outer
+frame or covering, and without which the inner would be unusable, is the
+special work of the binder. he, so to speak, begets it; he determines
+its form and adornment, he doctors it in disease and decay, and, not
+unseldom, dissects it after death. here, too, as through all nature, we
+find the good and bad running side by side. what a treat it is to
+handle a well-bound volume; the leaves lie open fully and freely, as
+if tempting you to read on, and you handle them without fear of their
+parting from the back. to look at the "tooling," too, is a pleasure, for
+careful thought, combined with artistic skill, is everywhere apparent.
+you open the cover and find the same loving attention inside that has
+been given to the outside, all the workmanship being true and thorough.
+indeed, so conservative is a good binding, that many a worthless book
+has had an honoured old age, simply out of respect to its outward
+aspect; and many a real treasure has come to a degraded end and
+premature death through the unsightliness of its outward case and the
+irreparable damage done to it in binding.
+
+the weapon with which the binder deals the most deadly blows to books
+is the "plough," the effect of which is to cut away the margins, placing
+the print in a false position relatively to the back and head, and often
+denuding the work of portions of the very text. this reduction in size
+not seldom brings down a handsome folio to the size of quarto, and a
+quarto to an octavo.
+
+with the old hand plough a binder required more care and caution to
+produce an even edge throughout than with the new cutting machine. if a
+careless workman found that he had not ploughed the margin quite square
+with the text, he would put it in his press and take off "another
+shaving," and sometimes even a third.
+
+dante, in his "inferno," deals out to the lost souls various tortures
+suited with dramatic fitness to the past crimes of the victims, and
+had i to execute judgment on the criminal binders of certain precious
+volumes i have seen, where the untouched maiden sheets entrusted to
+their care have, by barbarous treatment, lost dignity, beauty and value,
+i would collect the paper shavings so ruthlessly shorn off, and roast
+the perpetrator of the outrage over their slow combustion. in olden
+times, before men had learned to value the relics of our printers, there
+was some excuse for the sins of a binder who erred from ignorance which
+was general; but in these times, when the historical and antiquarian
+value of old books is freely acknowledged, no quarter should be granted
+to a careless culprit.
+
+it may be supposed that, from the spread of information, all real danger
+from ignorance is past. not so, good reader; that is a consummation as
+yet "devoutly to be wished." let me relate to you a true bibliographical
+anecdote: in 1877, a certain lord, who had succeeded to a fine
+collection of old books, promised to send some of the most valuable
+(among which were several caxtons) to the exhibition at south
+kensington. thinking their outward appearance too shabby, and not
+knowing the danger of his conduct, he decided to have them rebound
+in the neighbouring county town. the volumes were soon returned in a
+resplendent state, and, it is said, quite to the satisfaction of his
+lordship, whose pleasure, however, was sadly damped when a friend
+pointed out to him that, although the discoloured edges had all been
+ploughed off, and the time-stained blanks, with their fifteenth century
+autographs, had been replaced by nice clean fly-leaves, yet, looking at
+the result in its lowest aspect only--that of market value--the books
+had been damaged to at least the amount of l500; and, moreover,
+that caustic remarks would most certainly follow upon their public
+exhibition. those poor injured volumes were never sent.
+
+some years ago one of the most rare books printed by machlinia--a thin
+folio--was discovered bound in sheep by a country bookbinder, and cut
+down to suit the size of some quarto tracts. but do not let us suppose
+that country binders are the only culprits. it is not very long since
+the discovery of a unique caxton in one of our largest london libraries.
+it was in boards, as originally issued by the fifteenth-century binder,
+and a great fuss (very properly) was made over the treasure trove. of
+course, cries the reader, it was kept in its original covers, with
+all the interesting associations of its early state untouched? no such
+thing! instead of making a suitable case, in which it could be preserved
+just as it was, it was placed in the hands of a well-known london
+binder, with the order, "whole bind in velvet." he did his best, and
+the volume now glows luxuriously in its gilt edges and its inappropriate
+covering, and, alas! with half-an-inch of its uncut margin taken off all
+round. how do i know that? because the clever binder, seeing some ms.
+remarks on one of the margins, turned the leaf down to avoid cutting
+them off, and that stern witness will always testify, to the observant
+reader, the original size of the book. this same binder, on another
+occasion, placed a unique fifteenth century indulgence in warm water,
+to separate it from the cover upon which it was pasted, the result being
+that, when dry, it was so distorted as to be useless. that man soon
+after passed to another world, where, we may hope, his works have not
+followed him, and that his merits as a good citizen and an honest man
+counterbalanced his de-merits as a binder.
+
+other similar instances will occur to the memory of many a reader, and
+doubtless the same sin will be committed from time to time by certain
+binders, who seem to have an ingrained antipathy to rough edges and
+large margins, which of course are, in their view, made by nature as
+food for the shaving tub.
+
+de rome, a celebrated bookbinder of the eighteenth century, who was
+nicknamed by dibdin "the great cropper," was, although in private life
+an estimable man, much addicted to the vice of reducing the margins of
+all books sent to him to bind. so far did he go, that he even spared
+not a fine copy of froissart's chronicles, on vellum, in which was the
+autograph of the well-known book-lover, de thou, but cropped it most
+cruelly.
+
+owners, too, have occasionally diseased minds with regard to margins. a
+friend writes: "your amusing anecdotes have brought to my memory several
+biblioclasts whom i have known. one roughly cut the margins off his
+books with a knife, hacking away very much like a hedger and ditcher.
+large paper volumes were his especial delight, as they gave more paper.
+the slips thus obtained were used for index-making! another, with the
+bump of order unnaturally developed, had his folios and quartos all
+reduced, in binding, to one size, so that they might look even on his
+bookshelves."
+
+this latter was, doubtless, cousin to him who deliberately cut down all
+his books close to the text, because he had been several times annoyed
+by readers who made marginal notes.
+
+the indignities, too, suffered by some books in their lettering! fancy
+an early black-letter fifteenth-century quarto on knighthood, labelled
+"tracts"; or a translation of virgil, "sermons"! the "histories of
+troy," printed by caxton, still exists with "eracles" on the back, as
+its title, because that name occurs several times in the early chapters,
+and the binder was too proud to seek advice. the words "miscellaneous,"
+or "old pieces," were sometimes used when binders were at a loss for
+lettering, and many other instances might be mentioned.
+
+the rapid spread of printing throughout europe in the latter part of
+the fifteenth century caused a great fall in the value of plain
+un-illuminated mss., and the immediate consequence of this was the
+destruction of numerous volumes written upon parchment, which were used
+by the binders to strengthen the backs of their newly-printed rivals.
+these slips of vellum or parchment are quite common in old books.
+sometimes whole sheets are used as fly-leaves, and often reveal the
+existence of most valuable works, unknown before--proving, at the same
+time, the small value formerly attached to them.
+
+many a bibliographer, while examining old books, has to his great
+puzzlement come across short slips of parchment, nearly always from some
+old manuscript, sticking out like "guards" from the midst of the leaves.
+these suggest, at first, imperfections or damage done to the volume; but
+if examined closely it will be found that they are always in the middle
+of a paper section, and the real reason of their existence is just the
+same as when two leaves of parchment occur here and there in a paper
+volume, viz.: strength--strength to resist the lug which the strong
+thread makes against the middle of each section. these slips represent
+old books destroyed, and like the slips already noticed, should always
+be carefully examined.
+
+when valuable books have been evil-entreated, when they have become
+soiled by dirty hands, or spoiled by water stains, or injured by
+grease spots, nothing is more astonishing to the uninitiated than the
+transformation they undergo in the hands of a skilful restorer. the
+covers are first carefully dissected, the eye of the operator keeping
+a careful outlook for any fragments of old mss. or early printed books,
+which may have been used by the original binder. no force should be
+applied to separate parts which adhere together; a little warm water
+and care is sure to overcome that difficulty. when all the sections are
+loose, the separate sheets are placed singly in a bath of cold water,
+and allowed to remain there until all the dirt has soaked out. if not
+sufficiently purified, a little hydrochloric or oxalic acid, or caustic
+potash may be put in the water, according as the stains are from grease
+or from ink. here is where an unpractised binder will probably injure a
+book for life. if the chemicals are too strong, or the sheets remain too
+long in the bath, or are not thoroughly cleansed from the bleach before
+they are re-sized, the certain seeds of decay are planted in the paper,
+and although for a time the leaves may look bright to the eye, and even
+crackle under the hand like the soundest paper, yet in the course of a
+few years the enemy will appear, the fibre will decay, and the existence
+of the books will terminate in a state of white tinder.
+
+everything which diminishes the interest of a book is inimical to its
+preservation, and in fact is its enemy. therefore, a few words upon the
+destruction of old bindings.
+
+i remember purchasing many years ago at a suburban book stall, a perfect
+copy of moxon's mechanic exercises, now a scarce work. the volumes were
+uncut, and had the original marble covers. they looked so attractive in
+their old fashioned dress, that i at once determined to preserve it. my
+binder soon made for them a neat wooden box in the shape of a book,
+with morocco back properly lettered, where i trust the originals will be
+preserved from dust and injury for many a long year.
+
+old covers, whether boards or paper, should always be retained if in
+any state approaching decency. a case, which can be embellished to any
+extent looks every whit as well upon the shelf! and gives even greater
+protection than binding. it has also this great advantage: it does not
+deprive your descendants of the opportunity of seeing for themselves
+exactly in what dress the book buyers of four centuries ago received
+their volumes.
+
+
+
+chapter ix. collectors.
+
+after all, two-legged depredators, who ought to have known better, have
+perhaps done as much real damage in libraries as any other enemy. i do
+not refer to thieves, who, if they injure the owners, do no harm to the
+books themselves by merely transferring them from one set of bookshelves
+to another. nor do i refer to certain readers who frequent our public
+libraries, and, to save themselves the trouble of copying, will cut out
+whole articles from magazines or encyclopaedias. such depredations are
+not frequent, and only occur with books easily replaced, and do not
+therefore call for more than a passing mention; but it is a serious
+matter when nature produces such a wicked old biblioclast as john
+bagford, one of the founders of the society of antiquaries, who, in the
+beginning of the last century, went about the country, from library to
+library, tearing away title pages from rare books of all sizes. these
+he sorted out into nationalities and towns, and so, with a lot of
+hand-bills, manuscript notes, and miscellaneous collections of all
+kinds, formed over a hundred folio volumes, now preserved in the british
+museum. that they are of service as materials in compiling a general
+history of printing cannot be denied, but the destruction of many
+rare books was the result, and more than counter-balanced any benefit
+bibliographers will ever receive from them. when here and there
+throughout those volumes you meet with titles of books now either
+unknown entirely, or of the greatest rarity; when you find the colophon
+from the end, or the "insigne typographi" from the first leaf of a rare
+"fifteener," pasted down with dozens of others, varying in value, you
+cannot bless the memory of the antiquarian shoemaker, john bagford. his
+portrait, a half-length, painted by howard, was engraved by vertue, and
+re-engraved for the bibliographical decameron.
+
+a bad example often finds imitators, and every season there crop up for
+public sale one or two such collections, formed by bibliomaniacs, who,
+although calling themselves bibliophiles, ought really to be ranked
+among the worst enemies of books.
+
+the following is copied from a trade catalogue, dated april, 1880, and
+affords a fair idea of the extent to which these heartless destroyers
+will go:--
+
+"missal illuminations.
+
+fifty different capital letters _on_ vellum; _all in rich gold and
+colours. many 3 inches square: the floral decorations are of great
+beauty, ranging from the xiith to xvth century. mounted on stout
+card-board_. in nice preservation, l6 6_s_.
+
+
+ these beautiful letters have been cut from precious
+     mss., and as specimens of early art are extremely
+     valuable, many of them being worth 15_s_. each."
+
+
+mr. proeme is a man well known to the london dealers in old books. he is
+wealthy, and cares not what he spends to carry out his bibliographical
+craze, which is the collection of title pages. these he ruthlessly
+extracts, frequently leaving the decapitated carcase of the books, for
+which he cares not, behind him. unlike the destroyer bagford, he has
+no useful object in view, but simply follows a senseless kind of
+classification. for instance: one set of volumes contains nothing but
+copper-plate engraved titles, and woe betide the grand old dutch folios
+of the seventeenth century if they cross his path. another is a volume
+of coarse or quaint titles, which certainly answer the end of showing
+how idiotic and conceited some authors have been. here you find dr.
+sib's "bowels opened in divers sermons," 1650, cheek by jowl with the
+discourse attributed falsely to huntington, the calvinist, "die and
+be damned," with many others too coarse to be quoted. the odd titles
+adopted for his poems by taylor, the water-poet, enliven several pages,
+and make one's mouth water for the books themselves. a third volume
+includes only such titles as have the printer's device. if you shut
+your eyes to the injury done by such collectors, you may, to a certain
+extent, enjoy the collection, for there is great beauty in some titles;
+but such a pursuit is neither useful nor meritorious. by and by the end
+comes, and then dispersion follows collection, and the volumes, which
+probably cost l200 each in their formation, will be knocked down to a
+dealer for l10, finally gravitating into the south kensington library,
+or some public museum, as a bibliographical curiosity. the following has
+just been sold (july, 1880) by messrs. sotheby, wilkinson and hodge, in
+the dunn-gardinier collection, lot 1592:--
+
+"titlepages and frontispieces.
+
+
+_a collection of upwards of_ 800 engraved titles and frontispieces,
+english and foreign (_some very fine and curious) taken from old books
+and neatly mounted on cartridge paper in 3 vol, half morocco gilt. imp.
+folio_."
+
+
+the only collection of title-pages which has afforded me unalloyed
+pleasure is a handsome folio, published by the directors of the plantin
+museum, antwerp, in 1877, just after the purchase of that wonderful
+typographical storehouse. it is called "titels en portretten gesneden
+naar p. p. rubens voor de plantijnsche drukkerij," and it contains
+thirty-five grand title pages, reprinted from the original seventeenth
+century plates, designed by rubens himself between the years 1612 and
+1640, for various publications which issued from the celebrated plantin
+printing office. in the same museum are preserved in rubens' own
+handwriting his charge for each design, duly receipted at foot.
+
+i have now before me a fine copy of "coclusiones siue decisiones antique
+dnor' de rota," printed by gutenberg's partner, schoeffer, in the year
+1477. it is perfect, except in a most vital part, the colophon, which
+has been cut out by some barbaric "collector," and which should read
+thus: "pridie nonis januarii mcccclxxvij, in civitate moguntina,
+impressorie petrus schoyffer de gernsheym," followed by his well-known
+mark, two shields.
+
+a similar mania arose at the beginning of this century for collections
+of illuminated initials, which were taken from mss., and arranged on
+the pages of a blank book in alphabetical order. some of our cathedral
+libraries suffered severely from depredations of this kind. at lincoln,
+in the early part of this century, the boys put on their robes in the
+library, a room close to the choir. here were numerous old mss.,
+and eight or ten rare caxtons. the choir boys used often to amuse
+themselves, while waiting for the signal to "fall in," by cutting out
+with their pen-knives the illuminated initials and vignettes, which they
+would take into the choir with them and pass round from one to another.
+the dean and chapter of those days were not much better, for they let
+dr. dibdin have all their caxtons for a "consideration." he made
+a little catalogue of them, which he called "a lincolne nosegaye."
+eventually they were absorbed into the collection at althorp.
+
+the late mr. caspari was a "destroyer" of books. his rare collection of
+early woodcuts, exhibited in 1877 at the caxton celebration, had been
+frequently augmented by the purchase of illustrated books, the plates
+of which were taken out, and mounted on bristol boards, to enrich
+his collection. he once showed me the remains of a fine copy of
+"theurdanck," which he had served so, and i have now before me several
+of the leaves which he then gave me, and which, for beauty of engraving
+and cleverness of typography, surpasses any typographical work known to
+me. it was printed for the emperor maximilian, by hans schonsperger, of
+nuremberg, and, to make it unique, all the punches were cut on purpose,
+and as many as seven or eight varieties of each letter, which, together
+with the clever way in which the ornamental flourishes are carried above
+and below the line, has led even experienced printers to deny its being
+typography. it is, nevertheless, entirely from cast types. a copy in
+good condition costs about l50.
+
+many years since i purchased, at messrs. sotheby's, a large lot of ms.
+leaves on vellum, some being whole sections of a book, but mostly single
+leaves. many were so mutilated by the excision of initials as to be
+worthless, but those with poor initials, or with none, were quite good,
+and when sorted out i found i had got large portions of nearly twenty
+different mss., mostly horae, showing twelve varieties of fifteenth
+century handwriting in latin, french, dutch, and german. i had each sort
+bound separately, and they now form an interesting collection.
+
+portrait collectors have destroyed many books by abstracting the
+frontispiece to add to their treasures, and when once a book is made
+imperfect, its march to destruction is rapid. this is why books
+like atkyns' "origin and growth of printing," 4o, 1664, have become
+impossible to get.
+
+when issued, atkyns' pamphlet had a fine frontispiece, by logan,
+containing portraits of king charles ii, attended by archbishop sheldon,
+the duke of albermarle, and the earl of clarendon. as portraits of
+these celebrities (excepting, of course, the king) are extremely rare,
+collectors have bought up this 4o tract of atkyns', whenever it has been
+offered, and torn away the frontispiece to adorn their collection.
+
+this is why, if you take up any sale catalogue of old books, you are
+certain to find here and there, appended to the description, "wanting
+the title," "wanting two plates," or "wanting the last page."
+
+it is quite common to find in old mss., especially fifteenth century,
+both vellum and paper, the blank margins of leaves cut away. this will
+be from the side edge or from the foot, and the recurrence of this
+mutilation puzzled me for many years. it arose from the scarcity of
+paper in former times, so that when a message had to be sent which
+required more exactitude than could be entrusted to the stupid memory of
+a household messenger, the master or chaplain went to the library, and,
+not having paper to use, took down an old book, and cut from its broad
+margins one or more slips to serve his present need.
+
+i feel quite inclined to reckon among "enemies" those bibliomaniacs and
+over-careful possessors, who, being unable to carry their treasures into
+the next world, do all they can to hinder their usefulness in this. what
+a difficulty there is to obtain admission to the curious library of old
+samuel pepys, the well-known diarist. there it is at magdalene college,
+cambridge, in the identical book-cases provided for the books by pepys
+himself; but no one can gain admission except in company of two fellows
+of the college, and if a single book be lost, the whole library goes
+away to a neighbouring college. however willing and anxious to oblige,
+it is evident that no one can use the library at the expense of the
+time, if not temper, of two fellows. some similar restrictions are in
+force at the teylerian museum, haarlem, where a lifelong imprisonment is
+inflicted upon its many treasures.
+
+some centuries ago a valuable collection of books was left to the
+guildford endowed grammar school. the schoolmaster was to be held
+personally responsible for the safety of every volume, which, if lost,
+he was bound to replace. i am told that one master, to minimize his risk
+as much as possible, took the following barbarous course:--as soon as
+he was in possession, he raised the boards of the schoolroom floor, and,
+having carefully packed all the books between the joists, had the boards
+nailed down again. little recked he how many rats and mice made their
+nests there; he was bound to account some day for every single volume,
+and he saw no way so safe as rigid imprisonment.
+
+the late sir thomas phillipps, of middle hill, was a remarkable instance
+of a bibliotaph. he bought bibliographical treasures simply to bury
+them. his mansion was crammed with books; he purchased whole libraries,
+and never even saw what he had bought. among some of his purchases was
+the first book printed in the english language, "the recuyell of the
+histories of troye," translated and printed by william caxton, for the
+duchess of burgundy, sister to our edward iv. it is true, though almost
+incredible, that sir thomas could never find this volume, although it
+is doubtless still in the collection, and no wonder, when cases of books
+bought twenty years before his death were never opened, and the only
+knowledge of their contents which he possessed was the sale catalogue or
+the bookseller's invoice.
+
+
+
+chapter x. servants and children.
+
+reader! are you married? have you offspring, boys especially i mean, say
+between six and twelve years of age? have you also a literary workshop,
+supplied with choice tools, some for use, some for ornament, where you
+pass pleasant hours? and is--ah! there's the rub!--is there a special
+hand-maid, whose special duty it is to keep your den daily dusted and
+in order? plead you guilty to these indictments? then am i sure of a
+sympathetic co-sufferer.
+
+dust! it is all a delusion. it is not the dust that makes women anxious
+to invade the inmost recesses of your sanctum--it is an ingrained
+curiosity. and this feminine weakness, which dates from eve, is a common
+motive in the stories of our oldest literature and folk-lore. what made
+fatima so anxious to know the contents of the room forbidden her by
+bluebeard? it was positively nothing to her, and its contents caused not
+the slightest annoyance to anybody. that story has a bad moral, and it
+would, in many ways, have been more satisfactory had the heroine been
+left to take her place in the blood-stained chamber, side by side with
+her peccant predecessors. why need the women-folk (god forgive me!)
+bother themselves about the inside of a man's library, and whether
+it wants dusting or not? my boys' playroom, in which is a carpenter's
+bench, a lathe, and no end of litter, is never tidied--perhaps it can't
+be, or perhaps their youthful vigour won't stand it--but my workroom
+must needs be dusted daily, with the delusive promise that each book and
+paper shall be replaced exactly where it was. the damage done by such
+continued treatment is incalculable. at certain times these observances
+are kept more religiously than others; but especially should the
+book-lover, married or single, beware of the ides of march. so soon as
+february is dead and gone, a feeling of unrest seizes the housewife's
+mind. this increases day by day, and becomes dominant towards the middle
+of the month, about which period sundry hints are thrown out as to
+whether you are likely to be absent for a day or two. beware! the fever
+called "spring clean" is on, and unless you stand firm, you will rue it.
+go away, if the fates so will, but take the key of your own domain with
+you.
+
+do not misunderstand. not for a moment would i advocate dust and dirt;
+they are enemies, and should be routed; but let the necessary routing be
+done under your own eye. explain where caution must be used, and in
+what cases tenderness is a virtue; and if one eve in the family can
+be indoctrinated with book-reverence you are a happy man; her price is
+above that of rubies; she will prolong your life. books must now and
+then be taken clean out of their shelves, but they should be tended
+lovingly and with judgment. if the dusting can be done just outside the
+room so much the better. the books removed, the shelf should be lifted
+quite out of its bearings, cleansed and wiped, and then each volume
+should be taken separately, and gently rubbed on back and sides with a
+soft cloth. in returning the volumes to their places, notice should be
+taken of the binding, and especially when the books are in whole calf
+or morocco care should be taken not to let them rub together. the best
+bound books are soonest injured, and quickly deteriorate in bad company.
+certain volumes, indeed, have evil tempers, and will scratch the faces
+of all their neighbours who are too familiar with them. such are books
+with metal clasps and rivets on their edges; and such, again, are those
+abominable old rascals, chiefly born in the fifteenth century, who are
+proud of being dressed in real boards with brass corners, and pass their
+lives with fearful knobs and metal bosses, mostly five in number, firmly
+fixed on one of their sides. if the tendencies of such ruffians are not
+curbed, they will do as much mischief to their gentle neighbours as when
+a "collie" worries the sheep. these evil results may always be minimized
+by placing a piece of millboard between the culprit and his victim. i
+have seen lovely bindings sadly marked by such uncanny neighbours.
+
+when your books are being "dusted," don't impute too much common sense
+to your assistants; take their ignorance for granted, and tell them at
+once never to lift any book by one of its covers; that treatment is sure
+to strain the back, and ten to one the weight will be at the same time
+miscalculated, and the volume will fall. your female "help," too, dearly
+loves a good tall pile to work at and, as a rule, her notions of the
+centre of gravity are not accurate, leading often to a general
+downfall, and the damage of many a corner. again, if not supervised and
+instructed, she is very apt to rub the dust into, instead of off, the
+edges. each volume should be held tightly, so as to prevent the leaves
+from gaping, and then wiped from the back to the fore-edge. a soft brush
+will be found useful if there is much dust. the whole exterior should
+also be rubbed with a soft cloth, and then the covers should be opened
+and the hinges of the binding examined; for mildew will assert itself
+both inside and outside certain books, and that most pertinaciously. it
+has unaccountable likes and dislikes. some bindings seem positively to
+invite damp, and mildew will attack these when no other books on the
+same shelf show any signs of it. when discovered, carefully wipe it
+away, and then let the book remain a few days standing open, in the
+driest and airiest spot you can select. great care should be taken not
+to let grit, such as blows in at the open window from many a dusty road,
+be upon your duster, or you will probably find fine scratches, like an
+outline map of europe, all over your smooth calf, by which your heart
+and eye, as well as your book, will be wounded.
+
+"helps" are very apt to fill the shelves too tightly, so that to extract
+a book you have to use force, often to the injury of the top-bands.
+beware of this mistake. it frequently occurs through not noticing that
+one small book is purposely placed at each end of the shelf, beneath the
+movable shelf-supports, thus not only saving space, but preventing the
+injury which a book shelf-high would be sure to receive from uneven
+pressure.
+
+after all, the best guide in these, as in many other matters, is "common
+sense," a quality which in olden times must have been much more "common"
+than in these days, else the phrase would never have become rooted in
+our common tongue.
+
+children, with all their innocence, are often guilty of book-murder. i
+must confess to having once taken down "humphrey's history of writing,"
+which contains many brightly-coloured plates, to amuse a sick daughter.
+the object was certainly gained, but the consequences of so bad a
+precedent were disastrous. that copy (which, i am glad to say, was
+easily re-placed), notwithstanding great care on my part, became soiled
+and torn, and at last was given up to nursery martyrdom. can i regret
+it? surely not, for, although bibliographically sinful, who can weigh
+the amount of real pleasure received, and actual pain ignored, by the
+patient in the contemplation of those beautifully-blended colours?
+
+a neighbour of mine some few years ago suffered severely from a
+propensity, apparently irresistible, in one of his daughters to tear his
+library books. she was six years old, and would go quietly to a shelf
+and take down a book or two, and having torn a dozen leaves or so down
+the middle, would replace the volumes, fragments and all, in their
+places, the damage being undiscovered until the books were wanted for
+use. reprimand, expostulation and even punishment were of no avail; but
+a single "whipping" effected a cure.
+
+boys, however, are by far more destructive than girls, and have,
+naturally, no reverence for age, whether in man or books. who does not
+fear a schoolboy with his first pocket-knife? as wordsworth did not
+say:--
+
+              "you may trace him oft
+     by scars which his activity has left
+     upon our shelves and volumes. * * *
+     he who with pocket-knife will cut the edge
+     of luckless panel or of prominent book,
+     detaching with a stroke a label here, a back-band there."
+                             _excursion iii, 83_.
+
+pleased, too, are they, if, with mouths full of candy, and sticky
+fingers, they can pull in and out the books on your bottom shelves,
+little knowing the damage and pain they will cause. one would fain cry
+out, calling on the shade of horace to pardon the false quantity--
+
+     "magna movet stomacho fastidia, si puer unctis
+     tractavit volumen manibus."  _sat. iv_.
+
+
+what boys can do may be gathered from the following true story, sent me
+by a correspondent who was the immediate sufferer:--
+
+one summer day he met in town an acquaintance who for many years had
+been abroad; and finding his appetite for old books as keen as ever,
+invited him home to have a mental feed upon "fifteeners" and other
+bibliographical dainties, preliminary to the coarser pleasures enjoyed
+at the dinner-table. the "home" was an old mansion in the outskirts
+of london, whose very architecture was suggestive of black-letter and
+sheep-skin. the weather, alas! was rainy, and, as they approached the
+house, loud peals of laughter reached their ears. the children were
+keeping a birthday with a few young friends. the damp forbad all outdoor
+play, and, having been left too much to their own devices, they had
+invaded the library. it was just after the battle of balaclava, and the
+heroism of the combatants on that hard-fought field was in everybody's
+mouth. so the mischievous young imps divided themselves into two
+opposing camps--britons and russians. the russian division was just
+inside the door, behind ramparts formed of old folios and quartos taken
+from the bottom shelves and piled to the height of about four feet.
+it was a wall of old fathers, fifteenth century chronicles, county
+histories, chaucer, lydgate, and such like. some few yards off were the
+britishers, provided with heaps of small books as missiles, with which
+they kept up a skirmishing cannonade against the foe. imagine the
+tableau! two elderly gentlemen enter hurriedly, paterfamilias receiving,
+quite unintentionally, the first edition of "paradise lost" in the
+pit of his stomach, his friend narrowly escaping a closer personal
+acquaintance with a quarto hamlet than he had ever had before. finale:
+great outburst of wrath, and rapid retreat of the combatants, many
+wounded (volumes) being left on the field.
+
+
+
+postscriptum.
+
+although, strictly speaking, the following anecdote does not illustrate
+any form of real injury to books, it is so racy, and in these days of
+extravagant biddings so tantalizing, that i must step just outside the
+strict line of pertinence in order to place it on record, it was sent
+to me, as a personal experience, by my friend, mr. george clulow,
+a well-known bibliophile, and "xylographer" to "ye sette of ye odde
+volumes." the date is 1881. he writes:--
+
+"_apropos_ of the gainsborough 'find,' of which you tell in 'the enemies
+of books,' i should like to narrate an experience of my own, of some
+twenty years ago:
+
+"late one evening, at my father's house, i saw a catalogue of a sale of
+furniture, farm implements and books, which was announced to take place
+on the following morning at a country rectory in derbyshire, some four
+miles from the nearest railway station.
+
+"it was summer time--the country at its best--and with the attraction
+of an old book, i decided on a day's holiday, and eight o'clock the next
+morning found me in the train for c----, and after a variation in
+my programme, caused by my having walked three miles west before i
+discovered that my destination was three miles east of the railway
+station, i arrived at the rectory at noon, and found assembled some
+thirty or forty of the neighbouring farmers, their wives, men-servants
+and maid-servants, all seemingly bent on a day's idling, rather than
+business. the sale was announced for noon, but it was an hour later
+before the auctioneer put in an appearance, and the first operation in
+which he took part, and in which he invited my assistance, was to make
+a hearty meal of bread and cheese and beer in the rectory kitchen. this
+over, the business of the day began by a sundry collection of pots,
+pans, and kettles being brought to the competition of the public,
+followed by some lots of bedding, etc. the catalogue gave books as the
+first part of the sale, and, as three o'clock was reached, my patience
+was gone, and i protested to the auctioneer against his not selling in
+accordance with his catalogue. to this he replied that there was not
+time enough, and that he would sell the books to-morrow! this was too
+much for me, and i suggested that he had broken faith with the buyers,
+and had brought me to c---- on a false pretence. this, however, did not
+seem to disturb his good humour, or to make him unhappy, and his answer
+was to call 'bill,' who was acting as porter, and to tell him to give
+the gentleman the key of the 'book room,' and to bring down any of the
+books he might pick out, and he 'would sell 'em.' i followed 'bill,' and
+soon found myself in a charming nook of a library, full of books,
+mostly old divinity, but with a large number of the best miscellaneous
+literature of the sixteenth century, english and foreign. a very short
+look over the shelves produced some thirty black letter books, three or
+four illuminated missals, and some book rarities of a more recent date.
+'bill' took them downstairs, and i wondered what would happen! i was
+not long in doubt, for book by book, and in lots of two and three, my
+selection was knocked down in rapid succession, at prices varying from
+1_s_. 6_d_. to 3_s_. 6_d_., this latter sum seeming to be the utmost
+limit to the speculative turn of my competitors. the _bonne bouche_ of
+the lot was, however, kept back by the auctioneer, because, as he said,
+it was 'a pretty book,' and i began to respect his critical judgment,
+for 'a pretty book' it was, being a large paper copy of dibdin's
+bibliographical decameron, three volumes, in the original binding.
+suffice it to say that, including this charming book, my purchases did
+not amount to l13, and i had pretty well a cart-load of books for my
+money--more than i wanted much! having brought them home, i 'weeded them
+out,' and the 'weeding' realised four times what i gave for the whole,
+leaving me with some real book treasures.
+
+"some weeks afterwards i heard that the remainder of the books were
+literally treated as waste lumber, and carted off to the neighbouring
+town, and were to be had, any one of them, for sixpence, from a cobbler
+who had allowed his shop to be used as a store house for them. the news
+of their being there reached the ears of an old bookseller in one of
+the large towns, and he, i think, cleared out the lot. so curious an
+instance of the most total ignorance on the part of the sellers, and
+i may add on the part of the possible buyers also, i think is worth
+noting."
+
+how would the reader in this year of grace, 1887, like such an
+experience as that?
+
+
+
+conclusion.
+
+it is a great pity that there should be so many distinct enemies at
+work for the destruction of literature, and that they should so often be
+allowed to work out their sad end. looked at rightly, the possession of
+any old book is a sacred trust, which a conscientious owner or guardian
+would as soon think of ignoring as a parent would of neglecting his
+child. an old book, whatever its subject or internal merits, is truly
+a portion of the national history; we may imitate it and print it in
+fac-simile, but we can never exactly reproduce it; and as an historical
+document it should be carefully preserved.
+
+i do not envy any man that absence of sentiment which makes some people
+careless of the memorials of their ancestors, and whose blood can
+be warmed up only by talking of horses or the price of hops. to them
+solitude means _ennui_, and anybody's company is preferable to their
+own. what an immense amount of calm enjoyment and mental renovation
+do such men miss. even a millionaire will ease his toils, lengthen his
+life, and add a hundred per cent. to his daily pleasures if he becomes
+a bibliophile; while to the man of business with a taste for books,
+who through the day has struggled in the battle of life with all its
+irritating rebuffs and anxieties, what a blessed season of pleasurable
+repose opens upon him as he enters his sanctum, where every article
+wafts to him a welcome, and every book is a personal friend!
+
+
+
+
+index.
+
+   _academy, the_, 23.
+   acanis eruditus, 77, 78.
+   acts of the apostles, quoted, 4.
+   aglossa pinguinalis, 76.
+   albermarle (duke of), portrait by logan, 126.
+   althorp library, 124.
+   anderson (sir c.), 55.
+   anobium paniceum, 77, 78.
+   anobium pertinax, 77, 78, 87, 88.
+   antiquary, the, 54.
+   antwerp, monks at, 57, 58.
+   asbestos fire, 27.
+   ashburnham house, westminster, 10.
+   asiarch, an, 7.
+   athens, bookworm from, 81.
+   atkyns' origin and growth of printing, 126.
+   auctioneer, story of, 145.
+   austin friars, 15.
+   bagford (john), the biblioclast, r: 18.
+   balaclava, battle of, 143.
+   bale, the antiquary, 9.
+   bandinel (dr.), 87, 88.
+   beedham, b., 52.
+   bible, the first printed, burnt at strasbourg, 13.
+    -- the "bug" edition, 95.
+   bibliophile, pleasures of a, 153.
+   bibliotaph, a, 129.
+   bibliotheca ecclesiae londino-belgicae, 16.
+   binder's creed, 31.
+    -- plough, 105.
+   binding, care to be taken of, 134.
+    -- quality of good, 104.
+   bird (rev. -), 55.
+   birdsall (mr.), bookbinder, 80.
+   birmingham riots, 11.
+   black-beetles, enemies of books, 94.
+   black-letter books in united states, 91.
+   blatta germanica, 65.
+   boccaccio, 48-50.
+   bodleian, hookworms at, 87.
+   bookbinders as enemies of books, 103.
+   books, absurd lettering, 111.
+    -- burnt at carthage; at ephesus, 4.
+    -- burnt in fire of london, 10.
+    -- burnt by saracens, 3.
+    -- captured by corsairs, 18.
+    -- cleaning of, 114.
+    -- deprived of title pages, 118, 119.
+   books destroyed at the reformation, si.
+    -- dried in an attic, 16.
+    -- examination of old covers, 116.
+    -- how to dust them, 134.
+    -- injured by hacking, i x i.
+    -- lost at sea, 17, 18.
+    -- margin reduced to size, 111.
+    -- mildew in, 136.
+    -- from monasteries destroyed, 9.
+    -- restoration when injured, 114.
+    -- restored after a fire, 15.
+    -- scarce before printing, 2.
+    -- sold to a cobbler, 52, 149.
+    -- too tight on shelves, 137.
+    -- their claims to be preserved, 151.
+    -- used to bake "pyes," 10.
+    -- which scratch one another, 134.
+   book-sale in derbyshire, 145.
+   bookworm, the, 67-93.
+    -- attempt to breed, 81-3.
+    -- from greece, 82.
+    -- in paper box, 89.
+    -- in united states, 91.
+   bookworms' progress through books, 84.
+    -- race by, 86.
+   bosses on books, 135.
+   boys injuring books, 139.
+    -- in library, story of, 140.
+   brighton, black letter fragments, 59.
+   british museum, boccaccio's fall of princes, 61.
+   british museum free from the "worm," 83.
+    -- burnt book exhibited at, 11.
+   brown spots in books, 24.
+   bruchium, 3.
+   burckhardt's arabic mss., 77.
+   "bug" bible, 95.
+   burgundy (duchess of), 130.
+
+   cambridge market, 97.
+   caskets (the three), shakspeare, 60.
+   caspari (mr.), a collector, 124.
+   cassin (convent of mount), 49.
+   caxton, william, 130.
+    --his use of waste leaves, 90.
+    --canterbury tales, used to light a fire, 53.
+    -- golden legend, ditto, 52.
+    --lyf of oure ladye, 89.
+   caxtons saturated by rain, 22.
+    --spoilt in binding, 107.
+    --discovered in british museum, 108.
+   charles ii, portrait by logan, 126.
+   chasles (philarete), 52.
+   child tearing books, 139.
+   children as enemies of books, 138.
+   choir boys injuring mss., 124.
+   christians burnt heathen mss., 7.
+   early, 6.
+   clarendon (earl of), portrait by logan, 126.
+   clasps on books, injury from, 135.
+   clergymen as biblioclasts, 64.
+   clulow (mr. george), 144.
+   coal fires objectionable in libraries, 27.
+   codfish, book eaten by a, 96.
+   cold injures books, 26.
+   collectors as enemies of books, 117.
+   college quadrangle, 41.
+   colophon in schoeffer's book, 123.
+   colophons (collections of), i is.
+   commonwealth quartos, 44.
+   communal libraries in france, 48.
+   cotton library; partially burnt, 10.
+   cowper, the poet, on burnt libraries, 12.
+   crambus pinguinalis, 76.
+   cremona, books destroyed at, 8.
+   croton bug, 95.
+
+   damp, an enemy of books, 24.
+   dante, 50.
+    -- the inferno, 106.
+   derbyshire, book sale in, 145.
+   dermestes vulpinus, 89.
+   de rome, the binder, 47, 48, 110.
+   de thou, 110.
+   devil worship, 5.
+   devon and exeter museum, 101.
+   diana, temple of, 6.
+   dibdin (dr.), 110.
+    --sale of his decameron, 148.
+    --his books, 25.
+   d'israeli (b.), 17.
+   doraston (j.), poem on bookworne, 67, 76.
+   dust, an enemy of books, 39.
+    -- and neglect in a library, 39-50, 133.
+   dusting books-how to do it, 136.
+   dutch church burnt, 15.
+    -- library at guildhall, 16.
+
+   ecclesiastical commissioners, 53.
+   edmonds (mr.), bookseller, 58.
+   edward iv, 130.
+   edwards (mr.), bookseller, 18.
+   electric light in british museum, 32.
+   ephesus, 5.
+   "eracles," 111.
+   "evil eye," the, 6.
+   "excursion, the," 139.
+
+   fire, an enemy of books, 1-16.
+    -- of london, 10.
+   flint (weston), account of black-beetles in new york
+   libraries, 95.
+   folklore, ancient, 5.
+   "foxey" books, 25.
+   francis (st.) and the friars, 37.
+   french protestant church, 53.
+   frith (john), 96.
+   froissart's chronicles, 110.
+   frost in a library, 26.
+
+   garnett (dr.), 81.
+   gas injurious, 29-38,
+   gatty's (mrs.) parables, 76.
+   german army at strasburg, u.
+   gesta romanorum, 66.
+   gibbon, the historian, 2.
+   glass cases preservative of books, 27.
+   golden legend, by caxton, 52.
+   gordon riots, 11.
+   government officials as biblioclasts, 65.
+   grenville (rt. hon. thos.), 56.
+   guildford, library at school, 129.
+   guildhall, london, library at, 0.
+   gutenberg, 123.
+    -- documents concerning, burnt, 13,
+   gwyn, nell, housekeeping book of, 65.
+   "gyp" brushing clothes in a library, 44.
+
+   hannett, on bookbinding, 76.
+   havergal (rev. f. t.), 76.
+   heathens burnt christian mss., 7.
+   heating libraries, 27.
+   hebrew books burnt, 8.
+   hereford cathedral library, 76.
+   hickman family, 56.
+   histories of troy, 111.
+   holme (mr.), 77.
+   hooke (r.), his micrographia, 71-75.
+   horace's satires, 140.
+   hot water pipes for libraries, 26.
+   house-fly, an enemy of books, 102.
+   hudde, heer, a story of, 17.
+   hwqhrey's history of writing, 138.
+   hypothenemus eruditus, 76.
+
+   ignorance and bigotry, p-66.
+   illuminated letters fatal to books, 51.
+    -- initials, collections of, 123.
+   indulgence of 15th century spoilt by a binder, 109.
+   inquisition in holland, 63.
+
+   kirby and spence on entomologists, 75, 101.
+   knobs of metal on bindings, 135.
+   koran, the, 7.
+
+   lamberhurst, 61.
+   lamport hall, 58.
+   lansdowne collection of mss., 60.
+   latterbury, copy of, at st. martin's, 54.
+   leather destroyed by gas, 30.
+   lepisma, 96.
+    -- mistaken for bookworm, 75.
+   libraries
+    burnt: by caesar, 3.
+     --- at dutch church, 15.
+     --- at strasbourg, 13.
+    neglected in england, 15, 22, 40.
+    at alexandria, 3.
+    of the ptolemies) 3.
+   library journal, the, 94.
+   lincoln cathedral mss., 124.
+   lincolne nosegaye, 124.
+   london institution, 31.
+   lubbock (sir j.), 90.
+   luke's, st., account of destruction of books, 4.
+   luxe des livres, 47.
+   luxury and learning, 42.
+
+   machlinia, book printed by, 106.
+   magdalene college, cambridge, 128.
+   maitland (rev. s. r.), 54.
+   mansfield (lord), ij.
+   ms. plays burnt, 60.
+   manuscripts, fragments of, 126.
+   margins of books cut away, 49, 127.
+   maximilian (the emperor), 125.
+   mazarin library, caxton in, 52.
+   metamorphoses of ovid, by caxton, 10.
+   micrographia, by r. hooke, 71.
+   middleburgh, 17.
+   mildew in books, 136.
+   minorite friars, 37.
+   missal illuminations, sale of, 119.
+   mohammed's reason for destroying books, 7.
+   mohammed ii throws books into the sea, 21.
+   monks at monte cassino, 49.
+   mould in books, 24.
+   mount cassin, library at, 50.
+   moxon's mechanic exercises, 115.
+   muller (m.), of amsterdam, 62.
+
+   newmarsh (rev. c. f.), 54.
+   niptus hololeucos, 101.
+   noble (mr.), on parish registers, 61.
+   notes and queries, 77.
+
+   oak chest, 44.
+   oecophora pseudospretella, 79.
+   offer collection of bunyans, 14.
+   on, priests of, 69.
+   overall (mr.), librarian at guildhall, 16.
+   ovid, metamorphoses by caxton, 10.
+   oxenforde, lyf of therle, 10.
+
+   paper improperly bleached, 25.
+   papyrus, 68.
+   paradise lost, 142.
+   parchment, slips of, in old books, 112.
+   parish registers, carelessness, 62.
+   parnell's ode, 70.
+   patent office, destruction of literature at, 65.
+   paternoster row, io.
+   paul, st., 6.
+   pedlar buying old books, 54, 55.
+   peignot and hookworms, 79.
+   pepys (samuel), his library, 128.
+   petit (pierre), poem on bookworm, 70.
+   philadelphia, wormhole at, 92.
+   phillipps (sir thos.), 129.
+   pieces of silver or denarii, 5.
+   pinelli (maffei), library of, 18.
+   plantin museum, 122.
+   policemen in ephesus, 7.
+   portrait collectors, 127.
+   priestley (dr.), library burnt, 11, 12.
+   printers, the first, 13.
+   printers' marks, collection of, 119.
+   -- ink and bookworms, 80.
+   probrue (mr.), 120.
+   ptolemies, the egyptian, 3.
+   puttick and simpson, 15.
+   pynson's fall of princes, 61.
+
+   queen elizabeth's prayer-book, 98.
+   quaint titles, collections of, 121.
+   quadrangle of an old college described) 41.
+
+   rain an enemy to books, 21.
+   rats eat books, 97.
+   recollet monks of antwerp, 57.
+   -recuyell of the historyes of troye, 130.
+   reformation, destruction of books at, 9.
+   restoration of burnt books, 11.
+   richard of bury, 47.
+   ringwalt's encyclopaedia, 92.
+   rivets on books, 135.
+   rood and hunte, 53.
+   rot caused by rain, 21.
+   royal society, london, 71.
+   rubens' engraved titles in plantin museum, 122.
+    -- autograph receipts, 122.
+   ruins of fire at sotheby and wilkinson's, 14.
+   rye (w. b.), 61, 83.
+   st. albans, boke of, 54.
+   st. martin's-le-grand, french church, 53.
+   st. paul's cathedral, books burnt in vaults of, 10.
+   sale catalogues, extracts from, 119.
+   schoeffer (p.), 123.
+   schonsperger (hans), 125.
+   schoolmaster and endowed library, 129.
+   scorched book at british museum, 11.
+   scrolls of magic, 6.
+   serpent worship, 5.
+   servants and children as enemies of books, 131-144.
+   shakesperian discoveries, 58.
+   "shavings" of binders, 31.
+   sheldon (archbishop), portrait by logan, 126.
+   sib's bowels opened, 121.
+   smith (mr.), brighton bookseller, 64.
+   sotheby and wilkinson, 125.
+    -- fire at their rooms, 14.
+   spring clean, horrors of, 133.
+   stark (mr.), bookseller, 55-58.
+   stealing a caxton, 54.
+   steam press, 40.
+   strasbourg, siege of, 13.
+   sun-light of gas, 29, 32.
+   sun worship, 5.
+   sylvester's laws of verse, 71.
+
+   taylor, the water-poet, 121.
+   teylerian museum, haarlem, 128.
+   theurdanck, prints in, 125.
+   thonock hall, library of, 56.
+   timmins (mr.), 50.
+   title-pages, collections sold, 122.
+    -- volumes of, 118.
+   title-pages, old dutch, 120.
+   tomicus typographus, iox.
+
+   utramontane society, called "old paper," 63,
+   unitarian library, 13,
+   universities destroy books, 9.
+
+   value of books burnt by st. paul, 4.
+   vanderberg (m.), 57.
+   vermin book-enemies, 94-102.
+   pox piscis, 96.
+
+   washing old books, x6.
+   water an enemy of books, 17-28.
+   waterhouse (mr.), si.
+   werdet (edmond), 48, 57.
+   westbrook (w. j.), 102.
+   westminster chapter-house, 97.
+    -- skeletons of rats, 97.
+   white (adam), 83.
+   wolfenbuttel, library at, 23.
+   woodcuts, a caxton celebration, 124.
+   wynken de worde, fragment, 59.
+
+   ximenes (cardinal) destroys copies of the koran, 8.
+
+
+
+
+
+
+        
+            *** end of the project gutenberg ebook the enemies of books ***
+        
+
+    
+
+updated editions will replace the previous onethe old editions will
+be renamed.
+
+creating the works from print editions not protected by u.s. copyright
+law means that no one owns a united states copyright in these works,
+so the foundation (and you!) can copy and distribute it in the united
+states without permission and without paying copyright
+royalties. special rules, set forth in the general terms of use part
+of this license, apply to copying and distributing project
+gutenbergtm electronic works to protect the project gutenbergtm
+concept and trademark. project gutenberg is a registered trademark,
+and may not be used if you charge for an ebook, except by following
+the terms of the trademark license, including paying royalties for use
+of the project gutenberg trademark. if you do not charge anything for
+copies of this ebook, complying with the trademark license is very
+easy. you may use this ebook for nearly any purpose such as creation
+of derivative works, reports, performances and research. project
+gutenberg ebooks may be modified and printed and given awayyou may
+do practically anything in the united states with ebooks not protected
+by u.s. copyright law. redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+start: full license
+
+the full project gutenberg license
+
+please read this before you distribute or use this work
+
+to protect the project gutenbergtm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase project
+gutenberg), you agree to comply with all the terms of the full
+project gutenbergtm license available with this file or online at
+www.gutenberg.org/license.
+
+section 1. general terms of use and redistributing project gutenbergtm
+electronic works
+
+1.a. by reading or using any part of this project gutenbergtm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. if you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of project gutenbergtm electronic works in your
+possession. if you paid a fee for obtaining a copy of or access to a
+project gutenbergtm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.e.8.
+
+1.b. project gutenberg is a registered trademark. it may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. there are a few
+things that you can do with most project gutenbergtm electronic works
+even without complying with the full terms of this agreement. see
+paragraph 1.c below. there are a lot of things you can do with project
+gutenbergtm electronic works if you follow the terms of this
+agreement and help preserve free future access to project gutenbergtm
+electronic works. see paragraph 1.e below.
+
+1.c. the project gutenberg literary archive foundation (the
+foundation or pglaf), owns a compilation copyright in the collection
+of project gutenbergtm electronic works. nearly all the individual
+works in the collection are in the public domain in the united
+states. if an individual work is unprotected by copyright law in the
+united states and you are located in the united states, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to project gutenberg are removed. of course, we hope
+that you will support the project gutenbergtm mission of promoting
+free access to electronic works by freely sharing project gutenbergtm
+works in compliance with the terms of this agreement for keeping the
+project gutenbergtm name associated with the work. you can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full project gutenbergtm license when
+you share it without charge with others.
+
+1.d. the copyright laws of the place where you are located also govern
+what you can do with this work. copyright laws in most countries are
+in a constant state of change. if you are outside the united states,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other project gutenbergtm work. the foundation makes no
+representations concerning the copyright status of any work in any
+country other than the united states.
+
+1.e. unless you have removed all references to project gutenberg:
+
+1.e.1. the following sentence, with active links to, or other
+immediate access to, the full project gutenbergtm license must appear
+prominently whenever any copy of a project gutenbergtm work (any work
+on which the phrase project gutenberg appears, or with which the
+phrase project gutenberg is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    this ebook is for the use of anyone anywhere in the united states and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. you may copy it, give it away or re-use it under the terms
+    of the project gutenberg license included with this ebook or online
+    at www.gutenberg.org. if you
+    are not located in the united states, you will have to check the laws
+    of the country where you are located before using this ebook.
+  
+1.e.2. if an individual project gutenbergtm electronic work is
+derived from texts not protected by u.s. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the united states without paying any fees or charges. if you are
+redistributing or providing access to a work with the phrase project
+gutenberg associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.e.1 through 1.e.7 or
+obtain permission for the use of the work and the project gutenbergtm
+trademark as set forth in paragraphs 1.e.8 or 1.e.9.
+
+1.e.3. if an individual project gutenbergtm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.e.1 through 1.e.7 and any
+additional terms imposed by the copyright holder. additional terms
+will be linked to the project gutenbergtm license for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.e.4. do not unlink or detach or remove the full project gutenbergtm
+license terms from this work, or any files containing a part of this
+work or any other work associated with project gutenbergtm.
+
+1.e.5. do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.e.1 with
+active links or immediate access to the full terms of the project
+gutenbergtm license.
+
+1.e.6. you may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. however, if you provide access
+to or distribute copies of a project gutenbergtm work in a format
+other than plain vanilla ascii or other format used in the official
+version posted on the official project gutenbergtm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original plain
+vanilla ascii or other form. any alternate format must include the
+full project gutenbergtm license as specified in paragraph 1.e.1.
+
+1.e.7. do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any project gutenbergtm works
+unless you comply with paragraph 1.e.8 or 1.e.9.
+
+1.e.8. you may charge a reasonable fee for copies of or providing
+access to or distributing project gutenbergtm electronic works
+provided that:
+
+     you pay a royalty fee of 20% of the gross profits you derive from
+        the use of project gutenbergtm works calculated using the method
+        you already use to calculate your applicable taxes. the fee is owed
+        to the owner of the project gutenbergtm trademark, but he has
+        agreed to donate royalties under this paragraph to the project
+        gutenberg literary archive foundation. royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. royalty
+        payments should be clearly marked as such and sent to the project
+        gutenberg literary archive foundation at the address specified in
+        section 4, information about donations to the project gutenberg
+        literary archive foundation.
+    
+     you provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full project gutenbergtm
+        license. you must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of project gutenbergtm
+        works.
+    
+     you provide, in accordance with paragraph 1.f.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+     you comply with all other terms of this agreement for free
+        distribution of project gutenbergtm works.
+    
+
+1.e.9. if you wish to charge a fee or distribute a project
+gutenbergtm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the project gutenberg literary archive foundation, the manager of
+the project gutenbergtm trademark. contact the foundation as set
+forth in section 3 below.
+
+1.f.
+
+1.f.1. project gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by u.s. copyright law in creating the project
+gutenbergtm collection. despite these efforts, project gutenbergtm
+electronic works, and the medium on which they may be stored, may
+contain defects, such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.f.2. limited warranty, disclaimer of damages - except for the right
+of replacement or refund described in paragraph 1.f.3, the project
+gutenberg literary archive foundation, the owner of the project
+gutenbergtm trademark, and any other party distributing a project
+gutenbergtm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. you agree that you have no remedies for negligence, strict
+liability, breach of warranty or breach of contract except those
+provided in paragraph 1.f.3. you agree that the foundation, the
+trademark owner, and any distributor under this agreement will not be
+liable to you for actual, direct, indirect, consequential, punitive or
+incidental damages even if you give notice of the possibility of such
+damage.
+
+1.f.3. limited right of replacement or refund - if you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. if you
+received the work on a physical medium, you must return the medium
+with your written explanation. the person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. if you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. if
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.f.4. except for the limited right of replacement or refund set forth
+in paragraph 1.f.3, this work is provided to you as-is, with no
+other warranties of any kind, express or implied, including but not
+limited to warranties of merchantability or fitness for any purpose.
+
+1.f.5. some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. if any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. the invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.f.6. indemnity - you agree to indemnify and hold the foundation, the
+trademark owner, any agent or employee of the foundation, anyone
+providing copies of project gutenbergtm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of project gutenbergtm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any project gutenbergtm work, (b) alteration, modification, or
+additions or deletions to any project gutenbergtm work, and (c) any
+defect you cause.
+
+section 2. information about the mission of project gutenbergtm
+
+project gutenbergtm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. it
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching project gutenbergtms
+goals and ensuring that the project gutenbergtm collection will
+remain freely available for generations to come. in 2001, the project
+gutenberg literary archive foundation was created to provide a secure
+and permanent future for project gutenbergtm and future
+generations. to learn more about the project gutenberg literary
+archive foundation and how your efforts and donations can help, see
+sections 3 and 4 and the foundation information page at www.gutenberg.org.
+
+section 3. information about the project gutenberg literary archive foundation
+
+the project gutenberg literary archive foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of mississippi and granted tax exempt status by the internal
+revenue service. the foundations ein or federal tax identification
+number is 64-6221541. contributions to the project gutenberg literary
+archive foundation are tax deductible to the full extent permitted by
+u.s. federal laws and your states laws.
+
+the foundations business office is located at 809 north 1500 west,
+salt lake city, ut 84116, (801) 596-1887. email contact links and up
+to date contact information can be found at the foundations website
+and official page at www.gutenberg.org/contact
+
+section 4. information about donations to the project gutenberg
+literary archive foundation
+
+project gutenbergtm depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the irs.
+
+the foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the united
+states. compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. we do not solicit donations in locations
+where we have not received written confirmation of compliance. to send
+donations or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+while we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+international donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the united states. u.s. laws alone swamp our small staff.
+
+please check the project gutenberg web pages for current donation
+methods and addresses. donations are accepted in a number of other
+ways including checks, online payments and credit card donations. to
+donate, please visit: www.gutenberg.org/donate.
+
+section 5. general information about project gutenbergtm electronic works
+
+professor michael s. hart was the originator of the project
+gutenbergtm concept of a library of electronic works that could be
+freely shared with anyone. for forty years, he produced and
+distributed project gutenbergtm ebooks with only a loose network of
+volunteer support.
+
+project gutenbergtm ebooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the u.s. unless a copyright notice is included. thus, we do not
+necessarily keep ebooks in compliance with any particular paper
+edition.
+
+most people start at our website which has the main pg search
+facility: www.gutenberg.org.
+
+this website includes information about project gutenbergtm,
+including how to make donations to the project gutenberg literary
+archive foundation, how to help produce our new ebooks, and how to
+subscribe to our email newsletter to hear about new ebooks.
+
+

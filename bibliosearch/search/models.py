@@ -7,7 +7,7 @@ class Book(models.Model):
     language = models.TextField(null=True, blank=True)
     word_count = models.IntegerField()
     path_txt = models.TextField(null=True, blank=True)
-    cover_url = models.TextField(null=True, blank=True)  # 🆕 Cette ligne
+    cover_url = models.TextField(null=True, blank=True)  
     created_at = models.DateTimeField(auto_now_add=True)
 
     class Meta:

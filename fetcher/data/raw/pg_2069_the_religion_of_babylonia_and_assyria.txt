@@ -1,0 +1,3309 @@
+the project gutenberg ebook of the religion of babylonia and assyria, by 
+theophilus g. pinches
+
+this ebook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  you may copy it, give it away or
+re-use it under the terms of the project gutenberg license included
+with this ebook or online at www.gutenberg.org
+
+
+title: the religion of babylonia and assyria
+
+author: theophilus g. pinches
+
+posting date: january 30, 2009 [ebook #2069]
+release date: february, 2000
+
+language: english
+
+character set encoding: utf-8
+
+*** start of this project gutenberg ebook religion of babylonia, assyria ***
+
+
+
+
+produced by john bickers and dagny
+
+
+
+
+
+
+
+
+
+the religion of babylonia and assyria
+by theophilus g. pinches, ll.d.
+
+first published 1906 by archibald constable & co. ltd.
+
+
+
+
+                           the religion of
+                        babylonia and assyria
+
+                                  by
+
+                     theophilus g. pinches, ll.d.
+
+         lecturer in assyrian at university college, london,
+           author of "the old testament in the light of the
+            records of assyria and babylonia"; "the bronze
+         ornaments of the palace gates of balewat" etc. etc.
+
+
+
+                           preparer's note
+
+  the original text contains a number of characters that are not
+  available even in 8-bit windows text, such as h with a breve below
+  it in hammurabi, s with a breve, s and t with a dot below them, u
+  with macron, and superscript m in tasmetum. these have been left
+  in the e-text as the base letter.
+
+  the 8-bit version of this text includes windows font characters
+  like s with a caron above it (pronounced /sh/) as in samas, etc.
+  these may be lost in 7-bit versions of the text, or when viewed
+  with different fonts.
+
+  greek text has been transliterated within brackets "{}" using an
+  oxford english dictionary alphabet table. diacritical marks have
+  been lost.
+
+
+
+
+
+                         the religion of the
+                      babylonians and assyrians
+
+
+
+                              chapter i
+
+                               foreword
+
+
+                        position, and period.
+
+the religion of the babylonians and assyrians was the polytheistic
+faith professed by the peoples inhabiting the tigris and euphrates
+valleys from what may be regarded as the dawn of history until the
+christian era began, or, at least, until the inhabitants were brought
+under the influence of christianity. the chronological period covered
+may be roughly estimated at about 5000 years. the belief of the
+people, at the end of that time, being babylonian heathenism leavened
+with judaism, the country was probably ripe for the reception of the
+new faith. christianity, however, by no means replaced the earlier
+polytheism, as is evidenced by the fact, that the worship of nebo and
+the gods associated with him continued until the fourth century of the
+christian era.
+
+
+                          by whom followed.
+
+it was the faith of two distinct peoples--the sumero-akkadians, and
+the assyro-babylonians. in what country it had its beginnings is
+unknown--it comes before us, even at the earliest period, as a faith
+already well-developed, and from that fact, as well as from the names
+of the numerous deities, it is clear that it began with the former
+race--the sumero-akkadians--who spoke a non-semitic language largely
+affected by phonetic decay, and in which the grammatical forms had in
+certain cases become confused to such an extent that those who study
+it ask themselves whether the people who spoke it were able to
+understand each other without recourse to devices such as the "tones"
+to which the chinese resort. with few exceptions, the names of the
+gods which the inscriptions reveal to us are all derived from this
+non-semitic language, which furnishes us with satisfactory etymologies
+for such names as merodach, nergal, sin, and the divinities mentioned
+in berosus and damascius, as well as those of hundreds of deities
+revealed to us by the tablets and slabs of babylonia and assyria.
+
+
+                            the documents.
+
+outside the inscriptions of babylonia and assyria, there is but little
+bearing upon the religion of those countries, the most important
+fragment being the extracts from berosus and damascius referred to
+above. among the babylonian and assyrian remains, however, we have an
+extensive and valuable mass of material, dating from the fourth or
+fifth millennium before christ until the disappearance of the
+babylonian system of writing about the beginning of the christian era.
+the earlier inscriptions are mostly of the nature of records, and give
+information about the deities and the religion of the people in the
+course of descriptions of the building and rebuilding of temples, the
+making of offerings, the performance of ceremonies, etc. purely
+religious inscriptions are found near the end of the third millennium
+before christ, and occur in considerable numbers, either in the
+original sumerian text, or in translations, or both, until about the
+third century before christ. among the more recent inscriptions--those
+from the library of the assyrian king assur-bani-apli and the later
+babylonian temple archives,--there are many lists of deities, with
+numerous identifications with each other and with the heavenly bodies,
+and explanations of their natures. it is needless to say that all this
+material is of enormous value for the study of the religion of the
+babylonians and assyrians, and enables us to reconstruct at first hand
+their mythological system, and note the changes which took place in
+the course of their long national existence. many interesting and
+entertaining legends illustrate and supplement the information given
+by the bilingual lists of gods, the bilingual incantations and hymns,
+and the references contained in the historical and other documents. a
+trilingual list of gods enables us also to recognise, in some cases,
+the dialectic forms of their names.
+
+
+                    the importance of the subject.
+
+of equal antiquity with the religion of egypt, that of babylonia and
+assyria possesses some marked differences as to its development.
+beginning among the non-semitic sumero-akkadian population, it
+maintained for a long time its uninterrupted development, affected
+mainly by influences from within, namely, the homogeneous local cults
+which acted and reacted upon each other. the religious systems of
+other nations did not greatly affect the development of the early
+non-semitic religious system of babylonia. a time at last came,
+however, when the influence of the semitic inhabitants of babylonia
+and assyria was not to be gainsaid, and from that moment, the
+development of their religion took another turn. in all probably this
+augmentation of semitic religious influence was due to the increased
+numbers of the semitic population, and at the same period the
+sumero-akkadian language began to give way to the semitic idiom which
+they spoke. when at last the semitic babylonian language came to be used
+for official documents, we find that, although the non-semitic divine
+names are in the main preserved, a certain number of them have been
+displaced by the semitic equivalent names, such as samas for the
+sun-god, with kittu and mesaru ("justice and righteousness") his
+attendants; nabu ("the teacher" = nebo) with his consort tasmetu ("the
+hearer"); addu, adad, or dadu, and rammanu, ramimu, or ragimu = hadad
+or rimmon ("the thunderer"); bel and beltu (beltis = "the lord" and
+"the lady" /par excellence/), with some others of inferior rank. in
+place of the chief divinity of each state at the head of each separate
+pantheon, the tendency was to make merodach, the god of the capital
+city babylon, the head of the pantheon, and he seems to have been
+universally accepted in babylonia, like assur in assyria, about 2000
+b.c. or earlier.
+
+
+                    the uniting of two pantheons.
+
+we thus find two pantheons, the sumero-akkadian with its many gods,
+and the semitic babylonian with its comparatively few, united, and
+forming one apparently homogeneous whole. but the creed had taken a
+fresh tendency. it was no longer a series of small, and to a certain
+extent antagonistic, pantheons composed of the chief god, his consort,
+attendants, children, and servants, but a pantheon of considerable
+extent, containing all the elements of the primitive but smaller
+pantheons, with a number of great gods who had raised merodach to be
+their king.
+
+
+                             in assyria.
+
+whilst accepting the religion of babylonia, assyria nevertheless kept
+herself distinct from her southern neighbour by a very simple device,
+by placing at the head of the pantheon the god assur, who became for
+her the chief of the gods, and at the same time the emblem of her
+distinct national aspirations--for assyria had no intention whatever
+of casting in her lot with her southern neighbour. nevertheless,
+assyria possessed, along with the language of babylonia, all the
+literature of that country--indeed, it is from the libraries of her
+kings that we obtain the best copies of the babylonian religious
+texts, treasured and preserved by her with all the veneration of which
+her religious mind was capable,--and the religious fervour of the
+oriental in most cases leaves that of the european, or at least of the
+ordinary briton, far behind.
+
+
+                     the later period in assyria.
+
+assyria went to her downfall at the end of the seventh century before
+christ worshipping her national god assur, whose cult did not cease
+with the destruction of her national independence. in fact, the city
+of assur, the centre of that worship, continued to exist for a
+considerable period; but for the history of the religion of assyria,
+as preserved there, we wait for the result of the excavations being
+carried on by the germans, should they be fortunate enough to obtain
+texts belonging to the period following the fall of nineveh.
+
+
+                            in babylonia.
+
+babylonia, on the other hand, continued the even tenor of her way.
+more successful at the end of her independent political career than
+her northern rival had been, she retained her faith, and remained the
+unswerving worshipper of merodach, the great god of babylon, to whom
+her priests attributed yet greater powers, and with whom all the other
+gods were to all appearance identified. this tendency to monotheism,
+however, never reached the culminating point--never became
+absolute--except, naturally, in the minds of those who, dissociating
+themselves, for philosophical reasons, from the superstitious teaching
+of the priests of babylonia, decided for themselves that there was but
+one god, and worshipped him. that orthodox jews at that period may have
+found, in consequence of this monotheistic tendency, converts, is not
+by any means improbable--indeed, the names met with during the later
+period imply that converts to judaism were made.
+
+
+                 the picture presented by the study.
+
+thus we see, from the various inscriptions, both babylonian and
+assyrian--the former of an extremely early period--the growth and
+development, with at least one branching off, of one of the most
+important religious systems of the ancient world. it is not so
+important for modern religion as the development of the beliefs of the
+hebrews, but as the creed of the people from which the hebrew nation
+sprang, and from which, therefore, it had its beginnings, both
+corporeal and spiritual, it is such as no student of modern religious
+systems can afford to neglect. its legends, and therefore its
+teachings, as will be seen in these pages, ultimately permeated the
+semitic west, and may in some cases even had penetrated europe, not
+only through heathen greece, but also through the early christians,
+who, being so many centuries nearer the time of the
+assyro-babylonians, and also nearer the territory which they anciently
+occupied, than we are, were far better acquainted than the people of
+the present day with the legends and ideas which they possessed.
+
+
+
+                              chapter ii
+
+            the religion of the babylonians and assyrians
+
+
+                the sumero-akkadians and the semites.
+
+for the history of the development of the religion of the babylonians
+and assyrians much naturally depends upon the composition of the
+population of early babylonia. there is hardly any doubt that the
+sumero-akkadians were non-semites of a fairly pure race, but the
+country of their origin is still unknown, though a certain
+relationship with the mongolian and turkish nationalities, probably
+reaching back many centuries--perhaps thousands of years--before the
+earliest accepted date, may be regarded as equally likely. equally
+uncertain is the date of the entry of the semites, whose language
+ultimately displaced the non-semitic sumero-akkadian idioms, and
+whose kings finally ruled over the land. during the third millennium
+before christ semites, bearing semitic names, and called amorites,
+appear, and probably formed the last considerable stratum of tribes of
+that race which entered the land. the name martu, the sumero-akkadian
+equivalent of amurru, "amorite", is of frequent occurrence also before
+this period. the eastern mediterranean coast district, including
+palestine and the neighbouring tracts, was known by the babylonians
+and assyrians as the land of the amorites, a term which stood for the
+west in general even when these regions no longer bore that name. the
+babylonians maintained their claim to sovereignty over that part as
+long as they possessed the power to do so, and naturally exercised
+considerable influence there. the existence in palestine, syria, and
+the neighbouring states, of creeds containing the names of many
+babylonian divinities is therefore not to be wondered at, and the
+presence of west semitic divinities in the religion of the babylonians
+need not cause us any surprise.
+
+
+               the babylonian script and its evidence.
+
+in consequence of the determinative prefix for a god or a goddess
+being, in the oldest form, a picture of an eight-rayed star, it has
+been assumed that assyro-babylonian mythology is, either wholly or
+partly, astral in origin. this, however, is by no means certain, the
+character for "star" in the inscriptions being a combination of three
+such pictures, and not a single sign. the probability therefore is,
+that the use of the single star to indicate the name of a divinity
+arises merely from the fact that the character in question stands for
+/ana/, "heaven." deities were evidently thus distinguished by the
+babylonians because they regarded them as inhabitants of the realms
+above--indeed, the heavens being the place where the stars are seen, a
+picture of a star was the only way of indicating heavenly things. that
+the gods of the babylonians were in many cases identified with the
+stars and planets is certain, but these identifications seem to have
+taken place at a comparatively late date. an exception has naturally
+to be made in the case of the sun and moon, but the god merodach, if
+he be, as seems certain, a deified babylonian king, must have been
+identified with the stars which bear his name after his worshippers
+began to pay him divine honours as the supreme deity, and naturally
+what is true for him may also be so for the other gods whom they
+worshipped. the identification of some of the deities with stars or
+planets is, moreover, impossible, and if ea, the god of the deep, and
+anu, the god of the heavens, have their representatives among the
+heavenly bodies, this is probably the result of later development.[1]
+
+[1] if there be any historical foundation for the statement that
+    merodach arranged the sun, the moon, the planets, and the stars,
+    assigning to them their proper places and duties--a tradition
+    which would make him the founder of the science of astronomy
+    during his life upon earth--this, too, would tend to the
+    probability that the origin of the gods of the babylonians was not
+    astral, as has been suggested, but that their identification with
+    the heavenly bodies was introduced during the period of his reign.
+
+
+         ancestor and hero-worship. the deification of kings.
+
+though there is no proof that ancestor-worship in general prevailed at
+any time in babylonia, it would seem that the worship of heroes and
+prominent men was common, at least in early times. the tenth chapter
+of genesis tells us of the story of nimrod, who cannot be any other
+than the merodach of the assyro-babylonian inscriptions; and other
+examples, occurring in semi-mythological times, are /en-we-dur-an-ki/,
+the greek edoreschos, and /gilgames/, the greek gilgamos, though
+aelian's story of the latter does not fit in with the account as given
+by the inscriptions. in later times, the divine prefix is found before
+the names of many a babylonian ruler--sargon of agade,[1] dungi of ur
+(about 2500 b.c.), rim-sin or eri-aku (arioch of ellasar, about 2100
+b.c.), and others. it was doubtless a kind of flattery to deify and
+pay these rulers divine honours during their lifetime, and on account
+of this, it is very probable that their godhood was utterly forgotten,
+in the case of those who were strictly historical, after their death.
+the deification of the kings of babylonia and assyria is probably due
+to the fact, that they were regarded as the representatives of god
+upon earth, and being his chief priests as well as his offspring (the
+personal names show that it was a common thing to regard children as
+the gifts of the gods whom their father worshipped), the divine
+fatherhood thus attributed to them naturally could, in the case of
+those of royal rank, give them a real claim to divine birth and
+honours. an exception is the deification of the babylonian noah,
+ut-napistim, who, as the legend of the flood relates, was raised and
+made one of the gods by aa or ea, for his faithfulness after the great
+catastrophe, when he and his wife were translated to the "remote place
+at the mouth of the rivers." the hero gilgames, on the other hand, was
+half divine by birth, though it is not exactly known through whom his
+divinity came.
+
+[1] according to nabonidus's date 3800 b.c., though many
+    assyriologists regard this as being a millennium too early.
+
+
+            the earliest form of the babylonian religion.
+
+the state of development to which the religious system of the
+babylonians had attained at the earliest period to which the
+inscriptions refer naturally precludes the possibility of a
+trustworthy history of its origin and early growth. there is no doubt,
+however, that it may be regarded as having reached the stage at which
+we find it in consequence of there being a number of states in ancient
+babylonia (which was at that time like the heptarchy in england) each
+possessing its own divinity--who, in its district, was regarded as
+supreme--with a number of lesser gods forming his court. it was the
+adding together of all these small pantheons which ultimately made
+that of babylonia as a whole so exceedingly extensive. thus the chief
+divinity of babylon, as has already been stated, as merodach; at
+sippar and larsa the sun-god samas was worshipped; at ur the moon-god
+sin or nannar; at erech and der the god of the heavens, anu; at muru,
+ennigi, and kakru, the god of the atmosphere, hadad or rimmon; at
+eridu, the god of the deep, aa or ea; at niffur[1] the god bel; at
+cuthah the god of war, nergal; at dailem the god uras; at kis the god
+of battle, zagaga; lugal-amarda, the king of marad, as the city so
+called; at opis zakar, one of the gods of dreams; at agade, nineveh,
+and arbela, istar, goddess of love and of war; nina at the city nina
+in babylonia, etc. when the chief deities were masculine, they were
+naturally all identified with each other, just as the greeks called
+the babylonian merodach by the name of zeus; and as zer-panitum, the
+consort of merodach, was identified with juno, so the consorts, divine
+attendants, and children of each chief divinity, as far as they
+possessed them, could also be regarded as the same, though possibly
+distinct in their different attributes.
+
+[1] noufar at present, according to the latest explorers. layard
+    (1856) has niffer, loftus (1857) niffar. the native spelling is
+    noufer, due to the french system of phonetics.
+
+
+            how the religion of the babylonians developed.
+
+the fact that the rise of merodach to the position of king of the gods
+was due to the attainment, by the city of babylon, of the position of
+capital of all babylonia, leads one to suspect that the kingly rank of
+his father ea, at an earlier period, was due to a somewhat similar
+cause, and if so, the still earlier kingship of anu, the god of the
+heavens, may be in like manner explained. this leads to the question
+whether the first state to attain to supremacy was der, anu's seat,
+and whether der was succeeded by eridu, of which city ea was the
+patron--concerning the importance of babylon, merodach's city, later
+on, there is no doubt whatever. the rise of anu and ea to divine
+overlordship, however, may not have been due to the political
+supremacy of the cities where they were worshipped--it may have come
+about simply on account of renown gained through religious enthusiasm
+due to wonders said to have been performed where they were worshipped,
+or to the reported discovery of new records concerning their temples,
+or to the influence of some renowned high-priest, like en-we-dur-an-ki
+of sippar, whose devotion undoubtedly brought great renown to the city
+of his dominion.
+
+
+                    was animism its original form?
+
+but the question naturally arises, can we go back beyond the
+indications of the inscriptions? the babylonians attributed life, in
+certain not very numerous cases, to such things as trees and plants,
+and naturally to the winds, and the heavenly bodies. whether they
+regarded stones, rocks, mountains, storms, and rain in the same way,
+however, is doubtful, but it may be taken for granted, that the sea,
+with all its rivers and streams, was regarded as animated with the
+spirit of ea and his children, whilst the great cities and
+temple-towers were pervaded with the spirit of the god whose abode
+they were. innumerable good and evil spirits were believed in, such as
+the spirit of the mountain, the sea, the plain, and the grave. these
+spirits were of various kinds, and bore names which do not always
+reveal their real character--such as the /edimmu/, /utukku/, /sedu/,
+/asakku/ (spirit of fevers), /namtaru/ (spirit of fate), /alu/
+(regarded as the spirit of the south wind), /gallu/, /rabisu/,
+/labartu/, /labasu/, /ahhazu/ (the seizer), /lilu/ and /lilithu/ (male
+and female spirits of the mist), with their attendants.
+
+all this points to animism as the pervading idea of the worship of the
+peoples of the babylonian states in the prehistoric period--the
+attribution of life to every appearance of nature. the question is,
+however, is the evidence of the inscriptions sufficient to make this
+absolutely certain? it is hard to believe that such intelligent
+people, as the primitive babylonians naturally were, believed that
+such things as stones, rocks, mountains, storms, and rain were, in
+themselves, and apart from the divinity which they regarded as
+presiding over them, living things. a stone might be a /bit ili/ or
+bethel--a "house of god," and almost invested with the status of a
+living thing, but that does not prove that the babylonians thought of
+every stone as being endowed with life, even in prehistoric times.
+whilst, therefore, there are traces of a belief similar to that which
+an animistic creed might be regarded as possessing, it must be
+admitted that these seemingly animistic doctrines may have originated
+in another way, and be due to later developments. the power of the
+gods to create living things naturally makes possible the belief that
+they had also power to endow with a soul, and therefore with life and
+intelligence, any seemingly inanimate object. such was probably the
+nature of babylonian animism, if it may be so called. the legend of
+tiawthu (tiawath) may with great probability be regarded as the
+remains of a primitive animism which was the creed of the original and
+comparatively uncivilised babylonians, who saw in the sea the producer
+and creator of all the monstrous shapes which are found therein; but
+any development of this idea in other directions was probably cut
+short by the priests, who must have realised, under the influence of
+the doctrine of the divine rise to perfection, that animism in general
+was altogether incompatible with the creed which they professed.
+
+
+                   image-worship and sacred stones.
+
+whether image-worship was original among the babylonians and assyrians
+is uncertain, and improbable; the tendency among the people in early
+times being to venerate sacred stones and other inanimate objects. as
+has been already pointed out, the {diopetres} of the greeks was
+probably a meteorite, and stones marking the position of the semitic
+bethels were probably, in their origin, the same. the boulders which
+were sometimes used for boundary-stones may have been the
+representations of these meteorites in later times, and it is
+noteworthy that the sumerian group for "iron," /an-bar/, implies that
+the early babylonians only knew of that metal from meteoric ironstone.
+the name of the god nirig or enu-restu (ninip) is generally written
+with the same group, implying some kind of connection between the
+two--the god and the iron. in a well-known hymn to that deity certain
+stones are mentioned, one of them being described as the "poison-tooth"[1]
+coming forth on the mountain, recalling the sacred rocks at
+jerusalem and mecca. boundary-stones in babylonia were not sacred
+objects except in so far as they were sculptured with the signs of the
+gods.[2] with regard to the babylonian bethels, very little can be
+said, their true nature being uncertain, and their number, to all
+appearance, small. gifts were made to them, and from this fact it
+would seem that they were temples--true "houses of god," in
+fact--probably containing an image of the deity, rather than a stone
+similar to those referred to in the old testament.
+
+[1] so called, probably, not because it sent forth poison, but on
+    account of its likeness to a serpent's fang.
+
+[2] notwithstanding medical opinion, their phallic origin is doubtful.
+    one is sculptured in the form of an eastern castellated fortress.
+
+
+                                idols.
+
+with the babylonians, the gods were represented by means of stone
+images at a very early date, and it is possible that wood was also
+used. the tendency of the human mind being to attribute to the deity a
+human form, the babylonians were no exception to the rule. human
+thoughts and feelings would naturally accompany the human form with
+which the minds of men endowed them. whether the gross human passions
+attributed to the gods of babylonia in herodotus be of early date or
+not is uncertain--a late period, when the religion began to
+degenerate, would seem to be the more probable.
+
+
+                   the adoration of sacred objects.
+
+it is probable that objects belonging to or dedicated to deities were
+not originally worshipped--they were held as divine in consequence of
+their being possessed or used by a deity, like the bow of merodach,
+placed in the heavens as a constellation, etc. the cities where the
+gods dwelt on earth, their temples, their couches, the chariot of the
+sun in his temple-cities, and everything existing in connection with
+their worship, were in all probability regarded as divine simply in so
+far as they belonged to a god. sacrifices offered to them, and
+invocations made to them, were in all likelihood regarded as having
+been made to the deity himself, the possessions of the divinity being,
+in the minds of the babylonians, pervaded with his spirit. in the case
+of rivers, these were divine as being the children and offspring of
+enki (aa or ea), the god of the ocean.
+
+
+                             holy places.
+
+in a country which was originally divided into many small states, each
+having its own deities, and, to a certain extent, its own religious
+system, holy places were naturally numerous. as the spot where they
+placed paradise, babylonia was itself a holy place, but in all
+probability this idea is late, and only came into existence after the
+legends of the creation and the rise of merodach to the kingship of
+heaven had become elaborated into one homogeneous whole.
+
+
+                         an interesting list.
+
+one of the most interesting documents referring to the holy places of
+babylonia is a tiny tablet found at nineveh, and preserved in the
+british museum. this text begins with the word tiawthu "the sea," and
+goes on to enumerate, in turn, tilmun (identified with the island of
+bahrein in the persian gulf); engurra (the abyss, the abode of enki or
+ea), with numerous temples and shrines, including "the holy house,"
+"the temple of the seer of heaven and earth," "the abode of
+zer-panitum," consort of merodach, "the throne of the holy place," "the
+temple of the region of hades," "the supreme temple of life," "the
+temple of the ear of the corn-deity," with many others, the whole list
+containing what may be regarded as the chief sanctuaries of the land,
+to the number of thirty-one. numerous other similar and more extensive
+lists, enumerating every shrine and temple in the country, also exist,
+though in a very imperfect state, and in addition to these, many holy
+places are referred to in the bilingual, historical, and other
+inscriptions. all the great cities of babylonia, moreover, were sacred
+places, the chief in renown and importance in later days being the
+great city of babylon, where e-sagila, "the temple of the high head,"
+in which was apparently the shrine called "the temple of the
+foundation of heaven and earth," held the first place. this building
+is called by nebuchadnezzar "the temple-tower of babylon," and may
+better be regarded as the site of the biblical "tower of babel" than
+the traditional foundation, e-zida, "the everlasting temple," in
+borsippa (the birs nimroud)--notwithstanding that borsippa was called
+the "second babylon," and its temple-tower "the supreme house of
+life."
+
+
+                         the tower of babel.
+
+though quite close to babylon, there is no doubt that borsippa was a
+most important religious centre, and this leads to the possibility,
+that its great temple may have disputed with "the house of the high
+head," e-sagila in babylon, the honour of being the site of the
+confusion of tongues and the dispersion of mankind. there is no doubt,
+however, that e-sagila has the prior claim, it being the temple of the
+supreme god of the later babylonian pantheon, the counterpart of the
+god of the hebrews who commanded the changing of the speech of the
+people assembled there. supposing the confusion of tongues to have
+been a babylonian legend as well as a hebrew one (as is possible) it
+would be by command of merodach rather than that of nebo that such a
+thing would have taken place. e-sagila, which is now the ruin known as
+the mount of amran ibn ali, is the celebrated temple of belus which
+alexander and philip attempted to restore.
+
+in addition to the legend of the confusion of tongues, it is probable
+that there were many similar traditions attached to the great temples
+of babylonia, and as time goes on, and the excavations bring more
+material, a large number of them will probably be recovered. already
+we have an interesting and poetical record of the entry of bel and
+beltis into the great temple at niffer, probably copied from some
+ancient source, and gudea, a king of lagas (telloh), who reigned about
+2700 b.c., gives an account of the dream which he saw, in which he was
+instructed by the gods to build or rebuild the temple of nin-girsu in
+his capital city.
+
+
+                   e-sagila according to herodotus.
+
+as the chief fane in the land after babylon became the capital, and
+the type of many similar erections, e-sagila, the temple of belus,
+merits just a short notice. according to herodotus, it was a massive
+tower within an enclosure measuring 400 yards each way, and provided
+with gates of brass, or rather bronze. the tower within consisted of a
+kind of step-pyramid, the stages being seven in number (omitting the
+lowest, which was the platform forming the foundation of the
+structure). a winding ascent gave access to the top, where was a
+chapel or shrine, containing no statue, but regarded by the
+babylonians as the abode of the god. lower down was another shrine, in
+which was placed a great statue of zeus (bel-merodach) sitting, with a
+large table before it. both statue and table are said to have been of
+gold, as were also the throne and the steps. outside the sanctuary (on
+the ramp, apparently) were two altars, one small and made of gold,
+whereon only unweaned lambs were sacrificed, and the other larger, for
+full-grown victims.
+
+
+                      a babylonian description.
+
+in 1876 the well-known assyriologist, mr. george smith, was fortunate
+enough to discover a babylonian description of this temple, of which
+he published a /precis/. according to this document, there were two
+courts of considerable extent, the smaller within the larger--neither
+of them was square, but oblong. six gates admitted to the temple-area
+surrounding the platform upon which the tower was built. the platform
+is stated to have been square and walled, with four gates facing the
+cardinal points. within this wall was a building connected with the
+great /zikkurat/ or tower--the principal edifice--round which were
+chapels or temples to the principal gods, on all four sides, and
+facing the cardinal points--that to nebo and tasmit being on the east,
+to aa or ea and nusku on the north, anu and bel on the south, and the
+series of buildings on the west, consisting of a double house--a small
+court between two wings, was evidently the shrine of merodach (belos).
+in these western chambers stood the couch of the god, and the golden
+throne mentioned by herodotus, besides other furniture of great value.
+the couch was given as being 9 cubits long by 4 broad, about as many
+feet in each case, or rather more.
+
+the centre of these buildings was the great /zikkurat/, or temple-tower,
+square on its plan, and with the sides facing the cardinal
+points. the lowest stage was 15 /gar/ square by 5 1/2 high (smith, 300
+feet by 110), and the wall, in accordance with the usual babylonian
+custom, seems to have been ornamented with recessed groovings. the
+second stage was 13 /gar/ square by 3 in height (smith, 260 by 60
+feet). he conjectured, from the expression used, that it had sloping
+sides. stages three to five were each one /gar/ (smith, 20 feet) high,
+and respectively 10 /gar/ (smith, 200 feet), 8 1/2 /gar/ (170 feet),
+and 7 /gar/ (140 feet) square. the dimensions of the sixth stage are
+omitted, probably by accident, but smith conjectures that they were in
+proportion to those which precede. his description omits also the
+dimensions of the seventh stage, but he gives those of the sanctuary
+of belus, which was built upon it. this was 4 /gar/ long, 3 1/2 /gar/
+broad, and 2 1/2 /gar/ high (smith, 80 x 70 x 50 feet). he points out,
+that the total height was, therefore, 15 /gar/, the same as the
+dimensions of the base, i.e., the lowest platform, which would make
+the total height of this world-renowned building rather more than 300
+feet above the plains.
+
+
+                         other temple-towers.
+
+towers of a similar nature were to be found in all the great cities of
+babylonia, and it is probable that in most cases slight differences of
+form were to be found. that at niffer, for instance, seems to have had
+a causeway on each side, making four approaches in the form of a
+cross. but it was not every city which had a tower of seven stages in
+addition to the platform on which it was erected, and some of the
+smaller ones at least seem to have had sloping or rounded sides to the
+basement-portion, as is indicated by an assyrian bas-relief. naturally
+small temples, with hardly more than the rooms on the ground floor,
+were to be found, but these temple-towers were a speciality of the
+country.
+
+
+                            their origin.
+
+there is some probability that, as indicated in the tenth chapter of
+genesis, the desire in building these towers was to get nearer the
+deity, or to the divine inhabitants of the heavens in general--it
+would be easier there to gain attention than on the surface of the
+earth. then there was the belief, that the god to whom the place was
+dedicated would come down to such a sanctuary, which thus became, as
+it were, the stepping-stone between heaven and earth. sacrifices were
+also offered at these temple-towers (whether on the highest point or
+not is not quite certain), in imitation of the chaldan noah,
+ut-napistim, who, on coming out of the ark, made an offering /ina
+zikkurat sade/, "on the peak of the mountain," in which passage, it is
+to be noted, the word /zikkurat/ occurs with what is probably a more
+original meaning.
+
+
+
+                             chapter iii
+
+                 the babylonian story of the creation
+
+this is the final development of the babylonian creed. it has already
+been pointed out that the religion of the babylonians in all
+probability had two stages before arriving at that in which the god
+merodach occupied the position of chief of the pantheon, the two
+preceding heads having been, seemingly, anu, the god of the heavens,
+and ea or aa, also called enki, the god of the abyss and of deep
+wisdom. in order to show this, and at the same time to give an idea of
+their theory of the beginning of things, a short paraphrase of the
+contents of the seven tablets will be found in the following pages.
+
+
+                      an embodiment of doctrine.
+
+as far as our knowledge goes, the doctrines incorporated in this
+legend would seem to show the final official development of the
+beliefs held by the babylonians, due, in all probability, to the
+priests of babylon after that city became the capital of the federated
+states. modifications of their creed probably took place, but nothing
+seriously affecting it, until after the abandonment of babylon in the
+time of seleucus nicator, 300 b.c. or thereabouts, when the deity at
+the head of the pantheon seems not to have been merodach, but anu-bel.
+this legend is therefore the most important document bearing upon the
+beliefs of the babylonians from the end of the third millennium b.c.
+until that time, and the philosophical ideas which it contains seem to
+have been held, in a more or less modified form, among the remnants
+who still retained the old babylonian faith, until the sixth century
+of the present era, as the record by damascius implies. properly
+speaking, it is not a record of the creation, but the story of the
+fight between bel and the dragon, to which the account of the creation
+is prefixed by way of introduction.
+
+
+                       water the first creator.
+
+the legend begins by stating that, when the heavens were unnamed and
+the earth bore no name, the primval ocean was the producer of all
+things, and mummu tiawath (the sea) she who brought forth everything
+existing. their waters (that is, of the primval ocean and of the sea)
+were all united in one, and neither plains nor marshes were to be
+seen; the gods likewise did not exist, even in name, and the fates
+were undetermined--nothing had been decided as to the future of
+things. then arose the great gods. lahmu and lahame came first,
+followed, after a long period, by ansar and kisar, generally
+identified with the "host of heaven" and the "host of earth," these
+being the meanings of the component parts of their names. after a
+further long period of days, there came forth their son anu, the god
+of the heavens.
+
+
+                              the gods.
+
+here the narrative is defective, and is continued by damascius in his
+/doubts and solutions of the first principles/, in which he states
+that, after anos (anu), come illinos (ellila or bel, "the lord" /par
+excellence/) and aos (aa, ae, or ea), the god of eridu. of aos and
+dauke (the babylonian aa and damkina) is born, he says, a son called
+belos (bel-merodach), who, they (apparently the babylonians) say, is
+the fabricator of the world--the creator.
+
+
+                      the designs against them.
+
+at this point damascius ends his extract, and the babylonian tablet
+also becomes extremely defective. the next deity to come into
+existence, however, would seem to have been nudimmud, who was
+apparently the deity aa or ea (the god of the sea and of rivers) as
+the god of creation. among the children of tauthe (tiawath) enumerated
+by damascius is one named moumis, who was evidently referred to in the
+document at that philosopher's disposal. if this be correct, his name,
+under the form of mummu, probably existed in one of the defective
+lines of the first portion of this legend--in any case, his name
+occurs later on, with those of tiawath and apsu (the deep), his
+parents, and the three seem to be compared, to their disadvantage,
+with the progeny of lahmu and lahame, the gods on high. as the ways of
+these last were not those of tiawath's brood, and apsu complained that
+he had no peace by day nor rest by night on account of their
+proceedings, the three representatives of the chaotic deep, tiawath,
+apsu, and mummu, discussed how they might get rid the beings who
+wished to rise to higher things. mummu was apparently the prime mover
+in the plot, and the face of apsu grew bright at the thought of the
+evil plan which they had devised against "the gods their sons." the
+inscription being very mutilated here, its full drift cannot be
+gathered, but from the complete portions which come later it would
+seem that mummu's plan was not a remarkably cunning one, being simply
+to make war upon and destroy the gods of heaven.
+
+
+                       tiawath's preparations.
+
+the preparations made for this were elaborate. restlessly, day and
+night, the powers of evil raged and toiled, and assembled for the
+fight. "mother hubur," as tiawath is named in this passage, called her
+creative powers into action, and gave her followers irresistible
+weapons. she brought into being also various monsters--giant serpents,
+sharp of tooth, bearing stings, and with poison filling their bodies
+like blood; terrible dragons endowed with brilliance, and of enormous
+stature, reared on high, raging dogs, scorpion-men, fish-men, and many
+other terrible beings, were created and equipped, the whole being
+placed under the command of a deity named kingu, whom she calls her
+"only husband," and to whom she delivers the tablets of fate, which
+conferred upon him the godhead of anu (the heavens), and enabled their
+possessor to determine the gates among the gods her sons.
+
+
+                         kingu replaces absu.
+
+the change in the narrative which comes in here suggests that this is
+the point at which two legends current in babylonia were united.
+henceforward we hear nothing more of apsu, the begetter of all things,
+tiawath's spouse, nor of mummu, their son. in all probability there is
+good reason for this, and inscriptions will doubtless ultimately be
+found which will explain it, but until then it is only natural to
+suppose that two different legends have been pieced together to form a
+harmonious whole.
+
+
+                            tiawath's aim.
+
+as will be gathered from the above, the story centres in the wish of
+the goddess of the powers of evil and her kindred to retain creation--the
+forming of all living things--in her own hands. as tiawath means
+"the sea," and apsu "the deep," it is probable that this is a kind of
+allegory personifying the productive power seen in the teeming life of
+the ocean, and typifying the strange and wonderful forms found
+therein, which were symbolical, to the babylonian mind, of chaos and
+confusion, as well as of evil.
+
+
+                   the gods hear of the conspiracy.
+
+aa, or ea, having learned of the plot of tiawath and her followers
+against the gods of heaven, naturally became filled with anger, and
+went and told the whole to ansar, his father, who in his turn gave way
+to his wrath, and uttered cries of the deepest grief. after
+considering what they would do, ansar applied to his son anu, "the
+mighty and brave," saying that, if he would only speak to her, the
+great dragon's anger would be assuaged, and her rage disappear. in
+obedience to this behest, anu went to try his power with the monster,
+but on beholding her snarling face, feared to approach her, and turned
+back. nudimmud was next called upon to become the representative of
+the gods against their foe, but his success was as that of anu, and it
+became needful to seek another champion.
+
+
+                and choose merodach as their champion.
+
+the choice fell upon merodach, the belus (bel-merodach) of damascius's
+paraphrase, and at once met with an enthusiastic reception. the god
+asked simply that an "unchangeable command" might be given to him--that
+whatever he ordained should without fail come to pass, in order
+that he might destroy the common enemy. invitations were sent to the
+gods asking them to a festival, where, having met together, they ate
+and drank, and "decided the fate" for merodach their avenger,
+apparently meaning that he was decreed their defender in the conflict
+with tiawath, and that the power of creating and annihilating by the
+word of his mouth was his. honours were then conferred upon him;
+princely chambers were erected for him, wherein he sat as judge "in
+the presence of his fathers," and the rule over the whole universe was
+given to him. the testing of his newly acquired power followed. a
+garment was placed in their midst:
+
+  "he spake with his mouth, and the garment was destroyed,
+  he spake to it again, and the garment was reproduced."
+
+
+                      merodach proclaimed king.
+
+on this proof of the reality of the powers conferred on him, all the
+gods shouted "merodach is king!" and handed to him sceptre, throne,
+and insignia of royalty. an irresistible weapon, which should shatter
+all his enemies, was then given to him, and he armed himself also with
+spear or dart, bow, and quiver; lightning flashed before him, and
+flaming fire filled his body. anu, the god of the heavens, had given
+him a great net, and this he set at the four cardinal points, in order
+that nothing of the dragon, when he had defeated her, should escape.
+seven winds he then created to accompany him, and the great weapon
+called /abubu/, "the flood," completed his equipment. all being ready,
+he mounted his dreadful, irresistible chariot, to which four steeds
+were yoked--steeds unsparing, rushing forward, rapid in flight, their
+teeth full of venom, foam-covered, experienced in galloping, schooled
+in overthrowing. being now ready for the fray, merodach fared forth to
+meet tiawath, accompanied by the fervent good wishes of "the gods his
+fathers."
+
+
+                       the fight with tiawath.
+
+advancing, he regarded tiawath's retreat, but the sight of the enemy
+was so menacing that even the great merodach (if we understand the
+text rightly) began to falter. this, however, was not for long, and
+the king of the gods stood before tiawath, who, on her side, remained
+firm and undaunted. in a somewhat long speech, in which he reproaches
+tiawath for her rebellion, he challenges her to battle, and the two
+meet in fiercest fight. to all appearance the type of all evil did not
+make use of honest weapons, but sought to overcome the king of the
+gods with incantations and charms. these, however, had not the
+slightest effect, for she found herself at once enclosed in merodach's
+net, and on opening her mouth to resist and free herself, the evil
+wind, which merodach had sent on before him, entered, so that she
+could not close her lips, and thus inflated, her heart was
+overpowered, and she became a prey to her conqueror. having cut her
+asunder and taken out her heart, thus destroying her life, he threw
+her body down and stood thereon. her followers then attempted to
+escape, but found themselves surrounded and unable to get forth. like
+their mistress, they were thrown into the net, and sat in bonds, being
+afterwards shut up in prison. as for kingu, he was raised up, bound,
+and delivered to be with ugga, the god of death. the tablets of fate,
+which tiawath had delivered to kingu, were taken from him by merodach,
+who pressed his seal upon them, and placed them in his breast. the
+deity ansar, who had been, as it would seem, deprived of his rightful
+power by tiawath, received that power again on the death of the common
+foe, and nudimmud "saw his desire upon his enemy."
+
+
+                           tiawath's fate.
+
+the dismemberment of tiawath then followed, and her veins having been
+cut through, the north wind was caused by the deity to carry her blood
+away into secret places, a statement which probably typifies the
+opening of obstructions which prevent the rivers flowing from the
+north from running into the southern seas, helped thereto by the north
+wind. finally her body was divided, like "a /masde/-fish," into two
+parts, one of which was made into a covering for the heavens--the
+"waters above the firmament" of genesis i. 7.
+
+
+                   merodach orders the world anew.
+
+then came the ordering of the universe anew. having made a covering
+for the heavens with half the body of the defeated dragon of chaos,
+merodach set the abyss, the abode of nudimmud, in front, and made a
+corresponding edifice above--the heavens--where he founded stations
+for the gods anu, bel, and ae. stations for the great gods in the
+likeness of constellations, together with what is regarded as the
+zodiac, were his next work. he then designated the year, setting three
+constellations for each month, and made a station for
+nibiru--merodach's own star--as the overseer of all the lights in the
+firmament. he then caused the new moon, nannaru, to shine, and made
+him the ruler of the night, indicating his phases, one of which was on
+the seventh day, and the other, a /sabattu/, or day of rest, in the
+middle of the month. directions with regard to the moon's movements
+seem to follow, but the record is mutilated, and their real nature
+consequently doubtful. with regard to other works which were performed
+we have no information, as a gap prevents their being ascertained.
+something, however, seems to have been done with merodach's
+net--probably it was placed in the heavens as a constellation, as was his
+bow, to which several names were given. later on, the winds were bound
+and assigned to their places, but the account of the arrangement of
+other things is mutilated and obscure, though it can be recognised
+that the details in this place were of considerable interest.
+
+
+                         the creation of man.
+
+to all appearance the gods, after he had ordered the universe and the
+things then existing, urged merodach to further works of wonder.
+taking up their suggestion, he considered what he should do, and then
+communicated to his father ae his plan for the creation of man with
+his own blood, in order that the service and worship of the gods might
+be established. this portion is also unfortunately very imperfect, and
+the details of the carrying out of the plan are entirely wanting.
+
+
+                  berosus' narrative fills the gap.
+
+it is noteworthy that this portion of the narrative has been preserved
+by abydenus, george the syncellus, and eusebius, in their quotations
+from berosus. according to this chaldan writer, there was a woman
+named omoroca, or, in chaldan, thalatth (apparently a mistake for
+thauatth, i.e. tiawath), whose name was equivalent to the greek
+thalassa, the sea. it was she who had in her charge all the strange
+creatures then existing. at this period, belus (bel-merodach) came,
+and cut the woman asunder, forming out of one half the earth, and of
+the other the heavens, at the same time destroying all the creatures
+which were within her--all this being an allegory, for the whole
+universe consists of moisture, and creatures are constantly generated
+therein. the deity then cut off his own head, and the other gods mixed
+the blood, as it gushed out, with the earth, and from this men were
+formed. hence it is that men are rational, and partake of divine
+knowledge.
+
+
+                          a second creation.
+
+this belsus, "who is called zeus," divided the darkness, separated the
+heavens from the earth, and reduced the universe to order. the animals
+which had been created, however, not being able to bear the light,
+died. belus then, seeing the void thus made, ordered one of the gods
+to take off his head, and mix the blood with the soil, forming other
+men and animals which should be able to bear the light. he also formed
+the stars, the sun, the moon, and the five planets. it would thus seem
+that there were two creations, the first having been a failure because
+belus had not foreseen that it was needful to produce beings which
+should be able to bear the light. whether this repetition was really
+in the babylonian legend, or whether berosus (or those who quote him)
+has merely inserted and united two varying accounts, will only be
+known when the cuneiform text is completed.
+
+
+                        the concluding tablet.
+
+the tablet of the fifty-one names completes the record of the tablets
+found at nineveh and babylon. in this merodach receives the titles of
+all the other gods, thus identifying him with them, and leading to
+that tendency to monotheism of which something will be said later on.
+in this text, which is written, like the rest of the legend, in
+poetical form, merodach is repeatedly called /tutu/, a mystic word
+meaning "creator," and "begetter," from the reduplicate root /tu/ or
+/utu/--which was to all appearances his name when it was desired to
+refer to him especially in that character. noteworthy in this portion
+is the reference to merodach's creation of mankind:--
+
+line 25. "tuto: aga-azaga (the glorious crown)--may he make the crowns
+         glorious.
+     26. the lord of the glorious incantation bringing the dead to
+         life;
+     27. he who had mercy on the gods who had been overpowered;
+     28. made heavy the yoke which he had laid on the gods who were
+         his enemies,
+     29. (and) to redeem(?) them, created mankind.
+     30. 'the merciful one,' 'he with whom is salvation,'
+     31. may his word be established, and not forgotten,
+     32. in the mouth of the black-headed ones[1] whom his hands have
+         made."
+
+[1] i.e. mankind.
+
+
+                          man the redeemer.
+
+the phrase "to redeem them" is, in the original, /ana padi-sunu/, the
+verb being from /padu/, "to spare," "set free," and if this rendering
+be correct, as seems probable, the babylonian reasons for the creation
+of mankind would be, that they might carry on the service and worship
+of the gods, and by their righteousness redeem those enemies of the
+gods who were undergoing punishment for their hostility. whether by
+this tiawath, apsu, mummu, kingu, and the monsters whom she had
+created were included, or only the gods of heaven who had joined her,
+the record does not say. naturally, this doctrine depends entirely
+upon the correctness of the translation of the words quoted. jensen,
+who first proposed this rendering, makes no attempt to explain it, and
+simply asks: "does 'them' in 'to redeem(?) them' refer to the gods
+named in line 28 or to mankind and then to a future--how
+meant?--redemption? eschatology? zimmern's 'in their place' unprovable.
+delitzsch refrains from an explanation."
+
+
+     the bilingual account of the creation. aruru aids merodach.
+
+whilst dealing with this part of the religious beliefs of the
+babylonians, a few words are needed concerning the creation-story
+which is prefixed to an incantation used in a purification ceremony.
+the original text is sumerian (dialectic), and is provided with a
+semitic translation. in this inscription, after stating that nothing
+(in the beginning) existed, and even the great cities and temples of
+babylonia were as yet unbuilt, the condition of the world is briefly
+indicated by the statement that "all the lands were sea." the renowned
+cities of babylonia seem to have been regarded as being as much
+creations of merodach as the world and its inhabitants--indeed, it is
+apparently for the glorification of those cities by attributing their
+origin to merodach, that the bilingual account of the creation was
+composed.. "when within the sea there was a stream"--that is, when the
+veins of tiawath had been cut through--eridu (probably = paradise) and
+the temple e-sagila within the abyss were constructed, and after that
+babylon and the earthly temple of e-sagila within it. then he made the
+gods and the annunnaki (the gods of the earth), proclaimed a glorious
+city as the seat of the joy of their hearts, and afterwards made a
+pleasant place in which the gods might dwell. the creation of mankind
+followed, in which merodach was aided by the goddess aruru, who made
+mankind's seed. finally, plants, trees, and the animals, were
+produced, after which merodach constructed bricks, beams, houses, and
+cities, including niffer and erech with their renowned temples.
+
+we see here a change in the teaching with regard to merodach--the gods
+are no longer spoken of as "his fathers," but he is the creator of the
+gods, as well as of mankind.
+
+
+            the order of the gods in the principal lists.
+
+it is unfortunate that no lists of gods have been found in a
+sufficiently complete state to allow of the scheme after which they
+were drawn up to be determined without uncertainty. it may,
+nevertheless, be regarded as probable that these lists, at least in
+some cases, are arranged in conformity (to a certain extent) with the
+appearance of the deities in the so-called creation-story. some of
+them begin with anu, and give him various names, among them being
+ansar and kisar, lahmu and lahame, etc. more specially interesting,
+however, is a well-known trilingual list of gods, which contains the
+names of the various deities in the following order:--
+
+                  extracts from the trilingual list
+                              /obverse/
+
+     sumer. dialect      sumer. standard     common              explanation
+                                            (semit. or sumer.)
+
+  1. dimmer              dingir              ilu                 god.
+  2. u-ki                en-ki               e-a                 ea or aa.
+  3. gasan(?)-ki         nin-ki              dawkina             dauke, the consort of ea.
+  4. mu-ul-lil           en-lil-la           bel                 the god bel.
+  5. e-lum               a-lim               bel
+  6. gasan(?)-lil        nin-lil-la          dam-bi sal          bel's consort.
+  7. u-lu-a              ni-rig              enu-restu           the god of niffer.
+  8. u-lib-a             ni-rig              enu-restu
+
+ 9-12 have enu-restu's consort, sister, and attendant.
+
+ 13. u-sab-sib           en-sag-duga         nusku               nusku
+
+ 14-19 have two other names of nusku, followed by three names of his
+    consort. a number of names of minor divinities then follow. at
+    line 43 five names of ea are given, followed by four of
+    merodach:--
+
+ 48. u-bi-lu-lu          en-bi-lu-lu         marduk              merodach
+ 49. u-tin-dir ki        en-tin-dir ki       marduk              merodach as "lord of babylon."
+ 50. u-dimmer-an-kia     en-dinger-an-kia    marduk              merodach as "lord god of heaven and earth."
+ 51. u-ab-sar-u          en-ab-sar-u         marduk              merodach, apparently as "lord of the 36,000 steers."
+ 52. u-bar-gi-si         nin-bar-gi-si       zer-panitum         merodach's consort.
+ 53. gasan-abzu          nin-abzu            dam-bi sal          "the lady of the abyss," his consort.
+
+the remainder of the obverse is mutilated, but gave the names of nebo
+in sumerian, and apparently also of tasmetum, his consort. the
+beginning of the reverse also is mutilated, but seems to have given
+the names of the sun-god, samas, and his consort, followed by those of
+kittu and mesarum, "justice and righteousness," his attendants. other
+interesting names are:
+
+                              /reverse/
+
+  8. u-libir-si          en-ubar-si          dumu-zi             tammuz
+  9. sir-tumu            sir-du              ama dumuzi-gi       the mother of tammuz
+ 12. gasan-anna          innanna             istar               istar (venus) as "lady of heaven."
+ 20.                     nin-si-anna         innanna mul         istar the star (the planet venus).
+ 21. nin                 nin-tag-taga        nanaa               a goddess identified with istar.
+ 23. u-sah               nina-sah            pap-sukal           the gods' messenger.
+ 24. u-banda             lugal-banda         lugal-banda
+ 26. u-mersi             nin-girsu           nin-girsu           the chief god of lagas.
+ 27. ma-sib-sib          ga-tum-duga         bau                 bau, a goddess identified with gula.
+
+four non-semitic names of gula follow, of which that in line 31 is the
+most interesting:--
+
+ 31. gasan-ti-dibba      nin-tin-guua        gula                "the lady saving from death."
+ 33. gasan-ki-gal        eres-ki-gala        allatu              persephone.
+ 36. u-mu-zi-da          nin-gis-zi-da       nin-gis-zida        "the lord of the everlasting tree."
+ 37. u-urugal            ne-eri-gal          nerigal             nergal.
+ 42. mulu-hursag         galu-hursag         amurru              the amorite god.
+ 43. gasan-gu-edina      nin-gu-edina                            (apparently the consort of amurru).
+
+in all probability this list is one of comparatively late date, though
+its chronological position with regard to the others is wholly
+uncertain--it may not be later, and may even be earlier, than those
+beginning with anu, the god of the heavens. the important thing about
+it is, that it begins with /ilu/, god, in general, which is written,
+in the standard dialect (that of the second column) with the same
+character as that used for the name of anu. after this comes aa or ea,
+the god of the earth, and his consort, followed by en-lilla, the older
+bel--illinos in damascius. the name of ea is repeated again in line 43
+and following, where he is apparently re-introduced as the father of
+merodach, whose names immediately follow. this peculiarity is also
+found in other lists of gods and is undoubtedly a reflection of the
+history of the babylonian religion. as this list replaces anu by
+/ilu/, it indicates the rule of enki or ea, followed by that of
+merodach, who, as has been shown, became the chief divinity of the
+babylonian pantheon in consequence of babylon having become the
+capital of the country.
+
+
+
+                              chapter iv
+
+         the principal gods of the babylonians and assyrians
+
+
+                                 anu.
+
+the name of this divinity is derived from the sumero-akkadian /ana/,
+"heaven," of which he was the principal deity. he is called the father
+of the great gods, though, in the creation-story, he seems to be
+described as the son of ansar and kisar. in early names he is
+described as the father, creator, and god, probably meaning the
+supreme being. his consort was anatu, and the pair are regarded in the
+lists as the same as the lahmu and lahame of the creation-story, who,
+with other deities, are also described as gods of the heavens. anu was
+worshipped at erech, along with istar.
+
+
+                                 ea.
+
+is given as if it were the /semitic/ equivalent of /enki/, "the lord
+of the earth," but it would seem to be really a sumerian word, later
+written /ae/, and certain inscriptions suggest that the true reading
+was /aa/. his titles are "king of the abyss, creator of everything,
+lord of all," the first being seemingly due to the fact that aa is a
+word which may, in its reduplicate form, mean "waters," or if read
+/ea/, "house of water." he also, like anu, is called "father of the
+gods." as this god was likewise "lord of deep wisdom," it was to him
+that his son merodach went for advice whenever he was in doubt. on
+account of his knowledge, he was the god of artisans in general--potters,
+blacksmiths, sailors, builders, stone-cutters, gardeners,
+seers, barbers, farmers, etc. this is the aos (a form which confirms
+the reading aa) of damascius, and the oannes of the extracts from
+berosus, who states that he was "a creature endowed with reason, with
+a body like that of a fish, and under the fish's head another head,
+with feet below, like those of a man, with a fish's tail." this
+description applies fairly well to certain bas-reliefs from nimroud in
+the british museum. the creature described by berosus lived in the
+persian gulf, landing during the day to teach the inhabitants the
+building of houses and temples, the cultivation of useful plants, the
+gathering of fruits, and also geometry, law, and letters. from him,
+too, came the account of the beginning of things referred to in
+chapter iii. which, in the original greek, is preceded by a
+description of the composite monsters said to have existed before
+merodach assumed the rule of the universe.
+
+the name of his consort, damkina or dawkina, probably means "the
+eternal spouse," and her other names, /gasan-ki/ (sumerian dialectic)
+and /nin-ki/ (non-dialectic), "lady of the earth," sufficiently
+indicates her province. she is often mentioned in the incantations
+with ea.
+
+the forsaking of the worship of ea as chief god for that of merodach
+seems to have caused considerable heartburning in babylonia, if we may
+judge from the story of the flood, for it was on account of his
+faithfulness that utnipistim, the babylonian noah, attained to
+salvation from the flood and immortality afterwards. all through this
+adventure it was the god ea who favoured him, and afterwards gave him
+immortality like that of the gods. there is an interesting sumerian
+text in which the ship of ea seems to be described, the woods of which
+its various parts were formed being named, and in it, apparently, were
+enki (ea), damgal-nunna (damkina), his consort, asari-lu-duga
+(merodach), in-ab (or ines), the pilot of eridu (ea's city), and
+nin-igi-nagar-sir, "the great architect of heaven":--
+
+  "may the ship before thee bring fertility,
+  may the ship after thee bring joy,
+  in thy heart may it make joy of heart . . . ."
+
+ea was the god of fertility, hence this ending to the poetical
+description of the ship of ea.
+
+
+                                 bel.
+
+the deity who is mentioned next in order in the list given above is
+the "older bel," so called to distinguish him from bel-merodach. his
+principal names were /mullil/ (dialectic) or /en-lilla/[1] (standard
+speech), the /illinos/ of damascius. his name is generally translated
+"lord of mist," so-called as god of the underworld, his consort being
+/gasan-lil/ or /nan-lilla/, "the lady of the mist," in semitic
+babylonian /beltu/, "the lady," par excellence. bel, whose name means
+"the lord," was so called because he was regarded as chief of the
+gods. as there was considerable confusion in consequence of the title
+bel having been given to merodach, tiglath-pileser i. (about 1200
+b.c.) refers to him as the "older bel" in describing the temple which
+he built for him at assur. numerous names of men compounded with his
+occur until the latest times, implying that, though the favourite god
+was merodach, the worship of bel was not forgotten, even at babylon--that
+he should have been adored at his own city, niffur, and at
+dur-kuri-galzu, where kuri-galzu i. built a temple for "bel, the lord of
+the lands," was naturally to be expected. being, like ea, a god of the
+earth, he is regarded as having formed a trinity with anu, the god of
+heaven, and ea, the god of the deep, and prayer to these three was as
+good as invoking all the gods of the universe. classification of the
+gods according to the domain of their power would naturally take place
+in a religious system in which they were all identified with each
+other, and this classification indicates, as jastrow says, a deep
+knowledge of the powers of nature, and a more than average
+intelligence among the babylonians--indeed, he holds it as a proof
+that, at the period of the older empire, there were schools and
+students who had devoted themselves to religious speculation upon this
+point. he also conjectures that the third commandment of the law of
+moses was directed against this doctrine held by the babylonians.
+
+[1] ordinarily pronounced /illila/, as certain glosses and damascius's
+    /illinos/ (for /illilos/) show.
+
+
+                               beltis.
+
+this goddess was properly only the spouse of the older bel, but as
+/beltu/, her babylonian name, simply meant "lady" in general (just as
+/bel/ or /belu/ meant "lord"), it became a title which could be given
+to any goddess, and was in fact borne by zer-panitum, istar, nanaa,
+and others. it was therefore often needful to add the name of the city
+over which the special /beltu/ presided, in order to make clear which
+of them was meant. besides being the title of the spouse of the older
+bel, having her earthly seat with him in niffur and other less
+important shrines, the assyrians sometimes name beltu the spouse of
+assur, their national god, suggesting an identification, in the minds
+of the priests, with that deity.
+
+
+                        enu-restu or nirig.[1]
+
+whether /enu-restu/ be a translation of /nirig/ or not, is uncertain,
+but not improbable, the meaning being "primeval lord," or something
+similar, and "lord" that of the first element, /ni/, in the sumerian
+form. in support of this reading and rendering may be quoted the fact,
+that one of the descriptions of this divinity is /assarid ilani
+ahe-su/, "the eldest of the gods his brothers." it is noteworthy that
+this deity was a special favourite among the assyrians, many of whose
+kings, to say nothing of private persons, bore his name as a component
+part of theirs. in the bilingual poem entitled /ana-kime gimma/
+("formed like anu"), he is described as being the son of bel (hence
+his appearance after bel in the list printed above), and in the
+likeness of anu, for which reason, perhaps, his divinity is called
+"anuship." beginning with words praising him, it seems to refer to his
+attitude towards the gods of hostile lands, against whom, apparently,
+he rode in a chariot of the sacred lapis-lazuli. anu having endowed
+him with terrible glory, the gods of the earth feared to attack him,
+and his onrush was as that of a storm-flood. by the command of bel,
+his course was directed towards e-kur, the temple of bel at niffur.
+here he was met by nusku, the supreme messenger of bel, who, with
+words of respect and of praise, asks him not to disturb the god bel,
+his father, in his seat, nor make the gods of the earth tremble in
+upsukennaku (the heavenly festival-hall of the gods), and offers him a
+gift.[2] it will thus be seen that enu-restu was a rival to the older
+bel, whose temple was the great tower in stages called e-kura, in
+which, in all probability, e-su-me-du, the shrine of enu-restu, was
+likewise situated. the inscriptions call him "god of war," though,
+unlike nergal, he was not at the same time god of disease and
+pestilence. to all appearance he was the god of the various kinds of
+stones, of which another legend states that he "determined their
+fate." he was "the hero, whose net overthrows the enemy, who summons
+his army to plunder the hostile land, the royal son who caused his
+father to bow down to him from afar." "the son who sat not with the
+nurse, and eschewed(?) the strength of milk," "the offspring who did
+not know his father." "he rode over the mountains and scattered
+seed--unanimously the plants proclaimed his name to their dominion,
+among them like a great wild bull he raises his horns."
+
+[1] /enu-restu/ is the reading which i have adopted as the semitic
+    babylonian equivalent of the name of this divinity, in consequence
+    of the aramaic transcription given by certain contract-tablets
+    discovered by the american expedition to niffer, and published by
+    prof. clay of philadelphia.
+
+[2] the result of this request is not known, in consequence of the
+    defective state of the tablets.
+
+many other interesting descriptions of the deity nirig (generally read
+nin-ip) occur, and show, with those quoted here, that his story was
+one of more than ordinary interest.
+
+
+                                nusku.
+
+this deity was especially invoked by the assyrian kings, but was in no
+wise exclusively assyrian, as is shown by the fact that his name
+occurs in many babylonian inscriptions. he was the great messenger of
+the gods, and is variously given as "the offspring of the abyss, the
+creation of ea," and "the likeness of his father, the first-born of
+bel." as gibil, the fire-god, has likewise the same diverse parentage,
+it is regarded as likely that these two gods were identical. nusku was
+the god whose command is supreme, the counsellor of the great gods,
+the protector of the igigi (the gods of the heavens), the great and
+powerful one, the glorious day, the burning one, the founder of
+cities, the renewer of sanctuaries, the provider of feasts for all the
+igigi, without whom no feast took place in e-kura. like nebo, he bore
+the glorious spectre, and it was said of him that he attacked mightily
+in battle. without him the sun-god, the judge, could not give
+judgment.
+
+all this points to the probability, that nusku may not have been the
+fire-god, but the brother of the fire-god, i.e. either flame, or the
+light of fire. the sun-god, without light, could not see, and
+therefore could not give judgment: no feast could be prepared without
+fire and its flame. as the evidence of the presence of the shining
+orbs in the heavens--the light of their fires--he was the messenger of
+the gods, and was honoured accordingly. from this idea, too, he became
+their messenger in general, especially of bel-merodach, the younger
+bel, whose requests he carried to the god ea in the deep. in one
+inscription he is identified with nirig or enu-restu, who is described
+above.
+
+
+                              merodach.
+
+concerning this god, and how he arose to the position of king of all
+the gods of heaven, has been fully shown in chapter iii. though there
+is but little in his attributes to indicate any connection with samas,
+there is hardly any doubt that he was originally a sun-god, as is
+shown by the etymology of his name. the form, as it has been handed
+down to us, is somewhat shortened, the original pronunciation having
+been /amar-uduk/, "the young steer of day," a name which suggests that
+he was the morning sun. of the four names given at the end of chapter
+iii., two--"lord of babylon," and "lord god of heaven and earth,"--may
+be regarded as expressing his more well-known attributes. /en-ab-sar-u/,
+however, is a provisional, though not impossible, reading and
+rendering, and if correct, the "36,000 wild bulls" would be a
+metaphorical way of speaking of "the 36,000 heroes," probably meaning
+the gods of heaven in all their grades. the signification of
+/en-bilulu/ is unknown. like most of the other gods of the babylonian
+pantheon, however, merodach had many other names, among which may be
+mentioned /asari/, which has been compared with the egyptian osiris,
+/asari-lu-duga/, "/asari/ who is good," compared with osiris unnefer;
+/namtila/, "life", /tutu/, "begetter (of the gods), renewer (of the
+gods)," /sar-azaga/, "the glorious incantation," /mu-azaga/, "the
+glorious charm," and many others. the last two refer to his being the
+god who, by his kindness, obtained from his father ea, dwelling in the
+abyss, those charms and incantations which benefited mankind, and
+restored the sick to health. in this connection, a frequent title
+given to him is "the merciful one," but most merciful was he in that
+he spared the lives of the gods who, having sided with taiwath, were
+his enemies, as is related in the tablet of the fifty-one names. in
+connection with the fight he bore also the names, "annihilator of the
+enemy," "rooter out of all evil," "troubler of the evil ones," "life
+of the whole of the gods." from these names it is clear that merodach,
+in defeating tiawath, annihilated, at the same time, the spirit of
+evil, satan, the accuser, of which she was, probably, the babylonian
+type. but unlike the saviour in the christian creed, he saved not only
+man, at that time uncreated, but the gods of heaven also. as "king of
+the heavens," he was identified with the largest of the planets,
+jupiter, as well as with other heavenly bodies. traversing the sky in
+great zigzags, jupiter seemed to the babylonians to superintend the
+stars, and this was regarded as emblematic of merodach shepherding
+them--"pasturing the gods like sheep," as the tablet has it.
+
+a long list of gods gives as it were the court of merodach, held in
+what was apparently a heavenly /e-sagila/, and among the spiritual
+beings mentioned are /mina-ikul-beli/ and /mina-isti-beli/, "what my
+lord has eaten," and "what has my lord drunk," /nadin-me-gati/, "he
+who gives water for the hands," also the two door-keepers, and the
+four dogs of merodach, wherein people are inclined to see the four
+satellites of jupiter, which, it is thought, were probably visible to
+certain of the more sharp-sighted stargazers of ancient babylonia.
+these dogs were called /ukkumu/, /akkulu/, /ikssuda/, and /iltebu/,
+"seizer," "eater," "grasper," and "holder." images of these beings
+were probably kept in the temple of e-sagila at babylon.
+
+
+                             zer-panitum.
+
+this was the name of the consort of merodach, and is generally read
+sarp(b)anitum--a transcription which is against the native orthography
+and etymology, namely, "seed-creatress" (zer-banitum). the meaning
+attributed to this word is partly confirmed by another name which
+lehmann has pointed out that she possessed, namely, /erua/ or /aru'a/,
+who, in an inscription of antiochus soter (280-260 b.c.) is called
+"the queen who produces birth," but more especially by the
+circumstance, that she must be identical with aruru, who created the
+seed of mankind along with merodach. why she was called "the lady of
+the abyss," and elsewhere "the voice of the abyss" (/me-abzu/) is not
+known. zer-panitum was no mere reflection of merodach, but one of the
+most important goddesses in the babylonian pantheon. the tendency of
+scholars has been to identify her with the moon, merodach being a
+solar deity and the meaning "silvery"--/sarpanitum/, from /sarpu/, one
+of the words for "silver," was regarded as supporting this idea. she
+was identified with the elamite goddess named elagu, and with the
+lahamum of the island of bahrein, the babylonian tilmun.
+
+
+                          nebo and tasmetum.
+
+as "the teacher" and "the hearer" these were among the most popular of
+the deities of babylonia and assyria. nebo (in semitic babylonian
+nabu) was worshipped at the temple-tower known as e-zida, "the
+ever-lasting house," at borsippa, now the birs nimroud, traditionally
+regarded as the site of the tower of babel, though that title, as has
+already been shown, would best suit the similar structure known as
+e-sagila, "the house of the high head," in babylon itself. in
+composition with men's names, this deity occurs more than any other,
+even including merodach himself--a clear indication of the estimation
+in which the babylonians and assyrians held the possession of
+knowledge. the character with which his name is written means, with
+the pronunciation of /ak/, "to make," "to create," "to receive," "to
+proclaim," and with the pronunciation of /me/, "to be wise," "wisdom,"
+"open of ear," "broad of ear," and "to make, of a house," the last
+probably referring to the design rather than to the actual building.
+under the name of /dim-sara/ he was "the creator of the writing of the
+scribes," as /ni-zu/, "the god who knows" (/zu/, "to know"), as
+/mermer/, "the speeder(?) of the command of the gods"--on the sumerian
+side indicating some connection with addu or rimmon, the thunderer,
+and on the semitic side with enu-restu, who was one of the gods'
+messengers. a small fragment in the british museum gave his attributes
+as god of the various cities of babylonia, but unfortunately their
+names are lost or incomplete. from what remains, however, we see that
+nebo was god of ditching(?), commerce(?), granaries(?), fasting(?),
+and food; it was he who overthrew the land of the enemy, and who
+protected planting; and, lastly, he was god of borsippa.
+
+the worship of nebo was not always as popular as it became in the
+later days of the babylonian empire and after its fall, and jastrow is
+of opinion that hammurabi intentionally ignored this deity, giving the
+preference to merodach, though he did not suppress the worship. why
+this should have taken place is not by any means certain, for nebo was
+a deity adored far and wide, as may be gathered from the fact that
+there was a mountain bearing his name in moab, upon which moses--also
+an "announcer," adds jastrow--died. besides the mountain, there was a
+city in moab so named, and another in juda. that it was the
+babylonian nebo originally is implied by the form--the hebrew
+corresponding word is /nabi/.
+
+how old the worship of tasmetum, his consort, is, is doubtful, but her
+name first occurs in a date of the reign of hammurabi. details
+concerning her attributes are rare, and jastrow regards this goddess
+as the result of babylonian religious speculations. it is noteworthy
+that her worship appears more especially in later times, but it may be
+doubted whether it is a product of those late times, especially when
+we bear in mind the remarkable seal-impression on an early tablet of
+3500-4500 b.c., belonging to lord amherst of hackney, in which we see
+a male figure with wide-open mouth seizing a stag by his horns, and a
+female figure with no mouth at all, but with very prominent ears,
+holding a bull in a similar manner. here we have the "teacher" and the
+"hearer" personified in a very remarkable manner, and it may well be
+that this primitive picture shows the idea then prevailing with regard
+to these two deities. it is to be noted that the name of tasmetum has
+a sumerian equivalent, namely, /kurnun/, and that the ideograph by
+which it is represented is one whose general meaning seems to be "to
+bind," perhaps with the additional signification of "to accomplish,"
+in which case "she who hears" would also be "she who obeys."
+
+
+                        samas and his consort.
+
+at all times the worship of the sun in babylonia and assyria was
+exceedingly popular, as, indeed, was to be expected from his
+importance as the greatest of the heavenly bodies and the brightest,
+without whose help men could not live, and it is an exceedingly
+noteworthy fact that this deity did not become, like ra in egypt, the
+head of the pantheon. this place was reserved for merodach, also a
+sun-god, but possessing attributes of a far wider scope. samas is
+mentioned as early as the reign of e-anna-tum, whose date is set at
+about 4200 b.c., and at this period his semitic name does not,
+naturally, occur, the character used being /utu/, or, in its longer
+form, /utuki/.
+
+it is worthy of note that, in consequence of the babylonian idea of
+evolution in the creation of the world, less perfect beings brought
+forth those which were more perfect, and the sun was therefore the
+offspring of nannara or sin, the moon. in accordance with the same
+idea, the day, with the semites, began with the evening, the time when
+the moon became visible, and thus becomes the offspring of the night.
+in the inscriptions samas is described as "the light of things above
+and things below, the illuminator of the regions," "the supreme judge
+of heaven and earth," "the lord of living creatures, the gracious one
+of the lands." dawning in the foundation of the sky, he opened the
+locks and threw wide the gates of the high heavens, and raised his
+head, covering heaven and earth with his splendour. he was the
+constantly righteous in heaven, the truth within the ears of the
+lands, the god knowing justice and injustice, righteousness he
+supported upon his shoulders, unrighteousness he burst asunder like a
+leather bond, etc. it will thus be seen, that the sun-god was the
+great god of judgment and justice--indeed, he is constantly alluded to
+as "the judge," the reason in all probability being, that as the sun
+shines upon the earth all day long, and his light penetrates
+everywhere, he was regarded as the god who knew and investigated
+everything, and was therefore best in a position to judge aright, and
+deliver a just decision. it is for this reason that his image appears
+at the head of the stele inscribed with hammurabi's laws, and legal
+ceremonies were performed within the precincts of his temples. the
+chief seats of his worship were the great temples called e-babbara,
+"the house of great light," in the cities of larsa and sippar.
+
+the consort of samas was aa, whose chief seat was at sippar, side by
+side with samas. though only a weak reflex of the sun-god, her worship
+was exceedingly ancient, being mentioned in an inscription of
+man-istusu, who is regarded as having reigned before sargon of agade.
+from the fact that, in one of the lists, she has names formed by
+reduplicating the name of the sun-god, /utu/, she would seem once to
+have been identical with him, in which case it may be supposed that
+she personified the setting sun--"the double sun" from the magnified
+disc which he presents at sunset, when, according to a hymn to the
+setting sun sung at the temple at borsippa, aa, in the sumerian line
+kur-nirda, was accustomed to go to receive him. according to the list
+referred to above, aa, with the name of burida in sumerian, was more
+especially the consort of sa-zu, "him who knows the heart," one of the
+names of merodach, who was probably the morning sun, and therefore the
+exact counterpart of the sun at evening.
+
+besides samas and utu, the latter his ordinary sumerian name, the
+sun-god had several other non-semitic names, including /gisnu/,[*] "the
+light," /ma-banda-anna/, "the bark of heaven," /u-e/, "the rising
+sun," /mitra/, apparently the persian mithra; /ume-simas/ and nahunda,
+elamite names, and sahi, the kassite name of the sun. he also
+sometimes bears the names of his attendants kittu and mesaru, "truth"
+and "righteousness," who guided him upon his path as judge of the
+earth.
+
+[*] it is the group expressing this word which is used for samas in
+    the name of samas-sum-ukin (saosduchinos), the brother of
+    assur-bani-apli (assurbanipal). the greek equivalent implies the
+    pronunciation /sawas/, as well as /samas/.
+
+
+                          tammuz and istar.
+
+the date of the rise of the myth of tammuz is uncertain, but as the
+name of this god is found on tablets of the time of lugal-anda and
+uru-ka-gina (about 3500 b.c.), it can hardly be of later date than
+4000 b.c., and may be much earlier. as he is repeatedly called "the
+shepherd," and had a domain where he pastured his flock, professor
+sayce sees in tammuz "daonus or daos, the shepherd of pantibibla,"
+who, according to berosus, ruled in babylonia for 10 /sari/, or 36,000
+years, and was the sixth king of the mythical period. according to the
+classic story, the mother of tammuz had unnatural intercourse with her
+own father, being urged thereto by aphrodite whom she had offended,
+and who had decided thus to avenge herself. being pursued by her
+father, who wished to kill her for this crime, she prayed to the gods,
+and was turned into a tree, from whose trunk adonis was afterwards
+born. aphrodite was so charmed with the infant that, placing him in a
+chest, she gave him into the care of persephone, who, however, when
+she discovered what a treasure she had in her keeping, refused to part
+with him again. zeus was appealed to, and decided that for four months
+in the year adonis should be left to himself, four should be spent
+with aphrodite, and four with persephone, and six with aphrodite on
+earth. he was afterwards slain, whilst hunting, by a wild boar.
+
+nothing has come down to us as yet concerning this legend except the
+incident of his dwelling in hades, whither istar, the babylonian
+venus, went in search of him. it is not by any means unlikely,
+however, that the whole story existed in babylonia, and thence spread
+to phnicia, and afterwards to greece. in phnicia it was adapted to
+the physical conditions of the country, and the place of tammuz's
+encounter with the boar was said to be the mountains of lebanon,
+whilst the river named after him, adonis (now the nahr ibrahim), which
+ran red with the earth washed down by the autumn rains, was said to be
+so coloured in consequence of being mingled with his blood. the
+descent of tammuz to the underworld, typified by the flowing down of
+the earth-laden waters of the rivers to the sea, was not only
+celebrated by the phnicians, but also by the babylonians, who had at
+least two series of lamentations which were used on this occasion, and
+were probably the originals of those chanted by the hebrew women in
+the time of ezekiel (about 597 b.c.). whilst on earth, he was the one
+who nourished the ewe and her lamb, the goat and her kid, and also
+caused them to be slain--probably in sacrifice. "he has gone, he has
+gone to the bosom of the earth," the mourners cried, "he will make
+plenty to overflow for the land of the dead, for its lamentations for
+the day of his fall, in the unpropitious month of his year." there was
+also lamentation for the cessation of the growth of vegetation, and
+one of these hymns, after addressing him as the shepherd and husband
+of istar, "lord of the underworld," and "lord of the shepherd's seat,"
+goes on to liken him to a germ which has not absorbed water in the
+furrow, whose bud has not blossomed in the meadow; to the sapling
+which has not been planted by the watercourse, and to the sapling
+whose root has been removed. in the "lamentations" in the manchester
+museum, istar, or one of her devotees, seems to call for tammuz,
+saying, "return, my husband," as she makes her way to the region of
+gloom in quest of him. eres-e-gala, "the lady of the great house"
+(persephone), is also referred to, and the text seems to imply that
+istar entered her domain in spite of her. in this text other names are
+given to him, namely, /tumu-giba/, "son of the flute," /ama-elaggi/,
+and /si-umunnagi/, "life of the people."
+
+the reference to sheep and goats in the british museum fragment
+recalls the fact that in an incantation for purification the person
+using it is told to get the milk of a yellow goat which has been
+brought forth in the sheep-fold of tammuz, recalling the flocks of the
+greek sun-god helios. these were the clouds illuminated by the sun,
+which were likened to sheep--indeed, one of the early sumerian
+expressions for "fleece" was "sheep of the sky." the name of tammuz in
+sumerian is dumu-zi, or in its rare fullest form, dumu-zida, meaning
+"true" or "faithful son." there is probably some legend attached to
+this which is at present unknown.
+
+in all probability istar, the spouse of tammuz, is best known from her
+descent into hades in quest of him when with persephone (eres-ki-gal)
+in the underworld. in this she had to pass through seven gates, and an
+article of clothing was taken from her at each, until she arrived in
+the underworld quite naked, typifying the teaching, that man can take
+nothing away with him when he departs this life. during her absence,
+things naturally began to go wrong upon the earth, and the gods were
+obliged to intervene, and demand her release, which was ultimately
+granted, and at each gate, as she returned, the adornments which she
+had left were given back to her. it is uncertain whether the husband
+whom she sought to release was set free, but the end of the
+inscription seems to imply that istar was successful in her mission.
+
+in this story she typifies the faithful wife, but other legends show
+another side of her character, as in that of gilgames, ruler of her
+city erech, to whom she makes love. gilgames, however, knowing the
+character of the divine queen of his city too well, reproaches her
+with her treatment of her husband and her other lovers--tammuz, to
+whom, from year to year, she caused bitter weeping; the bright
+coloured allala bird, whom she smote and broke his wings; the lion
+perfect in strength, in whom she cut wounds "by sevens"; the horse
+glorious in war, to whom she caused hardship and distress, and to his
+mother silili bitter weeping; the shepherd who provided for her things
+which she liked, whom she smote and changed to a jackal; isullanu, her
+father's gardener, whom she tried, apparently, to poison, but failing,
+she smote him, and changed him to a statue(?). on being thus reminded
+of her misdeeds, istar was naturally angry, and, ascending to heaven,
+complained to her father anu and her mother anatu, the result being,
+that a divine bull was sent against gilgames and enki-du, his friend
+and helper. the bull, however, was killed, and a portion of the animal
+having been cut off, enki-du threw it at the goddess, saying at the
+same time that, if he could only get hold of her, he would treat her
+similarly. apparently istar recognised that there was nothing further
+to be done in the matter, so, gathering the hand-maidens, pleasure-women
+and whores, in their presence she wept over the portion of the
+divine bull which had been thrown at her.
+
+the worship of istar, she being the goddess of love and war, was
+considerably more popular than that of her spouse, tammuz, who, as
+among the western semitic nations, was adored rather by the women than
+the men. her worship was in all probability of equal antiquity, and
+branched out, so to say, in several directions, as may be judged by
+her many names, each of which had a tendency to become a distinct
+personality. thus the syllabaries give the character which represents
+her name as having also been pronounced /innanna/, /ennen/, and /nin/,
+whilst a not uncommon name in other inscriptions is /ama-innanna/,
+"mother istar." the principal seat of her worship in babylonia was at
+erech, and in assyria at nineveh--also at arbela, and many other
+places. she was also honoured (at erech and elsewhere) under the
+elamite names of tispak and susinak, "the susian goddess."
+
+
+                                nina.
+
+from the name /nin/, which istar bore, there is hardly any doubt that
+she acquired the identification with nina, which is provable as early
+as the time of the lagasite kings, lugal-anda and uru-ka-gina. as
+identified with aruru, the goddess who helped merodach to create
+mankind, istar was also regarded as the mother of all, and in the
+babylonian story of the flood, she is made to say that she had
+begotten man, but like "the sons of the fishes," he filled the sea.
+nina, then, as another form of istar, was a goddess of creation,
+typified in the teeming life of the ocean, and her name is written
+with a character standing for a house or receptacle, with the sign for
+"fish" within. her earliest seat was the city of nina in southern
+babylonia, from which place, in all probability, colonists went
+northwards, and founded another shrine at nineveh in assyria, which
+afterwards became the great centre of her worship, and on this account
+the city was called after her ninaa or ninua. as their tutelary
+goddess, the fishermen in the neighbourhood of the babylonian nina and
+lagas were accustomed to make to her, as well as to innanna or istar,
+large offerings of fish.
+
+as the masculine deities had feminine forms, so it is not by any means
+improbable that the goddesses had masculine forms, and if that be the
+case, we may suppose that it was a masculine counterpart of nina who
+founded nineveh, which, as is well known, is attributed to ninos, the
+same name as nina with the greek masculine termination.
+
+
+                              nin-gursu.
+
+this deity is principally of importance in connection with the ancient
+babylonian state of lagas, the home of an old and important line of
+kings and viceroys, among the latter being the celebrated gudea, whose
+statues and inscribed cylinders now adorn the babylonian galleries of
+the louvre at paris. his name means "lord of girsu," which was
+probably one of the suburbs, and the oldest part, of lagas. this deity
+was son of en-lila or bel, and was identified with nirig or enu-restu.
+to all appearance he was a sun-deity. the dialectic form of his name
+was /u-mersi/, of which a variant, /en-mersi/, occurs in an
+incantation published in the fourth volume of the /cuneiform
+inscriptions of western asia/, pl. 27, where, for the sumerian "take a
+white kid of en-mersi," the semitic translation is "of tammuz,"
+showing that he was identified with the latter god. in the second
+volume of the same work nin-girsu is given as the pronunciation of the
+name of the god of agriculturalists, confirming this identification,
+tammuz being also god of agriculture.
+
+
+                                 bau.
+
+this goddess at all times played a prominent part in ancient
+babylonian religion, especially with the rulers before the dynasty of
+hammurabi. she was the "mother" of lagas, and her temple was at
+uru-azaga, a district of lagas, the chief city of nin-girsu, whose
+spouse she was. like nin-girsu, she planted (not only grain and
+vegetation, but also the seed of men). in her character of the goddess
+who gave life to men, and healed their bodies in sickness, she was
+identified with gula, one of those titles is "the lady saving from
+death". ga-tum-duga, whose name probably means "making and producing
+good," was also exceedingly popular in ancient times, and though
+identified with bau, is regarded by jastrow has having been originally
+distinct from her.
+
+
+                        eres-ki-gal or allatu.
+
+as the prototype of persephone, this goddess is one of much importance
+for comparative mythology, and there is a legend concerning her of
+considerable interest. the text is one of those found at tel-el-armana,
+in egypt, and states that the gods once made a feast, and sent
+to eres-ki-gal, saying that, though they could go down to her, she
+could not ascend to them, and asking her to send a messenger to fetch
+away the food destined for her. this she did, and all the gods stood
+up to receive her messenger, except one, who seems to have withheld
+this token of respect. the messenger, when he returned, apparently
+related to eres-ki-gal what had happened, and angered thereat, she
+sent him back to the presence of the gods, asking for the delinquent
+to be delivered to her, that she might kill him. the gods then
+discussed the question of death with the messenger, and told him to
+take to his mistress the god who had not stood up in his presence.
+when the gods were brought together, that the culprit might be
+recognised, one of them remained in the background, and on the
+messenger asking who it was who did not stand up, it was found to be
+nerigal. this god was duly sent, but was not at all inclined to be
+submissive, for instead of killing him, as she had threatened,
+eres-ki-gal found herself seized by the hair and dragged from her throne,
+whilst the death-dealing god made ready to cut off her head. "do not
+kill me, my brother, let me speak to thee," she cried, and on his
+loosing his hold upon her hair, she continued, "thou shalt be my
+husband, and i will be thy wife--i will cause you to take dominion in
+the wide earth. i will place the tablet of wisdom in thine hand--thou
+shalt be lord, i will be lady." nerigal thereupon took her, kissed
+her, and wiped away her tears, saying, "whatever thou hast asked me
+for months past now receives assent."
+
+eres-ki-gal did not treat her rival in the affections of tammuz so
+gently when istar descended to hades in search of the "husband of her
+youth." according to the story, not only was istar deprived of her
+garments and ornaments, but by the orders of eres-ki-gal, namtar smote
+her with disease in all her members. it was not until the gods
+intervened that istar was set free. the meaning of her name is "lady
+of the great region," a description which is supposed to apply to
+hades, and of which a variant, eres-ki-gal, "lady of the great house,"
+occurs in the hymns to tammuz in the manchester museum.
+
+
+                               nergal.
+
+this name is supposed to mean "lord of the great habitation," which
+would be a parallel to that of his spouse eres-ki-gal. he was the
+ruler of hades, and at the same time god of war and of disease and
+pestilence. as warrior, he naturally fought on the side of those who
+worshipped him, as in the phrase which describes him as "the warrior,
+the fierce storm-flood overthrowing the land of the enemy." as pointed
+out by jastrow, he differs from nirig, who was also a god of war, in
+that he symbolises, as god of disease and death, the misery and
+destruction which accompany the strife of nations. it is in
+consequence of this side of his character that he appears also as god
+of fire, the destroying element, and jensen says that nerigal was god
+of the midday or of the summer sun, and therefore of all the
+misfortunes caused by an excess of his heat.
+
+the chief centre of his worship was cuthah (/kutu/, sumerian /gudua/)
+near babylon, now represented by the mounds of tel ibrahim. the
+identity with the greek aries and the roman mars is proved by the fact
+that his planet was /mustabarru-mutanu/, "the death-spreader," which
+is probably the name of mars in semitic babylonian.
+
+
+                               amurru.
+
+although this is not by any means a frequent name among the deities
+worshipped in babylonia, it is worthy of notice on account of its
+bearing upon the date of the compilation of the tablet which has been
+taken as a basis of this list of gods. he was known as "lord of the
+mountains," and his worship became very popular during the period of
+the dynasty to which hammurabi belonged--say from 2200 to 1937 b.c.,
+when amurru was much combined with the names of men, and is found both
+on tablets and cylinder-seals. the ideographic manner of writing it is
+/mar-tu/, a word that is used for /amurru/, the land of the amorites,
+which stood for the west in general. amorites had entered babylonia in
+considerable numbers during this period, so that there is but little
+doubt that his popularity was largely due to their influence, and the
+tablet containing these names was probably drawn up, or at least had
+the semitic equivalents added, towards the beginning of that period.
+
+
+                           sin or nannara.
+
+the cult of the moon-god was one of the most popular in babylonia, the
+chief seat of his worship being at uru (now muqayyar) the biblical ur
+of the chaldees. the origin of the name sin is unknown, but it is
+thought that it may be a corruption of zu-ena, "knowledge-lord," as
+the compound ideograph expressing his name may be read and translated.
+besides this compound ideograph, the name of the god sin was also
+expressed by the character for "30," provided with the prefix of
+divinity, an ideograph which is due to the thirty days of the month,
+and is thought to be of late date. with regard to nannar, jastrow
+explains it as being for narnar, and renders it "light-producer." in a
+long hymn to this god he is described in many lines as "the lord,
+prince of the gods, who in heaven alone is supreme," and as "father
+nannar." among his other descriptive titles are "great anu" (sum. /ana
+gale/, semitic bab. /anu rabu/)--another instance of the
+identification of two deities. he was also "lord of ur," "lord of the
+temple gisnu-gala," "lord of the shining crown," etc. he is also said
+to be "the mighty steer whose horns are strong, whose limbs are
+perfect, who is bearded with a beard of lapis-stone,[*] who is filled
+with beauty and fullness (of splendour)."
+
+[*] probably of the colour of lapis only, not made of the stone
+    itself.
+
+besides babylonia and assyria, he was also worshipped in other parts
+of the semitic east, especially at harran, to which city abraham
+migrated, scholars say, in consequence of the patron-deity being the
+same as at ur of the chaldees, where he had passed the earlier years
+of his life. the mountain of sinai and the desert of sin, both bear
+his name.
+
+according to king dungi (about 2700 b.c.), the spouse of sin or
+nannara was nin-uruwa, "the lady of ur." sargon of assyria (722-705
+b.c.) calls her nin-gala.
+
+
+                           addu or rammanu.
+
+the numerous names which hadad bears in the inscriptions, both
+non-semitic and semitic, testify to the popularity which this god
+enjoyed at all times in babylonia. among his non-semitic names may be
+mentioned mer, mermer, muru, all, it may be imagined, imitative. addu
+is explained as being his name in the amorite language, and a variant
+form, apparently, which has lost its first syllable, namely, dadu,
+also appears--the assyrians seem always to have used the
+terminationless form of addu, namely, adad. in all probability addu,
+adad, and dadu are derived from the west semitic hadad, but the other
+name, rammanu, is native babylonian, and cognate with rimmon, which is
+thus shown by the babylonian form to mean "the thunderer," or
+something similar. he was the god of winds, storms, and rain, feared
+on account of the former, and worshipped, and his favour sought, on
+account of the last. in his name birqu, he appears as the god of
+lightning, and jastrow is of opinion, that he is sometimes associated
+on that account with samas, both of them being (although in different
+degrees) gods of light, and this is confirmed by the fact that, in
+common with the sun-god, he was called "god of justice." in the
+assyrian inscriptions he appears as a god of war, and the kings
+constantly compare the destruction which their armies had wrought with
+that of "adad the inundator." for them he was "the mighty one,
+inundating the regions of the enemy, lands and houses," and was prayed
+to strike the land of the person who showed hostility to the assyrian
+king, with evil-working lightning, to throw want, famine, drought, and
+corpses therein, to order that he should not live one day longer, and
+to destroy his name and his seed in the land.
+
+the original seat of his worship was muru in south babylonia, to which
+the patesi of girsu in the time of ibi-sin sent grain as an offering.
+its site is unknown. other places (or are they other names of the
+same?) where he was worshipped were ennigi and kakru. the consort of
+addu was sala, whose worship was likewise very popular, and to whom
+there were temples, not only in babylonia and assyria, but also in
+elam, seemingly always in connection with addu.
+
+
+                                assur.
+
+in all the deities treated of above, we see the chief gods of the
+babylonian and assyrian pantheon, which were worshipped by both
+peoples extensively, none of them being specifically assyrian, though
+worshipped by the assyrians. there was one deity, however, whose name
+will not be found in the babylonian lists of gods, namely, assur, the
+national god of assyria, who was worshipped in the city of assur, the
+old capital of the country.
+
+from this circumstance, it may be regarded as certain, that assur was
+the local god of the city whose name he bore, and that he attained to
+the position of chief god of the assyrian pantheon in the same way as
+merodach became king of the gods in babylonia--namely, because assur
+was the capital of the country. his acceptance as chief divinity,
+however, was much more general than that of merodach, as temples to
+him were to be found all over the assyrian kingdom--a circumstance
+which was probably due to assyria being more closely united in itself
+than babylonia, causing his name to arouse patriotic feelings wherever
+it might be referred to. this was probably partly due to the fact,
+that the king in assyria was more the representative of the god than
+in babylonia, and that the god followed him on warlike expeditions,
+and when engaged in religious ceremonies--indeed, it is not by any
+means improbable that he was thought to follow him wherever he went.
+on the sculptures he is seen accompanying him in the form of a circle
+provided with wings, in which is shown sometimes a full-length figure
+of the god in human form, sometimes the upper part only, facing
+towards and drawing his bow against the foe. in consequence of its
+general appearance, the image of the god has been likened to the sun
+in eclipse, the far-stretching wings being thought to resemble the
+long streamers visible at the moment of totality, and it must be
+admitted as probable that this may have given the idea of the symbol
+shown on the sculptures. as a sun-god, and at the same time not the
+god samas, he resembled the babylonian merodach, and was possibly
+identified with him, especially as, in at least one text, beltu
+(beltis) is described as his consort, which would possibly identify
+assur's spouse with zer-panitum. the original form of his name would
+seem to have been ausar, "water-field," probably from the tract where
+the city of assur was built. his identification with merodach, if that
+was ever accepted, may have been due to the likeness of the word to
+asari, one of that deity's names. the pronunciation assur, however,
+seems to have led to a comparison with the ansar of the first tablet
+of the creation-story, though it may seem strange that the assyrians
+should have thought that their patron-god was a deity symbolising the
+"host of heaven." nevertheless, the greek transcription of ansar,
+namely, /assoros/, given by damascius, certainly strengthens the
+indications of the ideograph in this matter. delitzsch regards the
+word assur, or asur, as he reads it, as meaning "holy," and quotes a
+list of the gods of the city of nineveh, where the word assur occurs
+three times, suggesting the exclamation "holy, holy, holy," or "the
+holy, holy, holy one." in all probability, however, the repetition of
+the name three times simply means that there were three temples
+dedicated to assur in the cities in question.[*] jastrow agrees with
+delitzsch in regarding asur as another form of asir (found in early
+cappadocian names), but he translates it rather as "overseer" or
+"guardian" of the land and the people--the terminationless form of
+/asiru/, which has this meaning, and is applied to merodach.
+
+[*] or there may have been three shrines to assur in each temple
+    referred to.
+
+as the use of the characters /an-sar/ for the god assur only appears
+at a late date (jastrow says the eighth century b.c.), this would seem
+to have been the work of the scribes, who wished to read into the name
+the earlier signification of ansar, "the host of heaven," an
+explanation fully in accord with jastrow's reasonings with regard to
+the nature of the deity. as he represented no personification or power
+of nature, he says, but the general protecting spirit of the land, the
+king, the army, and the people, the capital of the country could be
+transferred from assur to calah, from there back to assur, and finally
+to nineveh, without affecting the position of the protecting god of
+the land in any way. he needed no temple--though such things were
+erected to him--he had no need to fear that he should suffer in esteem
+by the preference for some other god. as the embodiment of the spirit
+of the assyrian people the personal side of his being remained to a
+certain extent in the background. if he was the "host of heaven," all
+the deities might be regarded as having their being in him.
+
+such was the chief deity of the assyrians--a national god, grafted on
+to, but always distinct from, the rest of the pantheon, which, as has
+been shown, was of babylonian origin, and always maintained the
+characteristics and stamp of its origin.
+
+the spouse of assur does not appear in the historical texts, and her
+mention elsewhere under the title of beltu, "the lady," does not allow
+of any identification being made. in one inscription, however,
+assuritu is called the goddess, and assur the god, of the star sib-zi-anna,
+identified by jensen with regulus, which was apparently the star
+of merodach in babylonia. this, however, brings us no nearer, for
+assuritu would simply mean "the assurite (goddess)."
+
+
+                        the minor divinities.
+
+among the hundreds of names which the lists furnish, a few are worthy
+of mention, either because of more than ordinary interest, or in
+consequence of their furnishing the name of some deity, chief in its
+locality, but identified elsewhere with one of the greater gods.
+
+aa.--this may be regarded either as the god ea (though the name is
+written differently), or as the sun-god assuming the name of his
+consort; or (what is, perhaps, more probable) as a way of writing a'u
+or ya'u (the hebrew jah), without the ending of the nominative. this
+last is also found under the form /aa'u/, /ya'u/, /yau/, and /ya/.
+
+abil-addu.--this deity seems to have attained a certain popularity in
+later times, especially among immigrants from the west. as "the son of
+hadad," he was the equivalent of the syrian ben-hadad. a tablet in new
+york shows that his name was weakened in form to /ablada/.
+
+aku, the moon-god among the heavenly bodies. it is this name which is
+regarded as occurring in the name of the babylonian king eri-aku,
+"servant of the moon-god," the biblical arioch (gen. xiv.).
+
+amma-an-ki, ea or aa as lord of heaven and earth.
+
+amna.--a name only found in a syllabary, and assigned to the sun-god,
+from which it would seem that it is a form of the egyptian ammon.
+
+anunitum, the goddess of one of the two sippars, called sippar of
+anunitum, who was worshipped in the temple e-ulmas within the city of
+agade (akkad). sayce identifies, on this account, these two places as
+being the same. in a list of stars, anunitum is coupled with
+sinunutum, which are explained as (the stars of) the tigris and
+euphrates. these were probably names of venus as the morning and
+evening (or evening and morning) star.
+
+apsu.--the deep dissociated from the evil connection with tiawath, and
+regarded as "the house of deep wisdom," i.e. the home of the god ea or
+aa.
+
+aruru.--one of the deities of sippar and aruru (in the time of the
+dynasty of hammurabi called ya'ruru), of which she was the chief
+goddess. aruru was one of the names of the "lady of the gods," and
+aided merodach to make the seed of mankind.
+
+bel.--as this name means "lord," it could be applied, like the
+phnician baal, to the chief god of any city, as bel of niffur, bel of
+hursag-kalama, bel of aratta, bel of babylon, etc. this often
+indicates also the star which represented the chief god of a place.
+
+beltu.--in the same way beltu, meaning "lady," meant also the chief
+goddess of any place, as "aruru, lady of the gods of sippar of aruru,"
+"nin-mah, lady of the gods of e-mah," a celebrated temple within
+babylon, recently excavated by the germans, "nin-hur-saga, lady of the
+gods of kes," etc.
+
+bunene.--a god associated with samas and istar at sippar and
+elsewhere. he "gave" and "renewed" to his worshippers.
+
+dagan.--this deity, whose worship extends back to an exceedingly early
+date, is generally identified with the phnician dagon. hammurabi
+seems to speak of the euphrates as being "the boundary of dagan," whom
+he calls his creator. in later inscriptions the form daguna, which
+approaches nearer to the west semitic form, is found in a few personal
+names. the phnician statues of this deity showed him with the lower
+part of his body in the form of a fish (see 1 sam. v. 4). whether the
+deities clothed in a fish's skin in the nimroud gallery be dagon or
+not is uncertain--they may be intended for ea or aa, the oannes of
+berosus, who was represented in this way. probably the two deities
+were regarded as identical.
+
+damu.--a goddess regarded as equivalent to gula by the babylonians and
+assyrians. she was goddess of healing, and made one's dreams happy.
+
+dumu-zi-abzu, "tammuz of the abyss."--this was one of the six sons of
+ea or aa, according to the lists. his worship is exceedingly ancient,
+and goes back to the time of e-anna-tum of lagas (about 4000 b.c.).
+what connection, if any, he may have with tammuz, the spouse of istar,
+is unknown. jastrow apparently regards him as a distinct deity, and
+translates his name "the child of the life of the water-deep."
+
+elali.--a deity identified with the hebrew helal, the new moon. only
+found in names of the time of the hammurabi dynasty, in one of which
+he appears as "a creator."
+
+en-nugi is described as "lord of streams and canals," and "lord of the
+earth, lord of no-return." this last description, which gives the
+meaning of his name, suggests that he was one of the gods of the realm
+of eres-ki-gal, though he may have borne that name simply as god of
+streams, which always flow down, never the reverse.
+
+gibil.--one of the names of the god of fire, sometimes transcribed
+girru by assyriologists, the meaning apparently being "the fire-bearer"
+or "light-bearer." girru is another name of this deity, and
+translates an ideographic group, rendered by delitzsch "great" or
+"highest decider," suggesting the custom of trial by ordeal. he was
+identified with nirig, in semitic enu-restu.
+
+gusqi-banda or kuski-banda, one of the names of ea, probably as god of
+gold-workers.
+
+isum, "the glorious sacrificer," seemingly a name of the fire-god as a
+means whereby burnt offerings were made. nur-isum, "light of isum," is
+found as a man's name.
+
+kaawanu, the planet saturn.
+
+lagamal.--a god identified with the elamite lagamar, whose name is
+regarded as existing in chedorlaomer (cf. gen. xiv. 2). he was the
+chief god of mair, "the ship-city."
+
+lugal-amarada or lugal-marad.--this name means "king of marad," a city
+as yet unidentified. the king of this place seems to have been
+nerigal, of whom, therefore, lugal-marad is another name.
+
+lugal-banda.--this name means "the powerful king," or something
+similar, and the god bearing it is supposed to be the same as nerigal.
+his consort, however, was named nin-sun (or nin-gul).
+
+lugal-du-azaga, "the king of the glorious seat."--the founder of
+eridu, "the good city within the abyss," probably the paradise (or a
+paradise) of the world to come. as it was the aim of every good
+babylonian to dwell hereafter with the god whom he had worshipped upon
+earth, it may be conjectured that this was the paradise in the domain
+of ea or aa.
+
+mama, mami.--names of "the lady of the gods," and creatress of the
+seed of mankind, aruru. probably so called as the "mother" of all
+things. another name of this goddess is ama, "mother."
+
+mammitum, mamitum, goddess of fate.
+
+mur, one of the names of addu or rammanu (hadad or rimmon).
+
+nana or nanaa was the consort of nebo at borsippa, but appears as a
+form of istar, worshipped, with anu her father, at erech.
+
+nin-aha-kuku, a name of ea or aa and of his daughter as deity of the
+rivers, and therefore of gardens and plantations, which were watered
+by means of the small canals leading therefrom. as daughter of ea,
+this deity was also "lady of the incantation."
+
+nin-azu, the consort of eres-ki-gal, probably as "lord physician." he
+is probably to be identified with nerigal.
+
+nin-igi-nagar-si, a name somewhat more doubtful as to its reading than
+the others, designates ea or aa as "the god of the carpenter." he
+seems to have borne this as "the great constructor of heaven" or "of
+anu."
+
+nin-mah, chief goddess of the temple e-mah in babylon. probably to be
+identified with aruru, and therefore with zer-panitum.
+
+nin-sah, a deity whose name is conjectured to mean "lord of the wild
+boar." he seems to have been a god of war, and was identified with
+nirig or enu-restu and pap-sukal.
+
+nin-sirsir, ea as the god of sailors.
+
+nin-sun, as pointed out by jastrow, was probably the same as istar or
+nana of erech, where she had a shrine, with them, in e-anna, "the
+house of anu." he renders her name "the annihilating lady,"[*]
+"appropriate for the consort of a sun-god," for such he regards
+lugal-banda her spouse. king sin-gasid of erech (about 3000 b.c.) refers
+to her as his mother.
+
+[*] this is due to the second element of the name having, with another
+    pronunciation, the meaning of "to destroy."
+
+nun-urra.--ea, as the god of potters.
+
+pap-sukal.--a name of nin-sah as the "divine messenger," who is also
+described as god "of decisions." nin-sah would seem to have been one
+of the names of pap-sukal rather than the reverse.
+
+qarradu, "strong," "mighty," "brave."--this word, which was formerly
+translated "warrior," is applied to several deities, among them being
+bel, nergal, nirig (enu-restu), and samas, the sun-god.
+
+ragimu and ramimu, names of rimmon or hadad as "the thunderer." the
+second comes from the same root as rammanu (rimmon).
+
+suqamunu.--a deity regarded as "lord of watercourses," probably the
+artificial channels dug for the irrigation of fields.
+
+ura-gala, a name of nerigal.
+
+uras, a name of nirig, under which he was worshipped at dailem, near
+babylon.
+
+zagaga, dialectic zamama.--this deity, who was a god of war, was
+identified with nirig. one of this titles was /bel parakki/, "lord of
+the royal chamber," or "throne-room."
+
+zaraqu or zariqu.--as the root of this name means "to sprinkle," he
+was probably also a god of irrigation, and may have presided over
+ceremonial purification. he is mentioned in names as the "giver of
+seed" and "giver of a name" (i.e. offspring).
+
+these are only a small proportion of the names found in the
+inscriptions, but short as the list necessarily is, the nature, if not
+the full composition, of the babylonian pantheon will easily be
+estimated therefrom.
+
+it will be seen that besides the identifications of the deities of all
+the local pantheons with each other, each divinity had almost as many
+names as attributes and titles, hence their exceeding multiplicity. in
+such an extensive pantheon, many of the gods composing it necessarily
+overlap, and identification of each other, to which the faith, in its
+primitive form, was a stranger, were inevitable. the tendency to
+monotheism which this caused will be referred to later on.
+
+
+                  the gods and the heavenly bodies.
+
+it has already been pointed out that, from the evidence of the
+babylonian syllabary, the deities of the babylonians were not astral
+in their origin, the only gods certainly originating in heavenly
+bodies being the sun and the moon. this leads to the supposition that
+the babylonians, bearing these two deities in mind, may have asked
+themselves why, if these two were represented by heavenly bodies, the
+others should not be so represented also. be this as it may, the other
+deities of the pantheon were so represented, and the full planetary
+scheme, as given by a bilingual list in the british museum, was as
+follows:
+
+  aku             sin             the moon        sin
+  bisebi          samas           the sun         samas
+  dapinu          umun-sig-ea     jupiter         merodach
+  zib[*]          dele-bat        venus           istar
+  lu-lim          lu-bat-sag-us   saturn          nirig (acc. to jensen)
+  bibbu           lubat-gud       mercury         nebo
+  simutu          mustabarru      mars            nergal
+                    mutanu
+
+all the above names of planets have the prefix of divinity, but in
+other inscriptions the determinative prefix is that for "star,"
+/kakkabu/.
+
+[*] this is apparently a sumerian dialectic form, the original word
+having seemingly been zig.
+
+
+                            moon and sun.
+
+unfortunately, all the above identifications of the planets with the
+deities in the fourth column are not certain, namely, those
+corresponding with saturn, mercury, and mars. with regard to the
+others, however, there is no doubt whatever. the reason why the moon
+is placed before the sun is that the sun, as already explained, was
+regarded as his son. it was noteworthy also that the moon was
+accredited with two other offspring, namely, masu and mastu--son and
+daughter respectively. as /masu/ means "twin," these names must
+symbolise the two halves, or, as we say, "quarters" of the moon, who
+were thus regarded, in babylonian mythology, as his "twin children."
+
+
+                         jupiter and saturn.
+
+concerning jupiter, who is in the above called dapinu (semitic), and
+umun-sig-ea (sumerian), it has already been noted that he was called
+nibiru--according to jensen, merodach as he who went about among the
+stars "pasturing" them like sheep, as stated in the babylonian story
+of the creation (or bel and the dragon). this is explained by him as
+being due to the comparatively rapid and extensive path of jupiter on
+the ecliptic, and it would seem probable that the names of saturn,
+/kaawanu/ and /sag-us/ (the former, which is semitic babylonian,
+meaning "steadfast," or something similar, and the latter, in
+sumerian, "head-firm" or "steadfast"--"phlegmatic"), to all appearance
+indicate in like manner the deliberation of his movements compared
+with those of the planet dedicated to the king of the gods.
+
+
+                     venus at sunrise and sunset.
+
+a fragment of a tablet published in 1870 gives some interesting
+particulars concerning the planet venus, probably explaining some as
+yet unknown mythological story concerning her. according to this, she
+was a female at sunset, and a male at sunrise; istar of agade (akad or
+akkad) at sunrise, and istar of erech at sunset: istar of the stars at
+sunrise, and the lady of the gods at sunset.
+
+
+                      and in the various months.
+
+istar was identified with nin-si-anna in the first month of the year
+(nisan = march-april), with the star of the bow in ab (august-september),
+etc. in sebat (january-february) she was the star of the
+water-channel, iku, which was merodach's star in sivan (may-june), and
+in marcheswan her star was rabbu, which also belonged to merodach in
+the same month. it will thus be seen, that babylonian astronomy is far
+from being as clear as would be desired, but doubtless many
+difficulties will disappear when further inscriptions are available.
+
+
+                   stars identified with merodach.
+
+the same fragment gives the celestial names of merodach for every
+month of the year, from which it would appear, that the astrologers
+called him umun-sig-ea in nisan (march-april), dapinu in tammuz
+(june-july), nibiru in tisri (september-october), sarru (the star
+regulus), in tebet (december-january), etc. the first three are names
+by which the planet jupiter was known.
+
+as for the planets and stars, so also for the constellations, which
+are identified with many gods and divine beings, and probably contain
+references, in their names and descriptions, to many legends. in the
+sixth tablet of the creation-series, it is related of merodach that,
+after creating the heavens and the stations for anu, bel, and ae,
+
+  "he built firmly the stations of the great gods--
+  stars their likeness--he set up the /lumali/,
+  he designated the year, he outlined the (heavenly) forms.
+  he set for the twelve months three stars each,
+  from the day when the year begins, . . . for signs."
+
+as pointed out by mr. robert brown, jr., who has made a study of these
+things, the "three stars" for each month occur on one of the remains
+of planispheres in the british museum, and are completed by a tablet
+which gives them in list-form, in one case with explanations. until
+these are properly identified, however, it will be impossible to
+estimate their real value. the signs of the zodiac, which are given by
+another tablet, are of greater interest, as they are the originals of
+those which are in use at the present time:--
+
+  month                   sign                                equivalent
+
+  nisan (mar.-apr.)       the labourer                        the ram
+  iyyar (apr.-may)        /mulmula/ and the bull of heaven    the bull
+  sivan (may-june)        /sib-zi-anna/ and the great twins   the twins
+  tammuz (june-july)      /allul/ or /nagar/                  the crab
+  ab (july.-aug.)         the lion (or dog)                   the lion
+  elul (aug.-sep.)        the ear of corn(?)                  the ear of corn (virgo)
+  tisri (sep.-oct.)       the scales                          the scales
+  marcheswan (oct.-nov.)  the scorpion                        the scorpion
+  chisleu (nov.-dec.)     /pa-bil-sag/                        the archer
+  tebet (dec.-jan.)       /sahar-mas/, the fish-kid           the goat
+  sebat (jan.-feb.)       /gula/                              the water-bearer
+  adar (feb.-mar.)        the water channel and the tails     the fishes
+
+
+                   parallels in babylonian legends.
+
+the "bull of heaven" probably refers to some legend such as that of
+the story of gilgames in his conflict with the goddess istar when the
+divine bull was killed; /sib-zi-anna/, "the faithful shepherd of
+heaven," suggests that this constellation may refer to tammuz, the
+divine shepherd; whilst "the scorpion" reminds us of the scorpion-men
+who guarded the gate of the sun (samas), when gilgames was journeying
+to gain information concerning his friend enki-du, who had departed to
+the place of the dead. sir henry rawlinson many years ago pointed out
+that the story of the flood occupied the eleventh tablet of the
+gilgames series, corresponding with the eleventh sign of the zodiac,
+aquarius, or the water-bearer.
+
+
+                          other star-names.
+
+other names of stars or constellations include "the weapon of
+merodach's hand," probably that with which he slew the dragon of
+chaos; "the horse," which is described as "the god zu," rimmon's
+storm-bird--pegasus; "the serpent," explained as eres-ki-gal, the
+queen of hades, who would therefore seem to have been conceived in
+that form; "the scorpion," which is given as /ishara tantim/, "ishara
+of the sea," a description difficult to explain, unless it refer to
+her as the goddess of the phnician coast. many other identifications,
+exceedingly interesting, await solution.
+
+
+          how the gods were represented. on cylinder-seals.
+
+many representations of the gods occur, both on bas-reliefs,
+boundary-stones, and cylindrical and ordinary seals. unfortunately, their
+identification generally presents more or less difficulty, on account
+of the absence of indications of their identity. on a small cylinder-seal
+in the possession of the rev. dr. w. hayes ward, merodach is
+shown striding along the serpentine body of tiawath, who turns her
+head to attack him, whilst the god threatens her with a pointed weapon
+which he carries. another, published by the same scholar, shows a
+deity, whom he regards as being merodach, driven in a chariot drawn by
+a winged lion, upon whose shoulders stands a naked goddess, holding
+thunderbolts in each hand, whom he describes as zer-panitum. another
+cylinder-seal shows the corn-deity, probably nisaba, seated in
+flounced robe and horned hat, with corn-stalks springing out from his
+shoulders, and holding a twofold ear of corn in his hand, whilst an
+attendant introduces, and another with a threefold ear of corn
+follows, a man carrying a plough, apparently as an offering. on
+another, a beautiful specimen from assyria, istar is shown standing on
+an assyrian lion, which turns his head as if to caress her feet. as
+goddess of war, she is armed with bow and arrows, and her star is
+represented upon the crown of her tiara.
+
+
+                       on boundary-stones, etc.
+
+on the boundary-stones of babylonia and the royal monoliths of assyria
+the emblems of the gods are nearly always seen. most prominent are
+three horned tiaras, emblematic, probably, of merodach, anu, and bel
+(the older). a column ending in a ram's head is used for ea or ae, a
+crescent for sin or nannar, the moon-god; a disc with rays for samas,
+the sun-god; a thunderbolt for rimmon or hadad, the god of thunder,
+lightning, wind, and storms; a lamp for nusku, etc. a bird, perhaps a
+hawk, stood for utu-gisgallu, a deity whose name has been translated
+"the southern sun," and is explained in the bilingual inscriptions as
+samas, the sun-god, and nirig, one of the gods of war. the emblem of
+gal-alim, who is identified with the older bel, is a snarling dragon's
+head forming the termination of a pole, and that of dun-asaga is a
+bird's head similarly posed. on a boundary-stone of the time of
+nebuchadnezzar i., about 1120 b.c., one of the signs of the gods shows
+a horse's head in a kind of shrine, probably the emblem of rimmon's
+storm-bird, zu, the babylonian pegasus.
+
+
+                        other divine figures.
+
+one of the finest of all the representations of divinities is that of
+the "sun-god-stone," found by mr. hormuzd rassam at abu-habbah (the
+ancient sippar), which was one of the chief seats of his worship. it
+represents him, seated in his shrine, holding in his hand a staff and
+a ring, his usual emblems, typifying his position as judge of the
+world and his endless course. the position of merodach as sun-god is
+confirmed by the small lapis-lazuli relief found by the german
+expedition at the mound known as amran ibn 'ali, as he also carries a
+staff and a ring, and his robe is covered with ornamental circles,
+showing, in all probability, his solar nature. in the same place
+another small relief representing rimmon or hadad was found. his robe
+has discs emblematical of the five planets, and he holds in each hand
+a thunderbolt, one of which he is about to launch forth. merodach is
+accompanied by a large two-horned dragon, whilst hadad has a small
+winged dragon, typifying the swiftness of his course, and another
+animal, both of which he holds with cords.
+
+
+
+                              chapter v
+
+                 the demons: exorcisms and ceremonies
+
+good and evil spirits, gods and demons, were fully believed in by the
+babylonians and assyrians, and many texts referring to them exist.
+naturally it is not in some cases easy to distinguish well between the
+special functions of these supernatural appearances which they
+supposed to exist, but their nature is, in most cases, easily
+ascertained from the inscriptions.
+
+to all appearance, the babylonians imagined that spirits resided
+everywhere, and lay in wait to attack mankind, and to each class,
+apparently, a special province in bringing misfortune, or tormenting,
+or causing pain and sickness, was assigned. all the spirits, however,
+were not evil, even those whose names would suggest that their
+character was such--there were good "liers in wait," for instance, as
+well as evil ones, whose attitude towards mankind was beneficent.
+
+the /utukku/. this was a spirit which was supposed to do the will of
+anu, the god of the heavens. there was the /utukku/ of the plain, the
+mountains, the sea, and the grave.
+
+the /alu/. regarded as the demon of the storm, and possibly, in its
+origin, the same as the divine bull sent by istar to attack gilgames,
+and killed by enki-du. it spread itself over a man, overpowering him
+upon his bed, and attacking his breast.
+
+the /edimmu/. this is generally, but wrongly, read /ekimmu/, and
+translated "the seizer," from /ekemu/, "to seize." in reality,
+however, it was an ordinary spirit, and the word is used for the
+wraiths of the departed. the "evil /edimmu/" was apparently regarded
+as attacking the middle part of a man.
+
+the /gallu/. as this word is borrowed from the sumerian /galla/, which
+has a dialectic form, /mulla/, it is not improbable that it may be
+connected with the word /mula/, meaning "star," and suggesting
+something which is visible by the light it gives--possibly a
+will-o'-the-wisp,--though others are inclined to regard the word as being
+connected with /gala/, "great." in any case, its meaning seems to have
+become very similar to "evil spirit" or "devil" in general, and is an
+epithet applied by the assyrian king assur-bani-apli to te-umman, the
+elamite king against whom he fought.
+
+the /ilu limnu/, "evil god," was probably originally one of the
+deities of tiawath's brood, upon whom merodach's redemption had had no
+effect.
+
+the /rabisu/ is regarded as a spirit which lay in wait to pounce upon
+his prey.
+
+the /labartu/, in sumerian /dimme/, was a female demon. there were
+seven evil spirits of this kind, who were apparently regarded as being
+daughters of anu, the god of the heavens.
+
+the /labasu/, in sumerian /dimmea/, was apparently a spirit which
+overthrew, that being the meaning of the root from which the word
+comes.
+
+the /ahhazu/, in sumerian /dimme-kur/, was apparently so called as
+"the seizer," that being the meaning indicated by the root.
+
+the /lilu/, in sumerian /lila/, is generally regarded as "the
+night-monster," the word being referred to the semitic root /lil/ or
+/layl/, whence the hebrew /layil/, arabic /layl/, "night." its origin,
+however, is sumerian, from /lila/, regarded as meaning "mist." to the
+word /lilu/ the ancient babylonians formed a feminine, /lilithu/,
+which entered the hebrew language under the form of /lilith/, which
+was, according to the rabbins, a beautiful woman, who lay in wait for
+children by night. the /lilu/ had a companion who is called his
+handmaid or servant.
+
+the /namtaru/ was apparently the spirit of fate, and therefore of
+greater importance than those already mentioned. this being was
+regarded as the beloved son of bel, and offspring of /eres-ki-gal/ or
+persephone, and he had a spouse named /hus-bi-saga/. apparently he
+executed the instructions given him concerning the fate of men, and
+could also have power over certain of the gods.
+
+the /sedu/ were apparently deities in the form of bulls. they were
+destructive, of enormous power, and unsparing. in a good sense the
+/sedu/ was a protecting deity, guarding against hostile attacks. erech
+and the temple e-kura were protected by spirits such as these, and to
+one of them isum, "the glorious sacrificer," was likened.
+
+the /lamassu/, from the sumerian /lama/, was similar in character to
+the /sedu/, but is thought to have been of the nature of a colossus--a
+winged man-headed bull or lion. it is these creatures which the kings
+placed at the sides of the doors of their palaces, to protect the
+king's footsteps. in early babylonian times a god named lama was one
+of the most popular deities of the babylonian pantheon.
+
+
+                       a specimen incantation.
+
+numerous inscriptions, which may be regarded as dating, in their
+origin, from about the middle of the third millennium before christ,
+speak of these supernatural beings, and also of others similar. one of
+the most perfect of these inscriptions is a large bilingual tablet of
+which a duplicate written during the period of the dynasty of
+hammurabi (before 2000 b.c.) exists, and which was afterwards provided
+with a semitic babylonian translation. this inscription refers to the
+evil god, the evil /utukku/, the /utukku/ of the plain, of the
+mountain, of the sea, and of the grave; the evil /sedu/, the glorious
+/alu/, or divine bull, and the evil unsparing wind. there was also
+that which takes the form of a man, the evil face, the evil eye, the
+evil mouth, the evil tongue, the evil lip, the evil breath; also the
+afflicting /asakku/ (regarded as the demon of fever), the /asakku/
+which does not leave a man: the afflicting /namtaru/ (fate), the
+severe /namtaru/, the /namtaru/ which does not quit a man. after this
+are mentioned various diseases, bodily pains, annoyances, such as "the
+old shoe, the broken shoe-lace, the food which afflicts the body of a
+man, the food which turns in eating, the water which chokes in
+drinking," etc. other things to be exorcised included the spirit of
+death, people who had died of hunger, thirst, or in other ways; the
+handmaid of the /lilu/ who had no husband, the prince of the /lilu/
+who had no wife, whether his name had been recorded or unrecorded.
+
+the method of exorcising the demons causing all these things is
+curious. white and black yarn was spun, and fastened to the side and
+canopy of the afflicted person's bed--the white to the side and the
+top or canopy, the black to the left hand--and then, apparently, the
+following words were said:--
+
+"evil /utukku/, evil /alu/, evil /edimmu/, evil /gallu/, evil god,
+evil /rabisu/, /labartu/, /labasu/, /ahhazu/, /lilu/, /lilithu/,
+handmaid of /lilu/, sorcery, enchantment, magic, disaster, machination
+which is not good--may they not set their head to his head, their hand
+to his hand, their foot to his foot--may they not draw near. spirit of
+heaven, mayest thou exorcise, spirit of earth, mayest thou exorcise."
+
+but this was only the beginning of the real ceremony. the god
+asari-alim-nunna (merodach), "eldest son of eridu," was asked to wash
+him in pure and bright water twice seven times, and then would the evil
+lier-in-wait depart, and stand aside, and a propitious /sedu/ and a
+propitious /labartu/ reside in his body. the gates right and left
+having been thus, so to say, shut close, the evil gods, demons, and
+spirits would be unable to approach him, wherever he might be. "spirit
+of heaven, exorcise, spirit of earth, exorcise." then, after an
+invocation of eres-ki-gal and isum, the final paragraph was
+pronounced:--
+
+  "the afflicted man, by an offering of grace
+  in health like shining bronze shall be made bright.
+  as for that man,
+  samas shall give him life.
+  merodach, first-born son of the abyss,
+  it is thine to purify and glorify.
+  spirit of heaven, mayest thou exorcise, spirit of
+    earth, mayest thou exorcise."
+
+
+                        rites and ceremonies.
+
+as may be expected, the babylonians and assyrians had numerous rites
+and ceremonies, the due carrying out of which was necessary for the
+attainment of the grace demanded, or for the efficacy of the thanks
+tendered for favours received.
+
+perhaps the oldest ceremony recorded is that which ut-napistim, the
+chaldan noah, made on the /zikkurat/ or peak of the mountain after
+the coming forth from the ship which had saved him and his from the
+flood. the patriarch's description of this ceremony is short:--
+
+  "i sent forth to the four winds, i poured out a libation
+  i made an offering on the peak of the mountain:
+  seven and seven i set incense-vases there,
+  into their depths i poured cane, cedar, and scented wood(?).
+  the gods smelled a savour,
+  the gods smelled a sweet savour,
+  the gods gathered like flies over the sacrificer."
+
+following in the footsteps of their great progenitor, the babylonians
+and assyrians became a most pious race, constantly rendering to their
+gods the glory for everything which they succeeded in bringing to a
+successful issue. prayer, supplication, and self-abasement before
+their gods seem to have been with them a duty and a pleasure:--
+
+  "the time for the worship of the gods was my heart's delight,
+  the time of the offering to istar was profit and riches,"
+
+sings ludlul the sage, and all the people of his land were one with
+him in that opinion.
+
+it is noteworthy that the offering of the chaldan noah consisted of
+vegetable produce only, and there are many inscriptions referring to
+similar bloodless sacrifices, and detailing the ritual used in
+connection therewith. sacrifices of animals, however, seem to have
+been constantly made--in any case, offerings of cattle and fowl, in
+list-form, are fairly numerous. many a cylinder-seal has a
+representation of the owner bringing a young animal--a kid or a
+lamb--as an offering to the deity whom he worshipped, and in the
+inscriptions the sacrifice of animals is frequently referred to. one
+of the bilingual texts refers to the offering of a kid or some other
+young animal, apparently on behalf of a sick man. the text of this,
+where complete, runs as follows:--
+
+  "the fatling which is the 'head-raiser' of mankind--
+  he has given the fatling for his life.
+  he has given the head of the fatling for his head,
+  he has given the neck of the fatling for his neck,
+  he has given the breast of the fatling for his breast."
+
+whether human sacrifices were common or not is a doubtful point. many
+cylinder-seals exist in which the slaying of a man is depicted, and
+the french assyriologist menant was of opinion that they represented a
+human offering to the gods. hayes ward, however, is inclined to doubt
+this explanation, and more evidence would seem, therefore, to be
+needed. he is inclined to think that, in the majority of cases, the
+designs referred to show merely the victims of divine anger or
+vengeance, punished by the deity for some misdeed or sin, either
+knowingly or unknowingly committed.
+
+in the assyrian galleries of the british museum, assur-nasir-apli,
+king of assyria, is several times shown engaged in religious
+ceremonies--either worshipping before the sacred tree, or about to
+pour out, apparently, a libation to the gods before departing upon
+some expedition, and priests bringing offerings, either animal or
+vegetable, are also represented. assur-bani-apli, who is identified
+with "the great and noble asnapper," is shown, in bas-reliefs of the
+assyrian saloon, pouring out a thank-offering over the lions which he
+has killed, after his return from the hunt.
+
+
+
+                              chapter vi
+
+                   problems which the study offers
+
+
+                             monotheism.
+
+as the matter of babylonian monotheism has been publicly touched upon
+by fried. delitzsch in his "babel und bibel" lectures, a few words
+upon that important point will be regarded in all probability as
+appropriate. it has already been indicated that the giving of the
+names of "the gods his fathers" to merodach practically identified
+them with him, thus leading to a tendency to monotheism. that tendency
+is, perhaps, hinted at in a letter of assur-bani-apli to the
+babylonians, in which he frequently mentions the deity, but in doing
+so, uses either the word /ilu/, "god," merodach, the god of babylon,
+or bel, which may be regarded as one of his names. the most important
+document for this monotheistic tendency, however (confirming as it
+does the tablet of the fifty-one names), is that in which at least
+thirteen of the babylonian deities are identified with merodach, and
+that in such a way as to make them merely forms in which he manifested
+himself to men. the text of this inscription is as follows:--
+
+  ". . .            is merodach of planting.
+  lugal-aki-. . .   is merodach of the water-course.
+  nirig             is merodach of strength.
+  nergal            is merodach of war.
+  zagaga            is merodach of battle.
+  bel               is merodach of lordship and domination.
+  nebo              is merodach of trading(?).
+  sin               is merodach the illuminator of the night.
+  samas             is merodach of righteous things.
+  addu              is merodach of rain.
+  tispak            is merodach of frost(?).
+  sig               is merodach of green things(?).
+  suqamunu          is merodach of the irrigation-channel."
+
+here the text breaks off, but must have contained several more similar
+identifications, showing how at least the more thoughtful of the
+babylonians of old looked upon the host of gods whom they worshipped.
+what may be the date of this document is uncertain, but as the
+colophon seems to describe it as a copy of an older inscription, it
+may go back as far as 2000 years b.c. this is the period at which the
+name /yaum-ilu/ "jah is god," is found, together with numerous
+references to /ilu/ as the name for the one great god, and is also,
+roughly, the date of abraham, who, it may be noted, was a babylonian
+of ur of the chaldees. it will probably not be thought too venturesome
+to say that his monotheism was possibly the result of the religious
+trend of thought in his time.
+
+
+                               dualism.
+
+damascius, in his valuable account of the belief of the babylonians
+concerning the creation, states that, like the other barbarians, they
+reject the doctrine of the one origin of the universe, and constitute
+two, tauthe (tiawath) and apason (apsu). this twofold principle,
+however, is only applicable to the system in that it makes of the sea
+and the deep (for such are the meanings of the two words) two
+personages--the female and the male personifications of primval
+matter, from which all creation sprang, and which gave birth to the
+gods of heaven themselves. as far as the physical constituents of
+these two principals are concerned, their tenets might be described as
+having "materialistic monism" as their basis, but inasmuch as they
+believed that each of these two principals had a mind, the description
+"idealistic monism" cannot be applied to it--it is distinctly a
+dualism.
+
+
+                             and monism.
+
+divested of its idealistic side, however, there would seem to be no
+escape from regarding the babylonian idea of the origin of things as
+monistic.[*] this idea has its reflection, though not its
+reproduction, in the first chapter of genesis, in which, verses 2, 6,
+and 7, water is represented as the first thing existing, though not
+the first abode of life. this divergency from the babylonian view was
+inevitable with a monotheistic nation, such as the jews were,
+regarding as they did the deity as the great source of everything
+existing. what effect the moving of the spirit of god upon the face of
+the waters (v.2) was supposed by them to have had, is uncertain, but
+it is to be noted that it was the land (vv. 11, 12) which first
+brought forth, at the command of god.
+
+[*] monism. the doctrine which holds that in the universe there is
+    only a single element or principle from which everything is
+    developed, this single principle being either mind (/idealistic
+    monism/) or matter (/materialistic monism/). (annandale.)
+
+
+                           the future life.
+
+the belief in a future life is the natural outcome of a religious
+belief such as the babylonians, assyrians, and many of the surrounding
+nations possessed. as has been shown, a portion of their creed
+consisted in hero-worship, which pre-supposes that the heroes in
+question continued to exist, in a state of still greater power and
+glory, after the conclusion of their life here upon earth.
+
+"the god bel hates me--i cannot dwell in this land, and in the
+territory of bel i cannot set my face. i shall descend then to the
+abyss; with aa my lord shall i constantly dwell." it is with these
+words that, by the counsel of the god aa, ut-napistim explained to
+those who questioned him the reason why he was building the ship or
+ark which was to save him and his from the flood, and there is but
+little doubt that the author of the story implied that he announced
+thereby his approaching death, or his departure to dwell with his god
+without passing the dread portals of the great leveller. this belief
+in the life beyond the grave seems to have been that which was current
+during the final centuries of the third millennium before christ--when
+a man died, it was said that his god took him to himself, and we may
+therefore suppose, that there were as many heavens--places of
+contentment and bliss--as there were gods, and that every good man was
+regarded as going and dwelling evermore with the deity which he had
+worshipped and served faithfully during his lifetime.
+
+gilgames, the half-divine king of erech, who reigned during the
+half-mythical period, on losing his friend and counsellor, enki-du, set
+out to find him, and to bring him back, if possible, from the underworld
+where he was supposed to dwell. his death, however, had not been like
+that of an ordinary man; it was not namtaru, the spirit of fate, who
+had taken him, nor a misfortune such as befalls ordinary men, but
+nerigal's unsparing lier-in-wait--yet though nerigal was the god of
+war, enki-du had not fallen on the battlefield of men, but had been
+seized by the earth (apparently the underworld where the wicked are is
+meant) in consequence, seemingly, of some trick or trap which had been
+laid for him.
+
+the gods were therefore prayed, in turn, to bring him back, but none
+of them listened except ea, who begged him of nerigal, whereupon the
+latter opened the entrance to the place where he was--the hole of the
+earth--and brought forth "the spirit (/utukku/) of enki-du like mist."
+immediately after this come the words, "tell, my friend, tell, my
+friend--the law of the land which thou sawest, tell," and the answer,
+"i will not tell thee, friend, i will not tell thee--if i tell thee
+the law of the land which i saw, . . . sit down, weep." ultimately,
+however, the person appealed to--apparently the disembodied
+enki-du--reveals  something concerning the condition of the souls in
+the place of his sojourn after death, as follows:--
+
+  "whom thou sawest [die] the death(?) [of][*] . . . [i see]--
+  in the resting-place of . . . reposing, pure waters he drinketh.
+  whom in the battle thou sawest killed, i see--
+  his father and his mother raise his head,
+    and his wife upon [him leaneth?].
+  whose corpse thou hast seen thrown down in the plain, i see--
+  his /edimmu/ in the earth reposeth not.
+  whose /edimmu/ thou sawest without a caretaker, i see--
+  the leavings of the dish, the remains of the food,
+    which in the street is thrown, he eateth."
+
+[*] (?)"the death of the righteous," or something similar?
+
+it is naturally difficult to decide in a passage like this, the
+difference existing between a man's /utukku/ and his /edimmu/, but the
+probability is, that the former means his spiritual essence, whilst
+the latter stands for the ghostly shadow of his body, resembling in
+meaning the /ka/ of the egyptians. to all appearance the abode
+described above is not the place of the punishment of the wicked, but
+the dwelling of those accounted good, who, if lucky in the manner of
+their death, and the disposal of their bodies, enjoyed the highest
+happiness in the habitation of the blest. the other place, however, is
+otherwise described (it occurs in the account of istar's descent into
+hades, and in the seventh tablet of the gilgames series--the latter
+differing somewhat):--
+
+  "upon the land of no-return, the region of . . .,
+  [set] istar, daughter of sin, her ear.
+  the daughter of sin set then her ear . . .
+  upon the house of gloom, the seat of irkalla--[1]
+  upon the house whose entrance hath no exit,[2]
+  upon the path whose way hath no return,
+  upon the house whose enterers are deprived of light,
+  where dust is their nourishment, their food mud,
+  light they see not, in darkness they dwell,
+  clothed also, like a bird, in a dress of feathers.
+  upon the door and bolt the dust hath blown."
+
+[1] one of the names of nergal.
+
+[2] or "whose enterer goeth not forth."
+
+seven gates gave access to this place of gloom, and the porter, as he
+let the visitor in, took from her (the goddess istar in the narrative)
+at each an article of clothing, until, at the last, she entered quite
+naked, apparently typifying the fact that a man can take nothing with
+him when he dieth, and also, in this case, that he has not even his
+good deeds wherewith to clothe himself, for had they outweighed his
+evil ones, he would not have found himself in that dread abode.
+
+on the arrival of istar in hades, eres-ki-gal commanded namtaru, the
+god of fate, to smite istar with disease in all her members--eyes,
+sides, feet, heart, and head. as things went wrong on the earth in
+consequence of the absence of the goddess of love, the gods sent a
+messenger to effect her release. when he reached the land of
+no-return, the queen of the region threatened him with all kinds of
+torments--the food of the gutters of the city were to be his food, the
+oil-jars of the city (naptha?) his drink, the gloom of the castle his
+resting-place, a stone slab his seat, and hunger and thirst were to
+shatter his strength. these were evidently the punishments inflicted
+there, but as the messenger threatened was a divine one, they were
+probably not put into execution, and he obtained his demand, for istar
+was set free, receiving back at each gate, in reverse order, the
+clothing and ornaments which had been taken from her when she had
+descended thither. it is uncertain whether tammuz, for whom she had
+gone down, was set free also, but as he is referred to, it is not
+improbable that this was the case.
+
+
+
+   works bearing upon the religion of the babylonians and assyrians
+
+hibbert lectures, 1887. the religion of the ancient babylonians, by
+professor a. h. sayce.
+
+the religious ideas of the babylonians, by the author, 1895 (journal
+of the victoria institute, also separately).
+
+the religion of babylonia and assyria, by morris jastrow, jun., 1898.
+(german edition, vol. i. 1905, vol. ii. in progress.)
+
+babylonian religion and mythology, by l. w. king, m.a., 1899.
+
+gifford lectures, 1902. religions of egypt and babylonia, by professor
+a. h. sayce.
+
+the o.t. in the light of the records of assyria and babylonia, by the
+author, 1903. (the portions referring to babylonian mythology.)
+
+the hymns to tammuz in the manchester museum, owens college, by the
+author, 1904.
+
+
+
+          articles upon the assyrian and babylonian deities,
+                and the religion of three nations, in
+
+      dictionary of the bible, edited by dr. james hastings, and
+          encyclopdia biblica, edited by professor cheyne.
+
+
+
+
+
+
+
+
+
+
+end of the project gutenberg ebook of the religion of babylonia and assyria, by 
+theophilus g. pinches
+
+*** end of this project gutenberg ebook religion of babylonia, assyria ***
+
+***** this file should be named 2069-0.txt or 2069-0.zip *****
+this and all associated files of various formats will be found in:
+        https://www.gutenberg.org/2/0/6/2069/
+
+produced by john bickers and dagny
+
+updated editions will replace the previous one--the old editions
+will be renamed.
+
+creating the works from public domain print editions means that no
+one owns a united states copyright in these works, so the foundation
+(and you!) can copy and distribute it in the united states without
+permission and without paying copyright royalties.  special rules,
+set forth in the general terms of use part of this license, apply to
+copying and distributing project gutenberg-tm electronic works to
+protect the project gutenberg-tm concept and trademark.  project
+gutenberg is a registered trademark, and may not be used if you
+charge for the ebooks, unless you receive specific permission.  if you
+do not charge anything for copies of this ebook, complying with the
+rules is very easy.  you may use this ebook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  they may be modified and printed and given away--you may do
+practically anything with public domain ebooks.  redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** start: full license ***
+
+the full project gutenberg license
+please read this before you distribute or use this work
+
+to protect the project gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "project
+gutenberg"), you agree to comply with all the terms of the full project
+gutenberg-tm license (available with this file or online at
+https://gutenberg.org/license).
+
+
+section 1.  general terms of use and redistributing project gutenberg-tm
+electronic works
+
+1.a.  by reading or using any part of this project gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  if you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of project gutenberg-tm electronic works in your possession.
+if you paid a fee for obtaining a copy of or access to a project
+gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.e.8.
+
+1.b.  "project gutenberg" is a registered trademark.  it may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  there are a few
+things that you can do with most project gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  see
+paragraph 1.c below.  there are a lot of things you can do with project
+gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to project gutenberg-tm electronic
+works.  see paragraph 1.e below.
+
+1.c.  the project gutenberg literary archive foundation ("the foundation"
+or pglaf), owns a compilation copyright in the collection of project
+gutenberg-tm electronic works.  nearly all the individual works in the
+collection are in the public domain in the united states.  if an
+individual work is in the public domain in the united states and you are
+located in the united states, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to project gutenberg
+are removed.  of course, we hope that you will support the project
+gutenberg-tm mission of promoting free access to electronic works by
+freely sharing project gutenberg-tm works in compliance with the terms of
+this agreement for keeping the project gutenberg-tm name associated with
+the work.  you can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full project
+gutenberg-tm license when you share it without charge with others.
+
+1.d.  the copyright laws of the place where you are located also govern
+what you can do with this work.  copyright laws in most countries are in
+a constant state of change.  if you are outside the united states, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other project
+gutenberg-tm work.  the foundation makes no representations concerning
+the copyright status of any work in any country outside the united
+states.
+
+1.e.  unless you have removed all references to project gutenberg:
+
+1.e.1.  the following sentence, with active links to, or other immediate
+access to, the full project gutenberg-tm license must appear prominently
+whenever any copy of a project gutenberg-tm work (any work on which the
+phrase "project gutenberg" appears, or with which the phrase "project
+gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+this ebook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  you may copy it, give it away or
+re-use it under the terms of the project gutenberg license included
+with this ebook or online at www.gutenberg.org
+
+1.e.2.  if an individual project gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the united states without paying any fees
+or charges.  if you are redistributing or providing access to a work
+with the phrase "project gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.e.1
+through 1.e.7 or obtain permission for the use of the work and the
+project gutenberg-tm trademark as set forth in paragraphs 1.e.8 or
+1.e.9.
+
+1.e.3.  if an individual project gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.e.1 through 1.e.7 and any additional
+terms imposed by the copyright holder.  additional terms will be linked
+to the project gutenberg-tm license for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.e.4.  do not unlink or detach or remove the full project gutenberg-tm
+license terms from this work, or any files containing a part of this
+work or any other work associated with project gutenberg-tm.
+
+1.e.5.  do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.e.1 with
+active links or immediate access to the full terms of the project
+gutenberg-tm license.
+
+1.e.6.  you may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  however, if you provide access to or
+distribute copies of a project gutenberg-tm work in a format other than
+"plain vanilla ascii" or other format used in the official version
+posted on the official project gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "plain vanilla ascii" or other
+form.  any alternate format must include the full project gutenberg-tm
+license as specified in paragraph 1.e.1.
+
+1.e.7.  do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any project gutenberg-tm works
+unless you comply with paragraph 1.e.8 or 1.e.9.
+
+1.e.8.  you may charge a reasonable fee for copies of or providing
+access to or distributing project gutenberg-tm electronic works provided
+that
+
+- you pay a royalty fee of 20% of the gross profits you derive from
+     the use of project gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  the fee is
+     owed to the owner of the project gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     project gutenberg literary archive foundation.  royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  royalty payments should be clearly marked as such and
+     sent to the project gutenberg literary archive foundation at the
+     address specified in section 4, "information about donations to
+     the project gutenberg literary archive foundation."
+
+- you provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full project gutenberg-tm
+     license.  you must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     project gutenberg-tm works.
+
+- you provide, in accordance with paragraph 1.f.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- you comply with all other terms of this agreement for free
+     distribution of project gutenberg-tm works.
+
+1.e.9.  if you wish to charge a fee or distribute a project gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the project gutenberg literary archive foundation and michael
+hart, the owner of the project gutenberg-tm trademark.  contact the
+foundation as set forth in section 3 below.
+
+1.f.
+
+1.f.1.  project gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the project gutenberg-tm
+collection.  despite these efforts, project gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.f.2.  limited warranty, disclaimer of damages - except for the "right
+of replacement or refund" described in paragraph 1.f.3, the project
+gutenberg literary archive foundation, the owner of the project
+gutenberg-tm trademark, and any other party distributing a project
+gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  you agree that you have no remedies for negligence, strict
+liability, breach of warranty or breach of contract except those
+provided in paragraph f3.  you agree that the foundation, the
+trademark owner, and any distributor under this agreement will not be
+liable to you for actual, direct, indirect, consequential, punitive or
+incidental damages even if you give notice of the possibility of such
+damage.
+
+1.f.3.  limited right of replacement or refund - if you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  if you
+received the work on a physical medium, you must return the medium with
+your written explanation.  the person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  if you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  if the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.f.4.  except for the limited right of replacement or refund set forth
+in paragraph 1.f.3, this work is provided to you 'as-is' with no other
+warranties of any kind, express or implied, including but not limited to
+warranties of merchantibility or fitness for any purpose.
+
+1.f.5.  some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+if any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  the invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.f.6.  indemnity - you agree to indemnify and hold the foundation, the
+trademark owner, any agent or employee of the foundation, anyone
+providing copies of project gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of project gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any project gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+project gutenberg-tm work, and (c) any defect you cause.
+
+
+section  2.  information about the mission of project gutenberg-tm
+
+project gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  it exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching project gutenberg-tm's
+goals and ensuring that the project gutenberg-tm collection will
+remain freely available for generations to come.  in 2001, the project
+gutenberg literary archive foundation was created to provide a secure
+and permanent future for project gutenberg-tm and future generations.
+to learn more about the project gutenberg literary archive foundation
+and how your efforts and donations can help, see sections 3 and 4
+and the foundation web page at https://www.pglaf.org.
+
+
+section 3.  information about the project gutenberg literary archive
+foundation
+
+the project gutenberg literary archive foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of mississippi and granted tax exempt status by the internal
+revenue service.  the foundation's ein or federal tax identification
+number is 64-6221541.  its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  contributions to the project gutenberg
+literary archive foundation are tax deductible to the full extent
+permitted by u.s. federal laws and your state's laws.
+
+the foundation's principal office is located at 4557 melan dr. s.
+fairbanks, ak, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  its business office is located at
+809 north 1500 west, salt lake city, ut 84116, (801) 596-1887, email
+business@pglaf.org.  email contact links and up to date contact
+information can be found at the foundation's web site and official
+page at https://pglaf.org
+
+for additional contact information:
+     dr. gregory b. newby
+     chief executive and director
+     gbnewby@pglaf.org
+
+
+section 4.  information about donations to the project gutenberg
+literary archive foundation
+
+project gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the irs.
+
+the foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the united
+states.  compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  we do not solicit donations in locations
+where we have not received written confirmation of compliance.  to
+send donations or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+while we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+international donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the united states.  u.s. laws alone swamp our small staff.
+
+please check the project gutenberg web pages for current donation
+methods and addresses.  donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  to donate, please visit: https://pglaf.org/donate
+
+
+section 5.  general information about project gutenberg-tm electronic
+works.
+
+professor michael s. hart was the originator of the project gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  for thirty years, he produced and distributed project
+gutenberg-tm ebooks with only a loose network of volunteer support.
+
+
+project gutenberg-tm ebooks are often created from several printed
+editions, all of which are confirmed as public domain in the u.s.
+unless a copyright notice is included.  thus, we do not necessarily
+keep ebooks in compliance with any particular paper edition.
+
+
+most people start at our web site which has the main pg search facility:
+
+     https://www.gutenberg.org
+
+this web site includes information about project gutenberg-tm,
+including how to make donations to the project gutenberg literary
+archive foundation, how to help produce our new ebooks, and how to
+subscribe to our email newsletter to hear about new ebooks.
