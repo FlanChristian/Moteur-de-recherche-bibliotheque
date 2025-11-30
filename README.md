@@ -18,7 +18,7 @@ Moteur de recherche pour la bibliothèque du Projet Gutenberg avec graphe de sim
 ## 🎯 Fonctionnalités
 
 - **Recherche avancée** : mot-clé ou RegEx avec filtres et tri multi-critères
-- **Graphe de Jaccard** : 82 arêtes de similarité textuelle (seuil 0.5) entre 35 livres
+- **Graphe de Jaccard** : 47 143 arêtes de similarité textuelle (seuil 0.5) entre 1726 livres
 - **Métriques de centralité** : PageRank, Closeness, Betweenness pour le tri des résultats
 - **Interface responsive** : design moderne avec menu burger et graphe interactif
 
@@ -91,7 +91,7 @@ PR[i] = (1-d)/N + d × Σ(PR[voisin] × poids)
 ├── fetcher/              # Indexation et construction du graphe
 │   ├── ingest.py         # Index inversé PostgreSQL
 │   ├── build_jaccard.py  # Calcul similarités Jaccard
-│   └── data/raw/         # 35 livres Gutenberg (.txt + .json)
+│   └── data/raw/         # 1857 livres Gutenberg (.txt + .json)
 │
 ├── bibliosearch/         # Application Django
 │   └── search/
@@ -115,10 +115,10 @@ Le site est hébergé sur une instance EC2 gratuite AWS :
 
 ## 📈 Performance
 
-- Recherche : < 50ms (mot-clé) / < 200ms (RegEx)
-- 35 livres indexés, ~15K mots uniques, ~290K postings
-- Graphe : 82 arêtes Jaccard, 3 métriques de centralité
-- Interface : responsive mobile/tablette/desktop
+- **Recherche** : 5.4ms (titre) / 48ms (top-50) / 378ms (index complet)
+- **1726 livres** indexés, **738 502 mots** uniques, **13 046 418 postings**
+- **Graphe** : 47 143 arêtes Jaccard (densité 3.17%), similarité moyenne 0.5523
+- **Interface** : responsive mobile/tablette/desktop
 
 ---
 
