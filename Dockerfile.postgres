@@ -1,0 +1,17 @@
+# Image PostgreSQL 16 avec les données BiblioSearch pré-chargées
+FROM postgres:16
+
+# Variables d'environnement par défaut (peuvent être surchargées)
+ENV POSTGRES_DB=daar
+ENV POSTGRES_USER=postgres
+ENV POSTGRES_PASSWORD=postgres
+
+# Copier le dump SQL et le script d'initialisation
+COPY db_backup.sql /docker-entrypoint-initdb.d/
+COPY init-db.sh /docker-entrypoint-initdb.d/
+
+# Rendre le script exécutable
+RUN chmod +x /docker-entrypoint-initdb.d/init-db.sh
+
+# Exposer le port PostgreSQL
+EXPOSE 5432

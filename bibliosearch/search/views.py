@@ -2,6 +2,7 @@ from django.shortcuts import render, get_object_or_404
 from django.db.models import Q, Count
 from django.db import connection
 from django.http import JsonResponse
+from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from .models import Book, BookText, Word, Posting
 import re
 
@@ -12,6 +13,7 @@ def home(request):
     # Filtres
     language_filter = request.GET.get('lang', '')
     sort_by = request.GET.get('sort', 'popular')  # popular, recent, title, pagerank
+    page_num = request.GET.get('page', 1)
     
     # Récupère tous les livres
     all_books = Book.objects.all()
@@ -33,7 +35,6 @@ def home(request):
                 FROM books b
                 LEFT JOIN book_centrality bc ON bc.book_id = b.id
                 ORDER BY bc.pagerank DESC NULLS LAST
-                LIMIT 50
             """)
             all_books = [
                 type('Book', (), {
@@ -45,28 +46,34 @@ def home(request):
     else:  # popular
         all_books = all_books.order_by('-word_count')
     
-    if sort_by != 'pagerank':
-        all_books = all_books[:50]
+    # Pagination: 20 livres par page
+    paginator = Paginator(all_books, 20)
+    try:
+        all_books_page = paginator.page(page_num)
+    except PageNotAnInteger:
+        all_books_page = paginator.page(1)
+    except EmptyPage:
+        all_books_page = paginator.page(paginator.num_pages)
     
     # Pour les livres populaires, utilise PageRank si disponible, sinon word_count
     with connection.cursor() as cursor:
         cursor.execute("""
             SELECT b.id, b.title, b.author, b.language, b.cover_url, 
-                   COALESCE(bc.pagerank, 0) as score
+                   b.word_count, bc.pagerank as score
             FROM books b
             LEFT JOIN book_centrality bc ON bc.book_id = b.id
-            ORDER BY score DESC
+            ORDER BY bc.pagerank DESC NULLS LAST
             LIMIT 5
         """)
         popular_books = [
             type('Book', (), {
                 'id': row[0], 'title': row[1], 'author': row[2],
-                'language': row[3], 'cover_url': row[4]
+                'language': row[3], 'cover_url': row[4], 'word_count': row[5]
             })() for row in cursor.fetchall()
         ]
     
-    # Pour la section catégorie, on affiche les 10 premiers filtrés
-    category_books = all_books[:10]
+    # Pour la section catégorie, on affiche les 20 premiers filtrés
+    category_books = all_books_page[:20]
     
     # Statistiques de la bibliothèque
     with connection.cursor() as cursor:
@@ -76,6 +83,10 @@ def home(request):
         total_languages = cursor.fetchone()[0]
         cursor.execute("SELECT SUM(word_count) FROM books WHERE word_count IS NOT NULL")
         total_words = cursor.fetchone()[0] or 0
+        cursor.execute("SELECT COUNT(DISTINCT w) FROM top_terms")
+        indexed_words = cursor.fetchone()[0] or 0
+        cursor.execute("SELECT COUNT(*) FROM words")
+        unique_words = cursor.fetchone()[0] or 0
     
     # Langues disponibles
     available_languages = Book.objects.values_list('language', flat=True).distinct().order_by('language')
@@ -85,6 +96,7 @@ def home(request):
     search_type = request.GET.get('type', 'simple')  # 'simple' ou 'regex'
     search_sort = request.GET.get('search_sort', 'relevance')  # tri des résultats de recherche
     search_results = []
+    search_results_page = None
     search_stats = {}
     
     if search_query:
@@ -93,17 +105,28 @@ def home(request):
             search_results, search_stats = search_by_regex_view(search_query, search_sort)
         else:
             search_results, search_stats = search_by_keyword_view(search_query, search_sort)
-        # Si on a des résultats, on les affiche au lieu des catégories
+        
+        # Pagination des résultats de recherche: 20 par page
         if search_results:
+            search_page_num = request.GET.get('search_page', 1)
+            search_paginator = Paginator(search_results, 20)
+            try:
+                search_results_page = search_paginator.page(search_page_num)
+            except PageNotAnInteger:
+                search_results_page = search_paginator.page(1)
+            except EmptyPage:
+                search_results_page = search_paginator.page(search_paginator.num_pages)
             category_books = []  # On cache les catégories quand on a des résultats
     
     context = {
+        'all_books': all_books_page,
         'popular_books': popular_books,
         'category_books': category_books,
         'search_query': search_query,
         'search_type': search_type,
         'search_sort': search_sort,
         'search_results': search_results,
+        'search_results_page': search_results_page,
         'search_stats': search_stats,
         'available_languages': available_languages,
         'current_language': language_filter,
@@ -111,6 +134,8 @@ def home(request):
         'total_books': total_books,
         'total_languages': total_languages,
         'total_words': total_words,
+        'indexed_words': indexed_words,
+        'unique_words': unique_words,
     }
     return render(request, 'search/home.html', context)
 
@@ -350,7 +375,6 @@ def search_by_keyword_view(query, sort_by='relevance'):
             LEFT JOIN book_centrality bc ON bc.book_id = d.id
             WHERE d.rn = 1
             ORDER BY {}
-            LIMIT 50;
         """.format(order_clause), [query.lower(), q_norm, q_norm])
         
         columns = [col[0] for col in cursor.description]
@@ -386,21 +410,21 @@ def search_by_regex_view(regex_pattern, sort_by='relevance'):
     
     # Définir l'ordre de tri SQL selon le choix
     if sort_by == 'pagerank':
-        order_clause = "COALESCE(bc.pagerank, 0) DESC, b.title ASC"
+        order_clause = "pagerank DESC, title ASC"
     elif sort_by == 'occurrences':
-        order_clause = "COUNT(*) DESC, b.title ASC"
+        order_clause = "word_count DESC, title ASC"
     elif sort_by == 'title':
-        order_clause = "b.title ASC"
+        order_clause = "title ASC"
     elif sort_by == 'closeness':
-        order_clause = "COALESCE(bc.closeness, 0) DESC, b.title ASC"
+        order_clause = "closeness DESC, title ASC"
     elif sort_by == 'betweenness':
-        order_clause = "COALESCE(bc.betweenness, 0) DESC, b.title ASC"
+        order_clause = "betweenness DESC, title ASC"
     else:  # relevance (défaut)
-        order_clause = "COUNT(*) DESC, COALESCE(bc.pagerank, 0) DESC, b.title ASC"
+        order_clause = "word_count DESC, pagerank DESC, title ASC"
     
     with connection.cursor() as cursor:
         cursor.execute("""
-            SELECT DISTINCT
+            SELECT
                 b.id,
                 b.gutenberg_id,
                 b.title,
@@ -408,6 +432,7 @@ def search_by_regex_view(regex_pattern, sort_by='relevance'):
                 b.language,
                 b.cover_url,
                 array_agg(DISTINCT w.w) AS matched_words,
+                COUNT(DISTINCT w.id) as word_count,
                 COALESCE(bc.pagerank, 0) as pagerank,
                 COALESCE(bc.closeness, 0) as closeness,
                 COALESCE(bc.betweenness, 0) as betweenness
@@ -418,7 +443,6 @@ def search_by_regex_view(regex_pattern, sort_by='relevance'):
             WHERE w.w ~ %s
             GROUP BY b.id, b.gutenberg_id, b.title, b.author, b.language, b.cover_url, bc.pagerank, bc.closeness, bc.betweenness
             ORDER BY {}
-            LIMIT 50;
         """.format(order_clause), [regex_pattern])
         
         columns = [col[0] for col in cursor.description]
@@ -443,7 +467,7 @@ def search_by_word(request):
         try:
             word_obj = Word.objects.get(w=word_query)
             # Récupère tous les livres contenant ce mot, triés par nombre d'occurrences
-            postings = Posting.objects.filter(word=word_obj).select_related('book').order_by('-cnt')[:50]
+            postings = Posting.objects.filter(word=word_obj).select_related('book').order_by('-cnt')
             results = [{'book': p.book, 'count': p.cnt} for p in postings]
         except Word.DoesNotExist:
             results = []
@@ -474,8 +498,13 @@ def statistics(request):
         cursor.execute("SELECT COUNT(*) FROM words")
         unique_words = cursor.fetchone()[0]
         
-        cursor.execute("SELECT COUNT(*) FROM postings")
-        total_postings = cursor.fetchone()[0]
+        # Estimation rapide du nombre de postings via pg_class
+        cursor.execute("""
+            SELECT reltuples::bigint AS estimate 
+            FROM pg_class 
+            WHERE relname = 'postings'
+        """)
+        total_postings = cursor.fetchone()[0] or 0
         
         # Top 10 auteurs
         cursor.execute("""
@@ -498,12 +527,11 @@ def statistics(request):
         """)
         language_distribution = [{'language': row[0], 'count': row[1]} for row in cursor.fetchall()]
         
-        # Top 20 mots globaux (avec nombre de livres)
+        # Top 20 mots globaux (avec nombre de livres) - Optimisé avec top_terms
         cursor.execute("""
-            SELECT w.w, SUM(p.cnt) as total_count, COUNT(DISTINCT p.book_id) as book_count
-            FROM words w
-            JOIN postings p ON p.word_id = w.id
-            GROUP BY w.w
+            SELECT tt.w, SUM(tt.cnt) as total_count, COUNT(DISTINCT tt.book_id) as book_count
+            FROM top_terms tt
+            GROUP BY tt.w
             ORDER BY total_count DESC
             LIMIT 20
         """)
@@ -574,12 +602,16 @@ def jaccard_graph(request):
     
     # Statistiques du graphe
     with connection.cursor() as cursor:
-        # Nombre de livres et d'arêtes
+        # Nombre de livres et d'arêtes (estimation rapide)
         cursor.execute("SELECT COUNT(*) FROM books")
         nb_books = cursor.fetchone()[0]
         
-        cursor.execute("SELECT COUNT(*) FROM jaccard_edges")
-        nb_edges = cursor.fetchone()[0]
+        cursor.execute("""
+            SELECT reltuples::bigint AS estimate 
+            FROM pg_class 
+            WHERE relname = 'jaccard_edges'
+        """)
+        nb_edges = cursor.fetchone()[0] or 0
         
         # Stats sur les similarités
         cursor.execute("""
@@ -609,40 +641,45 @@ def jaccard_graph(request):
         """)
         top_pairs = cursor.fetchall()
         
-        # Top 15 livres les plus connectés
+        # Top 15 livres les plus connectés (simplifié)
         cursor.execute("""
             WITH degrees AS (
-                SELECT book_id1 as book_id FROM jaccard_edges
+                SELECT book_id1 as book_id, COUNT(*) as degree
+                FROM jaccard_edges
+                GROUP BY book_id1
                 UNION ALL
-                SELECT book_id2 FROM jaccard_edges
+                SELECT book_id2 as book_id, COUNT(*) as degree
+                FROM jaccard_edges
+                GROUP BY book_id2
+            ),
+            book_degrees AS (
+                SELECT book_id, SUM(degree) as total_degree
+                FROM degrees
+                GROUP BY book_id
+                ORDER BY total_degree DESC
+                LIMIT 15
             )
             SELECT 
                 b.id,
                 b.title,
                 b.author,
-                COUNT(*) as degree,
-                AVG(CASE 
-                    WHEN je1.book_id1 = b.id THEN je1.similarity 
-                    ELSE je2.similarity 
-                END) as avg_similarity
-            FROM degrees d
-            JOIN books b ON b.id = d.book_id
-            LEFT JOIN jaccard_edges je1 ON je1.book_id1 = b.id
-            LEFT JOIN jaccard_edges je2 ON je2.book_id2 = b.id
-            GROUP BY b.id, b.title, b.author
-            ORDER BY degree DESC, avg_similarity DESC
-            LIMIT 15
+                bd.total_degree as degree,
+                0.5 as avg_similarity
+            FROM book_degrees bd
+            JOIN books b ON b.id = bd.book_id
+            ORDER BY bd.total_degree DESC
         """)
         top_connected = cursor.fetchall()
         
-        # Données pour le graphe (tous les noeuds et arêtes)
+        # Données pour le graphe (tous les livres - sans limite)
         cursor.execute("""
-            SELECT id, title, author
-            FROM books
-            ORDER BY id
+            SELECT b.id, b.title, b.author
+            FROM books b
+            ORDER BY b.id
         """)
         all_books = cursor.fetchall()
         
+        # Toutes les arêtes
         cursor.execute("""
             SELECT book_id1, book_id2, similarity
             FROM jaccard_edges
@@ -658,6 +695,9 @@ def jaccard_graph(request):
         'min_sim': sim_stats[0] if sim_stats[0] else 0,
         'avg_sim': sim_stats[1] if sim_stats[1] else 0,
         'max_sim': sim_stats[2] if sim_stats[2] else 0,
+        'graph_display_limit': 0,  # 0 = pas de limite
+        'graph_nodes_count': len(all_books),
+        'graph_edges_count': len(all_edges),
         'top_pairs': [
             {
                 'id1': row[0],

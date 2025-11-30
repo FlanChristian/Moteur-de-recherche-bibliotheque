@@ -1,0 +1,50 @@
+services:
+  # Base de données PostgreSQL avec les données déjà présentes
+  db:
+    image: hamidzch/bibliosearch-db:latest
+    platform: linux/amd64
+    container_name: bibliosearch_db
+    environment:
+      POSTGRES_DB: daar
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      # Volume pour persister les données de la base
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d daar"]
+      interval: 30s
+      timeout: 10s
+      retries: 20
+      start_period: 600s
+
+  # Application Django
+  web:
+    # Utiliser l'image depuis DockerHub 
+    image: hamidzch/bibliosearch:latest
+    platform: linux/amd64
+    container_name: bibliosearch_web
+    command: gunicorn bibliosearch.wsgi:application --bind 0.0.0.0:8000 --workers 4 --timeout 300
+    environment:
+      - DB_HOST=db
+      - DB_PORT=5432
+      - DB_NAME=daar
+      - DB_USER=postgres
+      - DB_PASSWORD=postgres
+      - DJANGO_SETTINGS_MODULE=bibliosearch.settings
+    volumes:
+      # Volume pour les fichiers statiques
+      - static_volume:/app/bibliosearch/staticfiles
+      - media_volume:/app/bibliosearch/media
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  postgres_data:
+  static_volume:
+  media_volume:

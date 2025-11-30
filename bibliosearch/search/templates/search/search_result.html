@@ -348,6 +348,175 @@
         display: block;
         margin-bottom: 4px;
       }
+
+      /* Responsive Design */
+      @media (max-width: 992px) {
+        .header {
+          padding: 16px;
+        }
+
+        .header-content {
+          gap: 16px;
+        }
+
+        .search-box {
+          flex: 1;
+          min-width: 0;
+        }
+
+        .container {
+          padding: 16px;
+        }
+
+        .results-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .main-content {
+          order: 1;
+        }
+
+        .sidebar {
+          order: 0;
+          padding: 16px;
+          margin-bottom: 16px;
+        }
+
+        .book-title {
+          font-size: 16px;
+        }
+
+        .pagination {
+          flex-direction: column;
+          gap: 12px;
+        }
+      }
+
+      @media (max-width: 768px) {
+        .header-content {
+          flex-wrap: wrap;
+        }
+
+        .back-btn {
+          padding: 10px;
+        }
+
+        .search-form {
+          flex: 1 1 100%;
+        }
+
+        .search-filters {
+          flex-direction: column;
+          gap: 8px;
+        }
+
+        .filter-group {
+          width: 100%;
+        }
+
+        .filter-group select {
+          width: 100%;
+        }
+
+        .search-btn, .reset-btn {
+          padding: 10px 16px;
+          font-size: 13px;
+        }
+
+        .result-card {
+          flex-direction: column;
+          align-items: stretch;
+        }
+
+        .book-cover-wrapper {
+          width: 100%;
+          height: 250px;
+        }
+
+        .book-cover {
+          height: 250px;
+        }
+
+        .book-content {
+          padding: 16px;
+        }
+
+        .stats-grid {
+          grid-template-columns: repeat(2, 1fr);
+          gap: 8px;
+        }
+
+        .stat-label {
+          font-size: 10px;
+        }
+
+        .stat-value {
+          font-size: 16px;
+        }
+
+        .pagination-info {
+          text-align: center;
+          font-size: 12px;
+        }
+
+        .pagination-btn {
+          padding: 8px 12px;
+          font-size: 12px;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .header {
+          padding: 12px;
+        }
+
+        .results-header h1 {
+          font-size: 20px;
+        }
+
+        .results-meta {
+          font-size: 12px;
+        }
+
+        .search-box {
+          font-size: 14px;
+          padding: 10px 12px;
+        }
+
+        .book-title {
+          font-size: 15px;
+        }
+
+        .book-author {
+          font-size: 12px;
+        }
+
+        .book-meta {
+          font-size: 11px;
+        }
+
+        .stat-label {
+          font-size: 9px;
+        }
+
+        .stat-value {
+          font-size: 14px;
+        }
+
+        .view-btn {
+          padding: 8px 16px;
+          font-size: 12px;
+        }
+
+        .sidebar h2 {
+          font-size: 16px;
+        }
+
+        .filter-option {
+          padding: 10px;
+          font-size: 13px;
+        }
+      }
     </style>
   </head>
   <body>

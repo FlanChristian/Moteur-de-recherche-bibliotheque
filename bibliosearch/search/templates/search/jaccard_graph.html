@@ -267,6 +267,136 @@
             color: #667eea;
             min-width: 50px;
         }
+
+        /* Responsive Design */
+        @media (max-width: 992px) {
+            .header {
+                padding: 16px;
+            }
+
+            .header-content {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 16px;
+            }
+
+            .header-left {
+                align-items: flex-start;
+            }
+
+            .stats {
+                width: 100%;
+                justify-content: space-around;
+            }
+
+            .controls {
+                padding: 16px;
+            }
+
+            .controls-row {
+                flex-direction: column;
+                gap: 12px;
+            }
+
+            .control-group {
+                width: 100%;
+            }
+
+            .threshold-control input {
+                flex: 1;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header {
+                padding: 12px;
+            }
+
+            .back-btn {
+                padding: 10px;
+            }
+
+            .title-section h1 {
+                font-size: 24px;
+            }
+
+            .title-section p {
+                font-size: 12px;
+            }
+
+            .stats {
+                flex-direction: column;
+                gap: 12px;
+            }
+
+            .stat-item {
+                width: 100%;
+                text-align: left;
+            }
+
+            .stat-value {
+                font-size: 24px;
+            }
+
+            .stat-label {
+                font-size: 11px;
+            }
+
+            .controls {
+                padding: 12px;
+            }
+
+            .control-buttons {
+                flex-wrap: wrap;
+                gap: 8px;
+            }
+
+            .control-btn {
+                padding: 8px 12px;
+                font-size: 12px;
+            }
+
+            .threshold-control {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 8px;
+            }
+
+            .threshold-control input {
+                width: 100%;
+            }
+
+            #graph-container {
+                height: 400px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .title-section h1 {
+                font-size: 20px;
+            }
+
+            .stat-value {
+                font-size: 20px;
+            }
+
+            .control-btn {
+                padding: 6px 10px;
+                font-size: 11px;
+            }
+
+            .threshold-control label {
+                font-size: 12px;
+            }
+
+            .threshold-value {
+                font-size: 12px;
+            }
+
+            #graph-container {
+                height: 300px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -310,6 +440,15 @@
         <!-- Graphe interactif -->
         <div class="graph-section">
             <h2 class="section-title">📊 Visualisation Interactive</h2>
+            {% if graph_display_limit > 0 %}
+            <p style="color: #6b7280; font-size: 14px; margin-bottom: 16px; background: #fef3c7; padding: 12px; border-radius: 8px; border-left: 4px solid #f59e0b;">
+                ⚠️ <strong>Note de performance:</strong> Affichage limité aux {{ graph_display_limit }} livres les plus connectés ({{ graph_nodes_count }} nœuds, {{ graph_edges_count }} arêtes affichées sur {{ nb_edges }} totales)
+            </p>
+            {% else %}
+            <p style="color: #059669; font-size: 14px; margin-bottom: 16px; background: #d1fae5; padding: 12px; border-radius: 8px; border-left: 4px solid #10b981;">
+                ✅ <strong>Affichage complet:</strong> Tous les livres sont affichés ({{ graph_nodes_count }} nœuds, {{ graph_edges_count }} arêtes)
+            </p>
+            {% endif %}
             <div class="controls">
                 <button class="control-btn active" onclick="resetZoom()">🔄 Reset Zoom</button>
                 <button class="control-btn" onclick="togglePhysics()">⚡ Physique ON/OFF</button>

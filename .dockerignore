@@ -1,0 +1,40 @@
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Django
+*.log
+db.sqlite3
+db.sqlite3-journal
+/staticfiles/
+/media/
+
+# Environnement virtuel
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Données locales (ne pas inclure dans l'image)
+fetcher/data/raw/*.txt
+fetcher/data/raw/*.json
+
+# Fichiers temporaires
+*.tmp
+*.bak

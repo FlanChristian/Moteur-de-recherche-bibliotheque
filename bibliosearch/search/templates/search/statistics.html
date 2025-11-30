@@ -187,6 +187,125 @@
             background: #e9d5ff;
             color: #6b21a8;
         }
+
+        /* Responsive Design */
+        @media (max-width: 992px) {
+            .header {
+                padding: 16px;
+            }
+
+            .container {
+                padding: 16px;
+            }
+
+            .stats-overview {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .charts-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .table-container {
+                overflow-x: auto;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header {
+                padding: 12px;
+            }
+
+            .header-content {
+                gap: 12px;
+            }
+
+            .page-title {
+                font-size: 24px;
+            }
+
+            .stats-overview {
+                grid-template-columns: 1fr;
+                gap: 12px;
+            }
+
+            .stat-card {
+                padding: 16px;
+            }
+
+            .stat-label {
+                font-size: 11px;
+            }
+
+            .stat-value {
+                font-size: 24px;
+            }
+
+            .chart-card {
+                padding: 16px;
+            }
+
+            .section-title {
+                font-size: 16px;
+            }
+
+            .table th {
+                padding: 10px 8px;
+                font-size: 11px;
+            }
+
+            .table td {
+                padding: 10px 8px;
+                font-size: 12px;
+            }
+
+            .rank-badge {
+                width: 40px;
+                font-size: 11px;
+            }
+
+            .badge {
+                padding: 3px 8px;
+                font-size: 10px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .back-btn {
+                padding: 10px;
+            }
+
+            .page-title {
+                font-size: 20px;
+            }
+
+            .page-subtitle {
+                font-size: 12px;
+            }
+
+            .stat-value {
+                font-size: 20px;
+            }
+
+            .section-title {
+                font-size: 14px;
+            }
+
+            .table th, .table td {
+                padding: 8px 6px;
+                font-size: 11px;
+            }
+
+            .rank-badge {
+                width: 35px;
+                font-size: 10px;
+            }
+
+            .table th:nth-child(3),
+            .table td:nth-child(3) {
+                display: none;
+            }
+        }
     </style>
 </head>
 <body>

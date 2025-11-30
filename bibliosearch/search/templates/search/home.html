@@ -151,6 +151,7 @@
             justify-content: space-around;
             gap: 24px;
             box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+            order: 0;
         }
 
         .stat-card {
@@ -328,10 +329,13 @@
         .content-container {
             max-width: 1400px;
             margin: 0 auto;
+            display: flex;
+            flex-direction: column;
         }
 
         .section {
             margin-bottom: 48px;
+            order: 1;
         }
 
         .section-title {
@@ -376,6 +380,43 @@
             font-size: 12px;
             color: #6b7280;
             font-style: italic;
+        }
+
+        /* Pagination */
+        .pagination {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            margin-top: 32px;
+            padding: 20px;
+        }
+
+        .pagination-btn {
+            padding: 10px 16px;
+            background-color: white;
+            border: 1px solid #e5e7eb;
+            border-radius: 6px;
+            color: #374151;
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+
+        .pagination-btn:hover {
+            background-color: #2563eb;
+            color: white;
+            border-color: #2563eb;
+        }
+
+        .pagination-info {
+            padding: 10px 20px;
+            background-color: #f3f4f6;
+            border-radius: 6px;
+            color: #374151;
+            font-size: 14px;
+            font-weight: 500;
         }
 
         /* Categories */
@@ -454,7 +495,7 @@
 
         .search-stats-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            grid-template-columns: repeat(4, 1fr);
             gap: 16px;
         }
 
@@ -487,6 +528,47 @@
         .stat-text {
             font-size: 12px;
             color: #6b7280;
+        }
+
+        /* Filtres de tri */
+        .sort-filters-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 16px 24px;
+            background: white;
+            border-radius: 12px;
+            margin-bottom: 24px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+
+        .sort-filters-wrapper {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .sort-filter-btn {
+            padding: 8px 16px;
+            border: 1px solid #e5e7eb;
+            background: white;
+            color: #6b7280;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.2s;
+            white-space: nowrap;
+            flex-shrink: 0;
+        }
+
+        .sort-filter-btn:hover {
+            background: #f9fafb;
+        }
+
+        .sort-filter-btn.active {
+            background: #2563eb;
+            color: white;
+            border-color: #2563eb;
         }
 
         /* Popular List (compact sidebar style) */
@@ -562,28 +644,562 @@
             stroke-linejoin: round;
         }
 
-        /* Responsive */
+        /* Responsive Design */
         @media (max-width: 1400px) {
             .books-grid {
                 grid-template-columns: repeat(4, 1fr);
             }
         }
 
-        @media (max-width: 1024px) {
+        @media (max-width: 1200px) {
             .books-grid {
                 grid-template-columns: repeat(3, 1fr);
             }
         }
 
-        @media (max-width: 768px) {
-            .sidebar {
-                width: 80px;
-            }
-            .logo-text, .nav-item span {
-                display: none;
-            }
+        @media (max-width: 992px) {
             .books-grid {
                 grid-template-columns: repeat(2, 1fr);
+            }
+            .main-content {
+                padding: 16px;
+            }
+            .hero-title {
+                font-size: 28px;
+            }
+            .search-stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 10px;
+            }
+            .stat-icon {
+                width: 32px;
+                height: 32px;
+                font-size: 16px;
+            }
+            .stat-number {
+                font-size: 15px;
+            }
+            .stat-text {
+                font-size: 10px;
+                line-height: 1.2;
+            }
+            .sort-filters-container {
+                padding: 12px;
+                flex-direction: column;
+                align-items: stretch;
+                gap: 10px;
+            }
+            .sort-filters-wrapper {
+                gap: 6px;
+                flex-wrap: wrap;
+            }
+            .sort-filter-btn {
+                padding: 6px 10px;
+                font-size: 11px;
+            }
+        }
+
+        @media (max-width: 820px) {
+            .stats-banner {
+                flex-wrap: wrap;
+                gap: 16px;
+            }
+            .stat-card {
+                flex: 0 0 calc(50% - 8px);
+            }
+            .search-stats-grid {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+            .stat-item {
+                gap: 10px;
+            }
+            .stat-icon {
+                width: 32px;
+                height: 32px;
+                font-size: 16px;
+            }
+            .stat-number {
+                font-size: 15px;
+            }
+            .stat-text {
+                font-size: 10px;
+            }
+            .sort-filters-wrapper {
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+                gap: 6px;
+            }
+            .sort-filter-btn {
+                padding: 8px 10px;
+                font-size: 11px;
+                text-align: center;
+            }
+        }
+
+        @media (max-width: 768px) {
+            body {
+                flex-direction: column;
+            }
+
+            .stats-banner {
+                order: 10;
+                flex-direction: column;
+                gap: 8px;
+                padding: 16px;
+                margin-top: 24px;
+                margin-bottom: 0;
+                border-radius: 12px;
+            }
+
+            .stat-card {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                text-align: left;
+                padding: 14px 16px;
+                background: rgba(255, 255, 255, 0.15);
+                border-radius: 10px;
+                backdrop-filter: blur(10px);
+            }
+
+            .stat-value {
+                font-size: 24px;
+                order: 2;
+            }
+
+            .stat-label {
+                font-size: 13px;
+                order: 1;
+            }
+
+            .sidebar {
+                width: 100%;
+                height: auto;
+                flex-direction: row;
+                border-right: none;
+                border-bottom: 1px solid #e5e7eb;
+                position: sticky;
+                top: 0;
+                z-index: 100;
+                background-color: white;
+            }
+
+            .logo-section {
+                padding: 12px 16px;
+                border-bottom: none;
+                border-right: 1px solid #e5e7eb;
+                flex: 0 0 auto;
+            }
+
+            .logo-icon {
+                width: 32px;
+                height: 32px;
+                font-size: 16px;
+            }
+
+            .logo-text h1 {
+                font-size: 11px;
+            }
+
+            .logo-text p {
+                display: none;
+            }
+
+            .nav-menu {
+                flex-direction: row;
+                padding: 8px;
+                overflow-x: auto;
+                flex: 1;
+            }
+
+            .nav-item {
+                padding: 8px 12px;
+                margin-bottom: 0;
+                margin-right: 8px;
+                white-space: nowrap;
+                flex-shrink: 0;
+            }
+
+            .nav-item span {
+                font-size: 13px;
+            }
+
+            .logout-section {
+                padding: 8px 16px;
+                border-top: none;
+                border-left: 1px solid #e5e7eb;
+                flex: 0 0 auto;
+            }
+
+            .logout-btn {
+                padding: 8px 12px;
+                font-size: 13px;
+            }
+
+            .main-content {
+                padding: 12px;
+                height: calc(100vh - 60px);
+                overflow-y: auto;
+            }
+
+            .hero-section {
+                padding: 24px 16px;
+            }
+
+            .hero-title {
+                font-size: 24px;
+            }
+
+            .hero-subtitle {
+                font-size: 13px;
+            }
+
+            .search-bar {
+                flex-direction: column;
+                gap: 0;
+            }
+
+            .search-input {
+                width: 100%;
+                font-size: 15px;
+                padding: 14px 16px;
+                border-radius: 12px 12px 0 0;
+                border-bottom: 1px solid #e5e7eb;
+            }
+
+            .search-toggle {
+                width: 100%;
+                flex-direction: row;
+                gap: 0;
+                padding: 8px;
+                background-color: #f9fafb;
+                border-left: 1px solid #e5e7eb;
+                border-right: 1px solid #e5e7eb;
+                border-bottom: 1px solid #e5e7eb;
+            }
+
+            .toggle-btn {
+                flex: 1;
+                padding: 10px 12px;
+                font-size: 13px;
+                background-color: transparent;
+                border: none;
+                border-radius: 6px;
+            }
+
+            .toggle-btn.active {
+                background-color: white;
+                color: #2563eb;
+                box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+            }
+
+            .search-btn {
+                width: 100%;
+                padding: 14px;
+                font-size: 15px;
+                border-radius: 0 0 12px 12px;
+            }
+
+            .search-container {
+                flex-direction: column;
+            }
+
+            .filters-bar {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 10px;
+                padding: 16px;
+                border-radius: 12px;
+            }
+
+            .filter-label {
+                text-align: left;
+                font-size: 13px;
+                color: #6b7280;
+                margin-bottom: 4px;
+            }
+
+            .filter-select {
+                width: 100%;
+                padding: 12px 16px;
+                font-size: 15px;
+                border-radius: 8px;
+                background-color: #f9fafb;
+                border: 1px solid #e5e7eb;
+            }
+
+            .search-filters {
+                flex-direction: column;
+                gap: 8px;
+            }
+
+            .filter-group {
+                width: 100%;
+            }
+
+            .filter-group select {
+                width: 100%;
+            }
+
+            .search-stats-card {
+                padding: 16px;
+            }
+
+            .search-stats-grid {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+
+            .stat-item {
+                gap: 10px;
+            }
+
+            .books-grid {
+                grid-template-columns: 1fr;
+                gap: 12px;
+            }
+
+            .book-card {
+                flex-direction: row;
+                align-items: flex-start;
+            }
+
+            .book-cover {
+                width: 80px;
+                height: 120px;
+                flex-shrink: 0;
+            }
+
+            .book-info {
+                flex: 1;
+            }
+
+            .book-title {
+                font-size: 14px;
+            }
+
+            .book-author {
+                font-size: 12px;
+            }
+
+            .book-stats {
+                flex-wrap: wrap;
+                gap: 6px;
+            }
+
+            .stat-item {
+                padding: 4px 8px;
+                font-size: 10px;
+            }
+
+            .pagination {
+                flex-direction: column;
+                gap: 12px;
+            }
+
+            .pagination-info {
+                order: -1;
+                text-align: center;
+                font-size: 12px;
+            }
+
+            .pagination-btn {
+                padding: 8px 12px;
+                font-size: 12px;
+            }
+
+            .popular-item {
+                flex-direction: row;
+            }
+
+            .popular-cover {
+                width: 60px;
+                height: 90px;
+                flex-shrink: 0;
+            }
+
+            .popular-info {
+                flex: 1;
+            }
+
+            .popular-title {
+                font-size: 13px;
+            }
+
+            .popular-author {
+                font-size: 11px;
+            }
+
+            .popular-stats {
+                font-size: 10px;
+            }
+
+            .sort-filters-container {
+                padding: 16px;
+                flex-direction: column;
+                align-items: stretch;
+                gap: 12px;
+                border-radius: 12px;
+            }
+
+            .sort-filters-wrapper {
+                display: flex;
+                flex-direction: column;
+                gap: 8px;
+            }
+
+            .sort-filter-btn {
+                padding: 12px 16px;
+                font-size: 14px;
+                text-align: left;
+                width: 100%;
+                border-radius: 8px;
+                background-color: #f9fafb;
+                border: 1px solid #e5e7eb;
+            }
+
+            .sort-filter-btn.active {
+                background-color: #2563eb;
+                color: white;
+                border-color: #2563eb;
+                font-weight: 500;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .logo-text {
+                display: none;
+            }
+
+            .hero-title {
+                font-size: 20px;
+            }
+
+            .hero-subtitle {
+                font-size: 12px;
+            }
+
+            .search-box {
+                font-size: 14px;
+            }
+
+            .search-input {
+                font-size: 14px;
+                padding: 12px 14px;
+            }
+
+            .toggle-btn {
+                padding: 9px 10px;
+                font-size: 12px;
+            }
+
+            .search-btn, .reset-btn {
+                padding: 12px 16px;
+                font-size: 13px;
+            }
+
+            .nav-item span {
+                display: none;
+            }
+
+            .nav-icon {
+                width: 24px;
+                height: 24px;
+            }
+
+            .stats-grid {
+                grid-template-columns: 1fr;
+                gap: 12px;
+            }
+
+            .stat-card {
+                padding: 14px;
+            }
+
+            .filters-bar {
+                padding: 14px;
+                border-radius: 10px;
+            }
+
+            .filter-select {
+                padding: 11px 14px;
+                font-size: 14px;
+            }
+
+            .sort-filters-container {
+                padding: 14px;
+                border-radius: 10px;
+            }
+
+            .sort-filter-btn {
+                padding: 11px 14px;
+                font-size: 13px;
+            }
+
+            .stats-banner {
+                padding: 14px;
+                border-radius: 10px;
+            }
+
+            .stat-card {
+                padding: 12px 14px;
+            }
+
+            .stat-label {
+                font-size: 11px;
+            }
+
+            .stat-value {
+                font-size: 20px;
+            }
+
+            .search-stats-card {
+                padding: 12px;
+                margin-bottom: 16px;
+            }
+
+            .stat-icon {
+                width: 32px;
+                height: 32px;
+                font-size: 16px;
+                flex-shrink: 0;
+            }
+
+            .stat-number {
+                font-size: 16px;
+            }
+
+            .stat-text {
+                font-size: 10px;
+                line-height: 1.3;
+            }
+
+            .section-title {
+                font-size: 16px;
+            }
+
+            .book-cover {
+                width: 70px;
+                height: 105px;
+            }
+
+            .book-title {
+                font-size: 13px;
+            }
+
+            .toggle-btn {
+                padding: 6px 12px;
+                font-size: 12px;
+            }
+
+            .filters-bar {
+                padding: 12px;
+            }
+
+            .filter-select {
+                padding: 10px 14px;
+                font-size: 14px;
             }
         }
     </style>
@@ -685,14 +1301,22 @@
                         <span class="stat-label">🌍 Langues</span>
                     </div>
                     <div class="stat-card">
+                        <span class="stat-value">{{ indexed_words|floatformat:0 }}</span>
+                        <span class="stat-label">🔍 Index top_terms</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-value">{{ unique_words|floatformat:0 }}</span>
+                        <span class="stat-label">📖 Index complet</span>
+                    </div>
+                    <div class="stat-card">
                         <span class="stat-value">{{ total_words|floatformat:0 }}</span>
-                        <span class="stat-label">📝 Mots indexés</span>
+                        <span class="stat-label">📝 Total mots</span>
                     </div>
                 </div>
 
                 <!-- Section: Catégories / Bibliothèque principale -->
                 <section class="section">
-                    {% if search_query and search_results %}
+                    {% if search_query and search_results_page %}
                     <!-- Résultats de recherche -->
                     <h2 class="section-title">
                         RÉSULTATS POUR "{{ search_query }}" ({{ search_stats.total }} trouvé{{ search_stats.total|pluralize }})
@@ -707,25 +1331,25 @@
                     {% endif %}
                     
                     <!-- Barre de tri des résultats -->
-                    <div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 24px; background: white; border-radius: 12px; margin-bottom: 24px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+                    <div class="sort-filters-container">
                         <span style="font-size: 14px; color: #6b7280; font-weight: 500;">📊 Trier par :</span>
-                        <div style="display: flex; gap: 8px;">
-                            <button onclick="applyFilter('search_sort', 'relevance')" style="padding: 8px 16px; border: 1px solid #e5e7eb; background: {% if search_sort == 'relevance' or not search_sort %}#2563eb{% else %}white{% endif %}; color: {% if search_sort == 'relevance' or not search_sort %}white{% else %}#6b7280{% endif %}; border-radius: 8px; cursor: pointer; font-size: 13px; transition: all 0.2s;">
+                        <div class="sort-filters-wrapper">
+                            <button onclick="applyFilter('search_sort', 'relevance')" class="sort-filter-btn {% if search_sort == 'relevance' or not search_sort %}active{% endif %}">
                                 🎯 Pertinence
                             </button>
-                            <button onclick="applyFilter('search_sort', 'pagerank')" style="padding: 8px 16px; border: 1px solid #e5e7eb; background: {% if search_sort == 'pagerank' %}#2563eb{% else %}white{% endif %}; color: {% if search_sort == 'pagerank' %}white{% else %}#6b7280{% endif %}; border-radius: 8px; cursor: pointer; font-size: 13px; transition: all 0.2s;">
+                            <button onclick="applyFilter('search_sort', 'pagerank')" class="sort-filter-btn {% if search_sort == 'pagerank' %}active{% endif %}">
                                 ⭐ PageRank
                             </button>
-                            <button onclick="applyFilter('search_sort', 'occurrences')" style="padding: 8px 16px; border: 1px solid #e5e7eb; background: {% if search_sort == 'occurrences' %}#2563eb{% else %}white{% endif %}; color: {% if search_sort == 'occurrences' %}white{% else %}#6b7280{% endif %}; border-radius: 8px; cursor: pointer; font-size: 13px; transition: all 0.2s;">
+                            <button onclick="applyFilter('search_sort', 'occurrences')" class="sort-filter-btn {% if search_sort == 'occurrences' %}active{% endif %}">
                                 🔢 Occurrences
                             </button>
-                            <button onclick="applyFilter('search_sort', 'closeness')" style="padding: 8px 16px; border: 1px solid #e5e7eb; background: {% if search_sort == 'closeness' %}#2563eb{% else %}white{% endif %}; color: {% if search_sort == 'closeness' %}white{% else %}#6b7280{% endif %}; border-radius: 8px; cursor: pointer; font-size: 13px; transition: all 0.2s;">
+                            <button onclick="applyFilter('search_sort', 'closeness')" class="sort-filter-btn {% if search_sort == 'closeness' %}active{% endif %}">
                                 🎯 Closeness
                             </button>
-                            <button onclick="applyFilter('search_sort', 'betweenness')" style="padding: 8px 16px; border: 1px solid #e5e7eb; background: {% if search_sort == 'betweenness' %}#2563eb{% else %}white{% endif %}; color: {% if search_sort == 'betweenness' %}white{% else %}#6b7280{% endif %}; border-radius: 8px; cursor: pointer; font-size: 13px; transition: all 0.2s;">
+                            <button onclick="applyFilter('search_sort', 'betweenness')" class="sort-filter-btn {% if search_sort == 'betweenness' %}active{% endif %}">
                                 🔗 Betweenness
                             </button>
-                            <button onclick="applyFilter('search_sort', 'title')" style="padding: 8px 16px; border: 1px solid #e5e7eb; background: {% if search_sort == 'title' %}#2563eb{% else %}white{% endif %}; color: {% if search_sort == 'title' %}white{% else %}#6b7280{% endif %}; border-radius: 8px; cursor: pointer; font-size: 13px; transition: all 0.2s;">
+                            <button onclick="applyFilter('search_sort', 'title')" class="sort-filter-btn {% if search_sort == 'title' %}active{% endif %}">
                                 🔤 Titre
                             </button>
                         </div>
@@ -769,7 +1393,7 @@
                     {% endif %}
 
                     <div class="books-grid">
-                        {% for book in search_results %}
+                        {% for book in search_results_page %}
                         <a href="{% url 'book_detail' book.id %}" class="book-card" style="text-decoration: none; color: inherit;">
                             <div class="book-cover" {% if book.cover_url %}style="background-image: url('{{ book.cover_url }}'); background-size: cover; background-position: center;"{% else %}style="background-color: #94a3b8"{% endif %}></div>
                             <h3 class="book-title">{{ book.title|truncatewords:6 }}</h3>
@@ -782,6 +1406,26 @@
                         <p style="grid-column: 1/-1; text-align: center; padding: 32px; color: #6b7280;">Aucun résultat trouvé pour "{{ search_query }}"</p>
                         {% endfor %}
                     </div>
+
+                    <!-- Pagination pour les résultats de recherche -->
+                    {% if search_results_page.has_other_pages %}
+                    <div class="pagination">
+                        {% if search_results_page.has_previous %}
+                        <a href="?q={{ search_query }}&type={{ search_type }}&search_sort={{ search_sort }}&search_page=1" class="pagination-btn">«« Première</a>
+                        <a href="?q={{ search_query }}&type={{ search_type }}&search_sort={{ search_sort }}&search_page={{ search_results_page.previous_page_number }}" class="pagination-btn">‹ Précédent</a>
+                        {% endif %}
+
+                        <span class="pagination-info">
+                            Page {{ search_results_page.number }} sur {{ search_results_page.paginator.num_pages }}
+                            ({{ search_results_page.paginator.count }} résultats)
+                        </span>
+
+                        {% if search_results_page.has_next %}
+                        <a href="?q={{ search_query }}&type={{ search_type }}&search_sort={{ search_sort }}&search_page={{ search_results_page.next_page_number }}" class="pagination-btn">Suivant ›</a>
+                        <a href="?q={{ search_query }}&type={{ search_type }}&search_sort={{ search_sort }}&search_page={{ search_results_page.paginator.num_pages }}" class="pagination-btn">Dernière »»</a>
+                        {% endif %}
+                    </div>
+                    {% endif %}
                     
                     {% elif search_query %}
                     <!-- Pas de résultats -->
@@ -828,6 +1472,27 @@
                         <p>Aucun livre dans cette catégorie</p>
                         {% endfor %}
                     </div>
+
+                    <!-- Pagination -->
+                    {% if all_books.has_other_pages %}
+                    <div class="pagination">
+                        {% if all_books.has_previous %}
+                        <a href="?page=1{% if current_language %}&lang={{ current_language }}{% endif %}{% if current_sort %}&sort={{ current_sort }}{% endif %}" class="pagination-btn">«« Première</a>
+                        <a href="?page={{ all_books.previous_page_number }}{% if current_language %}&lang={{ current_language }}{% endif %}{% if current_sort %}&sort={{ current_sort }}{% endif %}" class="pagination-btn">‹ Précédent</a>
+                        {% endif %}
+
+                        <span class="pagination-info">
+                            Page {{ all_books.number }} sur {{ all_books.paginator.num_pages }}
+                            ({{ all_books.paginator.count }} livres au total)
+                        </span>
+
+                        {% if all_books.has_next %}
+                        <a href="?page={{ all_books.next_page_number }}{% if current_language %}&lang={{ current_language }}{% endif %}{% if current_sort %}&sort={{ current_sort }}{% endif %}" class="pagination-btn">Suivant ›</a>
+                        <a href="?page={{ all_books.paginator.num_pages }}{% if current_language %}&lang={{ current_language }}{% endif %}{% if current_sort %}&sort={{ current_sort }}{% endif %}" class="pagination-btn">Dernière »»</a>
+                        {% endif %}
+                    </div>
+                    {% endif %}
+
                     {% endif %}
                 </section>
 
